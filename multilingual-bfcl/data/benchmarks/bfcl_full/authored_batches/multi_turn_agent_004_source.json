@@ -1,0 +1,162 @@
+[
+  {
+    "key": "2670e1ee581fc3b288e97eca1cfc018892670a98d402a523ed1963290cbd9c33",
+    "source": "I'm all set to start my drive. Would you initiate the engine's ignition in START mode?"
+  },
+  {
+    "key": "5c9409e5e621ec49b33e108689fd9d36db76831594758864cc1bdb9bc091a8c9",
+    "source": "Before setting off, I'm keen to ensure my tire pressures are as they should be. Could you provide an update on the current tire pressure status? If it's below 40, point me to nearest tire shop."
+  },
+  {
+    "key": "fc22fe9a82ddca77f50de3c922af2233c2937d47a872a04250bf058b61a839bd",
+    "source": "I'd appreciate it if you could send a quick message 'I am on my way to your place.' to my cousin (user id USR002), updating them my status. If you need, my user id is USR001."
+  },
+  {
+    "key": "c8133ab9aa89f2ee4c0d7cfab44879bb0bd940e1f7849e2afb45ebaa24c3c8ba",
+    "source": "I have secured my car by locking all doors and applying the parking brake. Would it be possible to start the engine so I can monitor the fuel level and battery status, ensuring smooth operation?"
+  },
+  {
+    "key": "d1044422ab0dc58cb2982cee6a79b09bd4d00814a0e8fd4575437bd78459270a",
+    "source": "I've initiated my vehicle, and I'd greatly appreciate it if you could take a look at the tire pressures. Should any tire display a pressure below 40 PSI, kindly guide me to the nearest tire service facility for a fix."
+  },
+  {
+    "key": "07964f3e23afbf397623c5f1ff5f7fe708634352bbf2275e8015fc98c3d763e5",
+    "source": "Let's share the updates on tire status. Could you tweet 'Tires checked and engine purring smoothly!' using the hashtag #RoadTrip while tagging @AutoUpdates?"
+  },
+  {
+    "key": "46a340d53c68e38ec656db9f0b4fe8b055b29c2d06b1ccb61086a5f3017195fb",
+    "source": "Following the tweet, could you drop a comment saying, 'Safety first! Remember tire checks are crucial.' to emphasize tire care?"
+  },
+  {
+    "key": "61209879bef709f36e6459bcedd4962b826d5012de4b6758b4dfecb3901dd96c",
+    "source": "First, you need to know how much gasoline you added to your car, expressed in liters. You've just filled up with 30 gallons, so how many liters of fuel does that equate to?"
+  },
+  {
+    "key": "061955fb607829a71bf95dd04e04f1fefa7bd50bb7238f972d97fddc86b9fa9d",
+    "source": "Let's take the initiative to start the engine in start mode. We want to ascertain that it operates smoothly with the increased fuel level."
+  },
+  {
+    "key": "0ce609bbbccc2d386c5bac86823597270909a574c8bf2968ea6ac944897395d2",
+    "source": "Inspect each tire's condition and confirm they are in optimal shape."
+  },
+  {
+    "key": "c8b7493a9f1729ca8c722f2d7e7f2e7b470cfc9e0d29b6efa8e3598bc816514e",
+    "source": "Upon verifying the tire pressure, we should share our findings on Twitter to keep everyone informed. Post the tweet message 'Tire pressures are optimal!'. Utilize hashtags #CarMaintenance and tag @VehicleGuru for professional insights."
+  },
+  {
+    "key": "f8a7f3d6c483a8166c3324072277918ba9060a8b301f2c2630804b321ab65f5e",
+    "source": "Would you be able to convert 20 liters of gasoline into gallons for me? Afterwards, starting the engine to check for smooth operation would be appreciated."
+  },
+  {
+    "key": "8c25a82822a49f519eab418a63c9d90bd36678d81de4a9a5137fce2efe685539",
+    "source": "With the engine happily purring, I find myself pondering over the tire pressure now. Might you check that for me? And if you can, share the tire pressure status (with message content 'healthy' or 'not healthy', nothing else) with tag '#CarMaintenance' and mention '@VehicleGuru'? Healthy is deinfed as all tire pressure between 32 and 35, inclusive."
+  },
+  {
+    "key": "22941a72e402bd1ef52f7f0cf9b3533ea5f158ce756f387a528436227fd274e7",
+    "source": "Wonderful! I'd really appreciate it if you could assist in retweeting that fantastic post about tire maintenance."
+  },
+  {
+    "key": "d515a7fa0794da71aeb6f90a44311c9beff70af584eee7f3e2be28526d9d9624",
+    "source": "If the fuel level is lower than 10, then go ahead and add double that amount. Let's assume I will also head out right after, so feel free to start the engine using the necessary mode."
+  },
+  {
+    "key": "e2c57c15515345b1e0d9f03e4be864441ec83a44465d22e1c8b7f2e7d42414d9",
+    "source": "Since we are all set to go, could you quickly check the pressure of all the tires to ensure everything is safe for our journey?"
+  },
+  {
+    "key": "c1555a83f41967688ed6569d5c6d9e114ae44194ef0af77d024cbdd0d55fb2b6",
+    "source": "The pressure seemed lower than expected. Let's open a ticket for 'Tire Pressure Issue', and detail it 'Urgent tire pressure issue.'. Given the urgency, classify this as the top priority to issue, where a higher score has more priority."
+  },
+  {
+    "key": "fcdeba06143ce6486a52618e9906f99ad82ecb0e3a6bb86f2f153f3a4a82c474",
+    "source": "Apparently, I never got feedback on the tire pressure ticket I created. Can you fetch that ticket for me so I can review the current status?"
+  },
+  {
+    "key": "986e2c5e5a46b79186f42472298c4cf5464c6d107b0be14f76c3129c98103325",
+    "source": "Great! They just gave me a call back. Now that I've checked the details, let's resolve the tire pressure ticket with an update stating 'Issue resolved!'."
+  },
+  {
+    "key": "5d97d79d0e0983bc541537c6fa742af0278da84bd6a9a4e9601212ea7eb2df0a",
+    "source": "I'm setting off on a road trip and my departure point is sunny San Francisco. Could you determine the distance to Rivermist to help me plan my fuel stops on the way?"
+  },
+  {
+    "key": "6b349b94f5b9e5e4b2f498aa6802b883f941b4ec72b5cde96aeeaa43c2e065df",
+    "source": "Before embarking on this journey, please top up my vehicle to end with 50 gallons of fuel."
+  },
+  {
+    "key": "4553938a022822ceaf803546d3b0c5f9cbd2a24fa8d661eb59636ad30238377e",
+    "source": "Please start the engine to prepare for our travel. Ensure that the car is locked and everything is secure for a seamless start."
+  },
+  {
+    "key": "92a7fea1a3504d6ae1dec4ed1c7e1f0670cf799d71476535110bb262ce08016c",
+    "source": "I've been thinking of visiting Autumnville for a while now, but I'm not sure how far it is from here in Crescent Hollow. Can you help me figure this out so I can plan my trip accordingly?"
+  },
+  {
+    "key": "e83075f9c122775597acfaa6a1bf8910f00175248f9557ad8853abe757471c8f",
+    "source": "Oh, and by the way, there's something else I need help with. I want to calculate the logarithm of the distance you've just told me about, considering a base 10 with a precision of 5 digits. Could you provide me with this value as well?"
+  },
+  {
+    "key": "19805d7f3805fa44890accb808b6859ab8623ab030afec7205e52790adcfac5f",
+    "source": "I am planning a road trip from Rivermist to San Francisco, and I need to know how far I will be traveling. This would help me ensure that my car is sufficiently fueled for the journey."
+  },
+  {
+    "key": "d150ade05190d2b132cefadeb31bc1fc3182e4576c118edb045df527625a0410",
+    "source": "Given that the trip spans almost a thousand kilometers, could you help me make sure the fuel tank is full? Btw, I have a 30-gallon drum handy. How much is that in liters?"
+  },
+  {
+    "key": "8c7eb05e1be14a08355d05114d532c8f2c4ee6ddae0ab78ac163862c5369431c",
+    "source": "Now that the tank is completely filled, I'm keen on ensuring that the engine starts without a hitch. Could you help me get the engine running, ensuring it's all set for the long journey ahead?"
+  },
+  {
+    "key": "6ad4458387bb27a3eded63af67c831c10c43422e5affbe69712b652ddef4e7cc",
+    "source": "Before I set off, I want to share my travel excitement with friends on Twitter by describing the wonderful places I'll be exploring during this adventure. Would you be able to post a tweet saying 'Excited for the trip!'?"
+  },
+  {
+    "key": "37bce111cff566a87f15eee89b1ff0e269d02e0864bf70e3be19eca228d11cf7",
+    "source": "I recently moved to San Francisco and I’m planning a trip to Rivermist. How far apart are these places? I'd like to gauge the distance before setting off on this adventure."
+  },
+  {
+    "key": "dcfef8687f1372e3164d3be3d88f6f44dad0a13e7e6d75469f3691081bb4bf0e",
+    "source": "Now that I have the distance sorted, I'm considering the fuel situation. What's the current level of gasoline I have in liters?"
+  },
+  {
+    "key": "2bc0de96216aa0f688483cd0b043751f22785180d12babdbe7c39ff71831d39d",
+    "source": "With the liters in mind, I'll need to top up my vehicle’s tank. Please go ahead and fill up the tank before I hit the road."
+  },
+  {
+    "key": "219aee071d4005716c6e0d0df07fbf40a09aaa3146dc5414015473c48d2db3e5",
+    "source": "As the journey is about to begin, could you kindly engage the 'START' ignition mode to ready the vehicle? I want to ensure everything's in perfect working order before I drive off."
+  },
+  {
+    "key": "b4ba9fd670bd12aec1ed238b84aa1162fc25e37e8637a6024ffc26f02888dad1",
+    "source": "Finally, I'm analyzing mileage statistics and need the logarithm of the distance to the base the previous fuel value, computed to a precision of 10. Use base of 20. This will help with assessing the fuel efficiency patterns."
+  },
+  {
+    "key": "b239be6d8b71401e8d400402dd5667f512953aaf0ecbd816eb8d7e8832b5cbbd",
+    "source": "It's been quite an adventure today! Before embarking on a long trip, I filled up my cars fuel tank, doubling its existing level for a safe journey. Please go ahead and start the engine so I can ensure the vehicle's operations are smooth."
+  },
+  {
+    "key": "c30e1b93e51e7abeaad04e6604a6034298953a717bfbef932a2280be7f3e73c3",
+    "source": "Oh no! One of the tires feels odd. Could you check the tire pressure to confirm if they're at a healthy level?"
+  },
+  {
+    "key": "0aae4df7b1e9caa148f6522d48c53838761a7147f7e4e692395870c3e0002818",
+    "source": "It seems like the tire pressure isn't optimal and I may need assistance. Create priority 5 ticket titled 'Tire Pressure Issue' to notify the service team about this. Important ticket does not need description as it's self-explanatory"
+  },
+  {
+    "key": "cfb195d0794a1083ec1c0d96beec5f5feba1d288e054faa115099f1024c2d751",
+    "source": "Could you please retrieve the details of the last service ticket you submitted to ensure all issues were addressed and nothing is left unresolved?"
+  },
+  {
+    "key": "c521128f306a0af80ffa88d230f1ca13addd44c23ef6d3a94771d4b9b6a69bf9",
+    "source": "Great, now that everything's sorted, kindly proceed to close the ticket for me as the tire issue is resolved."
+  },
+  {
+    "key": "1a26bfee3ed8b79b4b3414035a94b8060418136502462be05f07f2ae2bce77cf",
+    "source": "Could you map out the precise mileage from San Francisco to Rivermist for me, along with an assessment of whether my current fuel should suffice the journey?"
+  },
+  {
+    "key": "bd54e4035c3ceefa76de195fdd1fb70b82cfc4f8cf9235a09e24574a315887fb",
+    "source": "Fill the fuel tank until we are able to reach Rivermist. Oil costs money so I just need the minimum oil (to integer value) to reach there so I don't need full tank."
+  }
+]

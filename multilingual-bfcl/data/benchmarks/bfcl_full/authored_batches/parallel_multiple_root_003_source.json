@@ -1,0 +1,202 @@
+[
+  {
+    "key": "2e42fbbfa1c5139b327c2eb08bbd517d293b52ad550b3fd8720cf206d273f62f",
+    "source": "\"Can you tell me what the stock price prediction for Apple Inc. is for the next 30 days using the ARIMA model, and then provide the stock forecast for Microsoft Corporation for the next 45 days using the LSTM model? After that, could you provide the weather forecast for New York City for the next 7 days, and then give the weather forecast for Los Angeles for the next 14 days?\""
+  },
+  {
+    "key": "5f152253ac2ab8eaab7ea0219c96316358610de313028c0a20c11e06b4ba21d5",
+    "source": "\"Could you please provide me with the following financial data for Microsoft and Apple over the past 30 days? First, I would like to know the average closing price of Microsoft's stocks using data from Yahoo Finance. Second, I need to know the total revenue of Apple using data from Google Finance. Third, I am interested in the total volume of stocks traded for both Microsoft and Apple, again using data from Yahoo Finance. Could you please calculate these for me?\""
+  },
+  {
+    "key": "4b867ee5e3f297e05fb94fd3104247b7954945d5a98fa7731526da3caed08d87",
+    "source": "\"John has $5000 that he wants to invest. He is considering two options. The first option is a savings account that compounds interest quarterly at an annual rate of 4% for 5 years. The second option is a bond that offers simple interest at an annual rate of 3.5% for 5 years. How much would John have at the end of 5 years for both options?\""
+  },
+  {
+    "key": "e36778c8f416406dd4a51d4bfe3c19cc2102df87427a73e5011cb2b767012b85",
+    "source": "\"Can you help me find a divorce lawyer in New York, NY and then a criminal lawyer in Los Angeles, CA? After that, I need to find a cardiologist in Chicago, IL and an orthopedic doctor in Houston, TX.\""
+  },
+  {
+    "key": "524ee7c9dd129c2ed086bd03563a7b24dff100ebd521ac223b085b1dbcb2da01",
+    "source": "\"Can you provide me with a 5-day air quality forecast for New York, a 7-day weather forecast for Los Angeles, news articles on 'global warming' for the past 3 days, and a 2-day air quality forecast for Beijing?\""
+  },
+  {
+    "key": "5a0c1fd59f6a7f1cc9be6861f19e6285f8b02d022e03943d00dc31bf1be3bbb4",
+    "source": "\"Can you help me plan a trip? I need to know the distance in kilometers from New York to London using the 'geodistance.find' function, then I want to know the time difference between New York and London using the 'timezones.get_difference' function. After that, I want to find flights from New York to London on the date of 'next friday' using the 'flights.search' function. Finally, I want to know the distance in miles from London to Paris using the 'geodistance.find' function again.\""
+  },
+  {
+    "key": "f7b06d023aa6785af14c60880cf19861782fd9709a820381dcfb829ed181b3a2",
+    "source": "\"Can you help me plan my upcoming trip? I need to know the estimated traffic from my home in San Francisco to my office in Palo Alto on a typical weekday. Also, I'm curious about the distance between these two locations. Furthermore, I'm planning a weekend getaway to Los Angeles, so I'd like to know the traffic estimate from Palo Alto to Los Angeles for the coming weekend. Lastly, could you provide me with a 5-day weather forecast for Los Angeles?\""
+  },
+  {
+    "key": "5eb6ac50cc12e301b7e6e00aa5eb396f649204399eb5543023f96e0c4bbd7ccd",
+    "source": "\"Can you help me find a book? I'm not sure of the title, but I know it's a mystery novel. I'd like to search in the library in New York City first, then I'd like to check Google Books and Open Library. Can you assist with these searches?\""
+  },
+  {
+    "key": "49d60622fefc751606bd73521cb04d7e3d00be789e90e880e630cf964811e95f",
+    "source": "\"Could you please analyze my personality based on the five-factor model and the Myers-Briggs Type Indicator (MBTI)? For the five-factor model, consider that I am quite talkative, I don't get nervous easily, I have many artistic interests, I am not lazy, and I am quite forgiving. For the MBTI, my preferences are more towards feeling than thinking, I am more extroverted than introverted, I lean more towards perceiving than judging, and I prefer intuition over sensing.\""
+  },
+  {
+    "key": "1244c21eeb7bc4a075f31f22a7fc5bb076e25208b9c4debe6e92808d697e94b3",
+    "source": "\"Can you tell me about the monarchs of France during the 17th century, major wars that took place in England during the 18th century, and the prominent art movements in Italy during the 19th century?\""
+  },
+  {
+    "key": "79663f39ded1d6e1ba4057ffaf97bd5ef93f445669f08665acaabefda09959d4",
+    "source": "\"What was the population of California in 1980 and 1990 according to the 'us_history.population_by_state_year' function, and what was the Real GDP of California in those same years according to the 'us_economy.gdp_by_state_year' function with the adjustment set to 'Real'?\""
+  },
+  {
+    "key": "5467059d639d7f6d030e7ceb69b5c486558780475759567e7391135c03fd69d2",
+    "source": "\"Could you please provide me with the origin and founder information of Buddhism, and then do the same for Hinduism? After that, could you also tell me about the core beliefs and practices of both these religions?\""
+  },
+  {
+    "key": "ef1bb16a28fefcb4c42e0c6f09d1ac442aa0d26deeee2511ab28c315fc8b2d83",
+    "source": "\"Could you please help me find the price of the artwork named 'Starry Night' by the artist 'Vincent Van Gogh' on the 'Sotheby' auction platform, and then fetch the price of another artwork called 'The Scream' by 'Edvard Munch' on the 'Christie' platform? After that, I would like to search for a book titled 'To Kill a Mockingbird' by the author 'Harper Lee' in the 'New York Public Library', and then look for another book named '1984' by 'George Orwell' in the 'British Library'.\""
+  },
+  {
+    "key": "cee38e226e7c1a0ac9687184064773cd9b1bad2df6ade4044b55ea5baa65e06b",
+    "source": "\"Could you please help me with some information? I am planning to renovate my house and need to know the most popular paint color for the living room over the past month. Also, I am planning a trip to Seattle in the next 5 days, so I would like to know the weather forecast for that period. Lastly, I am considering moving to San Francisco, CA and would like to know the average house price there over the last quarter.\""
+  },
+  {
+    "key": "6751fddcb57c2ac49ec3f4c24d78009efffaab71f73ea93b09a7f044bee6c61a",
+    "source": "\"Could you please help me order a custom sculpture of a horse made from Marble that is 20 inches in size, then another sculpture of a dog made from Wood that is 15 inches in size, followed by a custom painting of a sunset with the main color being Red that is 30 inches in size, and finally a painting of a cityscape with the main color being Blue that is 25 inches in size?\""
+  },
+  {
+    "key": "8648115d57183e989199add77815f3f6389e6851f70182050e6e6ae4dcfa0ea3",
+    "source": "\"Can you help me plan my trip to New York? I would like to visit a modern art installation, a park with a playground and a picnic area, and a popular monument. Could you find these for me?\""
+  },
+  {
+    "key": "76c0260feb740bb0c037d0df770068c9f13e07e9c81059fa1c46996b8a252816",
+    "source": "\"Can you provide me with the exhibition information for the Louvre museum for the next 3 months and then tell me about the best Italian and Chinese restaurants in the area of Paris?\""
+  },
+  {
+    "key": "ffaded474ef05ef816b74b63c0ffc3345fc7e884a32aad55b1c27345dcf4d274",
+    "source": "\"Can you help me book a ticket for a concert of Taylor Swift in New York with a VIP Seating add-on, then book another ticket for a concert of Ed Sheeran in Los Angeles with a Backstage Pass and Parking Pass add-ons, and finally book a ticket for the Coachella festival in Indio with a Camping Pass and Parking Pass add-ons?\""
+  },
+  {
+    "key": "74a8452583b687a9c66274fb9f98d53d78ebf9f62f5e13779e4f65fa28a61f0e",
+    "source": "\"Can you help me create a piece of music in D Minor with a tempo of 120 beats per minute and then generate an audio signal with a frequency of 440 Hz and an amplitude of 0.5? After that, I would like to generate another piece of music in E Major with a tempo of 90 beats per minute and a time signature of 3/4. Finally, generate another audio signal with a frequency of 300 Hz, an amplitude of 0.7, and a duration of 5 seconds.\""
+  },
+  {
+    "key": "9fd4871a0d238b8a4df712b8d202bad7e00bed6d25725069d23f3d39de80f341",
+    "source": "\"Can you tell me how many all-time goals Cristiano Ronaldo scored for Manchester United in the Premier League, then compare that with the top scorer of Manchester United in the same competition, and finally, tell me who was the top scorer of the Premier League in the 2019-2020 season?\""
+  },
+  {
+    "key": "7e2000a6f9edb6b63be7d6983ea2a09e95e77f9b0f0faa63d88f462ede3cd407",
+    "source": "\"Can you tell me the scores for the Manchester United soccer team in the English Premier League for the last 5 rounds and also the scores for the Los Angeles Lakers basketball team in the NBA for the last 7 rounds?\""
+  },
+  {
+    "key": "79862bca43d4311df9c168a0a223e8ca13c672c71bf63c97a39c66df9eee4985",
+    "source": "\"I'm planning a game night and I need some board game recommendations. I have a group of 5 friends coming over, so we'll be 6 players in total. We all enjoy strategy games but we're all beginners, so nothing too complex. Can you recommend some games from BoardGameGeek that fit this criteria? Also, I have another group of 4 friends who love party games. We're not beginners but we're not advanced players either, so something in the middle would be great. Can you recommend some games from BoardGameGeek for this group as well? Lastly, I'm also considering buying some games from Amazon Game Store. I have a budget of $20-$30. Can you recommend some strategy games for 6 players and party games for 4 players within this price range?\""
+  },
+  {
+    "key": "0261e25fa6fa5b3e7131e28bd7e4be600dd721bb69f217f3a2534265987803df",
+    "source": "\"Could you please find the latest updates for the game 'Call of Duty' on the 'Playstation' platform for the 'European' region, then find the current price for the same game on the 'Xbox' platform, and finally find reviews for the game 'FIFA 21' from the 'American' region?\""
+  },
+  {
+    "key": "fad38986682bba8b045cf157206ef34b27b824b1fb8a0a2a6e1ac0a05613f321",
+    "source": "\"Can you tell me how many active players were engaged with the video game 'Call of Duty: Modern Warfare' in the year 2019 on the 'Playstation' platform, and then compare that with the number of active players for the same game in the year 2020 on the 'PC' platform? Also, could you provide the sales figures for 'Call of Duty: Modern Warfare' for the year 2019 on the 'Playstation' platform and then for the year 2020 on the 'PC' platform?\""
+  },
+  {
+    "key": "80b62757ef2b76ec156f4f01ea04ad28571e1020443cb347a6826b737a5cb270",
+    "source": "\"Can you help me plan my meals for the day? I want to start with a breakfast recipe using eggs, milk, and bread, and it should not exceed 300 calories. Then, for lunch, I want to try a new restaurant that serves dishes with chicken, tomatoes, and lettuce, and the dishes should not be more than 500 calories. In the evening, I have a recipe for dinner that uses beef, but I want to replace the beef with tofu and keep the total calories under 600. Can you assist me with these?\""
+  },
+  {
+    "key": "b81fe53a479129fc8bf6b2e35b9cc6ed3fd17115c550da9c8cc2deb13fb025e7",
+    "source": "\"Can you help me plan a day out in Seattle, WA for my group of 10 friends? We are food lovers and would like to try some Seafood and Italian cuisine for lunch. Later in the evening, we are interested in attending a Concert or a Sports event. Could you find suitable restaurants and events for us?\""
+  },
+  {
+    "key": "aa11a231ce46b7680337853bc8caa4084ffdaac8e5368ae1a2e94d805bf653aa",
+    "source": "\"Can you help me find a recipe that uses chicken as the main ingredient and doesn't require more than 5 ingredients? After that, could you also find a restaurant that serves Italian cuisine and falls within a mid-range price? And finally, could you find another recipe that uses beef as the main ingredient and requires no more than 7 ingredients?\""
+  },
+  {
+    "key": "2527ae1b7b687e75b5c8e67d477cc11717d2890290fb3c4d0765ad070c9581e3",
+    "source": "\"Can you help me plan my trip? I need to book a hotel room in Paris for 5 nights. I prefer a deluxe room and would like to add breakfast and spa services. After that, I need to rent a car in Paris for 7 days. I prefer a SUV and I will pick it up from the airport. Then, I need to book another hotel room in Rome for 3 nights. I prefer a suite and would like to add airport transfer service. Lastly, I need to rent a car in Rome for 5 days. I prefer a compact car and I will pick it up from the hotel.\""
+  },
+  {
+    "key": "19100e872071b268f182015bfeb454680886bd1fc002f7bc7aa6c85bddbecc48",
+    "source": "\"Could you help me plan my vacation? I need to know the total cost. First, I'm considering staying at the Hilton New York for 5 nights in a deluxe room. Could you tell me how much that would cost? Second, I'm thinking of renting a sedan from Enterprise for 10 days. How much would that be? Lastly, I'm planning to fly with Delta Airlines in business class. There will be 3 of us. Can you tell me the total flight cost?\""
+  },
+  {
+    "key": "94f9450f599545f62f114dd4b3ba0e0588b3a4f5d4b6c0b8f3d30484a9ee2abc",
+    "source": "\"Can you help me with a couple of conversions? First, I have 5000 Euros that I want to convert into US Dollars using the latest exchange rate. Then, I have another 3000 Euros that I want to convert into British Pounds, but this time, I want to use the last known exchange rate. After that, I have a distance of 100 kilometers that I want to convert into miles. Lastly, I have a weight of 75 kilograms that I want to convert into pounds. Can you do these conversions for me?\""
+  },
+  {
+    "key": "12f13f26e03b7d6d0a9759ec41e662e7a84e3b9d5fdeaf56d1c59673eb675c68",
+    "source": "\"Could you help me with the following tasks? First, I want to know the future value of my investment in the stock with the ticker symbol 'AAPL'. I have invested $5000 in it and I am expecting an annual return of 7% (0.07). I plan to hold this investment for 10 years. Second, I am interested in getting detailed information about the company 'Microsoft'. I want this information from the 'NASDAQ' stock market. Lastly, I have a quadratic equation with coefficients a=5, b=-20, and c=15. Could you solve this equation for me and provide the roots?\""
+  },
+  {
+    "key": "278fe9bc7574fc2efa872503cd935a99bd1cc7b5ae3ec8d7c0bdf86050e89518",
+    "source": "\"Could you please help me with a couple of calculations? First, I have a circle with a radius of 5.6 feet and I need to know its area. Second, I'm working on a project where I need to plot a sine wave. The range I'm interested in is from 0 to 3.14 radians. The frequency of the wave should be 2 Hz. Also, I want the amplitude of the wave to be 1.5 and the phase shift to be 0.5 radians. Could you calculate the area and plot the sine wave for me?\""
+  },
+  {
+    "key": "4c2c777a09ad0f3251761658a48f918c71d536b8f6c09c381f96d3de2253cfe1",
+    "source": "\"Could you first calculate the derivative of the function '3x^2 + 2x - 1' at the value of 2 where 'x' is the function variable, then calculate the derivative of the function '5y^3 - 4y + 2' at the value of 3 where 'y' is the function variable, and finally retrieve the strengths and weaknesses of the personality type 'INTJ'?\""
+  },
+  {
+    "key": "96213460033edc199a3fa25794ad00ca512cfb91deaaa58d5ac3c3ec869abbcf",
+    "source": "\"Imagine you are a music producer and you are working on a new song. You want to generate a music scale progression in the key of 'D' with a tempo of 120 BPM, where each note lasts for 2 beats. You are considering using a 'minor' scale type for this progression. After creating this, you decide to take a break and solve a math problem. You want to find the highest common factor of the numbers 456 and 123. Can you generate the music scale progression and solve the math problem?\""
+  },
+  {
+    "key": "9fbd9029c830084f72fe1b7046b9e4d59e4aae4c4709131cfd1035795d4b86da",
+    "source": "\"Could you please help me with two tasks? First, I'm interested in the field of constitutional law in the United Kingdom and I would like to know the top 5 landmark cases in this field. Second, I have two numbers, 36 and 48, and I need to find out their greatest common divisor. Can you assist with these?\""
+  },
+  {
+    "key": "f8c02f4ea2e5ee208c5ae81b3d3da5d1240a9f53f7514dc461906e5c0e2fa8e1",
+    "source": "\"Imagine you're a musician who also loves to play poker with friends. One day, you decided to host a poker game at your house. You invited three friends named John, Sarah, and Mike. In the game of Texas Holdem, John had the cards 2 of hearts, 3 of diamonds, 4 of spades, 5 of clubs, and 6 of diamonds. Sarah had the cards 3 of hearts, 4 of diamonds, 5 of spades, 6 of clubs, and 7 of diamonds. Mike had the cards 4 of hearts, 5 of diamonds, 6 of spades, 7 of clubs, and 8 of diamonds. Who won the game? \n\nAfter the game, you all decided to play some music. You picked up your guitar and started to play a song in the key of C. However, you forgot the notes in the C major scale. Could you tell me what they are? \n\nLater, you decided to do a physics experiment. You launched a small object with an initial velocity of 10 m/s. After 5 seconds, you noticed that the object had stopped accelerating. How far did the object travel during this time?\""
+  },
+  {
+    "key": "4bfe81a75831401476da560f4c99eafabfebfa67ecbafdd64d8fe9add27caae7",
+    "source": "\"Can you help me with a few things? First, I'm interested in a court case with the docket number 12345 that was registered in Dallas, TX. Could you retrieve the details about this case for me? I don't need the full text of the case ruling. Second, I'm curious about the current classical chess rating of a player named Magnus Carlsen. Could you fetch that for me? Third, I'm trying to remember the date of the historical event known as the Battle of Gettysburg. Do you know when that took place? Lastly, I'm working on a physics problem and need to calculate the final speed of an object. The object was dropped from a height of 100 meters with an initial velocity of 0 m/s. The gravitational acceleration is 9.8 m/s^2. Can you help me calculate the final speed?\""
+  },
+  {
+    "key": "849b602f5655b0c8778c856cfe316861f40e7104bd46f5232d77881869a2f0aa",
+    "source": "\"Can you tell me the function of the molecule ATP in the organelle mitochondria with a specific function, then calculate the shortest driving distance from New York to Los Angeles in miles, after that, can you tell me who is credited for the discovery of the theory of relativity, and finally, can you tell me the current retail price of a Fender Stratocaster in sunburst finish?\""
+  },
+  {
+    "key": "c2ca4bce84e790f261940ab004e3a59c449a8030e6f5e900de112977f9d0b637",
+    "source": "\"Could you help me with a few tasks? Firstly, I am working on a physics experiment and I need to calculate the magnetic field at the center of a circular loop. The loop carries a current of 5 Amperes and has a radius of 0.02 meters. Secondly, I am planning to attend a concert of my favorite artist, Taylor Swift, in New York. I need to book 3 tickets for the concert. Lastly, I am doing a research on Apple Inc. and I need to find the details of lawsuits involving Apple from the year 2010. Specifically, I am interested in lawsuits related to 'Patent' issues. Could you assist me with these?\""
+  },
+  {
+    "key": "272718d54a95e49acedfefc7eae7d4edfc383fad8f4455457b374d802210169a",
+    "source": "\"Imagine you are a teacher preparing for a science and art themed day at school. You have planned a series of activities for your students. First, you want to divide your class of 30 students into smaller groups for a group dynamics activity. You know that 15 of your students are extroverts and 15 are introverts. Can you analyze the social dynamics and interactions within these groups based on these personality traits and group size? \n\nNext, you plan an art activity where students will mix two primary paint colors. You have chosen blue and yellow for this activity. Can you predict the resulting color if the lightness level is adjusted to 70%? \n\nThen, you plan a cooking activity where students will convert cooking measurements. You have a recipe that calls for 2 cups of flour, but your measuring cup is in milliliters. Can you convert this measurement from cups to milliliters for flour? \n\nFinally, you plan a physics experiment where students will calculate the electric field strength at a certain distance from a point charge. You have a charge of 0.000001 Coulombs and want to calculate the electric field strength 0.02 meters away from the charge in a vacuum. Can you calculate this for me?\""
+  },
+  {
+    "key": "e8344f7fdacf641145c2edd351e0a93f806716ac5dafdab69cf0a5206e0d47ef",
+    "source": "\"Imagine you are a scientist working in a lab. You have a substance with a mass of 10 kilograms and a volume of 2 cubic meters. You want to calculate the density of this substance in kg/m³. After your experiment, you want to relax by doing some painting. You decide to mix two primary colors, red and blue. However, you want the resulting color to have a lightness level of 70%. Later, you have another substance with a mass of 5 kilograms and a volume of 1 cubic meter. You want to calculate the density of this substance as well, but this time in g/cm³. Finally, you decide to mix another set of primary colors, yellow and blue, but you want the resulting color to have a lightness level of 30%. Can you calculate the densities and mix the paint colors accordingly?\""
+  },
+  {
+    "key": "cc491e98b00f52908d7676ae76bc7a6ff251b163f9c53899a18abb8163edd51b",
+    "source": "\"Can you help me with a few things? First, I'm studying genetics and I came across a SNP mutation with the ID 'rs123456'. I'm not sure what type of mutation it is. Could you find out for me? The species is 'Homo sapiens'. Second, I'm planning to visit New York, NY next month (Feb) and I'm interested in attending an art exhibition, particularly one that displays sculptures. Could you find the most popular ones for me? I would prefer exhibitions with high user ratings. Lastly, I'm also studying cell biology and I need to know the list of proteins in the 'nucleus' cell compartment. Could you get that for me? And please include a brief description of each protein.\""
+  },
+  {
+    "key": "6e6d102ac68ffd1da29878cb07af57f9749e42b99960631417d73bedaaef9a42",
+    "source": "\"In the game 'Animal Crossing', I am interested in collecting bugs during the 'Summer' season. Could you help me find out what bugs are available during this time? Also, in the same game, I would like to know what fish can be collected in the 'Winter' season. On a completely different note, I am studying genetics and I came across a SNP mutation with the ID 'rs53576'. Can you tell me what type of mutation this is in the species 'Homo sapiens'? Lastly, I also found another SNP mutation with the ID 'rs1800497'. Could you help me find out what type of mutation this is in the species 'Mus musculus'?\""
+  },
+  {
+    "key": "10a1b412e81bcb229e6cf667b6457500c1c0baf0abcdba621c575ecb4210e80d",
+    "source": "\"Can you help me with a few tasks? First, I need to calculate the factorial of 7. Then, I'm looking to buy a flute. I prefer the brand 'Yamaha' and I want it to have an 'open hole' and a 'silver headjoint'. Lastly, I'm doing a genetics study and I need to calculate the frequency of the 'AA' genotype in a population where the frequency of the dominant allele is 0.6. Can you assist me with these?\""
+  },
+  {
+    "key": "e18423161db16d7dc4d63edea2a3166584ac38f2a82df714812ee03ee0d39af3",
+    "source": "\"Can you tell me the name of the scientist who is credited for the discovery of the theory of relativity? Also, I would like to know the predicted forest growth in Amazon rainforest over the next 10 years, considering the impact of human activities. After that, could you also provide the forecast for the same location but this time without considering human impact? Lastly, I'm curious about the scientist who discovered the DNA double helix structure.\""
+  },
+  {
+    "key": "a4a4429717b87ab0eadd07d7111597190f2129eb3b3c08c0809dc80275d48e01",
+    "source": "\"Can you help me with a few tasks? First, I am playing a game where I need to calculate the evolutionary fitness of a creature. The creature has three traits with values 0.7, 0.8, and 0.9, and the contributions of these traits to the overall fitness are 0.3, 0.4, and 0.3 respectively. Could you calculate the fitness for me using the 'calculate_fitness' function? \n\nSecond, I am looking for a lawyer in New York, NY who specializes in Civil and Divorce cases and charges less than $300 per hour. Could you use the 'lawyer.find_nearby' function to find one for me? \n\nThird, I am curious about the current classical chess rating of a player named Magnus Carlsen. Could you fetch that for me using the 'chess.rating' function? \n\nLastly, I am planning to go shopping at Walmart. I want to purchase 'Milk', 'Bread', and 'Eggs' from the nearest Walmart in Los Angeles, CA. The pack sizes I am looking for are 1, 2, and 12 respectively. Could you check the availability for me using the 'walmart.purchase' function?\""
+  },
+  {
+    "key": "fd020a0468c4b65a2104197094ed4583008f5f456ad5a1ff0be85c6a505f0c87",
+    "source": "You are an art curator and a part-time biologist. You have a painting in your collection that is currently 24x36 inches, painted with acrylic and has a dominant color of blue. You want to modify the painting's size to 30x40 inches, change the medium to oil, and the dominant color to red. After this, you want to predict the evolutionary rate of the African elephant species for the next 100 years using the Darwin model. \n\nLater in the day, you are planning a game of poker with friends and you want to calculate the probability of getting a royal flush. In a deck of 52 cards, there are 4 possible outcomes that result in a royal flush. You want the result to be rounded to 3 decimal places. \n\nWhat would be the new attributes of the painting, the predicted evolutionary rate of the African elephant, and the probability of getting a royal flush in your poker game?"
+  },
+  {
+    "key": "5b41938685a8bea6afab4ab01821cb825b595bed487d70e10ad5444c17230318",
+    "source": "\"Can you help me plan a day out? I want to start by having lunch at a restaurant in San Francisco that serves Italian food. I would like to see 5 options and I am a vegan. After lunch, I want to catch a match of the Golden State Warriors. Can you tell me their next 3 match schedules in the NBA? Later in the evening, I am thinking of buying some stocks. Can you provide me a detailed information about the Apple Inc. stocks in the NASDAQ market? And finally, I am thinking of buying a guitar. I have a budget of $500. Can you find me a Fender guitar within my budget?\""
+  },
+  {
+    "key": "728709df2113caf91bc211760fe621b81f7615702d10470b902eb66992e1fb0e",
+    "source": "\"Can you tell me the net worth of the famous footballer Lionel Messi in Euros? After that, I would like to know the net worth of the basketball player LeBron James in British Pounds. Also, I'm curious about the Body Mass Index (BMI) of a person who weighs 85 kilograms and is 180 centimeters tall using the metric system. Lastly, could you calculate the BMI of another person who weighs 200 pounds and is 6 feet 2 inches tall using the imperial system?\""
+  },
+  {
+    "key": "6d05b8f0054ad61bef0f144e61d1071ceabaa38d043743dbdce9719bf2432a63",
+    "source": "\"Can you help me with a few tasks? First, I need to book a hotel room in Paris for 5 nights starting from 20th June. I prefer a deluxe room and would like the hotel to have a gym and offer free breakfast. Secondly, I am curious about the last match played by the soccer club 'Manchester United'. Could you fetch the details for me? Also, include the match statistics. Lastly, I recently measured my weight and height. I weigh 75 kilograms and my height is 1.8 meters. Could you calculate my Body Mass Index (BMI)?\""
+  }
+]

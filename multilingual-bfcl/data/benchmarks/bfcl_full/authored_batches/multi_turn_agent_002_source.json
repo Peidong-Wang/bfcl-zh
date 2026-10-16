@@ -1,0 +1,162 @@
+[
+  {
+    "key": "76bad26b2d6f5896503b8c0e34eb6ef2fbc3f535f1c2ee5528acd6cdcdfefb89",
+    "source": "I would love to get the human-readable disk usage of the current working directory."
+  },
+  {
+    "key": "fd5ed6dbe89a2eba3840055e2136174b9508107566afbc32b3fb241a043a41c8",
+    "source": "There's a minor snag in our ticketing system. Ticket #7423 is still unresolved, but with our recent brainstorming feedback, just go ahead and check it off as resolved. Leave it empty for resolve description."
+  },
+  {
+    "key": "14629c3d24865746066bcf9d1bb15723dc3a2ac90fcd7e37bdc72790637561ef",
+    "source": "Look for draft and final report in my current directory. Compare the content difference of both."
+  },
+  {
+    "key": "47a747897a93c355155f82306e62f71e9365ad47c22c8b208eadac971db139f9",
+    "source": "Transfer 'temp_notes.txt' into the 'archives' directory and then rename it to 'notes_2024.txt'."
+  },
+  {
+    "key": "a0bbf4896ef6e6bf01910410c7c63ab9622aa4af83f041d1cc14c3d0fc283ba0",
+    "source": "I recently documented a support ticket due to an issue with my workstation, and I recall the ticket number was 987654, though the precise number eludes me. Retrieve the details of that ticket for me, please."
+  },
+  {
+    "key": "a85177a4707270ab55c3de26bd54d8c2ff0eb6add3a2ec14f88d6c314edc5a31",
+    "source": "With the information from the ticket at hand, resolve it for me since I've already addressed the core problem independently. Summarize the resolution as: 'Fixed through manual troubleshooting techniques.'"
+  },
+  {
+    "key": "d9d5ebf56883b4343d2e26d2699c8d39dbbf957ed29b44b6d20fc4741c898f87",
+    "source": "Examine current directory for any presence of the file named 'summary.txt'. If there is one, What's inside?"
+  },
+  {
+    "key": "3525641b3c99df609022dd1358f6399335ef023dba211e065be039bdbc3cd5d7",
+    "source": "Copy it into 'Research2023'."
+  },
+  {
+    "key": "7a18e8a1472111385910ed6f995b4009f01ce68007eb02bb2ca71d614496ee0a",
+    "source": "Post review, organize the lines in 'summary.txt' alphabetically."
+  },
+  {
+    "key": "3adcb389b5792ea68099036f5e7cd96b831d83ae9ef3fca1f3cf129ff8469b81",
+    "source": "Conclude by calculating the total lines in the sorted 'summary.txt' to verify that everything is meticulously arranged."
+  },
+  {
+    "key": "bcfa57ba83d86451de3c094f725d88ace293ed6e31355c951cf184574037ace2",
+    "source": "Could you kindly navigate to the temporary directory and list all the files available there right in the terminal for me? I would like to quickly skim through them and all the hidden files."
+  },
+  {
+    "key": "d47b9ebf3914d24e7a2f06318b601c42c2066747c43d6780b313f5baaa4eef06",
+    "source": "What's inside the last file displayed?"
+  },
+  {
+    "key": "115de79254754039fcdccc7dc7eedc93f36c50763de96ddc7911900f1602dedf",
+    "source": "Create a docx file with the same name as the previosu file but changing the format, they should also have the same content."
+  },
+  {
+    "key": "2062296ec16fc2e647fc876def2b90ad7c83cd7702e2a9a32795cd1edc173627",
+    "source": "Hey there, I constructed a file titled 'project_plan.md' that resides happily in my workspace directory. Could you be so kind as to rename it to project_overview.md."
+  },
+  {
+    "key": "2d2171ae9f15ae914f657ca04a440cdf1b2f31859d9a5d39a17e2b764a1763f2",
+    "source": "In light of new developments with respect to file management, I've come across an urgent conundrum: servers are down unexpectedly. Draft a support ticket, with description 'Initial project plan details.' highlighting this dilemma and assign it a priority level of 3 to hasten the response rate. Title 'emergency' and use the previous file content as description. Here is my credential. Please use it user name tech_guru, password securePass123"
+  },
+  {
+    "key": "575d90d22af829fb227725d55f849b41598372ad9aa12f246596d0018c24a1c6",
+    "source": "We've unearthed additional insights concerning the server issue. Please create a new ticket with same title and description 'Additional insights.' but now with priority to a level 5, ensuring it's handled promptly."
+  },
+  {
+    "key": "bfb3eb1d384973d1f0f21e39883e9658507d22de664062b500a58aea4f3f8769",
+    "source": "Where is my analysis? Locate any file with analysis in it."
+  },
+  {
+    "key": "312c96b4f0e6b177f4f9c806cb66e4949f8b4e140653758dfd50ed015b84760c",
+    "source": "Naviagte to that first analysis and identify any line with error in it."
+  },
+  {
+    "key": "db8ae6489cbeb1df95013b339c8d1684a993b3bea660af84a0885ab898b9eb53",
+    "source": "Let's bring some order to the project documents. I want to human readible log the storage usage of the entire current directory to usage.txt file. The content of the file should be the number follwed by the word bytes and nothing else."
+  },
+  {
+    "key": "e3b809d6d67dbaee34928ebc998af6879111c7f4f6efb1d07aab7f731cdb2247",
+    "source": "Open up 'VisionX' folder. What's the human readible disk usage of that folder?"
+  },
+  {
+    "key": "cbf764cb3bcf6f68c98c625f82c97bd4e289e1874911cf712a539e18a4af1110",
+    "source": "Create a file name based on the number of byte used. It should be in 'number.pdf' format."
+  },
+  {
+    "key": "6d152e77b710fa9f5cae833fb8bbcfd844eb9296f4d5b848eb50bd6879391cdf",
+    "source": "Finally, in that file, Write my last question in it."
+  },
+  {
+    "key": "5ce8a28c92457c929943c4f41af0329998b14e4a821e3c129acacdbd5b3f9957",
+    "source": "Search for test result of Apollo Project which is supposed to be in the project directory. It's likely a JSON file. While it's a secret file, please take a look and tell me what's inside."
+  },
+  {
+    "key": "c3d9f4dba3eca753344c5f90ad4a9340e3e712a82c4d99232a6ca728eff87e4e",
+    "source": "Craft and broadcast an electrifying tweet on my profile, sharing with the world the thrilling discovery of these previously hidden test result files exactly as it is in the body of the tweet! Share the entire content of the file."
+  },
+  {
+    "key": "522e971694c69e78dc718b05a42f052009974344795ce051f571b851a83263e3",
+    "source": "Hey there, I need to set up a directory titled 'Reports' in my current workspace. Once that's in place, could you help me locate a file called 'summary.doc' in this vicinity and transfer it to the new 'Reports' folder? After that, I'd appreciate if you could find and open up 'data.txt', then scan through it to identify lines that mention 'Q4 financials'. Also, could you let me know the total number of lines in 'data.txt'?"
+  },
+  {
+    "key": "33cfac200c77ea13cc5c5969d976b1f4d29efeeab7d16c355520009f53d6622a",
+    "source": "On a different note,Could you get the mean of character number of all files in Reports directory?"
+  },
+  {
+    "key": "a096a94ae35c7b0696f964efbf8177660047a74f9e5a23f3481bf30c7857ee93",
+    "source": "I would like to peek the content of 'Spring2023Draft' for review, and could you also provide a comprehensive character count of that same file for thorough assessment?"
+  },
+  {
+    "key": "a6f993aa3ca07e8fdfe9cb8de10e5f6cd113af74b88a39d880ae164111639a32",
+    "source": "While analyzing my project's numerical data, determine the logarithm of the character count to the base 6 with precision up to four decimal places. And write the answer only into result.txt which you should create"
+  },
+  {
+    "key": "8d07a0ea1ec901f14508bfcdc2e8cf22883bb1189948b12afe31447d47fb41d0",
+    "source": "What's the name of the python file my current directory? There should be only one and. Do not list hidden files. "
+  },
+  {
+    "key": "20e3bdaa62565c66eb6e5e80107f0267df1848cef6e2236146f613b12076adde",
+    "source": "Use grep to find out the name of the function of the script."
+  },
+  {
+    "key": "8f4dcb5d7d06848216c4abe4f8f8e85626f854675b7a933417032849dcf9ab7e",
+    "source": "And while we're diving into the deployments, let's pinpoint every mention of 'update' in this script."
+  },
+  {
+    "key": "726a16261a4c3195d5ebf4cc28b62737a81101a702a22754da4161dfc8ce99ae",
+    "source": "Once that's sewn up, it'd be helpful to buzz Catherine with the first update you have found, with message 'update the system'. If you need, my user_id is 'USR002'"
+  },
+  {
+    "key": "4fef693eb809ca6dc4a34b45fdb2e53686945196c48395c5473167d04e785b89",
+    "source": "Could you double check if the message is sent?"
+  },
+  {
+    "key": "f8f5c428e36931f9685286f95e99ff286f14e3e6bfb7e7c19de8114027bde95c",
+    "source": "I'd like to take a look at the finance_report.txt. Would you send me the content of the last line."
+  },
+  {
+    "key": "4dff6321301ef132a3c1ffbe071a738585f18eacb705a17eb29266546b181001",
+    "source": "According to the whole financial report, what's the mean of revenue and expense and profit. Round to nearest integer and write it in a new file called statistics.txt. Note that only write the integer and nothing else to the text file"
+  },
+  {
+    "key": "27723ee7359eca674584f168073c844e9f05d3fac6a2e1732d77234ba6aa4f2c",
+    "source": "Find a file named 'config.py' somewhere deep in the file system and once you have located it, display the last line of the first occuring file."
+  },
+  {
+    "key": "4bd20086910eb3a26e5f6506a5498067182974b6fd25749fab0032573ed0fb63",
+    "source": "This is actually not what I want. Could you display the entire content of the second file found."
+  },
+  {
+    "key": "b4e10672b0730ea96024ccefeb82ea529959747c983fbe1cbf02e97cee5acddb",
+    "source": "Store the differences of the two file in a new file call diff.txt."
+  },
+  {
+    "key": "03e62df5831a042236136d6ee961f5b4909242d55ae9bb887cdc7e6eae2864b3",
+    "source": "Kindly draft a document titled 'project_summary.txt' right here in documents directory. Yield an error if it already exists."
+  },
+  {
+    "key": "252388d971cd12554904e842d05007d990dee8a8fc8601e04792e460609c70f3",
+    "source": " I need it archived. Replicate it into the archive folder, but rename it to 'summary_2024.txt'."
+  }
+]

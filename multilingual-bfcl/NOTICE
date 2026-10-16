@@ -1,0 +1,10 @@
+This distribution contains material derived from the Gorilla / Berkeley Function
+Calling Leaderboard project (UC Berkeley), distributed under Apache License 2.0.
+Upstream: https://github.com/ShishirPatil/gorilla
+Dataset: https://huggingface.co/datasets/gorilla-llm/Berkeley-Function-Calling-Leaderboard
+
+Modifications: Chinese translations, condition construction, offline scoring
+adapter, resource packaging, CLI, tests and documentation, prepared 2026-10-16.
+Five scorer modules retain upstream logic with import-path substitutions only.
+See SOURCES.md and the vendored SNAPSHOT.json for provenance and modifications.
+This derivative is not an official BFCL release or endorsement.

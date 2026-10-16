@@ -1,0 +1,20 @@
+{
+  "wheel": "multilingual_bfcl-0.2.0rc1-py3-none-any.whl",
+  "sha256": "593949d9894f9afc0951ff797c42f258c61164eaa2c36afb961ff6fa9ca06315",
+  "network_used": false,
+  "isolated_python": true,
+  "clean_venv": true,
+  "outside_source_tree": true,
+  "runtime_dependencies": [],
+  "installed_read_and_score": "passed",
+  "packaged_jsonl_files_verified": 6,
+  "excluded_historical_data": "passed",
+  "scope": "full BFCL v4 query-only Chinese suite plus 132-case paired experiment",
+  "full_suite_files_byte_verified": 53,
+  "installed_check": {
+    "installed_module": "C:\\Users\\Admin\\Documents\\ChatGPT\\multilingual bfcl\\wheel-verification-full\\venv\\Lib\\site-packages\\multilingual_bfcl\\__init__.py",
+    "records": 132,
+    "correct": 1,
+    "total": 132
+  }
+}

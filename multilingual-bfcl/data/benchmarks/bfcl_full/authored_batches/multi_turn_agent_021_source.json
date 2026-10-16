@@ -1,0 +1,162 @@
+[
+  {
+    "key": "7548442067bede50c194fe859cfabdb2758f1d81c2e5c827e44bb5a91ec086e9",
+    "source": "I've misplaced a vital document inclusive of extensive research. Assist in locating a file named 'findings_report' within a folder. Could you remove it and the directory."
+  },
+  {
+    "key": "7d3103eaa2eb5d68b2843c8becaae2b1241659f5f435d3aab8459a18aca59644",
+    "source": "The folder is 'SuperResearch'."
+  },
+  {
+    "key": "0b5444e749e5c3dff1cba26dd7e015ba6a5bd21a162496ff20a95f04ab077a69",
+    "source": "I need you to set up a fresh folder wherever you're currently working."
+  },
+  {
+    "key": "fa1cf646291e08db3e38a0f121ab253d2ed9756a3a02c0e2ead8760f636e4016",
+    "source": "The fresh folder should name 'WebDevProjects'. "
+  },
+  {
+    "key": "16d750d54329fa3b72a8b7b14ba97537c4257fc62166e03b25d372ae6acafb1c",
+    "source": "Transfer the 'annual_report.txt' in Documents directory to another directory that's in Documents directory, but also make sure it remains available in its current spot."
+  },
+  {
+    "key": "336b14cec33c8ad49a470311ea8291269d91e46568c7320944c2a3f9433b382a",
+    "source": "The directory is named 'Reports' ."
+  },
+  {
+    "key": "28994646df904cafa824f8d2a04392cf5eae76cf29473efe083bf380e28489ca",
+    "source": "Where is my notes? Forward it exactly to Bob please."
+  },
+  {
+    "key": "23c4de44d63c72453cfea6c4df58251dff376154e6934de3cda82531a1f8c265",
+    "source": " I am USR001."
+  },
+  {
+    "key": "8f4c985a86a3f040d0d1e2ab602e1b5970a93499e25fc7f24bb0be633cfd5b29",
+    "source": "In my existing folder called 'Lectures', I'd like to set up a new file."
+  },
+  {
+    "key": "0c0009ab480fa44b61544277bc608570f1a58a863fa03dd3079df119db5fde9b",
+    "source": "The name file called 'Notes2023.txt'."
+  },
+  {
+    "key": "dc6a8f76924745817e0cbe7a56a54eb36c646d3bc82ce423f31343bb24ad1eaf",
+    "source": "Locate any document titled a specific name wherever it might be within this directory or its subdirectories."
+  },
+  {
+    "key": "a17b81235ec5c94b81b3c90c1ec9bcf6f59beffe63fe82266a88ee1f77fd7f4f",
+    "source": "The document titled as annual_report.txt."
+  },
+  {
+    "key": "c867c9a06e68e2e20954e8f588d3a3f7d3a9373deb1766c4fd253be05b27c953",
+    "source": "Can you write the answer only rounded in nearest integer into a new file? Just the number and nothing"
+  },
+  {
+    "key": "2d6ee80a8248706cf0474a852479466ebbe702f81580a83f6c0d8d326bb44592",
+    "source": "The new file name should be 'MeanRevenue.txt'."
+  },
+  {
+    "key": "0fcf953530f565c544041551987453db76027c58c845a9abfaa289be4dd90877",
+    "source": "Make a copy of a file, name it ultimate_draft.docx and put it in ResearchDocs directory"
+  },
+  {
+    "key": "74fb67c2ac97c3050d65eb0c41398211258da320e6d747ed79109b914fe5274d",
+    "source": "The file name should be summary_draft.docx."
+  },
+  {
+    "key": "61abcd7d10f0a3fb0b19c137b9e39dce7649ccad36536d816b05f84a1ca05db1",
+    "source": "Delete all the files in a directory including the directory."
+  },
+  {
+    "key": "784afcedf2176a471ced72da27ab80f17c3a073b2faaca1e0328dda200da16d2",
+    "source": "The directory has a name of 'Drafts'."
+  },
+  {
+    "key": "d1af40fdb2aef09bc11ca6f751fac35c036c83e967bef3ac40489aff15d4102f",
+    "source": "Calculate a specific metric for me."
+  },
+  {
+    "key": "ce69efc9fa4b53a6bba91e62d0f8c0e9cbad8f26ff631cf09a2c301183b1eddb",
+    "source": "The metric is standard deviation."
+  },
+  {
+    "key": "bb6c5a8d72553a9fa7c0b0ebdfcb4c38242740905310a5fe61da1c8393d39a4b",
+    "source": "Open up to update a ticket. If the character count of any file is greater than 20, Set the priority to 3. Else, set to 2."
+  },
+  {
+    "key": "eef000b92bc2accbe9ffdc87c8611d86ab88f553dfb65e6f961400b5fdcb8e2c",
+    "source": "The ticket is 654321."
+  },
+  {
+    "key": "b9bee3f34d8d548047c17561e75720b43a48cbee076facb13aa31147492b17ec",
+    "source": "For a different file, could you determine the total number of lines it holds?"
+  },
+  {
+    "key": "41747819f5eb329c197bb74b140511ce389409ea17abeec0f9981db6f03ef14c",
+    "source": "Sorry it should be that same third file"
+  },
+  {
+    "key": "f7bac8ac36fdd45df66cfe95b9ea539e9b20b323790e7c458713ee90c8a496fe",
+    "source": "Hey there, I noticed that all of my car doors seem to have locked themselves up, and with my schedule being pretty tight today, I'm in quite a pinch. I could really use your help to get some of them unlocked."
+  },
+  {
+    "key": "ee49ad6340b5cebc9b217177e989effc19ae714e58f867bc5760c5892c2cd954",
+    "source": "I mean could you help me get all those doors unlocked? It'd be fantastic if you could also switch on the headlights. It's getting a bit darker out here than expected, and visibility's not great!"
+  },
+  {
+    "key": "2778d9f7437b1da36f40ecc79a4912614a464f79eb15d36e4580e65c0eed5deb",
+    "source": "I'd appreciate it if you could send a quick message 'I am on my way to your place.' to my cousin updating them my status. If you need, my user id is USR001."
+  },
+  {
+    "key": "bab4c99576c35a9562ed9fffdf0c40576540acb3451dba4b1e73831be1ab3e00",
+    "source": "Ah I forget to mention, his user id is USR002."
+  },
+  {
+    "key": "877ea56a504f40272fb08d322b9fef1b251251a65efb32fdd99b4307d01e1d70",
+    "source": "I've initiated my vehicle, and I'd greatly appreciate it if you could take a look at the tire pressures. Should any tire display a pressure below this PSI value, kindly guide me to the nearest tire service facility for a fix."
+  },
+  {
+    "key": "1243a24c91de8e81e59d4d0418c50e97df50336fe0c8664c4fb64d95daec6f76",
+    "source": "I think below 40 PSI would need a fix."
+  },
+  {
+    "key": "0e1e2de2cceb81332d9cc39ce676cc9f487b2d3f7fdf247e7f9b7bfbd31f2dc6",
+    "source": "Upon verifying the tire pressure, we should share our findings on Twitter to keep everyone informed. Post the tweet message 'Tire pressures are optimal!'. Utilize hashtags #CarMaintenance and tag my friend's account for professional insights."
+  },
+  {
+    "key": "92e432aae887414ad210c2b14ce258233a22711370a56d80185e37330fd0d9c6",
+    "source": "The account you need to tag is 'VehicleGuru'."
+  },
+  {
+    "key": "53eef0b5b9272e847fbbe6ebfaf47523ec8e670305d46650f0c2b0a01fe5f010",
+    "source": "Would you be able to convert some liters of gasoline into gallons volumn for me? Afterwards, starting the engine to check for smooth operation would be appreciated."
+  },
+  {
+    "key": "0bcc090dc94e37c0c5196b247860705c81da60ef59d67135761114339f3df68a",
+    "source": "I mean 20 liters of gas."
+  },
+  {
+    "key": "14e808da8ee10f985ac33697b3bfcd67043f61373c747038fde7744ed66c35dc",
+    "source": "If the fuel level is lower than, then go ahead and add double that amount. Let's assume I will also head out right after, so feel free to start the engine using the necessary mode."
+  },
+  {
+    "key": "8f43d251166b81f66d4a4115380c5fcaf6efde617b6564adab44206cfce53d56",
+    "source": "I think if lower than 10, then we need to double."
+  },
+  {
+    "key": "6e4a5cfb1ce4d2b630d65af4f2e567630f926ecbbd02b0a6b74ae34c11edf766",
+    "source": "I'm setting off on a road trip and my departure point is sunny San Francisco. Could you determine the distance to help me plan my fuel stops on the way?"
+  },
+  {
+    "key": "0fc466848161a1ebc559776be6d3c5cdea26e6f1bf28e07ccc03869b9c5a7a28",
+    "source": "My destination is Rivermist."
+  },
+  {
+    "key": "570ac255f48e7ec7856818197561e770d42d1e5b3a7dc49e9dd24bb989033bf0",
+    "source": "I've been thinking of visiting my friend for a while now, but I'm not sure how far it is from here in Crescent Hollow. Can you help me figure this out so I can plan my trip accordingly?"
+  },
+  {
+    "key": "5b215434cdfb3e1365beb38320917ac0923e8b66f5d96d0dbe4178b8f5528c87",
+    "source": "My friend lives in Autumnville."
+  }
+]

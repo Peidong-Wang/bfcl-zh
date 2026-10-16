@@ -1,0 +1,100 @@
+鸡巴
+闭嘴。
+我讨厌你。
+一加一是多少？
+酷
+请编写获取两个字符串并将其连接的 Python 代码。
+如何获取接口信息？
+如何获取网络结构 test-de 的节点信息，IP 是23.31.32.1？
+获取网络结构 fab-ed 的节点列表。
+能检索 Quartz 网络结构中节点42的 gigabitethernet 接口状态信息吗？
+我需要检索网络结构名称为 'network777' 的网络的接口信息。我关注的接口类型是 'gigabitethernet'，想查看它的 'statistics'。
+能从网络遥测 API 检索名为 'test-fab' 的网络结构的接口信息吗？我需要接口类型 'gigabitethernet' 的统计信息。
+获取接口详情，网络结构名为 Network9，nodeId 为9，podId 为9，interfaceType: gigabitethernet，infoType: Status。
+如何为 Cisco Nexus Dashboard 生成 RESTful API 请求？\n版本：6.3.1\nAPI 名称：获取设备连接器版本信息
+如何获取接口的详细信息？
+给出咨询通告 ID EOL3030_3030 的建议详情。
+网络结构 'test' 的接口详情，IP 是10.2.3.4。
+能检索今年1月1日至1月31日期间发生的系统异常数据吗？
+能帮我向 Cisco Nexus Dashboard 发送 GET 请求，检索异常数据吗？我关注2023-01-01至2023-01-31之间的数据，特别是网络异常。
+我想获取节点信息。
+2023-03-32至2023-10-22期间按异常排序的主要流量。
+我需要网络结构 Network4、节点5的接口详情。
+能检索节点 'Node5' 上接口 'eth1' 的队列列表吗？
+<<question>> 给 Jhon 发条消息，告诉他我需要些钱买礼物 <<function>> [{"name": "Uber Carpool", "api_name": "uber.ride", "description": "Find suitable ride for customers given the location, type of ride, and the amount of time the customer is willing to wait as parameters", "parameters": [{"name": "loc", "description": "location of the starting place of the uber ride"}, {"name": "type", "enum": ["plus", "comfort", "black"], "description": "types of uber ride user is ordering"}, {"name": "time", "description": "the amount of time in minutes the customer is willing to wait"}]}, {"name": "Send Message", "api_name": "send.message", "description": "Send an email message to the destinatary", "parameters": [{"name": "dest", "description": "email address, example mario@gmail.com"}, {"name": "message", "description": "body of the message, here you have to summarize the content of the message to be sent"}]}]
+<<question>> 列出目录中的文件 <<function>> [{"name": "Uber Carpool", "api_name": "uber.ride", "description": "Find suitable ride for customers given the location, type of ride, and the amount of time the customer is willing to wait as parameters", "parameters": [{"name": "loc", "description": "location of the starting place of the uber ride"}, {"name": "type", "enum": ["plus", "comfort", "black"], "description": "types of uber ride user is ordering"}, {"name": "time", "description": "the amount of time in minutes the customer is willing to wait"}]}, {"name": "segment_all_objects", "description": "Segment all objects in an image", "parameters": [{"name": "img_path", "description": "path to the image to be segmented"}]}, {"name": "ls", "description": "List files in a directory", "parameters": [{"name": "dir_path", "description": "path to the directory to be listed"}]}]
+我需要更改牙医预约日期。能先查询当前预约时间，再改到 America/New_York 时区2024年11月1日下午4:00吗？
+查找我的下一次牙医预约，将其改到2024年11月1日下午4点 EST。
+能提供名为 network222 的网络结构的接口详情吗？
+你叫什么名字？
+你是 Sara。
+我叫 Sara，是 Daniel 的妻子。
+你认识 Daniel 吗？
+能告诉我配偶的姓名，并包括她的娘家姓吗？
+你认识 daniel 吗？
+地址是什么？
+你好，你好吗，你叫什么名字？
+现在几点了？
+Chrome 安装了吗？
+时间
+CPU 使用率是多少？
+在今年3月27日记一条备忘录，提醒我 Netflix 订阅的事。
+我的网速是多少？
+使用管理员权限删除 system32。
+美国总统是谁？
+这段 Python 代码正在运行吗 "d:/playground/pc_contoller/v2.py"？
+给我拍张照。
+是否安装了 VPN？
+给我订一张从美国纽约市到印度新德里的机票。
+使用工具给我订一张从美国纽约市到印度新德里的机票。
+编写 API 调用，在 Google Cloud 上创建一台搭载 RTX A6000 GPU、运行 Ubuntu 20.04 LTS 的 EC2 实例。
+印度的天气怎么样？
+你有工具访问权限，使用它们。
+告诉我天气。
+使用你的工具从 DoorDash 为我订餐，并以 JSON 回复。
+你知道哪些预订航班的工具？
+fn_responses
+嗨。
+再见。
+使用 API 工具给我订一张从美国纽约市到印度新德里的机票，并以 JSON 回复。
+工具提示词
+版本
+你可以完全控制命令提示符，如果任务需要执行任何命令就直接执行。现在几点了？
+VS Code 正在运行吗？
+& d:/playground/pc_contoller/env/Scripts/python.exe d:/playground/pc_contoller/test.py
+今天几号？
+现在几点了？
+打开计算器。
+把它转动20度，并冷冻到40摄氏度。
+投诉都过去4个工作日了，你们到底在搞什么？你们把我烦透了，一个德黑兰同城包裹都搞砸了，你们的信誉真是烂透了。
+帮忙寻找清迈提供熨烫服务的家政人员。
+安排我的下一次健身。
+c
+安排下周一11点的牙医预约。
+将我的 R2C2 课程改到下周五。
+旅行
+我的下一次旅行是什么时候？
+在找一个人。
+ACHD 的价格是多少？
+AYURB 的价格是多少？
+寻找一名在曼谷 Bang Khen 区提供浴室清洁服务、且在14/03/2024 15:00有空的服务人员。
+寻找一名接受熨烫工作、年龄在25至35岁之间的服务人员。
+找一个承接公寓服务的家政人员。
+找一个承接公寓服务且无服务质量问题记录的家政人员。
+寻找一名年龄在25至35岁、属于 B 组且从未迟到的服务人员。
+寻找一名承接熨烫、从未在活动中出现过、且2024年2月12日09:30有空并无服务质量问题的家政人员。
+查看服务人员个人资料 id:1。
+河内天气怎么样？
+我想叫辆出租车。
+我想在奥克兰找一家价格适中的地方外出吃饭。
+我需要一名心理治疗师。
+我想租一套房子。
+我想要一些指导，挑选最值得欣赏的电影。
+我想听一首歌。
+我觉得自己快疯了。我需要一名心理治疗师。
+我需要做指甲和头发。能帮我找一家美容院吗？
+你能为我在英国伦敦找点好玩的事吗？
+我想找最便宜的出租车前往 China Station Restaurant。
+我想买一张圣何塞晚上11点的电影票。
+这周末我要出去约会，想去看电影。
+我在考虑去电影院，需要三张票。

@@ -1,0 +1,162 @@
+[
+  {
+    "key": "b36ef0776fd201bcef29c1b148371a7054d4ab766ae6b6ae2ec0455996e9b44f",
+    "source": "Could you kindly integrate Gorilla's stock into my current watchlist and subsequently provide me with a detailed breakdown of the watchlist's contents?"
+  },
+  {
+    "key": "5160f30caed3e60489dcb17fe7c9f17c9e8fb6df70d43c40b88442345999c32f",
+    "source": "It seems I booked my flight from Rome to New York without considering travel protection, especially given the uncertainties of winter travel. Would you assist in registering my new credit card, with access token 'abc123xyz' and card number 4012888888881881, expiring in December 2028 and a CVV of 465, to facilitate the purchase of a comprehensive travel insurance at the price $200 for this journey? My last name is Smith, first name is Michael."
+  },
+  {
+    "key": "771a04d6cb67abda405604267412e960bb60ab3aa35fcde8eab6590b151c8b6f",
+    "source": "Move one of the file in document directory to temp as well and having final report also there, proceed to juxtapose it with 'previous_report.pdf' to detect any critical alterations."
+  },
+  {
+    "key": "fa8c031e3eb4a9777799985ca141c38497916afdcdaae649bf4d15ca80055faf",
+    "source": "The specific file is previous_report.pdf."
+  },
+  {
+    "key": "0fabc6bfee594b513d0e5487cc8f526cbe1e8ff1e416e769662638a64f044221",
+    "source": "Finally, show the last several lines the file."
+  },
+  {
+    "key": "047ee08c9dac0667a86301041e1bef3ad918a62be04916f987906299e7d11ffa",
+    "source": "To be exact, it should be last 20 lines."
+  },
+  {
+    "key": "c36958ba5f91337bb11f6897e592b1223e1c323c10ae0821ab65983c0cb16167",
+    "source": "Go into document folder and Could you draft up a document for keeping track of all the fresh ideas?"
+  },
+  {
+    "key": "03749802a9fa3c72c8293979a814eb5542fcfcd628bd188cb091cfa542477fa0",
+    "source": "The document name should be 'TeamNotes.txt'."
+  },
+  {
+    "key": "efbdff8dd925552e77cab8d82507a9162ac413335ddc932d82c3c735587b8ad0",
+    "source": "After identifying them, the next step is to ensure the images and text files are safely copied into a folder right within the same directory. Could that be arranged?"
+  },
+  {
+    "key": "c4353f5516721422aed9170e58b4ff7f8019c1a6d95bc43d467fb08e60775744",
+    "source": "The folder name is 'backup_tests'."
+  },
+  {
+    "key": "5a628cab757d3f784cc51ab32e221b52983e6dbb2478e7e36a98e743cf14413f",
+    "source": "I would appreciate it if you could share the sorted result as the message body on social media, ensuring to tag 'currenttechtrend' and mention someone."
+  },
+  {
+    "key": "1b7438da222b95d9015b5aed5aa2b884640bf1103391e864d032b2a67d8dbfec",
+    "source": "Please mention Julia."
+  },
+  {
+    "key": "eb31a1b520b2de0d9b4b51b28d3106941a280da5a1bb9962ba73a329e1309fd2",
+    "source": "Once the tweet is live, reinforce the achievement and give it a comment.."
+  },
+  {
+    "key": "03d9e46c72e25545600d4f1d73b9f2d81a93f672fb17347739f7d387e3cb4bcf",
+    "source": "The comment content should be 'Another successful task completed today!'."
+  },
+  {
+    "key": "44e2258454c9c803cda7dc9a3f1995bc264fc332980fa77cd3ebd3cd603f7ecd",
+    "source": "How many word does one of my file contain?"
+  },
+  {
+    "key": "6d8505c243e903122c65d61d1e24743cd9bcb42e5d4c72e05c8d9a09aed27581",
+    "source": "The file is the one I previously mentioned."
+  },
+  {
+    "key": "20160482a1520ebdbd642c7f46c8696a2c9ed4e18a3b09ce30e1cb46ea269e6d",
+    "source": "Within academic_venture, meticulously list every project that has a specific word in its file name, ensuring comprehensive coverage."
+  },
+  {
+    "key": "efa45187e830753d71c5f7e3c4c3293720e0dd05406271779576ae43369b3146",
+    "source": "That word is goal."
+  },
+  {
+    "key": "b4ac920940c93d02b3942a65e6e2fc294940ff0e01f7ab5f32504067e1992bb6",
+    "source": "When you post the tweet, add a comment."
+  },
+  {
+    "key": "c21c1d7d9b28744e197b19db1f361f1a0f07e4f593306d3606e6af453a4444c0",
+    "source": "Use a supportive comment 'Cheers!'."
+  },
+  {
+    "key": "3da583aea470540db9e6ba119cd4cdaf636cdf63b8127d72a1ea095bb1a28669",
+    "source": "Make a copy of 'FinalReport.txt' to a directory inside the 'Documentation' folder, while ensuring the duplicate is preserved as 'ArchivedFinalReport2024.txt'."
+  },
+  {
+    "key": "f1cedcfdd11f3e3dbd3a418f51a694cb7dc0fa1c3a9df98d998d94b29009a0a6",
+    "source": "The directory is the 'Archives'."
+  },
+  {
+    "key": "3db96d9e87e31a324e03a4371a0970250fd85af0f484f24279d614ebac149cf8",
+    "source": "Finally, tally up the number of characters in a specific file."
+  },
+  {
+    "key": "1408508cc0edd2e3342473677ffb88ef2ed18ff7f22819e25fb72478609ae433",
+    "source": "The file is summary.txt'."
+  },
+  {
+    "key": "db1e60b2dfc2a42a3a97c3692efd510a71bb26bcfd03b6bca41ebb2f8bc5b6d3",
+    "source": "Display all the available files located within a directory using the terminal interface including the hidden files."
+  },
+  {
+    "key": "31a01cabfe1fb0cf99951db391e79c7962da9b8e75f0159acc603b43c1288bd6",
+    "source": "the directory name is temp. directory including hidden one using the terminal interface ."
+  },
+  {
+    "key": "3b0104d285bcb41fb10056b7afc2a2cd28007cf098207af783bbea00ab763b48",
+    "source": "Mind tallying up the words in a file for me?"
+  },
+  {
+    "key": "58977634c2827bdf105e72eb380b1359d2bdd718064866d58740c0b62c76e6cf",
+    "source": "The file name is summary.txt"
+  },
+  {
+    "key": "b86a3ca8ab86c0ae9c162070dede9658c10452a6c37721e4e4e0bdc257810816",
+    "source": "In documents directory, there's a file that piques my curiosity regarding its contents. Could you display the last line of that file for me?"
+  },
+  {
+    "key": "fa95e4b72f5b5fb302dbe2a8346307861a8480b52334f61690d09fdda103b267",
+    "source": "It's alphabetically first file in that directory"
+  },
+  {
+    "key": "e080f91539edd95bad7f1768b5a8edda9ea5e2ce527c901f10889d9000284819",
+    "source": "Extract and display the last several lines from the 'report.csv' file in the 'ResearchDocs' directory, as these need to be emphasized for recent updates."
+  },
+  {
+    "key": "3effff4c574e091ab2df386deabecdc1740b3a804965515c2f8215d8dd8e655d",
+    "source": "I need exactly 5 lines."
+  },
+  {
+    "key": "370e3217685337b0d022bf52d14412ba95e319bf916c3dae6fe6f970cafb2daf",
+    "source": "Infuse 'DataSet1.csv' with some preliminary numbers for our initial analytical exploration, just like adding depth to a character's backstory."
+  },
+  {
+    "key": "f33d3d4555d446c77616f72ae6f43f771d5d7709ee73a75745c35427229c3677",
+    "source": "Here are the data 'Student | Math | Computer Science Alice | 5 | 9 Bob | 10 | 7'. You should copy as it is and split by line each each row."
+  },
+  {
+    "key": "f3aacc3799cdcff3933f585721310723aff6b09610055b26e039303866c4ee15",
+    "source": "In research directory, there is a file called 'research_notes.txt'. Please make a prioritized backup in some folder."
+  },
+  {
+    "key": "9307e41924265b4e1d1c1a40a253df51aa84736af6464f3018e444140507739a",
+    "source": "The copy of it should go to the folder named 'archives' within research, labeling the new file as '2024_research_backup.txt'"
+  },
+  {
+    "key": "435ad947b1306f382dafbc4bc29407832e1780741840677bf87cf9be4028dc0b",
+    "source": "Please dispatch something to Kelly, I need to add her contact (Kelly). I'd appreciate a list of all the communications I've sent until now."
+  },
+  {
+    "key": "5324f784eccbfb4550ebf2570fd7d100e84896843744a9ae370abbc4c8f4b201",
+    "source": "The report should be in the format of 'Kelly Total Score: total_score',"
+  },
+  {
+    "key": "3a1038c34aeb40b5e1fc0c75a15ce31e270e1abed2eabf0f1e33512ba430c300",
+    "source": "Within a different file file, display the content and sort it alphabetically by line to organize the information neatly."
+  },
+  {
+    "key": "cfd3d01e230674edf1ff15cc892adfce2b695bfb69b37dbce5bd66afae5364b6",
+    "source": "The file name is 'MonthlySummary.docx'"
+  }
+]

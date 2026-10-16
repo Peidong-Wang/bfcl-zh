@@ -1,0 +1,28 @@
+{
+  "chinese_structural_checks": "passed",
+  "rebuild_byte_identical": true,
+  "conditions": 5,
+  "records_per_condition": 132,
+  "distinct_input_structures": 132,
+  "duplicate_input_groups": [],
+  "data_jsonl_records_parsed": 7462,
+  "data_jsonl_errors": [],
+  "repeated_query_groups": [
+    [
+      "multiple_109",
+      "multiple_196"
+    ],
+    [
+      "multiple_110",
+      "multiple_197"
+    ]
+  ],
+  "multilingual_package_syntax_errors": [],
+  "limitations": [
+    "No independent human review",
+    "No real model baseline (not required by user)"
+  ],
+  "release_blockers": [],
+  "release_ready": true,
+  "scope": "data and software integrity; hosting status is separate"
+}

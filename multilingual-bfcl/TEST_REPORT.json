@@ -1,0 +1,10 @@
+{
+  "tests": 12,
+  "failures": 0,
+  "errors": 0,
+  "passed": true,
+  "oracle_regressions": 1452,
+  "real_model_evaluation_run": false,
+  "translation_api_used": false,
+  "full_suite_data_complete": true
+}

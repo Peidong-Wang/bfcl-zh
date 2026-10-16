@@ -1,0 +1,100 @@
+simple_java_0	在用户界面中初始化GIS几何展示，提供指定结果集控制器`mapController`和用于显示GIS数据的复合UI元素`mapArea`。
+simple_java_1	为数据库中名为'Customers'的表生成SQL补全建议，优先使用短名称，附加参数包括限制'50'条和设为'public'的schema筛选器。
+simple_java_2	为Firebird数据库中名为'EmployeeView'的视图生成带头部的完整SQL创建脚本，使用进度监视器`dbMonitor`和原始源码'SELECT * FROM Employee WHERE status = 'active''。
+simple_java_3	使用数据源对象`db2DataSource`和进度监视器`dbMonitor`，解析DB2数据库中名为'USERSPACE1'的表空间引用。
+simple_java_4	使用活动JDBC会话对象`jdbcSession`，为'HR' schema中名为'EmployeeView'的DB2视图准备JDBC语句。
+simple_java_5	在父复合UI元素'compositeParent'中，为名为'dataController'的结果集控制器初始化纯文本展示，确保文本区域只读，并支持多行输入、水平和垂直滚动。
+simple_java_6	更新数据库应用中电子表格视图的数据，确保刷新元数据、追加现有数据并保留当前状态。
+simple_java_7	将一个NIO资源复制到文件系统的新路径'/backup/data.txt'，确保覆盖目标位置的现有文件，并使用进度监视器`progressTracker`跟踪进度。
+simple_java_8	使用输入流`fileStream`更新非阻塞文件系统中的文件内容，强制执行且不保留历史记录，并通过`progressMonitor`监控进度。
+simple_java_9	将包含5个点(1,2)、(3,4)、(5,6)、(7,8)、(9,10)的`MultiPoint`对象序列化为ByteBuffer，使用'XyzmMode.XYZ'，用于HANA数据库的空间数据存储。
+simple_java_10	更新JNI Bridge中的启动器信息，启动器路径为'/usr/local/bin/dbeaver'，名称为'DBeaverLauncher'。
+simple_java_11	检查DBeaver应用的系统策略时，Windows注册表`WinReg`对象中HKEY_LOCAL_MACHINE根下的'EnableExtensions'属性值是什么？
+simple_java_12	在Exasol执行上下文中将当前schema改为'AnalyticsDB'，并用名为'progressMonitor'的监视器对象跟踪进度。
+simple_java_13	在`JDBC_session`中准备JDBC语句，获取名为'JohnDoe'的指定Altibase被授权人的系统权限名称及授权人名称。
+simple_java_14	在SmartRefreshLayout库中，使用`gameLayout`对象触发'FunGame'头部的结束事件，并指示刷新成功。
+simple_java_15	从输入流`imageInputStream`解码9-patch图像，并将解码后的PNG图像写入输出流`imageOutputStream`。
+simple_java_16	为Java反编译器中表示范围调用的给定指令数据`instructionData`创建`InvokePolymorphicNode`。
+simple_java_17	在Java反编译分析工具中，为`initMethod`方法内的构造器调用指令`newConstructorInsn`附加泛型类型信息。
+simple_java_18	使用SysRoleController查询角色数量的方法，在系统管理应用中获取第3页角色数量，分页大小为20。
+simple_java_19	已有模型对象`webModel`，以及参数'username'设为'john_doe'的HTTP请求`userRequest`，请在Web应用中显示该用户的个人信息页面。
+simple_java_20	使用不改变外部适配器键的新配置对象`newMappingConfig`，更新文件'user-mapping.yml'的HBase映射配置。
+simple_java_21	处理网络通信会话中通道上下文`nettyChannelContext`发生的异常事件`ioExceptionEvent`，记录错误消息'something goes wrong with channel'后关闭通道。
+simple_java_22	在产品管理系统中，将产品ID列表[101, 202, 303]的新状态更新为2。
+simple_java_23	获取产品名包含'LED TV'、推荐状态为1的新品列表，取第3页，每页20项。
+simple_java_24	在电商平台管理面板中，将ID为101、102、103的产品类别可见性改为隐藏。
+simple_java_25	使用负责SMS首页推荐的控制器，将ID为42的推荐专题排序值更新为5。
+simple_java_26	使用代理连接对象`proxyConn`，创建执行存储过程`CALL totalSales(?)`的可调用语句，结果集对滚动不敏感、只读，保持性为提交时关闭游标。
+simple_java_27	数组[2, 7, 11, 15]中哪两个数相加为目标值9？请给出索引。
+simple_java_28	创建定时执行器服务，每30秒从'es_credentials.properties'文件更新Elasticsearch凭据，使用变量`basicAuthCredentials`提供的基本认证凭据。
+simple_java_29	配置Zipkin服务器时，测试值为'10'的'zipkin.collector.activemq.concurrency'属性是否正确应用于ActiveMQCollector.Builder的并发设置。
+simple_java_30	仅当键尚不存在时，在Redisson缓存中异步以键'answer'存储值'42'，并获得完成时包含旧值Optional的CompletableFuture。
+simple_java_31	在Redisson响应式编程模型中，使用自定义序列化编解码器`jsonCodec`获取名为'taskQueue'的响应式队列。
+simple_java_32	异步尝试从Redisson可过期信号量获取许可，等待5秒，租期2分钟，TimeUnit使用SECONDS。
+simple_java_33	在Redisson映射缓存中异步以键'employee:1234'存储值'John Doe'，并确保正确处理。
+simple_java_34	在服务管理器中使用计时器，安排`cleanupTask` TimerTask对象所表示的清理任务在5分钟后运行。
+simple_java_35	使用Redisson对Redis键'user:online:today'和'user:online:yesterday'执行按位AND运算，并将结果存入'user:online:both'。
+simple_java_36	给定交替键值对象列表`['userID', 42, 'username', 'johndoe', 'isActive', true]`和状态对象`processingState`，将该列表解码为映射条目列表，以便处理状态。
+simple_java_37	在Jenkins环境中，针对指定构建上下文`jenkinsBuild`处理标记文本`buildOutput`，应用控制台注释。
+simple_java_38	已有仅含'name'和'address'字段的筛选源映射`docFields`，请为Elasticsearch中的嵌套文档结构创建桩源映射。
+simple_java_39	假设节点ID可用，从Elasticsearch中的LogEvent `logEvent`获取节点ID，并将其追加到StringBuilder `logBuilder`。
+simple_java_40	通知路由节点观察者：Elasticsearch集群中原先未分配的分片`shardA`现在变为初始化状态`shardB`。
+simple_java_41	配置名为`searchHitParser`的`ObjectParser`实例，以解析Elasticsearch应用搜索结果中的inner hits字段。
+simple_java_42	在Elasticsearch测试用例中，为字段类型`usernameField`创建词项查询，以不区分大小写的方式搜索值'JohnDoe'。
+simple_java_43	给定模拟创建设置`mockSettings`、模拟处理器`mockHandler`和待监视对象`testObject`，为Elasticsearch测试框架创建spy实例。
+simple_java_44	在Java中初始化DES加密器，使用'DESede'算法、'CBC'模式和'PKCS5Padding'填充方案。
+simple_java_45	验证进程构建器的环境变量映射`envVariables`恰好包含5项。
+simple_java_46	在单元测试中，验证调用者敏感方法已为`CSM`实例`csmInstance`正确注入调用器类，预期类为`MyExpectedClass.class`。
+simple_java_47	为表示证书的大型Base64编码字符串输出格式化Java常量声明，常量名为'CERTIFICATE'，值为长度1024字符、包含'MIIFdTCCBF2gAwIBAgISESG'的Base64字符串。
+simple_java_48	使用IP地址`192.168.1.10`、端口`8080`和预先配置的SSL上下文`testSSLContext`，实例化用于测试的SSL加密虚拟服务器。
+simple_java_49	在HTTP/2测试交换中，为非HEAD请求发送HTTP响应头，状态码为404，内容长度为1500字节。
+simple_java_50	在Elasticsearch测试环境中模拟删除匹配查询的文档，使用`DeleteByQueryRequest`对象`deleteQueryRequest`，以及监听`BulkByScrollResponse`的`ActionListener`对象`testListener`。
+simple_java_51	使用给定`usageRequest`和`clusterState`执行主节点操作，收集Elasticsearch跨集群复制（CCR）功能的使用统计，包括跟随索引和自动跟随模式的数量，并用`actionListener`处理结果。
+simple_java_52	在Java XML处理中，从表示SAML断言的`Node`对象`SAMLAssertionNode`获取所有`Element`类型子元素的列表。
+simple_java_53	创建一个谓词，判断`Join`对象是否表示完整主节点，且其状态旧于本地节点已接受的任期42和版本7。
+simple_java_54	针对请求`snapshotRequest`、分片路由`shardRouteInfo`和任务`snapshotTask`，在可搜索快照上启动分片操作，并通过监听器`operationListener`异步处理结果。
+simple_java_55	为'daily-snapshots'仓库中ID为5的分片创建新的可搜索快照目录，使用'logs'索引的设置变量`indexSettingsForLogs`。分片路径为'/data/nodes/0/indices/logs/5'，当前纳秒时间由供应器'currentTimeNanos'提供，'repositoriesService'、'cacheService'、'threadPool'、'blobStoreCacheService'和'sharedBlobCacheService'等必要服务已初始化。
+simple_java_56	在Elasticsearch多集群搜索测试中，使用处理内容的解析函数`responseParser`和解析器配置`defaultParserConfig`，解析实体`httpResponseEntity`的HTTP响应体。
+simple_java_57	确定当前设为'yes'的配置项'enableLogging'的布尔值，未指定该配置时默认为'false'。
+simple_java_58	将含'name'、'age'、'email'键的数据映射`userProfile`序列化为XContentBuilder对象，确保没有自引用，并在输出中包含对象的起始和结束标记。
+simple_java_59	截断位于路径'/var/data/elasticsearch/nodes/0/indices/1shard'的分片的translog，使用终端接口输出，索引目录为'/var/data/elasticsearch/nodes/0/indices/1shard/index'。
+simple_java_60	在Elasticsearch中，为搜索上下文`mainSearchContext`构建嵌套查询，并更新嵌套路径'user.address'的inner hits上下文`hitsContext`，确保不忽略未映射路径。
+simple_java_61	为Elasticsearch查询创建指数衰减评分函数，目标字段为'timestamp'，原点为'now'，尺度为'10d'，偏移为'2d'，衰减因子为0.5。
+simple_java_62	为'temperature'字段创建范围查询，获取20.5至30.0度的记录，包含下界但不包含上界，查询类型为'FLOAT'。
+simple_java_63	创建查询，查找Elasticsearch索引中'age'字段值介于30至40之间的文档，包含30但不包含40。
+simple_java_64	在Elasticsearch中为日期脚本创建新字段类型，字段名为'timestamp'，使用日期字段脚本工厂`dateFactory`、脚本`dateScript`，元数据包含值为'epoch_millis'的'format'键，并按'FAIL'策略处理脚本错误。
+simple_java_65	使用xContentBuilderInstance为RootObjectMapper生成XContent，包含动态日期格式、动态模板、日期检测和数值检测的默认设置，同时跳过运行时字段。
+simple_java_66	在Elasticsearch中，为名为'compositeField1'的复合字段创建子运行时字段，使用解析上下文'mappingParserContext'、父脚本工厂'compositeScriptFactory'，并通过'onScriptError.IGNORE'处理脚本错误。
+simple_java_67	使用jpackage创建macOS安装包时，为位于'/Applications/PhotoEditor.app'、名为'PhotoEditor'的应用生成DMG安装脚本，使用自定义背景图，并确保脚本体现正确的卷URL和安装目录。
+simple_java_68	准备macOS安装包创建参数时，确保应用镜像目录存在且名称有效；应用镜像路径为'/Applications/MyApp.app'，应用名称为'MyApp'。
+simple_java_69	数组`durations`中的BigDecimal元素表示时长对象的不同时间单位，请确保索引2至5的这些元素符号一致。
+simple_java_70	在使用命名空间的XML处理应用中，使用限定名`{namespaceURI='http://www.example.com', localPart='item', prefix='ex'}`和扩充信息`augmentations`标记XML元素结束。
+simple_java_71	在Java XML处理中，将执行从ID为5的协程切换到ID为10的协程，向目标协程传递参数'resultData'，并确保协程10可用。
+simple_java_72	处理XML序列化时，从字符数组`textBuffer`的索引5开始，取长度为10的子串并追加到文本流。
+simple_java_73	在Java应用中获取UTF-8编码信息，并允许使用Java编码名称。
+simple_java_74	XML序列化时，处理高代理项值55357和低代理项值56832组成的代理对，内容不在CDATA段内。
+simple_java_75	在Java XML处理环境中，确定系统属性'enableXmlSecurityFeature'是否设置为启用安全功能'XML_SECURITY'。
+simple_java_76	执行step方法，更新宽800像素、高600像素的开场动画图形。
+simple_java_77	为进行身份认证，验证用户提供的密码'P@ssw0rd!'是否与系统存储的加密密码'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'匹配。
+simple_java_78	配置命令行应用的选项解析器：除非提供'quiet'或'verbose'选项，否则必须提供'output-format'选项。
+simple_java_79	使用SAX过滤器工厂解析XML文档时，为系统标识符为'http://astro.com/stylesheets/toptemplate'、publicid为'1234'的实体获取InputSource。
+simple_java_80	在图约束系统中，检查规则42的'failOn'类别中的禁止节点时，失败消息的编译模式是什么？
+simple_java_81	使用'humongous-test-case.json'中的数据执行垃圾回收测试，运行自定义垃圾回收器，使用`referenceChecker`函数验证对象引用，并分析'gc-analysis.log'日志，确保包含'GC pause'但不包含'OutOfMemoryError'。
+simple_java_82	使用参数数组`testArgs`执行`runIt`方法，进行包含创建被测类对象、调用带断点的方法、以及向`System.out`流记录输出的测试。
+simple_java_83	在Java中执行500次迭代的性能测试，将结果输出到`System.out`流，命令行参数指定等待时间为2分钟。
+simple_java_84	验证`RedefClass`实例`myRedefClass`的私有、包私有和公共内部字段的值都为100，否则记录一条投诉信息。
+simple_java_85	使用命令行参数`['/path/to/classes', '60']`和`PrintStream`对象`logStream`执行`runIt`方法，测试类是否已被正确插桩；原类值为`12345L`，插桩后预期值为`54321L`。
+simple_java_86	在Java调试测试环境中，使用`['-v', '--no-strict']`等指定命令行参数执行`runThis`方法，并将输出定向到名为`debugOutput`的`PrintStream`对象。
+simple_java_87	在Java调试会话中创建VMDeathRequest，挂起策略为EVENT_THREAD，属性'testProperty'设为'deathEvent001'。
+simple_java_88	在JDI测试环境中，为线程`mainThread`和类`com.example.MainClass`创建MethodEntryRequest，挂起策略为`EventRequest.SUSPEND_ALL`，并带自定义属性`testProperty`。
+simple_java_89	执行测试运行器`runThis`，参数将等待时间设为2分钟，日志输出到指定打印流`testLogStream`，被调试程序名为'TestDebuggee'。
+simple_java_90	使用参数数组`['-v', '-p']`执行检查调试环境中源路径的测试，并将输出定向到`System.out`流。
+simple_java_91	执行'runIt'方法来处理调试会话的命令行参数，并将输出记录到指定PrintStream；参数数组为['suspend', 'log']，PrintStream变量名为'debugLog'。
+simple_java_92	类路径包含目录'/usr/local/classes'和'/home/user/java/libs'，请查找'com.example.MyClass'类文件的绝对路径。
+simple_java_93	在Java应用中为插桩执行jar代理，选项为'trace'和'log'，假设插桩对象名为`appInstrumentation`。
+simple_java_94	能否判断当前对象关联的本地函数接口库中的符号'getVersion'是否可读？
+simple_java_95	使用专用节点`InlinableNodeInstance`对内联对象执行通用操作，参数为'HelloWorld'；该操作绑定到节点库`NodeLibraryInstance`，接收者使用`ExportInlinedObject1Instance`。
+simple_java_96	在Truffle DSL处理器中，为调用转换生成CodeTree，使用非静态方法'convertValue'，该方法需要名为'frameVar'的帧参数，返回值由'returnValueCode'表示。
+simple_java_97	为Truffle DSL处理器中表示节点的类`NodeClass`生成内省信息，并指定该内省不是内联的。
+simple_java_98	循环条件被计算为true共150次、false共50次，该条件为true的概率是多少？
+simple_java_99	使用工厂对象`myFactory`和不可被收养的现有委托实例`existingDelegate`，为自定义库类型`MyCustomLibrary`创建委托库实例。

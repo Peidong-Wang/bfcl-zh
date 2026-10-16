@@ -1,0 +1,9 @@
+{
+  "archive": "bfcl-v4-zh-CN-dataset.zip",
+  "sha256": "da2d3f7418d43aaf83d596d8f6b528f31ecc18bf883221d88697a527e56128c4",
+  "dataset_files": 53,
+  "source_records": 4696,
+  "model_evaluation_run": false,
+  "translation_api_used": false,
+  "crc_and_byte_equality": "passed"
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "key": "291cc5bcf791adce2a0a928c8a93d29ec3a8427dc3693a4fe486e07d7802b866",
+    "source": "\nYou are a FoxMatrix AI Assistant. Your task is to assist users in providing details related to interviews, interviewer, interviewee/candidate, and the feedback of the interviews. As a chatbot, you should focus solely on FoxMatrix interview-related tasks and refrain from providing information outside this domain.\nBefore providing any answer, it is mandatory to verify all function's description and ask for the required parameters (properties) that user has not provided and are mentioned in the function description one by one only, do not assume or consider it by yourself. \nPlease ensure careful consideration of user input and responses as it impacts the business. Additionally, track previous user input to avoid asking the same question again. Your role is crucial in providing interview details. \nEngage users in meaningful conversations, address their queries promptly, and facilitate a seamless interview experience. Your communication style should be friendly and polite meant to answer questions based on a knowledge base. Don't make assumptions about what values to use with functions.\n"
+  },
+  {
+    "key": "229ffd5d5a07689e0c3a1d9c085c67b6f9513d6d5a515ad55345e8fc14d162a0",
+    "source": "I'm planning a series of long weekend getaways for the upcoming year and I need to know when they'll occur in my country. Could you fetch me the list of long weekends for Canada in the year 2023? I'd like to integrate this information into my holiday planning app."
+  },
+  {
+    "key": "d0d0c0cb6185fe31fc84d67b04d3051b37ab0911f20eb6da583ffe87253dfc29",
+    "source": "I have bought an orange for 10$ and sell it for 15$, what is the profit or loss for this?"
+  },
+  {
+    "key": "e79d99ecb2512c36c92f75fb1543d2336ada7ebbd8eab672f1a826c1ecf72c86",
+    "source": "Can you provide the latitude and longitude coordinates for latitude 37.4224764 and longitude -122.0842499 using the Geocoding API?"
+  },
+  {
+    "key": "203ceaa6e94f7569f4ecb99db0c96d2e388a90da24bdb194870765d9c37b6d72",
+    "source": "What's news in the two cities of Paris and Letterkenny?"
+  },
+  {
+    "key": "27a7f4726d85061d88654994ad7ce1a1a00b6dc110bcdbbc9e13410ce6bd00d7",
+    "source": "执行查询功能"
+  },
+  {
+    "key": "9de2edcb432a45542e0b4490a841b4c08e390cda23bc418586ac57361b5e22fb",
+    "source": "You are an Generative AI functions agent which generates the output mentioning which function to be called from the given list. Stricktly use the mentioned functions only to generate the output. \nUser Query: \"What is LangFuse and how can I use it in my genAI project?\""
+  },
+  {
+    "key": "1865b605aa459a3f5635e38a305a3e6ffccb38f3675bdfd0adf54a95a252594c",
+    "source": "What is LangChain?"
+  },
+  {
+    "key": "8475b02e51078076242134e9b949f213f07d6ff0575fa4b5a224a0e49089cee2",
+    "source": "Dog has 4 legs, Monkey has 2 and Rabbit has 4. How many legs do 10 dogs, 2 Monkey and 2 Rabbit have?"
+  },
+  {
+    "key": "b31d2f61b5784c4819389fb8bcfb9dca024807ae52c78cd7b3902afd0d7a9d78",
+    "source": "Can you recommend a dessert that pairs with korean fried chicken?"
+  },
+  {
+    "key": "dec2f900afc0e89ad74707b0513b2c022e501a05dde3799d5d9653d46b73dedc",
+    "source": "Hi, I am a Machine Learning Engineer | Kaggle Master. Connect with me on 🐦 TWITTER:   / rohanpaul_ai   - for daily in-depth coverage of Machine Learning / LLM / OpenAI / LangChain / Python Intricacies Topics. "
+  },
+  {
+    "key": "2a566f6951140aad3d1ea749bfd75c1b889963547b2de4092ad72d84eceb7ce0",
+    "source": "Go for shopping at 9 pm"
+  },
+  {
+    "key": "6e8e9fd7a26ff87b90abe40fae707329603f4089cdb22cbe348bc173febc8693",
+    "source": "ratings"
+  },
+  {
+    "key": "a6ce5043f7841d587534abd47593ab9a3a46bc9c120a421d8902baeda9b7e65f",
+    "source": "When will size 40 be ready?"
+  },
+  {
+    "key": "2faf78719239474e61c4bdb3c5db227eb12f0e1a0a90c23d24954da0f614c351",
+    "source": "Where is my order"
+  },
+  {
+    "key": "c25ad9efcab92e34e599f51e38185557865f3966a10cb7c6dfee1dd6fda974bd",
+    "source": "Produk ini masih tersedia.https://shopee.co.id/product/418901918/9568919778/"
+  },
+  {
+    "key": "aaad01721b6cfd06993f871b7913c399172feadc8ea0f12fa8f7a8a77178a8e6",
+    "source": "whats currently going on?"
+  },
+  {
+    "key": "9cd79742669644cb2c4e1c080492619af7a516a5e893887c162417b65add4e21",
+    "source": "Hi manush"
+  },
+  {
+    "key": "a33f1eaa6dde74881fb719324e3255265f37fdfe27291b3253b86099fec6aca0",
+    "source": "demo\r\n"
+  },
+  {
+    "key": "9c9ef411160af42c75714b289e045d303a8861f516e63d8f5309a4c98371b4f4",
+    "source": "Where is my order #123"
+  },
+  {
+    "key": "9532517cf873b2ed58eb5bd6c29159055f7a0ea479009fb7a7e74c55644e7ac6",
+    "source": "Do you have red cup?"
+  },
+  {
+    "key": "1afbb23dbd2771024b11cec69e1670a5ebf6f89c0d916375b31ed7087b70aecb",
+    "source": "Is the maroon color still being restocked?"
+  },
+  {
+    "key": "90cda4f0034c2e049382986665865283bf151f3c5bd2dc1f43a7cec2fbed5287",
+    "source": "Produk ini masih tersedia."
+  },
+  {
+    "key": "34f147ed3260e6240de93fc170714c055b60ebcfa2b614538561539c17ed56cd",
+    "source": "Is the white one available?"
+  },
+  {
+    "key": "3af89e00ecb288dac7e50df55d301c9cdae6731a054ea92ff42001704fe46da6",
+    "source": "ka kapan ready stok ukuran L sama M ?"
+  },
+  {
+    "key": "5e31fdc43d421f6a2331e2e984835b4735ee7cf52823e2e45ec679564a05ed22",
+    "source": "My package has arrived, I ordered size UK 34 but why is it different from the size 34 pants I bought from here before? There's a difference of ±5cm, so the new one doesn't fit me."
+  },
+  {
+    "key": "76e1a41094f5cfb3e28a46e91d4f341bdaafa33d3773aaf1a5c5373ff1d4d9bf",
+    "source": "Is the wonderland maxi water bottle not on sale? It's on sale on the website but the size is too big, I want to do a Co, Payment. Please make it on sale like on the website"
+  },
+  {
+    "key": "8c7e884b15ae0bc4925c6b982b13d30ad47fcdd41242dcd6447af7f8cad100cc",
+    "source": "I need to access my account, but I've forgotten my password. Generate an authentication token for my username 'JohnDoe'? My last password attempt was 'BlueSky123'."
+  },
+  {
+    "key": "bc8fe4b174e0dad7f715c651b3fbff1c1730e81032aebe9b30765b157023337a",
+    "source": "Hello, is size XS not available?"
+  },
+  {
+    "key": "d157f0c58a5a61984ea2f7aa3875fbecf0983e24885511a506596757b15c622c",
+    "source": "Apakah produk ini masih ada?"
+  },
+  {
+    "key": "d10acd9814974ba28a0b5dbfaa54e5ebce6fd1865daa5e8cc78fce644f9e6d0c",
+    "source": "I need to access my account but I've forgotten my password. Could you help me log in with my username 'john_doe'? I'll set up a new password once I'm in."
+  },
+  {
+    "key": "690756f85df9f32771cb7f44ff8a48dd98d6ef64a6feeb846a5a0d0105f88335",
+    "source": "I need to access my account but I've forgotten if I used my usual username. Can you try to create a new user with the username 'johndoe' and the password 'W3@kP@ssword!' to check if that works?"
+  },
+  {
+    "key": "14164c893f97459b45ba677212f378f2b39069caa003a84c80c3d5656e1ddb3d",
+    "source": "I want to confirm if the seamless pants are not available in all three?"
+  },
+  {
+    "key": "2f68bdba7ad9a9b9e23116791029a37feca1061c5cad5e262651c8bda7b30f9f",
+    "source": "Hallo, ukuran XS tidak ada ya?"
+  },
+  {
+    "key": "77ac1096ac527d164d9d69febd25495a67ca2bc97c68b803acd131752ed833e2",
+    "source": "Could you update my credentials? My username is 'john_doe' and my password now is 'secure123'."
+  },
+  {
+    "key": "24630f70f3a4433fbe4132dbf494a28e8a404b77703643ce914a93c5014d606d",
+    "source": "Gan celana dalam 1 lusin ukuran L ready g gan..?"
+  },
+  {
+    "key": "49a30b8d90215d6f3ce2785a008a282c7408865e58f64351d174424cd2061a2b",
+    "source": "Could you log me out? My username is JohnDoe and the password is JD@2023."
+  },
+  {
+    "key": "aa6e9df421dfe2789b90525900d63ac2bf1f9f889765416833bae0fede141f2e",
+    "source": "Hi, is this shirt still available in size L & 4L?"
+  },
+  {
+    "key": "5b251612b65ffeea71e1634d27a65fbeea2b47f043013b8f0b136181af5c790a",
+    "source": "I'd like to log out to go shopping. My username is 'john_doe' and the password is 'jDoe#456'. "
+  },
+  {
+    "key": "d43bb866b3b8ace32ff49b23587ae15708fc0473e0f240416be15ce9977b9bb5",
+    "source": "Is this product still available?"
+  },
+  {
+    "key": "2e7ebbda9d6536928b9577d9cbf96a713867631ac12049821fb89f7354b0290d",
+    "source": "I need to access my account, but I seem to have forgotten my password. Could you assist me in retriving the password I usually use?"
+  },
+  {
+    "key": "18370fd7208b4506fd0c21e8d1014571910fa6e7e6ff48575d634332b48bede6",
+    "source": "Kak, untuk pants itu ready tidak ya"
+  },
+  {
+    "key": "8883dd0fde89ae0cf25ce8b91600a104eadb421196231e4ac7d43e8f4c811449",
+    "source": "I'm trying to log into my account, but I can't remember if I have 'remember me' enabled. My password is 'correcthorsebatterystaple'."
+  },
+  {
+    "key": "1bc617cf6d5b7cb04665cd34d0141645757b0d8e18d504df78399574326e93c0",
+    "source": "Mau konfirm yg celana seemless nya nga ada tiga2"
+  },
+  {
+    "key": "758b52d11576d8b660637f2c8a0146a4aadfc5d3c6315bfd19a250ba543e81de",
+    "source": "Can you log me in? My username is JohnDoe! Also, set it to remember me on this device."
+  },
+  {
+    "key": "cac2d61d4005a22a275c60fd9f542b49a41f31651b07f33e92acc5b40a157d67",
+    "source": "Bro, are 12 pairs of size L underwear available?"
+  },
+  {
+    "key": "144009746ee92b4e709a22d742e2a9446d7534aea4f8e2ada0f31696e4ca278e",
+    "source": "Can I get authenticated for access?"
+  },
+  {
+    "key": "7d6995ef8745c029cb989e52443b99a30b985746d07f54cf97c78ac7499f33f0",
+    "source": "Is the pants ready or not?"
+  },
+  {
+    "key": "ea3c5e6d3da9096a9d213904d8a4b3b445cc86a7e00e290658206f51beffb238",
+    "source": "cek apakah stok untuk ukuran L dan M sudah di bawah ambang minimum dan perlu diisi kembali?"
+  },
+  {
+    "key": "bf505b2ba32a381f3e73b63a0a1d32cfe66749adee34d02a296428f0fcb80daa",
+    "source": "yang cream kapan ready lagi kak"
+  },
+  {
+    "key": "cb719086c18c4ced857053d13b6a13a4f1197689dcddc1c6342d926b339fc64e",
+    "source": "I love my maroon clothing"
+  },
+  {
+    "key": "f5e6b112185128d6f7c92e12186b793aee4ccbc4aad787ce78c49e6910305078",
+    "source": "Restock maroon color cloth."
+  },
+  {
+    "key": "3f4164d2e849682e95cdd65d3198af7bbd7cb15d5f22182ae61c2a92a4cf3653",
+    "source": "Should I wear black shirt?"
+  },
+  {
+    "key": "0f5e9272047bb0465b8b48882bf7f02aaf8c3a6179f63c8998c1c85bab1bc1a8",
+    "source": "I don't wnat black shirt"
+  },
+  {
+    "key": "64b058701e4ad72844679510eceeddbb4c954843924a6bdf28a6cd028a006194",
+    "source": "I'm looking for size 40 shoes. When will they be available?"
+  },
+  {
+    "key": "2ec90af486746807c1ed8d97bcfc3fac454f8034bd3e318dda22e26fc0280a1f",
+    "source": "Size 40 kapan ready kak"
+  },
+  {
+    "key": "7f1ab8637cba167039bc8a15df1e70e4eec9942e73ccb2ed78b9e678611eb9d5",
+    "source": "Warna pink kapan restok kak"
+  },
+  {
+    "key": "763a862e3f4ea3db04d40fd4bc4bbf441f5d14eeb22c157ca1d01d3f6eb61691",
+    "source": "Should I wear cream-colored clothes?"
+  },
+  {
+    "key": "8d2d7eecf3bfbdaafc0d8269974bcd5852894a192bf5fdbb72e46b59db326548",
+    "source": "When will the cream color be available again?"
+  },
+  {
+    "key": "bbe76ba2118da3e2d8e268ab5fb56fc613ddfd80e4f92720e984650ed4c91890",
+    "source": "Delete clothing items that are in stock and fall within the $50-$100 price range?"
+  },
+  {
+    "key": "5b4232535422d073eedd61a2a059fb9d797ca992a80c75bd03330214eb4e900e",
+    "source": "When will size 40 be available?"
+  },
+  {
+    "key": "f7af9a38d60e3f5112becd3366af29db375aca4604e3d60661c17d17df0b9d72",
+    "source": "I've received my order with ID 123456789, but there's an issue with the sizing. The UK size 34 pants I received have a 5cm difference compared to the previous size 34 pants I ordered from you, and as a result, they don't fit."
+  },
+  {
+    "key": "033a2a6b80a088c3fb2bebd3a2bf55d792f37a0130f1f19b27d98f0b5ff9d211",
+    "source": "I recently ordered a pair of pants and realized I need a size M instead."
+  },
+  {
+    "key": "f305458a9c00bfd20f3e583d54f16200d138f75f174c718215dfcfc253832a01",
+    "source": "I see that size M is still in stock, I want to exchange for a size M, I will bear the cost and packing. Please, I really want these pants for a long time, thank you in advance."
+  },
+  {
+    "key": "74bf688f6f5616c15ac5a44c665ceabd4fd2aaafbcf7eff4f0d4526f29565295",
+    "source": "Give me details about a pair of running shoes, specifically the insole. Include the price and availability for that item?"
+  },
+  {
+    "key": "4ffdfa19171bb2e2fc6b5e1aced7b0e7124081c8ad3938ce11bf67098d2a8004",
+    "source": "Can I know about its insole?"
+  },
+  {
+    "key": "1305e2991ecf9734c0736c492a92f8f317c0c9b68b8562a2c6438eb7ca1446f8",
+    "source": "create a new postgres server http://plgah.ca. Username is pascal"
+  },
+  {
+    "key": "57aa1227928472c855c4d4ab9001879218609af122cd64f86a84a7a3470bc0cd",
+    "source": "this is nonsense"
+  },
+  {
+    "key": "fcb83e9d34c87810b6e7586b6be1eee05ec8d0b012f94244420fd1a2687f0408",
+    "source": "bla bla bla"
+  },
+  {
+    "key": "375d8089619efffd0e8d7026cfd703546cab004ef4fd0a3a6895753d5cfd7591",
+    "source": "help me"
+  },
+  {
+    "key": "2c3df7e3fdfddc3c3721bec3d65fb7f3b4a9b43feb9a83422f15ebef88d856bb",
+    "source": "help me on SQL"
+  },
+  {
+    "key": "22d5a8392846b006eb14797990464b7dc10a24e32b35947452dc52ad900aa90b",
+    "source": "add a new sql server at http://plgah.ca"
+  },
+  {
+    "key": "876f0094af054cfc1706acc44bb1c43c4919416d104911c7bd2924a2f869df47",
+    "source": "help me about data artifex"
+  },
+  {
+    "key": "ab8d0ccc3eacac56f2328cae3e3248aedb2f9c1506110c759c90d1c0ea2b00b3",
+    "source": "add a new rich data service server at http://plga.ca"
+  },
+  {
+    "key": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+    "source": "hello"
+  },
+  {
+    "key": "c0ddd62c7717180e7ffb8a15bb9674d3ec92592e0b7ac7d1d5289836b4553be2",
+    "source": "hi!"
+  },
+  {
+    "key": "cecf7f7b74dba67aeff5a6558075dd651b1c803f51dda7d8885007b9b7cc43b3",
+    "source": "hi! I want to book an IndiGo flight"
+  },
+  {
+    "key": "7b21e39afaf7c1af58b094ca6388f5f7585d9a63ffb4093329f05ab6a4f2ba81",
+    "source": "Hello! Can you assist me in scheduling a flight with IndiGo airlines?"
+  },
+  {
+    "key": "01a9cc210a89367cd4697861f5ebc891ebe7db2fb55debb600e4286d7e75cc4c",
+    "source": "open project "
+  },
+  {
+    "key": "48d0b621ba152c66c26767402e0cb081dd80fb6f7d9f6280a7d1a113d3b01666",
+    "source": "create project in /Volumes/DataArchive"
+  },
+  {
+    "key": "e36c8a430980d5b86cf8b8b75644226ee7c55831a8861167d599402cb06bd4c7",
+    "source": "connect to SQL01"
+  },
+  {
+    "key": "b588a005445f4ab897ed92e759c79049890655668e8c663293eea1aa71b4613e",
+    "source": "list the server of type"
+  },
+  {
+    "key": "a845d2e2f669806eceaafb8206cfb303525b8a61ae830b16fbd45d5ceb77c742",
+    "source": "delete all txt files"
+  },
+  {
+    "key": "e174a46dc9bd89d8d7ff06c94073b66bfc2c25df2e7255b0245409d97ba2ebc7",
+    "source": "guide me"
+  },
+  {
+    "key": "7c7798cd46d0bfbd8e04c7f51fa2c93a24689cb8efeba73871fb057ba4e6f311",
+    "source": "\n        Do the following using the steps provided in their respective sections.\n        Steps:\n        1. clone the repo git@github.com:zelarhq/nodejs-welcome.git\n        2. analyse the contents of the repo and create following.\n            2.1 create/update dockerfile based on the analysis. \n            2.2 kubernetes yamls based on the analysis.\n            2.3 github actions file to build application on pushing to main branch.\n        3. add all changed file to git changes \n        4. commit / push to repo"
+  },
+  {
+    "key": "7358044651fcc361943e0162129f7c5d5215775a2d1c6a74bc598f2e90f45a57",
+    "source": "USER: <<question>> Give me an analysis trail for my project with component UUID AB1010CD and vulnerability ef903ac-893-f00 <<function>> [{\"name\": \"Returns application version information\", \"api_call\": \"version_api.VersionApi.get_version\", \"description\": \"Returns a simple json object containing the name of the application and the version\"}, {\"name\": \"Adds an ACL mapping\", \"api_call\": \"acl_api.AclApi.add_mapping\", \"description\": \"Adds an ACL mapping\"}, {\"name\": \"Removes an ACL mapping\", \"api_call\": \"acl_api.AclApi.delete_mapping\", \"description\": \"Removes an ACL mapping\", \"parameters\": [{\"name\": \"teamUuid\", \"description\": \"The UUID of the team to delete the mapping for\"}, {\"name\": \"projectUuid\", \"description\": \"The UUID of the project to delete the mapping for\"}]}, {\"name\": \"Returns the projects assigned to the specified team\", \"api_call\": \"acl_api.AclApi.retrieve_projects\", \"description\": \"Returns the projects assigned to the specified team\", \"parameters\": [{\"name\": \"uuid\", \"description\": \"The UUID of the team to retrieve mappings for\"}, {\"name\": \"excludeInactive\", \"description\": \"Optionally excludes inactive projects from being returned\"}, {\"name\": \"onlyRoot\", \"description\": \"Optionally excludes children projects from being returned\"}]}, {\"name\": \"Retrieves an analysis trail\", \"api_call\": \"analysis_api.AnalysisApi.retrieve_analysis\", \"description\": \"Retrieves an analysis trail\", \"parameters\": [{\"name\": \"project\", \"description\": \"The UUID of the project\"}, {\"name\": \"component\", \"description\": \"The UUID of the component\"}, {\"name\": \"vulnerability\", \"description\": \"The UUID of the vulnerability\"}]}]\nASSISTANT: "
+  },
+  {
+    "key": "3cbc6d263f7fad23ecc3cc206af052664729e1daafc62fe0685ae43e08c8372e",
+    "source": "Adds an ACL mapping"
+  },
+  {
+    "key": "a8f7461f7b114bf750b36babcb97745bc35812475dff48da2af2d07f590ec4cc",
+    "source": "Returns a simple json object containing the name of the application"
+  },
+  {
+    "key": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+    "source": "test"
+  },
+  {
+    "key": "fcb49cebd7f5a56804ce738150a8cfec57da4a62b4af3aca1f0f1c37c6f7e59f",
+    "source": "Creates a new policy"
+  },
+  {
+    "key": "ac5eeecb4211ae6997b5644e3332ed6f68e4ee4964ebc48b2678759c349f6fd1",
+    "source": "Returns a list of all services for a given project"
+  },
+  {
+    "key": "576e036045500583a08b703a69d42a92cb24dbdd753a8072b757ab2796ca7181",
+    "source": "\u001b[A\u001b[B"
+  },
+  {
+    "key": "4540a8b7ea5176a27ff2dd1b0e10e08abdaf3c418163bc70f0dbc8e583374d8f",
+    "source": "where is it?"
+  },
+  {
+    "key": "adaea86e1dedea0c16d37b19a63cf84ca4f23196e9cc8594ec15b3dedd4437bf",
+    "source": "Compute the headway of this image"
+  },
+  {
+    "key": "4aa551bec45231610b28b593725c7bbbfe18d8fb32ecf69c9e468d35dd60b9e8",
+    "source": "Tell me something about the scene in this image"
+  },
+  {
+    "key": "115049a298532be2f181edb03f766770c0db84c22aff39003fec340deaec7545",
+    "source": "What is the capital of France?"
+  },
+  {
+    "key": "f7fce15adbdb88ad0daced8d3bd99435c8418838d2bb9a7f85f376f2baf6c674",
+    "source": "Can I also asking you general questions?"
+  },
+  {
+    "key": "de959c57ae7171f9f8a2b570f6a1a426f4033251d3337357ccbf2c311c8ebc1e",
+    "source": "What is 2*3?"
+  },
+  {
+    "key": "cc3a15e66ed000bf2d8a642b1f1fe3d74d1aed2f176d067d7747d963ce82b67f",
+    "source": "GTive me the time to collision of the following image"
+  },
+  {
+    "key": "a9690fe30b6803309a404d956d6768bf7b41437936032543848c5dc3821798ec",
+    "source": "write a poem on kite"
+  }
+]

@@ -1,0 +1,100 @@
+default 命名空间中有哪些服务？
+能列出 cascade-sandbox 命名空间中的 Kubernetes pod 吗？
+帮我获取 'cascade-sandbox' 命名空间中的服务列表。
+能概述我在 U.S. Bank 的企业支票账户在 2019 年 10 月 1 日至 2019 年 10 月 31 日账单期间的情况吗？账号为 1-523-1713-5704，账户名为 SILVER BUSINESS CHECKING。期初余额为 $5,532.01，期末余额为 $6,737.37。其他存款合计 $7,132.76，取款合计 $5,927.40。
+有中码红色裙子吗？
+ID 为 12345-67890 的 40 码什么时候有货？
+查询我的订单当前状态，订单 ID 为 123456789，商品名为 Smart LED TV。
+我在 Shopee 页面看到这件商品，想买 30 件。查查库存够不够？链接为 https://shopee.co.id/product/123123/123144/，ID 是 123123。
+名为 Charlie Ji 的面试官的评分和评价？
+Noida 今天上映哪些电影？
+我的订单状态如何？订单 ID 是 #123，订购的商品是一双运动鞋。
+有商品 ID 为 SK123 的红色裙子吗？
+我注意到栗红色的 "V-neck sweate" 上周缺货了。查查是否补货，尤其是 M 和 L 码？请查询商品 ID：V-neck sweate。
+ID 为 12345XYZ 的商品还有 M 码红色的吗？
+能查查白色 iPhone 12 是否还有货吗？商品 ID 使用 iPhone 12。
+亲，ID 为 111 的 L 码什么时候补货？
+我最近收到订单，其中有一条 UK 34 码裤子。但是，和之前在你们店买的 34 码裤子相比，尺寸相差 ±5cm。能查查这款商品的尺码是否变了，还是出现了错误？其 ID 为 282828。
+我看到 ID 为 XY123 的商品还有 M 码库存。我想把手头的尺码换成 M 码。我会承担运费和包装费用。请确认能否办理。提前谢谢。
+我注意到网站上的 "Wonderland maxi dress" 正在促销，但只有大码。查查小码是否也能以相同促销价购买？
+你好，能查查商品 ID 为 ABC123 的衬衫还有 L 码库存吗？
+Noida 今天上映什么电影？
+删除待办清单中的第二项。
+我要从 Uber Eats 上 ID 为 McDonald's 的商家订五个 'burgers' 和六个 'chicken wings'。
+能从 id = McDonald's 的商家下单五个汉堡和六个鸡翅吗？每个汉堡的商品 ID 为 'burger123'，每个鸡翅的商品 ID 为 'wing456'。
+我需要为加拿大办公室新建一个 Postgres 服务器。服务器域名为 'http://plgah.ca'，数据库为 'finance_db'，用户名为 'pascal'，安全密码使用 123123。
+我需要添加一个新的 Postgres 服务器，主机地址为 'http://plgah.ca'，数据库为 'maindb'，用户名为 'pascal'，密码为 'securepassword123'。
+我需要为项目设置新的 Postgres 服务器连接。昵称为 'ProjectDB'，主机为 'http://foo.com'，端口号为 5432，默认数据库名为 'project_data'，用户名为 'user1'，密码我记得是 '12345'。
+配置一个新的 PostgreSQL 服务器，昵称为 'PrimaryDB'，主机为 'db.example.com'，端口为 5432，数据库名为 inventory，用户名为 'admin'，密码为 '1234567890'。
+提供 DartFX 故障排查的文档链接和使用说明。
+我需要连接公司的数据库。服务器名称为 'EnterpriseDB'，主机为 'db.company.com'，数据库名为 'sales_data'，我的用户名为 'dbadmin'，密码为 'secure*pwd123'。
+我需要帮助设置新的 Postgres 服务器。添加昵称为 'PrimaryDB' 的服务器，主机 IP 为 '192.168.0.10'，端口号为 5432，连接 'main' 数据库，用户名为 'admin_user'，密码为 'secure*pass123'，可以吗？
+我需要添加新的 Postgres 服务器配置。昵称为 'PrimaryDB'，主机为 '192.168.0.12'，端口为 5432，数据库名为 'main_db'，用户名为 'admin'，密码为 'securePass123'。
+能帮助讲解 DartFX 系统中的 'trading' 主题，并提供实际示例吗？
+我想用昵称 'PrimaryDB' 连接新的 PostgreSQL 服务器。主机为 'plgah.ca'，使用默认端口。数据库名为 'maindb'，用户名为 admin，密码为 '12341234'。
+能用西班牙语提供 DartFX 应用中 'charts' 主题的指导吗？
+设置一个新的 Postgres 服务器配置好吗？昵称为 'X'，主机使用 'http://plga.ca'，标准端口为 5432。数据库使用默认的 'postgres'。用户名为 'admin'，密码使用 'secure_password123'。
+我想了解如何使用 DartFX 的图表功能，请用西班牙语提供帮助。
+能指导 dartfx 应用的 'installation' 过程吗？
+我需要向 RDS 平台添加一个新的服务器配置。主机地址为 http://plga.ca，API 密钥为 12344。
+我想在 MTNA RDS 平台中集成一个新服务器，主机名为 http://plga.ca。API 密钥为 '1234324'。
+我需要为新项目设置数据库。能添加一个主机地址为 '192.168.0.5'、使用默认端口、数据库名、用户名和密码的 PostgreSQL 服务器配置吗？
+列出我们环境中的所有 PostgreSQL 服务器。
+我需要设置新的 PostgreSQL 服务器，昵称为 'PG1'，主机名为 'pg.example.org'，端口为 5432，数据库名为 'main_db'，用户名为 'admin'，安全密码为 123412。能帮忙吗？
+我需要向环境中添加一个用于移动电信的新 Rich Data Services 服务器。服务器标识为 'primary_db_server'，主机使用 '192.168.0.5'。另外，这是要使用的 API 密钥：'1234123'。
+我需要添加一个新的 MTNA Rich Data Services 服务器，昵称为 'RSD1'，托管于 http://rds.com。我已准备好用于身份验证的 API 密钥 '1234123'。
+列出所有 openai 服务器。
+我需要查看我们所有的 MTNA 服务器。能获取列表吗？
+你好！能帮我选择度假日期吗？我打算在 2023 年 9 月 20 日乘飞机出发。
+我需要为系统注册新的 MTNA Rich Data Services 服务器。服务器主机名为 'data.example.com'，API 密钥为 '12345-ABCDE'。还能给它设置昵称 'FastDataServer' 吗？
+我需要添加新的 PostgreSQL 服务器配置。服务器位于 example.org，昵称使用 'primary_db'，连接 'main' 数据库。登录凭据为用户名 'admin'、密码 '12345'。使用端口 5432。
+请获取环境中所有 PostgreSQL 服务器的列表。
+我需要向系统添加新的 PostgreSQL 服务器，详情如下：主机 example.org，端口 5432，数据库名 'inventory'，用户名 'admin'，密码 'secret'。
+能获取环境中所有可用服务器配置的列表吗？
+关闭 ID 为 'DA-12345' 的数据分析项目。确保关闭后归档，但不要向团队发送任何通知。
+能列出所有 '.data' 文件，包括子目录中的文件吗？
+能连接昵称为 'xyz' 的服务器吗？我们已经很久没访问它，需要确认它仍可正常运行。
+能在目录 /Foo/Bar 中为我创建新的 Data Artifex 项目吗？
+检查昵称为 'pg1' 的服务器的连接。
+能连接昵称为 'text01' 的服务器，并告诉我是否成功吗？
+与昵称为 'SQL01' 的服务器建立连接，时间恰好为 60 秒。
+能显示当前项目目录中所有扩展名为 '.json' 的文件吗？
+我想注册 PostgreSQL 服务器，昵称为 'PG1'，主机地址使用 'localhost'。服务器监听端口 5432，默认数据库为 'main_db'，登录凭据为用户名 'admin'、密码 'secure_pass123'。
+能初始化或打开位于目录 /foo/bar 的现有 Data Artifex 项目吗？
+我不太明白如何使用 list_files 功能。帮帮我。
+我需要注册一个新的 MTNA Rich Data Services 服务器，昵称为 'FastQuery'，主机为 rds.example.org，并关联 API 密钥 '1231231'。
+能显示当前项目目录中所有扩展名为 .sav 的文件，包括隐藏文件吗？
+能提供环境中当前设置的所有 PostgreSQL 服务器的列表吗？
+请显示我的所有 MTNA 服务器。
+能显示当前项目目录中的所有文本文件，包括隐藏文件吗？
+我需要某个特定主题的帮助。能用西班牙语提供 'database optimization' 的帮助信息吗？最好采用视频格式。
+能列出环境中当前注册的所有 PostgreSQL 服务器吗？
+能获取所有 MTNA Rich Data Services 服务器的列表吗？
+我需要注册新的 PostgreSQL 服务器，昵称为 'MainDB'，主机名为 'pg.example.org'，端口号为 5432，默认数据库名为 'sales_db'。用户名为 'admin'，密码为 'password'。
+能提供项目 SUPERFANCY 中组件 UUID 为 AB1010CD、漏洞 ID 为 ef903ac-893-f00 的分析轨迹吗？
+能为主体 ID 为 'user-123' 的用户添加对 ID 为 'resource-456' 的资源的 'read' 权限吗？
+能告诉我应用当前的版本，并包含应用名称吗？
+获取应用名称和版本。
+能提供应用当前的版本信息，包括应用名称和版本号吗？
+能告诉我应用当前的版本信息，包括名称和版本号吗？
+能确定我们的车辆到最近前方物体的距离吗？数据如下：本车横向位置为 10.5 米，纵向位置为 50 米，朝向为 30 度。所在车道 ID 为 'L123'，类型为普通车道。检测到多个物体，最近物体的边界框 x 坐标为 60.2 米，y 坐标为 12.3 米。
+如果本车速度为每秒 50 米、加速度为每二次方秒 -2 米，前车速度为每秒 30 米、加速度为每二次方秒 -1 米，两车初始间距为 100 米，多久后会发生碰撞？
+如果本车速度为 20 m/s、加速度为 2 m/s^2，前车速度为 15 m/s、加速度为 1 m/s^2，两车初始间距为 50 米，预计多久后发生碰撞？
+你是生成式 AI 函数代理，输出需要指出应从给定列表调用哪个函数。严格仅使用所列函数生成输出。\n可用函数：['multiply', 'add', 'sub', 'fahrenheit_to_celsius', 'celsius_to_fahrenheit', 'duck_duck_go']\n'LangFuse 是什么？如何在我的生成式 AI 项目中使用它？'
+QUERY：我的 3 位朋友每人给了我 10 欧元，我现在有多少钱？\n可用函数：['multiply', 'add', 'sub', 'fahrenheit_to_celsius', 'celsius_to_fahrenheit', 'duck_duck_go']
+提供项目 SUPERFANCY 中组件 UUID 为 AB1010CD、漏洞为 ef903ac-893-f00 的分析轨迹。
+查找一些关于 'the history of kites and how they're made' 的信息。
+生成一幅描绘 'a man wearing a red dress' 的数字图像。
+能使用提示词 'the current prime minister of India' 搜索，并确保信息来自 2022 年之后吗？
+我想读一首关于风筝的诗。能有创意地写一首吗？提示词使用 'I'd like to read a poem about kites. Could you generate one with a creative touch?'。
+如何泡茶？用完全相同的问题查询合适的 llm：'चाय कैसे बनाएं?'。
+你是可以访问多种函数的有用助手，应根据需要使用函数。你最近一次知识更新是在 2021 年 10 月，因此应使用搜索引擎获取实时信息、具体细节以及 2021 年 10 月之后发生的事件、新闻报道和进展的事实。适用时使用可用函数完成任务。\n\n系统信息：当前日期/时间：04 Mar 2024, 09:15 PM（UTC 时区）。知识截止日期：31 October 2021。\n\n----\n\n“印度现任总理是谁”
+'chai kaise bnaye'，将这段文字原样查询 llm。
+Apple 在 NYSE 的股价是多少？
+英国伦敦的温度是多少？
+我想了解英国伦敦目前的天气状况。能提供这些信息吗？
+能告诉我 AAPL 在 NASDAQ 的最新股价吗？
+能告诉我英国伦敦当前的天气状况，包括温度、风速和降水情况吗？
+能告诉我 AAPL 在 NASDAQ 的当前价格吗？
+能告诉我伦敦目前的天气状况，包括温度和风速吗？
+能获取 AAPL 在 NASDAQ 交易所的最新交易价格吗？

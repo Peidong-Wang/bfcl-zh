@@ -1,0 +1,402 @@
+[
+  {
+    "key": "874cc8ff381f178be914bf5b49b407c5ee13588acccc156229719f7a5d7edd58",
+    "source": "Find me homes available for purchase in San Francisco, with at least 3 bedrooms and 2 bathrooms? I'm not concerned about having a garage or in-unit laundry."
+  },
+  {
+    "key": "fe23984ef8511f041ea38fc8f62b1a740fc8653eb395428910337ef2c3df43b2",
+    "source": "Buy a house in San Francisco with at least three bedrooms and it must have a garage. "
+  },
+  {
+    "key": "31bd161b7d284d8670b2a132b1e0c2998266241f1e87f70cb7014f8cc6ccd539",
+    "source": "find homes available for rent in San Francisco with four bedrooms, three bathrooms, and no garage or in-unit laundry?"
+  },
+  {
+    "key": "8cfa6b9120d990e2cb3373ef008261878274a6e14b4b22fba6ecdd01f2f9aa97",
+    "source": "I'm interested in purchasing a home in San Jose, CA with at least 3 bedrooms, 2 bathrooms, and preferably with a garage."
+  },
+  {
+    "key": "4815af99b794c80ac08a3ae7bda94f51781703269c8886c7ebde54db2b1856ae",
+    "source": "look for a 2-bedroom, 2-bathroom apartment to rent in Denver, CO? I don't care about garage space, but I'd really like it to have laundry facilities in the unit."
+  },
+  {
+    "key": "286197debf45a31020c7360438aa28ffd817204e1e65a1172673e3023e1b205b",
+    "source": "I would like to find a hair stylist in Berkeley for me?"
+  },
+  {
+    "key": "bfa2957d1910cb556dc9fb5da38c5740891c9ccfa5fde6cc17773da8f48fde51",
+    "source": "I want to go to a Salon which should be an Unisex one. I am now in Walnut Creek so please search for the one located here."
+  },
+  {
+    "key": "9a258cb39fda90f1fbe5a8fbedf5f0733c112628893ca98e7eec8868ae31cc4c",
+    "source": "I am in desperate need for a haircut, can you help me find a salon in San Fran?"
+  },
+  {
+    "key": "d0085473f56f5d64b6b87ffb4341fe262366c12b1d32fe9b5dc71125077c06e4",
+    "source": "Is there a rental car available in London on the 10th of March onwards picking up at 10am till 17th March, any car will do?"
+  },
+  {
+    "key": "9d5823659289df365ae2d1eee203175c5dfdff05bb6f453193227c9a6af54968",
+    "source": "I have friends coming over from new york, I'm looking to rent a Sedan in Los Angeles from April 14th, 2023 until April 18th, 2023."
+  },
+  {
+    "key": "a257e6036cd12e8e3f9ca8ae8a9ca30b850ab6440b289dfa386a3ddadea12e47",
+    "source": "Can you locate available sedans for rent in Long Beach with a pickup date and end date of 2023-04-12 at 2pm?"
+  },
+  {
+    "key": "286abfd3f0e9c0a193cb6ff7b7f91ae4adb946b6fdc007f9bb9d29e42ac0822d",
+    "source": "I need to rent a car in Los Angeles. Find what's available from April 18th 2023 at 10am until April 24th?"
+  },
+  {
+    "key": "ae003e5256230fcf77eeae0dd2d188ec90ca7ad1a1cc0b712741151bbd2f2e10",
+    "source": "I'm planning a tour and will need a rental car. Find out what cars are available in Los Angeles from May 15th with a pickup time at 10:00 AM to May 20th?"
+  },
+  {
+    "key": "f972206c98ef2e0f6495a7be3bc1ebefd39fe26ad5f4716b0131929ec614af51",
+    "source": "I'm planning a trip to Los Angeles and need to rent a car. I'll be getting the car on April 8th 2023 hopefully at 10 in the morning time and returning it on April 10th. "
+  },
+  {
+    "key": "d737d42a0503ef72a7d41212bf06ee92acf91063ad3de760d31614b148bbad3b",
+    "source": "I'm looking for a music event in New York this weekend. Any suggestions?"
+  },
+  {
+    "key": "b82c4ce14520552b4fce89edaac553d60a2e2c55570043e52c36ca04006fcb15",
+    "source": "I'm looking for a good time in New York. search up some music events happening there this weekend?"
+  },
+  {
+    "key": "759fb5639922c1cba029bbffd85100b0d0f04ab802bd2cf1ff5d262ed7a8cfc3",
+    "source": "Find any Theater events in Seattle, WA?"
+  },
+  {
+    "key": "d3d6f6196a0f2a5bb6e304ccc136a6fabb842beef73e5cc4a97e9e24f3f9cc2a",
+    "source": "Is it possible for you to find me something interesting which I can do? I am interested in things around Philadelphia happening on 7th of this march 2023, and more specifically I enjoy Musical performance."
+  },
+  {
+    "key": "10fda1163970eca4f5774a218f1081bfabb53072bb046f71e999a6dcbc98b249",
+    "source": "Can you look up any theater events happening in Seattle, WA on the 7th of march 2023?"
+  },
+  {
+    "key": "9181620899d3f1956c6df9cc4ebd953a38410ea616139f8a8044c437ee0edd12",
+    "source": "finding a musical performance in New York scheduled for the 12th of march 2023?"
+  },
+  {
+    "key": "5c135e6bbe70e90446da2997835d1d8ca95e507917037122638d9582f19617d6",
+    "source": "Hi, Find something interesting for me to do in Sacramento ?"
+  },
+  {
+    "key": "9d26112259d66ee89dd9de31cd198b6a2badefe3f715ad18b43c39777b4cbf96",
+    "source": "Hi, Find Theater events in Los Angeles on the 4th of march 2023, march 2023 is march 2023?"
+  },
+  {
+    "key": "f543360bf59755ecc52b128af058f69df755fee4ec0d5ee42735d8142b75a658",
+    "source": "I'll be in New York City on the 9th and I'm interested in attending a Drama. Can you find any theater events for me on that date? currently is sep 2023"
+  },
+  {
+    "key": "f7baf582880ceaa3e648ef1df922f8b783de9fdf9e01f87440bc1a5d2c891f89",
+    "source": "I want to find what cultural events, like concerts or plays, are happening in Las Vegas on March 6th? current it's 2023"
+  },
+  {
+    "key": "5e25a807b2cd861ebd0564ab265fc9ae45b361f811d2d42e27c48d4a16f9bced",
+    "source": "Could you search for any music events happening in the big apple this weekend?"
+  },
+  {
+    "key": "1c8c9cd3b7a20ec32befa70188683d3b3518f5515004dcad89f873dcb41a3fa0",
+    "source": "I'm getting Cabin Fever from being cooped up at work and home. find a theater event for me on the 9th of march 2023 in San Francisco? march 2023 is 2023 march"
+  },
+  {
+    "key": "d30e8e110d84abce4ec4736c5a8d43a4655928280bb84cc43a91c3c144c65439",
+    "source": "I'm looking for a music event in Fresno, CA for me and a friend to attend on the 10th. Find one? march 2023 is 2023 march"
+  },
+  {
+    "key": "db12d22c44a077a01513b6b4d4bbfabb29dcb73f36b9e4d4b004f37b2f25520d",
+    "source": "Can you find any music events happening in Seattle, WA on March 11th? this year 2023"
+  },
+  {
+    "key": "c6cbebacb18ec0af0787c28d35717075f76dfb06a4ceb1ab521d7ca76938ffa8",
+    "source": "I'm looking to get a haircut in Berkeley. Find a salon that caters to both men and women?"
+  },
+  {
+    "key": "34cde4e7e6a89274a9a8060ac0a1d5b3f89e109117a9764d4746c24589f44559",
+    "source": "I would like to find a hair stylist in Santa Rosa, CA. "
+  },
+  {
+    "key": "2611b5d08f494b1e14b264f9650e19f6c1559bb5ab9671221729965e62ca3414",
+    "source": "Can you find a unisex hair salon in Berkeley for me?"
+  },
+  {
+    "key": "e5175c6247ee76b00e6d437ceb2d5c956a2a20ca61a5731bf8961fb950f4061a",
+    "source": "i didn't do my hair cut for a long time.will you find me a unisex salon in San Jose."
+  },
+  {
+    "key": "7701a5a98217a403c93a32ca00c8aad8c09d9dd9f17baab0e5a1a86304398d0a",
+    "source": "I'm looking to update my hairstyle and need to find a salon that can help me look my best. Find me a salon in Berkeley, CA, preferably one that is unisex?"
+  },
+  {
+    "key": "18996bbca671ff2d1706d6383e30646b52d919703a516c392b66df574e270f5e",
+    "source": "I'm in the mood for a good laugh. Explore some Comedy movies for me, maybe something with Jim Carrey in it?"
+  },
+  {
+    "key": "af5fe2e3c651bbb56b33c142c51603098c78e55b81de3d5588e74dda8f02b920",
+    "source": "Can you help me explore comic movies that feature Vanessa Przada? I'm in the mood for some humor."
+  },
+  {
+    "key": "0173d0db7f06c67239056f3a1492b8361f46395eb3ff91a30d382ad1cf406225",
+    "source": "Can you explore scientific fiction movies that are available online?"
+  },
+  {
+    "key": "b0de80e13ab43db6c38880583c9e7fcf9b2ab6bc705e4381aff30857322c509c",
+    "source": "I'm in the mood for a Comedy movie with Jim Carrey. Which ones are available?"
+  },
+  {
+    "key": "1483138ed03830736ad423b2a51625796936012cf5226f3fe3d3e0b9fa0e4b70",
+    "source": "I'm in the mood for a Fantasy movie with Bret McKenzie. Could you suggest some options for me?"
+  },
+  {
+    "key": "ff1f0a92a80f440b705cb626309e4bf22853a226cc9920d37bb30a15262e59e4",
+    "source": "Explore some Sci-fi movies, preferably with actors like Chris Hemsworth or Zoe Saldana?"
+  },
+  {
+    "key": "32d2f4e0d7c23e5e9a727245cc1aa49b22778198828721b8f27bef1269410597",
+    "source": "I feel like watching an action movie tonight, maybe something with Bruce Willis in it. Can you "
+  },
+  {
+    "key": "4de61f58147c38f2548deff56d1dee938a6a5fc9d4cee3187cfa781de5ad0089",
+    "source": "Can you find me a fantasy genre movie that features Timothy Bateson?"
+  },
+  {
+    "key": "179ec6796d6c0aafa6cf1eb4a7664a04300fa5a5b294ab81b3e8a85256af2353",
+    "source": "Find me a Horror movie that features Christopher Lee?"
+  },
+  {
+    "key": "651c71657a1747960a4774d644c256864bc0b5d379e7b535cf2f336786efe061",
+    "source": "Find me a Horror movie with Arthur Lowe in it?"
+  },
+  {
+    "key": "924ee50c78816646de807b2faa8badf31322366a64cad687ecc7c2d6889cae9a",
+    "source": "I'm in the mood for a Sci-fi movie, preferably one that stars Bobby Nish. "
+  },
+  {
+    "key": "6894cae0bd72ace9310f0b31cfdc8d7e686880f7a34367a817c4164a0e0086e8",
+    "source": "I'm interested in watching an animation film that features Christina-Ann Zalamea. Can you find some options for me?"
+  },
+  {
+    "key": "7ef6297f39f75c9fdfcb1cf96dc1cd4d07857cb67e07a6990aa157a0618cbaa9",
+    "source": "I'm in the mood for a drama film that features Dan Bittner. Could you suggest some options for me to watch online?"
+  },
+  {
+    "key": "33a3c95786df0b2ffd86fa4496aa5889ed18233eba2e1c75264301f8c38d9689",
+    "source": "I'm interested in exploring Offbeat genre movies starring Inbal Amirav. Can you find some options for me?"
+  },
+  {
+    "key": "df661ab907dbbfb3b9bda33f3a99c6499f78f93bd8a5655ad12bbd0f3aab358e",
+    "source": "Find movies in the Comedy genre that feature Ellise Chappell?"
+  },
+  {
+    "key": "1e3b1d92406663be1eb35db14e75e68f50c7d8ff9574a5da0497ee8068aa1194",
+    "source": "I'm planning a trip to London, UK. Could you search for hotels there? I'm looking for a non-smoking room and don't care about the number of rooms or the star rating."
+  },
+  {
+    "key": "5e388d2e44c1ef3e70b7ef9a6cda1caf32f2249c41bad52c24a9fd565200e721",
+    "source": "Can you search for a 3-star hotel in New York City that allows smoking and book two rooms for me?"
+  },
+  {
+    "key": "a7d7a0129f9fbbb309d86965f358402d226c79a80a301f92ff3f2b19818da2cb",
+    "source": "I'm looking for a hotel in San Francisco. Can you find one that has a single room available?"
+  },
+  {
+    "key": "57123415194fd48222b0d54a6767d35985e65422db3dff0ca4d46a3ce2144366",
+    "source": "Search for a four-star hotel in Toronto, Canada? I would like to reserve one room."
+  },
+  {
+    "key": "1b89cb051878efcc269112573244b96d99aca897e2b8f193638faf69573ff6bc",
+    "source": "I'm planning a trip to Washington D.C. and need to reserve a room for my stay. I'd like to check in on April 21, 2023, and will be staying for 3 nights. Find me a place?"
+  },
+  {
+    "key": "e849b7c5e2ef86ce285356b770242df6c42bf8cdc3346142d5d2f81329f32fc6",
+    "source": "Can you search for a hotel in Delhi, India for me?"
+  },
+  {
+    "key": "7ca2767559f513ee4215e9e6fe5ff2219f9616182020fb68567c63d6a7bb6b6d",
+    "source": "I'm heading to London for a conference, and I need to book two smoking rooms in a hotel there. "
+  },
+  {
+    "key": "adf71c78e3f5c4a165085f3bb952e63ca576d55eafca4a69e6f74a9d2ef77ed0",
+    "source": "Find a hotel in Kuala Lumpur. I'm not too concerned about the star rating or whether smoking is allowed."
+  },
+  {
+    "key": "82ba5d839ce7c5f978be5754c750e8aa753d19010729ed2222cda90728301edf",
+    "source": "Find a hotel with a 4-star rating in Nairobi, Kenya."
+  },
+  {
+    "key": "a3e639bf1eb89bd8627050c8bdd08e74ddb9f8bdb90ca72fbf56d64e69274d79",
+    "source": "Can you find me a three-star hotel in New York?"
+  },
+  {
+    "key": "ad2066693a9866386bd01cb131a06a3e624f9c0e7ada8e3f447935697f8b8c9b",
+    "source": "Search for a hotel in Sacramento in califronia for my upcoming trip?"
+  },
+  {
+    "key": "51c2680366296624b9841c855d2181b0a0fbac47d33e70328bc2fedb744ce4e8",
+    "source": "I'm planning a trip to Paris and would like to find a 3-star hotel. I'll need one room. "
+  },
+  {
+    "key": "5a23614552f0d1cdf504d13aea5a8f94b14970088872ba535339562fb22e763f",
+    "source": "Search for a 4-star hotel in Sydney, Australia that allows smoking and has two rooms available?"
+  },
+  {
+    "key": "c1d70327ec4dfc379413e9027cbaee5f7d1d496bf4e27b38e16f866698a9871e",
+    "source": "I want to find a Music event happening on March 14th in New York."
+  },
+  {
+    "key": "70734a4d2a99de2db12996e009080f3c17e7384e52676534bd58719ea85b16c8",
+    "source": "I'm looking for a Theater event in Chicago, IL on 2023-03-13. "
+  },
+  {
+    "key": "ac791becc233344d65232b2a590276a2823d07a731c0955902fbee89ec8fd522",
+    "source": "I'm interested in attending a Music event in Philadelphia, PA on 2023-03-10. Could you locate one for me?"
+  },
+  {
+    "key": "8212ab57117659344db5387f1a6cf2ee785df7a05a72ac9ec71274f11239bd24",
+    "source": "Can you find me a Music event in Portland, OR that's happening on March 14th?"
+  },
+  {
+    "key": "5e19d82a77df4a3c0de2d4029e54002c2acc75faf12443cb2124973ce856b45b",
+    "source": "Could you assist me in locating a Music event in Philadelphia, PA for this coming Saturday 2023-09-30?"
+  },
+  {
+    "key": "74eccdcb8c6a7418c2f7867e700c9b78c2239535ab991a31f98b8593ce6d27fb",
+    "source": "I'm interested in attending a concert this weekend. Find some music events happening in Los Angeles?"
+  },
+  {
+    "key": "af633bf74bb22a428bae792e50315af19745538cdde6ecb60d32118cd8515620",
+    "source": "I'm interested in attending a Theater event in London, UK. Could you look for any plays happening on March 10th?"
+  },
+  {
+    "key": "8e2ca96abef030ffe60c6a720b078e711d96063871728442cf0414d8f86530c1",
+    "source": "I'm interested in attending a music event in Portland, OR. Can you locate any concerts happening there this weekend?"
+  },
+  {
+    "key": "99c84c51669814e6e688c51cbdac79d63a2b8950fc4bfb7d5b4bec87e6862e9d",
+    "source": "Find me a Music event happening in San Diego, CA on 2023-04-08?"
+  },
+  {
+    "key": "cc3e2822f88ec72a05d52409845dd9d9edceb1d4b448afe22a6011a77fc7a3c8",
+    "source": "I'm looking to attend a theater event in Los Angeles on March 11th. Find available plays on that date?"
+  },
+  {
+    "key": "0f9051fef97332627370fb9f1c77f35a476d3105b0a929081f604335dabe4933",
+    "source": "I'll be in Los Angeles on March 10th. Can you look up any music events happening on that date?"
+  },
+  {
+    "key": "24adf7ae3f62537847e50974728d24b1ac32033202a4f4d4c5bce2e05b918b80",
+    "source": "Can you find me a Music event happening in London, UK on the 2023-06-12?"
+  },
+  {
+    "key": "3d4d28c1dfef14875be05cb996d8d4d16ffa162c2d7526651c2908b9712fb3ed",
+    "source": "Can you find any Theater events happening in Long Beach, CA on the 12th of march 2023?"
+  },
+  {
+    "key": "b33eb7e7673924d2fa5bb417fff8a204066e741ca8ae8fc0c1d2ff196a5986f3",
+    "source": "Can you initiate a payment request to Mary for $200 and make sure the transaction is private?"
+  },
+  {
+    "key": "a6ac4c3f9c882be1fd2e13b7d79bf1025f980158c4da31d9662cbb87d8dddbbe",
+    "source": "Could you initiate a private payment from my debit card to my landlord's email for $154?"
+  },
+  {
+    "key": "dbfcbb95884d78f9e86b62c55fb2126136cb37c4155928f1130372adf4eedd88",
+    "source": "Could you send $29 to my friend Thomas's account using my credit card?"
+  },
+  {
+    "key": "0d2c15183015b4a5e1194f80093b98f0a094731801e0f041e2a8e3f1dc969558",
+    "source": "My friend owes me some money. Could you initiate a private payment request to Wilson for $42?"
+  },
+  {
+    "key": "fa11ecc5ea87d833752874e5ababbfb085bf63dddf34286e950539d931a0e5c7",
+    "source": "Could you initiate a payment request to JohnDoe@example.com for $150.25, and ensure that the transaction remains private?"
+  },
+  {
+    "key": "ed1a7fc65ca9be85fa0a70da163d8233cab4a8597eadced539572330eae04020",
+    "source": "Can you initiate a private payment transaction for me to send $200 from my debit card to Amelia's email amelia@example.com?"
+  },
+  {
+    "key": "99499c094f50f00d3ad89fdda5972c28cf035e052393f38f30c3a85669bd1e48",
+    "source": "I would like to request a payment of $83 from my friend's email, johndoe@example.com. Could we keep this transaction private?"
+  },
+  {
+    "key": "2b40fe55f6549c3adb6dcae4d85bd6bab5e2b0d96c877fa9b5c42c21f6ad0829",
+    "source": "Can you initiate a payment to Diego's account using my app balance for $200, and ensure the transaction is private?"
+  },
+  {
+    "key": "dd4e6665447c7075b7e3301591abf7bb8b068ef3fc279466f2b1f9cc90a610dc",
+    "source": "Could you initiate a payment request to Diego for $108?"
+  },
+  {
+    "key": "8197fd807a73f533704d30b76aa6d7a5af501318122801a199a1076938f0ce51",
+    "source": "Can you send $250 to Rachel's account using my debit card, and make sure the transaction is private?"
+  },
+  {
+    "key": "9e65d142bcab0f5e9bb4dfcc5aec256801f17617304f673c11def3df049cba7a",
+    "source": "Could you initiate a request for 15500 cents from Amelia's account, and set the privacy of the transaction to public?"
+  },
+  {
+    "key": "72b329ff649c5279b2fd7ec582a6cfd07fef90d0b997cff159d0ab20a598b56d",
+    "source": "Can you initiate a payment request for $45 to the customer who bought a basket from my online store? Their email is customer@example.com."
+  },
+  {
+    "key": "c6343c1fae5a453454f957004c276f4204b02c7100004edb7ca406b6956dd0f6",
+    "source": "Can you provide me with a list of songs from the album 'Welcome To The Fishbowl' released in 2015?"
+  },
+  {
+    "key": "dad6b9f731105947188969ac87eeaab93a89e74c9a31a46b2e6a645c79b74a1a",
+    "source": "Can you find me some Rock music released in the year 2015?"
+  },
+  {
+    "key": "be8845cdcf8bfe52815df17d3fccf14fc7ca8744f05df561a5245d3ba45d714a",
+    "source": "Can you find me a list of country songs? I'm open to any artist and year, but just want to explore the country genre."
+  },
+  {
+    "key": "7370f53a7b80b086734811a9aaeb276613d705460dc79ec2271f4ae339c65226",
+    "source": "Can you find some Electropop songs released in 2019 for me?"
+  },
+  {
+    "key": "c932cff241a7f13512a1fd010983cd567d7139474bc935079877c08920d4fefc",
+    "source": "Can you retrieve a list of Electropop songs that include tracks by Tove Lo?"
+  },
+  {
+    "key": "a288faa2eaa86fb950145123061f8e5591258d157392e3031e1d93ac303182c6",
+    "source": "Can you play some rock songs by Thousand Foot Krutch in the kitchen?"
+  },
+  {
+    "key": "975253aff9b39e0059e488caa652153e232776d3670131f5e282eb84835cc5fa",
+    "source": "Could you locate Holiday genre songs from the album 'Everyday Is Christmas' by Sia for me?"
+  },
+  {
+    "key": "30cf5803401d149c79e9a46f8e91f674a9ac1e6f05ed2b76d6f57aac4acc625b",
+    "source": "I would like to hear a track from the album 'High Expectations', or alternatively, any song that came out in 2019."
+  },
+  {
+    "key": "d4b8bcf13ece6c6fedb07e4c2e978eca91d7ec15999814940c8ee72685b39ae3",
+    "source": "Find me tracks by Cody Johnson from the year 2019 from his album 'Gotta Be Me'?"
+  },
+  {
+    "key": "b6a52be44380ea975ac26b76fcbdb40c0c818aee7870b5c9d02576b22ae6f9a0",
+    "source": "Can you find a song from 2018 by Jess Glynne?"
+  },
+  {
+    "key": "7e3daf2f7feb1bc3e7d83c4b30bfb5c2ca921c45fe15df2974ec24eabd7a70bd",
+    "source": "Can you look up a list of Pop songs, and if possible, include tracks by Tyler Shaw?"
+  },
+  {
+    "key": "de163f357ee206c7b3d98a99d4f70233aab6139410a2f1a6da567f102d293b8f",
+    "source": "Can you look up a rock song by Radwimps that was released in 2016?"
+  },
+  {
+    "key": "71f6799bfc954c655b0c67ab18634ecdf4110a54e13850cfc8ea7cb4985be6cf",
+    "source": "I feel like dancing. Could you look up Pop music, and then play a track by any artist on my living room device?"
+  },
+  {
+    "key": "485883b4071a6cccd441194e7ce23684ba4d05c9eb7543be3fc2c0dd4c6d0026",
+    "source": "I'm interested in exploring Madonna's music released in 2019. Could you compile a list for me?"
+  }
+]

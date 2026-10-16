@@ -1,0 +1,32 @@
+[
+  {
+    "key": "2e84498bb02adcd3bf8b50e05696e94c7c02ed7a18a3fbea72b5bd833b6e8e4b",
+    "source": "我可以创建一个名为'DevelopmentEnv'的workspace，基于'feature-branch'吗？",
+    "reason": "原文已是中文，或仅有技术标识符（ID）"
+  },
+  {
+    "key": "3bd3d0e2929f2b4cbd8cd7d19473697ae72121c3c3163f7e4deb665523b90336",
+    "source": "我想在 mbox 系统中创建一个新的工作空间，基于 git 仓库的 master 分支。工作空间的名字叫做 'DevelopersHub'。",
+    "reason": "原文已是中文，或仅有技术标识符（ID）"
+  },
+  {
+    "key": "0ed1906e76c65fce67dc967123bffdcd802c6a5ff967f62f224cc41962b18155",
+    "source": "北京后天的天气如何？",
+    "reason": "原文已是中文，或仅有技术标识符（ID）"
+  },
+  {
+    "key": "2d26f8b2e20ba4fe02fa0589a23e361fcbad5f3916437af8b06b2cbd82979f67",
+    "source": "获取阿迪达斯的工单",
+    "reason": "原文已是中文，或仅有技术标识符（ID）"
+  },
+  {
+    "key": "8dcff5f743d2038d3cb89578da4e8d34405777a5d271308c4c87baaf222dbdd4",
+    "source": "获取阿迪达斯的p4工单",
+    "reason": "原文已是中文，或仅有技术标识符（ID）"
+  },
+  {
+    "key": "0ca0f0002be01ccf36ba9fc925fd26455ec1f8adf2a25a42ac6050248c6820d0",
+    "source": "ID 3726",
+    "reason": "原文已是中文，或仅有技术标识符（ID）"
+  }
+]

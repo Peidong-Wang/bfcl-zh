@@ -1,0 +1,2 @@
+哦，我记性真差，是去 Los Angeles。确保通过我的信用账户处理，使用 ID '6789' 和访问令牌 'abc123token'。以 Carlina Yates 的姓名预订，所有详情须与此一致。不过，我刚意识到该日期无法旅行，需要取消这趟航班的预订。最后，既然去不了 Los Angeles，我想发推文表达对计划取消的失望，内容可为 'Disappointed over my canceled plans.'，使用用户名 'john' 和密码 'john1234' 认证，添加话题标签 #TravelWoes 并提及 @CarlinaYates。请帮我准备。
+使用已关联信用卡，ID 为 'card_123456789'。

@@ -1,0 +1,100 @@
+应用版本是什么？
+应用版本是什么？不要添加参数！
+能获取我的项目 ID 为 SUPERFANCY、组件为 AB1010CD 中漏洞 ef903ac-893-f00 的分析轨迹吗？
+版本？
+什么版本？
+版本？
+版本是什么？提供完整的 API 调用。
+提供 bandana 项目的指标。使用版本号 5。
+我想获取项目 bandana 的违规徽章。版本为 5。
+我想获取项目 ID 为 badae 的违规徽章。
+返回项目 '123e4567-e89b-12d3-a456-426614174000' 的 CycloneDX 格式 VEX。
+获取项目 ID '1a1a-c6' 的 VEX，并导出为 CycloneDX 格式。
+查看 'Orion' 版本 2.1.3 的详情。
+我需要项目 my_version_proj，版本 1.2.3。
+告诉我应用当前的版本信息，包括名称和版本号。
+将图片旋转 30 度。
+把它转动 20 度，并将它冷冻至摄氏 40 度。
+我的健身课程是什么时候？
+我忘记旅行日期了。搜索 2023 年 4 月 1 日至 4 月 30 日之间的安排。
+河内天气怎么样？
+San Diego 的天气会怎么样？
+能告诉我 Vancouver 在 2023 年 4 月 4 日的天气吗？
+我需要查看英国伦敦 3 月 12 日的天气。现在是 2023 年。
+Philly 下周三的天气会怎么样？今天是 2023.3.1 星期一。
+告诉我纽约州纽约市下周一的天气。2023.4.17？
+请查询加利福尼亚州 SD 下周二的天气，2023.3.1？
+提供 Nairobi 的当前天气数据。
+我近期要旅行，需要了解目的地的天气。能告诉我亚利桑那州 Phoenix 下周五 2023-04-14 的天气预报吗？
+我需要 Chcicago 在 2024 年 2 月 13 日的天气更新。
+我想查询 American Canyon 在 3 月 12 日的天气状况，需要你帮忙。
+LA 在 3 月 9 日的天气怎么样？
+我想找被标为中等价位的餐厅。请包含纽约有户外座位区的餐厅。
+我想在 Oakland 找一家价格适中、供应意大利菜的餐厅外出用餐。
+我想吃亚洲融合菜。能搜索 Santa Clara 供应此类菜肴的餐厅吗？
+我想找一家纽约不太贵的咖啡馆。搜索中等价位的店。
+能帮我找 Berkeley 有便宜素食的餐饮店吗？
+我想在 Mountain View 找一家供应美式菜且有户外座位的餐饮店。
+我想在 San Francisco 找一家居酒屋，需要便宜或比较实惠。
+找一家 San Francisco 供应披萨和意面的餐厅，不用考虑价格范围。
+我想找一位 Pittsburgh 接受保险的精神科医生。
+搜索 san jose 能帮助解决心理健康问题的治疗师。
+我在加州 Los Gatos，想找一位家庭咨询师。帮我找一位，最好接受保险。
+我需要寻求咨询和治疗师。能搜索 berkeley 的家庭咨询师吗？
+我想找一位位于加州 Novato 的心理学家。能找一位吗？
+我需要你帮我找一位 Walnut Creek 的家庭治疗师。
+我计划去 Austin 旅行，搜索那里的房屋住宿。
+能帮我找 Long Beach 评价至少为 4.2 的房屋住宿吗？仅我一人入住。
+我计划去纽约短途旅行，需要在那里住一间房屋，评分至少 3.7，且提供洗衣服务。
+我要去 Kuala Lumpur 度假。能搜索评分至少 3.8 的房屋吗？一人入住。
+酒店房间太贵了，我需要一间房屋住宿。我将前往 LAX。
+帮我找 Austin 提供洗衣服务、能住 4 人、评分至少 4.0 的房屋住宿。
+我想找 Long Beach 供一人入住且包含洗衣服务的住宿。
+在 Chi-town 帮我找提供洗衣服务、评分至少 3.9 的房屋。
+我想去澳大利亚 Sydney，需要供三人入住且提供洗衣服务的住宿。
+我需要 Rio de Janeiro 评分高于 4.2、可住 2 人的房屋。
+我需要找一家伦敦的酒店。
+帮我找纽约市有 1 间房的酒店。
+你好，我需要你帮忙找 Vancouver 的酒店，只要一间房，最好是三星级酒店。
+能帮我找一家 LA 的四星级酒店吗？
+我知道能靠你帮我找酒店，好去参加录音室活动。能订 7 月 15 日入住、2 人住 5 天的吗？
+查找即将到来的周末 Kuala Lumpur 可用的住宿。
+我和朋友要进行每年的旅行，请帮我在 Philadelphia 找三间酒店客房。
+帮我找亚利桑那州 Phoenix 可用的酒店。
+我需要为参加挚友婚礼预订酒店客房。能帮我订 Berkeley 在 2023 年 8 月 15 日至 8 月 17 日的房间吗？
+找一部 Herbert Ross 导演、Betsy Widhalm 参演的家庭类型电影。
+帮我找一些 Wes Anderson 导演、Bill Murray 参演的喜剧电影。
+提供 Jordan Peele 导演、Lupita Nyong'o 参演的恐怖电影列表。
+我想找一部 Martin Kove 参演的好电影观看。
+我想看 Jennifer Connelly 主演的电影，最好由 Jim Henson 导演。
+你好，能帮我找 Herbert Ross 导演、James Shapkoff III 参演的电影观看吗？
+我想看一部 Camila Sosa 参演的另类电影。
+找一部 Guillermo del Toro 导演、Emma Watson 参演的奇幻电影。
+我想找一部 Daniel Camp 参演的电影。
+能帮我找一部 Gavin Hood 导演、Hattie Morahan 参演的悬疑电影吗？
+请帮我找一部动画电影观看。我喜欢 Pete Davidson 参演的电影，也喜欢 Thurop Van Orman 导演的电影。
+嘿，我好无聊，能帮我找一部 Maya Hawke 参演、Quentin Tarantino 导演、故事离奇的电影观看吗？
+我想看 Dominic Monaghan 参演的奇幻电影。查找 Peter Jackson 导演的电影。
+你好，能帮我搜索 Steven Spielberg 导演、Josef Sommer 参演的电影吗？
+我想看一部 Zoe Margaret Colletti 参演的电影。
+能帮我找部电影看吗？想找 Riley Stearns 的作品。
+我想找部电影看，有 Vincent Andriano 参演、Gurinder Chadha 导演的电影吗？
+我想看一部科学相关电影，最好是 James Keane 参演、Steven Spielberg 导演的作品。
+我想找一部 Peter Strickland 导演、Gavin Brocker 主演的电影，想看关于恐怖鬼魂的。
+我想让你显示 Quentin Tarantino 导演、Eric Stoltz 主演的电影。
+查找 Joel Zwick 导演、Joey Fatone 参演的电影名称。
+能帮我找一部 Josephine Decker 导演、Sunita Mani 主演的惊悚电影吗？
+我想搜索一部类似悬疑类型的电影，喜欢看 Kathy Griffin 参演的。
+今晚晚些时候会有朋友来。帮我找部电影看。
+调出女演员 Lisa Tharps 参演的悬念电影。
+为我们的电影之夜找一些 Taika Waititi 导演的喜剧电影。
+能在厨房音箱上播放 Ed Sheeran 的歌曲 'Shape of You' 吗？
+嘿，我现在想听歌。能播放 Carrie Underwood 的 Remind Me 吗？我喜欢流行音乐。
+能搜索一些摇滚音乐吗？
+找一些好听的歌？我想找 '10 年的音乐。听说专辑 Speak Now 很棒，能找其中的歌吗？
+我想找一些好听的歌曲，能找 2022 年的吗？
+帮我找 Ores Aixmis 专辑中 '19 年的流行歌曲。
+能帮我找一些乡村歌曲吗？尤其想听 Eric Church 的 Chief 专辑中的歌曲。
+我要开始锻炼，想放些歌。我很喜欢 House 音乐，听说 The Martin Garrix Experience 专辑很棒。
+我想听些音乐，听说一张名为 Prequelle 的专辑很棒。
+能帮我找些歌吗？我喜欢 Kesha 唱的流行歌曲，听说一张名为 Rainbow 的专辑很棒。

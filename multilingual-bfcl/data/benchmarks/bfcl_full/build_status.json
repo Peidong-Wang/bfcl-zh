@@ -1,0 +1,239 @@
+{
+  "scope": "all BFCL v4 registered categories, Chinese user queries with original environment",
+  "format_selector_sha256": "1e7ebd0ec441198d3f7d3b60be73d0c9eba54094d2c3731b830f5da7a2c63c19",
+  "complete": true,
+  "completed_physical_categories": [
+    {
+      "file": "BFCL_v4_irrelevance.json",
+      "records": 240,
+      "sha256": "d64a658c12a2ec6906ee60c827b5182cff8391ccac1796a3c9ddd9a85de45a5c"
+    },
+    {
+      "file": "BFCL_v4_live_irrelevance.json",
+      "records": 884,
+      "sha256": "0797bb636f6ceaf16a2651ab5817345b4b41869cf88348712020f207d73dd236"
+    },
+    {
+      "file": "BFCL_v4_live_multiple.json",
+      "records": 1053,
+      "sha256": "033b633c15cd5313bce44f1db31aae5e98cf37912d917887a6c176ef769bfa0f"
+    },
+    {
+      "file": "BFCL_v4_live_parallel.json",
+      "records": 16,
+      "sha256": "23a391d60ee059f73419797bf37bc500246397d585f6cd69a0bb2155990007d7"
+    },
+    {
+      "file": "BFCL_v4_live_parallel_multiple.json",
+      "records": 24,
+      "sha256": "85ab770f7e93d5f09c8de20021e4c9c85808e23865b815667bd5b3375b059eb6"
+    },
+    {
+      "file": "BFCL_v4_live_relevance.json",
+      "records": 16,
+      "sha256": "961673739bb675d03eda6eabc91bfdd82fe95a8ed7b8aa1d41b4edb6dc0c52a5"
+    },
+    {
+      "file": "BFCL_v4_live_simple.json",
+      "records": 258,
+      "sha256": "09cea429bd2c2b59ab625a01d9b2214c61bbbbfd8760d300144c1a1af9ca8202"
+    },
+    {
+      "file": "BFCL_v4_memory.json",
+      "records": 155,
+      "sha256": "7b5daca7fb9e805c917bf696a79082c993a15ace6e59dcf250e6477c9fc82392"
+    },
+    {
+      "file": "BFCL_v4_multi_turn_base.json",
+      "records": 200,
+      "sha256": "591f0e6e99828293f434dca42f3770706cac2ff72a1579c5c3ee15da4ff4877c"
+    },
+    {
+      "file": "BFCL_v4_multi_turn_long_context.json",
+      "records": 200,
+      "sha256": "4ce817b4b9722aebd156e40af19d93c8d6e73e905422dac136f7346eeb5fa9d6"
+    },
+    {
+      "file": "BFCL_v4_multi_turn_miss_func.json",
+      "records": 200,
+      "sha256": "094b72c70458ead5ec5587037057231d0b9f974debadacb34e6864a49c8c39de"
+    },
+    {
+      "file": "BFCL_v4_multi_turn_miss_param.json",
+      "records": 200,
+      "sha256": "0a7cd5f5da9bd1aefa2bc832d16367b3dcdb10b5468dadcac3e3b76dc9505dd4"
+    },
+    {
+      "file": "BFCL_v4_multiple.json",
+      "records": 200,
+      "sha256": "e016928939465a23979ac5f69a9506d6d5c7bbbfa9c0f3e44b96e564c88e14a9"
+    },
+    {
+      "file": "BFCL_v4_parallel.json",
+      "records": 200,
+      "sha256": "9a857942e0dbe9f214848b764a707079717f640704d4ff22759683412941b693"
+    },
+    {
+      "file": "BFCL_v4_parallel_multiple.json",
+      "records": 200,
+      "sha256": "e4076213f8b7f9532cc4ebd4d5dd48b410ee2dd1eefa5ee072cde8006c41619b"
+    },
+    {
+      "file": "BFCL_v4_simple_java.json",
+      "records": 100,
+      "sha256": "f59d21efb5aa36075fcf5d997214d6ab2b4b528970b7b1436d8a88021f953c7a"
+    },
+    {
+      "file": "BFCL_v4_simple_javascript.json",
+      "records": 50,
+      "sha256": "679d24ad718269b32d714d2b161b2aec98ff61374afe443b1aacfa2b8c9ed879"
+    },
+    {
+      "file": "BFCL_v4_simple_python.json",
+      "records": 400,
+      "sha256": "6a78cf839009dda8f6cd05f393e3b81abc5dd39dac5facfe70709e704fd9e729"
+    },
+    {
+      "file": "BFCL_v4_web_search.json",
+      "records": 100,
+      "sha256": "6d2ad53ae45c7950b81aa0ad6f03caeac4a4b9f5fd7e473c2633069ffdebe5c1"
+    }
+  ],
+  "pending_physical_categories": {},
+  "copied_reference_resources": [
+    {
+      "file": "possible_answer/BFCL_v4_live_multiple.json",
+      "sha256": "97e90d59c5bd76c55a2920ce93e5566e9046307d3f558578f085f9d3a56c3084"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_live_parallel.json",
+      "sha256": "8a9f189ff0e832ebbbbdade1fd95a7dbcc67406e9177df3f0aad76f59ab00350"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_live_parallel_multiple.json",
+      "sha256": "f5b5f360556c5feb51db46fb9f56ee4b304f4b45b161599bbb14161c98a2873f"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_live_simple.json",
+      "sha256": "fec9cfa9744a936f9126981e85a2023da1e63e273eafebc81923a1162fad70ce"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_memory.json",
+      "sha256": "2355cf8d842f94af6bcb7bfa6ad2f9e472bc6d825d6ecd45702cfc41e27d7e5d"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_multi_turn_base.json",
+      "sha256": "1fee67823b317571649177dd89d63969feaae4e810cc7448ee55ba797fb7c8fc"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_multi_turn_long_context.json",
+      "sha256": "e82aa0e839c39d23c64a05834f7ae024d7c9738ec21738ecee78dc876e3d0d18"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_multi_turn_miss_func.json",
+      "sha256": "69e679b806d1c871b05393a4b95583bb973248e5b8d96c2d7f4ca05e29fc32e6"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_multi_turn_miss_param.json",
+      "sha256": "59c442901779e2c31c33abcd566d032e03736e5ad8069de2fe05489873046ecf"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_multiple.json",
+      "sha256": "244e00ce9395df948bcafc7bee64e8f9c87ef70887587d83cae45b13699f3047"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_parallel.json",
+      "sha256": "8a6aa19c1adddc6a5a2f7e40f9dbf30cc7e95815e7b830c90589ab318229e0f0"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_parallel_multiple.json",
+      "sha256": "5ebf24f458c1f16300c05505d83d6f0a1b68b79be273a033febd0d4f840507e3"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_simple_java.json",
+      "sha256": "78f25616084044fa05bbfcee68e03f6ececb222bdd5cb3b7783a675fb3366e35"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_simple_javascript.json",
+      "sha256": "e2f9f2e51d88e0c8056ffbf1a3dd3d02eb032532d2b5d98c9cc9003385bdd56b"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_simple_python.json",
+      "sha256": "90cd5bc653690ee8e459b5b3f3fc9458606f7f3fcbf795bb51b7dc581f8c86dc"
+    },
+    {
+      "file": "possible_answer/BFCL_v4_web_search.json",
+      "sha256": "771cab45fdad5744563456801d4623a42c5a358f10514b9b9105d2f6052b4999"
+    },
+    {
+      "file": "multi_turn_func_doc/gorilla_file_system.json",
+      "sha256": "c4c1b741c71e2a17c97a5dc9c4a91d89978c4eaece56494d14272d5df6c650e9"
+    },
+    {
+      "file": "multi_turn_func_doc/math_api.json",
+      "sha256": "83fa31708c89442bdcf12ac4dfbe3be8663ec9183a1b1524a9fda98164bc7e0b"
+    },
+    {
+      "file": "multi_turn_func_doc/memory_kv.json",
+      "sha256": "96480cd9cbd3d4a34cd8f78879bc6622731768a26e080f7a34782e36e3402287"
+    },
+    {
+      "file": "multi_turn_func_doc/memory_rec_sum.json",
+      "sha256": "4ceff946df00983c7f0b95d1b70ae402247f3312fb898bac9ecfa1de52f5a783"
+    },
+    {
+      "file": "multi_turn_func_doc/memory_vector.json",
+      "sha256": "917908ca99fdd01e203274b7ec6eb2347fa91d57f3c6341e20945cc9c9d746cf"
+    },
+    {
+      "file": "multi_turn_func_doc/message_api.json",
+      "sha256": "4d58ea933a5d2b280d7a52366617fb47fecd333d7b0e08e724db6fa12fb5f847"
+    },
+    {
+      "file": "multi_turn_func_doc/posting_api.json",
+      "sha256": "87f9fc404a06e4107d7c366f1399c596440e84c16cb119faf374b2f532d86e8b"
+    },
+    {
+      "file": "multi_turn_func_doc/ticket_api.json",
+      "sha256": "31324e0380782664fe82ba05bd23517808ad55692b45a5fe7c3d4d395fe4f0f8"
+    },
+    {
+      "file": "multi_turn_func_doc/trading_bot.json",
+      "sha256": "1a7933fd8f0cb8fbec38aeae05cb8c24132747cad4904fe1c13ac3d01fc22c2d"
+    },
+    {
+      "file": "multi_turn_func_doc/travel_booking.json",
+      "sha256": "f17b950c13adddf41d0848077df58788252e4c2e7cad5cfa71c8c4bf04f57b26"
+    },
+    {
+      "file": "multi_turn_func_doc/vehicle_control.json",
+      "sha256": "0c8a66292844874ef7b168f343bc394d8615d2d9e1f4387999a9ee23011eac78"
+    },
+    {
+      "file": "multi_turn_func_doc/web_search.json",
+      "sha256": "61fcee411e35f7ff67415e18cd67276615cf06e1c8841a683d2d997dbb46eac5"
+    },
+    {
+      "file": "memory_prereq_conversation/memory_customer.json",
+      "sha256": "806ac91e558e3d933e526ecc0c286e417657f76a3c9b9073eef830a532eb4eb2"
+    },
+    {
+      "file": "memory_prereq_conversation/memory_finance.json",
+      "sha256": "3cef1f235667f479b8f45c7082247454b2129ee88fe4fbcdbc53fd2cdf495b75"
+    },
+    {
+      "file": "memory_prereq_conversation/memory_healthcare.json",
+      "sha256": "56e7bd7b2e7c01efe81f1e0be85149ea3886bb2d9cb59f90e9d9e27b91f4604d"
+    },
+    {
+      "file": "memory_prereq_conversation/memory_notetaker.json",
+      "sha256": "07f3239ef2e9e1421901f05d3c8192469fa129324e124a47bcb35ff9c7785c91"
+    },
+    {
+      "file": "memory_prereq_conversation/memory_student.json",
+      "sha256": "e2d6c32e9e2671c61f682e845dcdafd9eee7c9f3e2d5da1615d3afd2aeecf2f0"
+    }
+  ],
+  "model_evaluation_run": false,
+  "translation_api_used": false
+}

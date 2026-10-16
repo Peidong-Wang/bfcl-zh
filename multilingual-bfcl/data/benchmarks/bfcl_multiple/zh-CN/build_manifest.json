@@ -1,0 +1,30 @@
+{
+  "locale": "zh-CN",
+  "status": "draft",
+  "source": "data/benchmarks/bfcl_multiple/en/en_translatable.jsonl",
+  "source_sha256": "badafe2952c617167d1c71d572562a5f588475d028f15c463883b947cb44146d",
+  "translation_method": "Codex-authored static translations; deterministic offline reconstruction; no translation API called",
+  "unique_descriptions": 1104,
+  "files": {
+    "zh-CN_translatable_query.jsonl": {
+      "records": 132,
+      "sha256": "c4d5de6da29115f59335cfe20852b5bc5aac906198c84a9282118ed1aca6a2f7"
+    },
+    "zh-CN_translatable_full.jsonl": {
+      "records": 132,
+      "sha256": "18134a90f59776e42c24829d0c92bc5a565ff5cbf009197c301cc8854e74c25e"
+    },
+    "zh-CN_translatable_func_desc.jsonl": {
+      "records": 132,
+      "sha256": "d0f63bcdcb0438157548fa8195db0e38904feebf78b26da9c55645ba94d8a85d"
+    },
+    "zh-CN_translatable_full_func_desc.jsonl": {
+      "records": 132,
+      "sha256": "64169336666248e09005175eeef0c1f78334acd0a87388509b0af3e70cb79f05"
+    },
+    "zh-CN_translatable_full_lang_desc.jsonl": {
+      "records": 132,
+      "sha256": "54a551fda1ca5431e737b4679722587caa4835e3056d2d2d2758b47f647f4bc4"
+    }
+  }
+}

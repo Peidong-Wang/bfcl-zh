@@ -1,0 +1,16 @@
+{
+  "completed_category_integrity": "passed",
+  "full_suite_complete": true,
+  "completed_physical_categories": 19,
+  "pending_physical_categories": 0,
+  "records_checked": 4696,
+  "source_records": 4696,
+  "remaining_unique_user_texts": 0,
+  "format_selection_ids": 200,
+  "reference_files_checked": 33,
+  "errors": [],
+  "technical_literal_flags": [],
+  "translation_api_used": false,
+  "model_evaluation_run": false,
+  "publishable": true
+}

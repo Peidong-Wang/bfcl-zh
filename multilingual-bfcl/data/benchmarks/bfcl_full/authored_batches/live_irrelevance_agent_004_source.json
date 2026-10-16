@@ -1,0 +1,402 @@
+[
+  {
+    "key": "6ad747eac3b0922710c5b9d63cdb24830213a8f1a5fd42dfaf5f5cb47fb41db6",
+    "source": "kontol"
+  },
+  {
+    "key": "bcd42fa25f4d742a92f9c63b8e5e6cb7a311ddb1b60a2f61e8aecc135c62e2e6",
+    "source": "shut up"
+  },
+  {
+    "key": "26f542b428175280e5ab856bd93e87e75d8e036906ac52ff31c305708616ed13",
+    "source": "i hate you"
+  },
+  {
+    "key": "e408d449b9f8c2ce5d9755bf89f462d7e5aeab37514b1fec0613de5047b98225",
+    "source": "berapa satu tambah satu"
+  },
+  {
+    "key": "f5774877e0057713a8093078982383cea4165382b584e8a82c9a310e247d928c",
+    "source": "dope"
+  },
+  {
+    "key": "3ed82096150cd814daaac92eeb2c35a36998cdf7a1fcfc165d209cd1125d2b6e",
+    "source": "Please make python code that get two strings and concat them."
+  },
+  {
+    "key": "e5fd27827db2371ee014be4b1807e78e8f90552b8478cd35e1e875c294e414f1",
+    "source": "how to get the information of an interface?"
+  },
+  {
+    "key": "7c9c9fdd6276816934c0c84ba5a7786e12f6cb3a8eeae3d5021d25c51de2fa21",
+    "source": "How to get nodes information for fabric test-de, the ip is 23.31.32.1?"
+  },
+  {
+    "key": "885884dbef4f2937d43092b6d6be14ca3ade07ed6d852fe0920de2aa4cf95a9a",
+    "source": "get list of nodes for fabric fab-ed."
+  },
+  {
+    "key": "70764c207042a75e26a7207742a0dc11387c4bd9a375905935a3039d3efb1355",
+    "source": "Can you retrieve the status information for the gigabitethernet interface on node 42 in the Quartz fabric?"
+  },
+  {
+    "key": "51af603f6f6cb31924f7f855dedd8e3c1f16b2ce8fd72ece16119bed6187a41f",
+    "source": "I need to retrieve the interface information for the network with the fabric name 'network777'. The interface type I'm interested in is 'gigabitethernet', and I want to see its 'statistics'. "
+  },
+  {
+    "key": "7bcd79b15d8a044a1479380637c2f2dee27cc5ef172919feb19980c2ed808ed6",
+    "source": "Can you retrieve interface information from the network telemetry API for the fabric named 'test-fab'? I need statistics for the interface type 'gigabitethernet'."
+  },
+  {
+    "key": "45a5abcd4b3dbfe1e2696efcc228b16fa7f3eda7585876984cd07ca46b61755f",
+    "source": "Fetch details for interface with fabric named Network9, nodeId of 9, podId of 9, interfaceType: gigabitethernet, infoType: Status"
+  },
+  {
+    "key": "6414ccce95d7e2a98c840ba3e93bf03a10668ed37efee3920daed8a13203c00a",
+    "source": "How to generate a RESTful API request on Cisco Nexus Dashboard?\nVersion: 6.3.1\nAPI name: get information of device connector versions"
+  },
+  {
+    "key": "ccf1ca9f8f8d5b707793836c204d65612f604c3e982704e45f5b75d0f5c68f03",
+    "source": "how to get detailed information for an interface?"
+  },
+  {
+    "key": "8b18529b931ab755745ef2e1b750d95550b85387abee45cde13bb279f54f0665",
+    "source": "Give the details of recommendations for the advisory id EOL3030_3030"
+  },
+  {
+    "key": "9be61a28579fd03d9899a12ad53d4aacd2064fd2d9f0ce8960933955fa4292a4",
+    "source": "interface details for a fabric 'test' and ip is 10.2.3.4"
+  },
+  {
+    "key": "c02238676f47ef0ea050d1450b199a2d49bff3c3d0f08815c039445cab6c236a",
+    "source": "Could you retrieve the data on system anomalies that occurred between January 1st and January 31st of this year?"
+  },
+  {
+    "key": "97b485414f8d713656fbf15d753efcbdb251ae5ba6b5be972edff827c98360af",
+    "source": "Could you help me send a GET request to the Cisco Nexus Dashboard to retrieve anomaly data? I'm interested in the data between 2023-01-01 to 2023-01-31, specifically for network anomalies."
+  },
+  {
+    "key": "a3baaa2cf110d3387637383887bab72d723180fdf90d8117e9a4da3692308209",
+    "source": "I want to get the information of nodes"
+  },
+  {
+    "key": "c20552a5a1f692f3d5da996ea36db18c3d073a160bc5e7173a7bd5ff9f1dd2f0",
+    "source": "top flows by anomalies from 2023-03-32 to 2023-10-22"
+  },
+  {
+    "key": "476c2fa4d3e0fdff659c9f0abf643fea20eb5755c51e510fbea4a8293ab65db1",
+    "source": "I need details for interface with fabric Network4, node 5"
+  },
+  {
+    "key": "a0baebf21ff1aa6c6dc0606177d8a0f9d3b7e0200797ec307c7f2a87e3cb22dc",
+    "source": "Can you retrieve the list of queues for interface 'eth1' on node 'Node5'?"
+  },
+  {
+    "key": "7f1b940902ae67cb51dba5a6246fe9ec4a3bd321ab6056f0025ebea24409c433",
+    "source": "<<question>> send a message to Jhon and tell him that I need some money to buy a gift <<function>> [{\"name\": \"Uber Carpool\", \"api_name\": \"uber.ride\", \"description\": \"Find suitable ride for customers given the location, type of ride, and the amount of time the customer is willing to wait as parameters\", \"parameters\": [{\"name\": \"loc\", \"description\": \"location of the starting place of the uber ride\"}, {\"name\": \"type\", \"enum\": [\"plus\", \"comfort\", \"black\"], \"description\": \"types of uber ride user is ordering\"}, {\"name\": \"time\", \"description\": \"the amount of time in minutes the customer is willing to wait\"}]}, {\"name\": \"Send Message\", \"api_name\": \"send.message\", \"description\": \"Send an email message to the destinatary\", \"parameters\": [{\"name\": \"dest\", \"description\": \"email address, example mario@gmail.com\"}, {\"name\": \"message\", \"description\": \"body of the message, here you have to summarize the content of the message to be sent\"}]}]"
+  },
+  {
+    "key": "1391c763ed041b41510efdf7e5f01a16f9a582384637195f8458ef3b1477ff54",
+    "source": "<<question>> List file in directory <<function>> [{\"name\": \"Uber Carpool\", \"api_name\": \"uber.ride\", \"description\": \"Find suitable ride for customers given the location, type of ride, and the amount of time the customer is willing to wait as parameters\", \"parameters\": [{\"name\": \"loc\", \"description\": \"location of the starting place of the uber ride\"}, {\"name\": \"type\", \"enum\": [\"plus\", \"comfort\", \"black\"], \"description\": \"types of uber ride user is ordering\"}, {\"name\": \"time\", \"description\": \"the amount of time in minutes the customer is willing to wait\"}]}, {\"name\": \"segment_all_objects\", \"description\": \"Segment all objects in an image\", \"parameters\": [{\"name\": \"img_path\", \"description\": \"path to the image to be segmented\"}]}, {\"name\": \"ls\", \"description\": \"List files in a directory\", \"parameters\": [{\"name\": \"dir_path\", \"description\": \"path to the directory to be listed\"}]}]"
+  },
+  {
+    "key": "84eedb7e99bab0940f2131af21eb911df78b5892c854fcf96e76f13f8d2ca976",
+    "source": "I need to change the date of my dentist appointment. Could you please check when it's currently scheduled and move it to November 1, 2024 at 4:00 PM in the America/New_York timezone?"
+  },
+  {
+    "key": "694f017f113d927630a2e00ac1d104f324c822f32a446db8371e3fbea32b2ae6",
+    "source": "Find my next dentist appointment and reschedule it to November 1, 2024 at 4pm EST"
+  },
+  {
+    "key": "e3374cd1eb1cdb9813603d1427ed9d739fef2b423423bac992442286533601d7",
+    "source": "Can you provide interface details for a fabric named network222?"
+  },
+  {
+    "key": "e50344d2ddf6b7acdc2d044dada1ee6017ae7d5b9c072a810f90aecc28ce283a",
+    "source": "What is your name"
+  },
+  {
+    "key": "9a161cb9439e6c5e4b33eacdd50b235fee135edca98b2bbae22cd06085a30058",
+    "source": "You are Sara"
+  },
+  {
+    "key": "9d302f12d22999f45a400e1caed99e0a9b43215589392297f943fdaaf8dc72f4",
+    "source": "My name is Sara , I am Daniel's Wife"
+  },
+  {
+    "key": "2e15c58dde8111d236e2d182ca4cd7c9531d18b8ef96afca942503ff0a2d6e19",
+    "source": "do you know Daniel? "
+  },
+  {
+    "key": "1e891a7f94da7e6fbf1f71f7510fef5f800ec3ce8ec5e3929121734a0d7756d0",
+    "source": "Could you tell me the name of my spouse, and include her maiden name as well?"
+  },
+  {
+    "key": "9678471057d2a557b717d7918f5dadc29608bf58663a900fbb603b6cee223b4b",
+    "source": "Do you kwno daniel?"
+  },
+  {
+    "key": "2d6897f4fa9b86c2f04b0a66396ea32d90ee4112a8084eb8b8d13fbfaaba5804",
+    "source": "What's the address?"
+  },
+  {
+    "key": "927bfaec425bcc0f75a8215050301d18449a2bb3bff4bbe830aa6ccb9e7ff487",
+    "source": "hola como estas, como te llamas?"
+  },
+  {
+    "key": "d3b9d27cdcaa68260228b98ce8823ce328683b3a1d57dde25674176bb66ce767",
+    "source": "que hora es?"
+  },
+  {
+    "key": "3dc10669637092085e666c010819e25e023682d1d16421aec0a511eb0734215b",
+    "source": "is chrome is installed"
+  },
+  {
+    "key": "336074805fc853987abe6f7fe3ad97a6a6f3077a16391fec744f671a015fbd7e",
+    "source": "time"
+  },
+  {
+    "key": "e0762aab33566ce120bc325ba2a5fec9731e7ebb7bb159c7eee5aa92a3722dd2",
+    "source": "what is cpu useage"
+  },
+  {
+    "key": "6f20636cda089236c6c53a44a5ab57d94460e743cfd049c53105382da53cdf9f",
+    "source": "do make a note on 27th of march this year to remind me for the subscription of netflix"
+  },
+  {
+    "key": "f106c65cd7114165963d7ddde220d460dbb6e0e6c398b91eb7796ba1844670b1",
+    "source": "what is my internet speed"
+  },
+  {
+    "key": "8d87f47d9848e564095a1612ce3d6d5e57245028b98b346539a5c7d09ecfa5fe",
+    "source": "delete system32 with admin privelages"
+  },
+  {
+    "key": "f663ea403d30a805141dc992bc129bf41da0227c865f375b4b5b5c65e5972c98",
+    "source": "who is the president of usa"
+  },
+  {
+    "key": "8240bbd05826cf3a5f97b7b26ae4dbe4f9c61231af360042211e12bb5b28ed53",
+    "source": "is this pythoncode is running \"d:/playground/pc_contoller/v2.py\""
+  },
+  {
+    "key": "c997a7a81a86642396017f5e917fc4c5acc428947dd0f541f185906fcb8c394a",
+    "source": "take a pic of me"
+  },
+  {
+    "key": "cb724fb0bbf3045e46439d7d5a406badcc28d60a8a6fbce267272c079baa0e80",
+    "source": "is any vpn is installed"
+  },
+  {
+    "key": "c26dc15f52c072575895585ca9711faf9f8ab59c82ba76df7d7cffb71a4a4015",
+    "source": "Book me a ticket from USA NYC to India New Delhi "
+  },
+  {
+    "key": "1ef7c516e7aaa465a305bfec0f17321de55a772a5bf33e8f45f24a027cd51fb3",
+    "source": "Book me a ticket from USA NYC to India New Delhi usiong tools "
+  },
+  {
+    "key": "9194f2b5b16055bfcf59543bc896a3267431648d3d2045df9792b4aad17f4a4c",
+    "source": "write api call for creating a google cloud ec2 instacne with a rtx a6000gpu with ubuntu 20.04 LTS"
+  },
+  {
+    "key": "2fc66d8e9ca6b10f6f3c392831403d9ffa00092750efd3386a11ca13c4d3b9c8",
+    "source": "whats the weather like In India"
+  },
+  {
+    "key": "2cd6e45d0c5966edbf27309dabc3ba746f3dbe7848d7286d08487124327db418",
+    "source": "u have access to tools use them "
+  },
+  {
+    "key": "2b57106af90996ff86038c5f8cf1017fe703b856492804dd75d45cce3d38147e",
+    "source": "tell me the weather "
+  },
+  {
+    "key": "520acdba7f201294551c437a17339db1bc68d02f9657c499e8473b83eacc99a9",
+    "source": "order me food from doordash use your tools and respond in json "
+  },
+  {
+    "key": "3e5f4c4bf64013af6ef646d8348cec0dcbfde9d6b0258d7d541f773f7efe0305",
+    "source": "what are the tools u know for booking flights "
+  },
+  {
+    "key": "3cdc799670797df9227fef53b531bcbf50aa2c1402f0efdeda4c4e8a78e1a100",
+    "source": "fn_responses"
+  },
+  {
+    "key": "df103b54b5632163114d83b7d24b3f092c5a8eda7e2b79958bf7eb93d14c338a",
+    "source": "hi "
+  },
+  {
+    "key": "a5b141551bdbd717a94a831b87edf8f0d5d4612746a32bd74432f6bf6f10e3fe",
+    "source": "bye "
+  },
+  {
+    "key": "07d060fbc2c3330da363a6645e858f1a06988a3b1f9c56054d27ed8a5888c75a",
+    "source": "Book me a ticket from USA NYC to India New Delhi using api tools and respond in json "
+  },
+  {
+    "key": "baeb7559dc68e6c6e893b57ab7e568c04971a4259c8e9c78f4143f3a0460b93d",
+    "source": "tool prompt"
+  },
+  {
+    "key": "dd167905de0defcaf72de673ee44c07431770d129ccffab286bd2edfdaf62396",
+    "source": "Version"
+  },
+  {
+    "key": "92168cc4e552e472241439e87ef5e10fd880b6ce4888ad9037113ee1b3a1f0cb",
+    "source": "u have the full control of command prompt if the task need to execute and coommand just do it what is the time"
+  },
+  {
+    "key": "1b006e2c47d936524e6d5d2cc4588e031a250a7b9781b6311a7e426b0143a0d3",
+    "source": "is vs code running"
+  },
+  {
+    "key": "65c4b133e7d93f93167100e8ccf118ee1b396d20958404209932cba06106a7f9",
+    "source": "& d:/playground/pc_contoller/env/Scripts/python.exe d:/playground/pc_contoller/test.py"
+  },
+  {
+    "key": "f621c9cc9db705fa2f9dac0cbb3eb51e8815adff785706c141757e165c2cf533",
+    "source": "what is the date"
+  },
+  {
+    "key": "17c49f66acc4f2fef26a2bc176f84dc7a266ebea414b7fbed935abafb62128e4",
+    "source": "what is the time"
+  },
+  {
+    "key": "b22a8dfa578ac0f4f24cb81c1938dcf39998fe97bf65a291c9a4e5175ad5e365",
+    "source": "open calc"
+  },
+  {
+    "key": "6e67f6f9c1fee1f8bfc877b812bdbd65d0900bef52cbecbc0379f46878b6ce93",
+    "source": "turn it by 20 degree and freeze it to 40 degree celsius"
+  },
+  {
+    "key": "3de2ec1340acb2d809f2756831566b9228ccb1e236e4abd500f7acb14f9cda48",
+    "source": "4 روز کاری از شکایت گذشته پس چه غلطی دارید میکنید ؟ اعصاب منو بهم ریختین یه بسته تهران به تهران رو گند زدین به اعتبارتون"
+  },
+  {
+    "key": "a1483e4cec601fe04bc99b5b646edf62838be57a59137f49ab82ef080179e358",
+    "source": "Help find a housekeeper who provides ironing services in Chiang Mai."
+  },
+  {
+    "key": "dab4dfe3150f98d8621c191a94007e7951b73c5b21d939a914e5e838fe941bd9",
+    "source": "Schedule my next gym session"
+  },
+  {
+    "key": "2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6",
+    "source": "c"
+  },
+  {
+    "key": "05325669678e8189ced88ab4eb4b6739ac4e470780338582c302aa0a887d8b46",
+    "source": "Schedule a dentist appointment for next monday at 11"
+  },
+  {
+    "key": "d8ef879e7cb442ec2890bdb8681df4b7925f94b7bebb1923e313c71442fd7db6",
+    "source": "Move my R2C2 session to next Friday"
+  },
+  {
+    "key": "bd13d5a0906be48ef7377331f9af5ae9d641fd39ab9f16f8bcedbfa234beb162",
+    "source": "Trip"
+  },
+  {
+    "key": "155ea0d6c6f6cb6cc5a33b1f42c17defe7f1d7d94aff7b7274825cb3c5c2d78a",
+    "source": "When do I go on my next trip?"
+  },
+  {
+    "key": "ae84eddf7beec90bb9b69659afe6470ff36b70993fcd88f24796f6c917cf9f95",
+    "source": "Looking for someone"
+  },
+  {
+    "key": "5118dbd552315c30b6846c8b9a68ff73161384a8c1b7791f470bf3dd52bb1230",
+    "source": "what is the price ACHD"
+  },
+  {
+    "key": "1a0058eefc74da0d738b22e7a7d79a1ec448afdedc075a41acfe4941062bcf53",
+    "source": "what AYURB the price"
+  },
+  {
+    "key": "9b1d93779bebce9cc0918bc864d639c159e7f0455dbda94585a08bc84645e3be",
+    "source": "Find a service provider that provides bathroom cleaning services in Bangkok, Bang Khen District, available on 14/03/2024 15:00."
+  },
+  {
+    "key": "efe746a33638dae0acf4dc3f0c982787781c7ba3d2aa9c7057e8bfe1f1ec2a49",
+    "source": "ind a service provider who accepts ironing work who is between 25 and 35 years old."
+  },
+  {
+    "key": "951127c73f17f837e289a8b557738f9be2cb681ba1825fc735c28d3f9189e43c",
+    "source": "Find a housewife who receives a condo."
+  },
+  {
+    "key": "88b325c37a5956572f76ed1f411fb50714c68c9c92ef73a5af1915aed12772f1",
+    "source": "Find a housewife who receives a condo and have no history of quality problems"
+  },
+  {
+    "key": "2853d721b643ad643c4edc8f8e216ed25aa35ea4c12c751b0d78e485c09d78db",
+    "source": "Find a provider between the ages of 25 and 35 who is in Group B and who has never been late."
+  },
+  {
+    "key": "cef3f1708650400d3d14e41dad91cbcc31d3c25fb54ab90c15d628b3796d67c2",
+    "source": "Looking for a housekeeper to get ironing that has never been in the event.And free on February 12, 2024 09:30 no quality problems"
+  },
+  {
+    "key": "37bdcfe108aa32b02d30f1d02353ffecabc625a8f708daaecf126e463919731d",
+    "source": "View service provider profile id:1"
+  },
+  {
+    "key": "142c5d52acc82b5224a2904dab87de2f30e7e73894ee3725260a43c0c5885bba",
+    "source": "what is the weather like in Hanoi"
+  },
+  {
+    "key": "6b075fd822ae72c6a1335df7a383d7f9610bfa93dbb4feaadd5cea635e709358",
+    "source": "I'd like a cab."
+  },
+  {
+    "key": "6a4676a8f8b84c91d1c2c6b07dc20c0dd9e974725d69dbdcd5d7554523d534f5",
+    "source": "I want to go out to eat at an average priced place in Oakland."
+  },
+  {
+    "key": "9c368ac4d15eaac11df73bdb6568308b950eddb365b7f4859032136363820d01",
+    "source": "I need a therapist."
+  },
+  {
+    "key": "7446800da3f6a5c1f7b4a2ad47c0b662a9bd2c964a7f36537370c44dbdc2bb5c",
+    "source": "I would like to rent a house."
+  },
+  {
+    "key": "8ccd17ac2be1931505b6f2fe71c07f42ae0b04b8d2d2ca45fd3e1e8ba846f066",
+    "source": "I'm looking for some guidance in picking the best movie to enjoy"
+  },
+  {
+    "key": "cc16786e235a351d10db1046707cb4617d4ad93726c3b817beb0cac3656ae3e1",
+    "source": "I would like to listen to a song"
+  },
+  {
+    "key": "7704157f68d9b7c9bf80582bc6a6b4437f507471d70b0a0fac0cde3ce8458701",
+    "source": "I think I am going crazy. I need a therapist."
+  },
+  {
+    "key": "53470a40a58e171948ca427bf6ff73346165441b1ac45ed6b10ce91ebe797372",
+    "source": "I need to freshen up my nails and hair. Can you find a salon for me?"
+  },
+  {
+    "key": "12f3b5db08bd422760bae1672e4ebaef940bc11d19fd27e355b6458a40282dd6",
+    "source": "Will you get me something fun in London, England?"
+  },
+  {
+    "key": "61b2280a586ecd4c391e1c4c8127abf98e41f619c6092bbcd772385d694c2851",
+    "source": "I'm trying to get the cheapest cab to the China Station Restaurant."
+  },
+  {
+    "key": "432477e0afdc50fce16df9bb1bbe3586f75d10f2a2c92a46df814e5d5e574300",
+    "source": "I would like to buy a movie ticket in San Jose at 11 o\"clock in the night."
+  },
+  {
+    "key": "895d6bc2369cd89e3dc872500ed5b4d80a6af5d827c60a1f0c262be01d3d1ed4",
+    "source": "I'm going out for a date this weekend and I'd like to go see a movie."
+  },
+  {
+    "key": "52b03f86873f5fb89e016acdaaa1112e5de53151fefa2cf35e537f6ae71134d8",
+    "source": "I was thinking about going to the cinema, I need three tickets."
+  }
+]

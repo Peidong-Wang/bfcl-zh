@@ -1,0 +1,24 @@
+live_parallel_multiple_0-0-0	我想把食物订单改为不加凤尾鱼的凯撒沙拉；饮料方面，请把我的123号订单改成大杯热咖啡，正常甜度，使用杏仁奶。
+live_parallel_multiple_1-1-0	能帮我查一下中国广州市和北京市现在的天气状况吗？请使用公制单位。
+live_parallel_multiple_2-2-0	启动客厅的空调，停止卧室的空气净化器。
+live_parallel_multiple_3-2-1	请用摄氏度告诉我韩国首尔的天气。另外，打开客厅空调。我还对壬辰战争感兴趣，请查找相关最新信息。
+live_parallel_multiple_4-3-0	请提供法国巴黎的最新英文新闻报道，并提供爱尔兰莱特肯尼的科技类最新英文新闻。
+live_parallel_multiple_5-4-0	请获取法国巴黎的最新新闻，以及爱尔兰莱特肯尼目前的天气，温度用摄氏度表示。
+live_parallel_multiple_6-5-0	列出Python和Java的面试官。
+live_parallel_multiple_7-6-0	所有云平台上配备2个CPU和4 GB内存的机器费用是多少？
+live_parallel_multiple_8-7-0	请按照各部分提供的步骤完成以下所有操作。步骤：1.克隆仓库git@github.com:zelarhq/nodejs-welcome.git。2.分析仓库内容，并据此创建以下文件：2.1创建或更新dockerfile；2.2创建Kubernetes YAML文件。3.将所有修改的文件加入Git变更。4.提交并推送到仓库。
+live_parallel_multiple_9-8-0	我想了解以下内容的最新进展：'significant events, news articles, and developments that since October 2021'。请原样检索这段文字，并提供最新信息，只包含2022年之后发布的信息。另外，我还想要“一幅戴面具女子的数字画，配有鲜艳的孔雀羽毛，复杂而优雅，带有绿色高亮线条和繁复图案，让人联想到赛博朋克风格的阿尔丰斯·慕夏作品”。
+live_parallel_multiple_10-9-0	请从我们此前的对话中查出Shishir的生日，然后无论如何都发送一条'Happy Birthday!'消息祝贺他。
+live_parallel_multiple_11-10-0	我在修复Java项目的编译错误。具体来说，'StringNumberHandler'类继承'AbstractCellHandler'，并重写'getCellValue'、'setCellValue'、'getExcelType'和'getDefaultExcelFormat'等方法。但错误提示在'CellResult'中找不到'getNumericValue()'方法。请在仓库及其子目录中查找可能与'CellResult'有关的类。另外，请提供'AbstractCellHandler'类中'setCellValue'和'getCellValue'方法的签名，确保我的重写方式正确。
+live_parallel_multiple_12-10-1	针对'No suitable method found for get_weather(String)'造成的编译失败，请找出'Weather'类可用的方法或属性。如果该类存在'get_weather'方法，也请提供其签名。
+live_parallel_multiple_13-11-0	求36和48的最大公因数，然后告诉我函数 f(x) = x^2 在 x = 5 处曲线的陡峭程度。
+live_parallel_multiple_14-12-0	先计算36和48的最大公约数，再估算函数 f(x) = x^2 在 x = 5 处的导数。
+live_parallel_multiple_15-13-0	请计算1加2，并告诉我'Europe/Berlin'时区的当前时间，包括日期。
+live_parallel_multiple_16-14-0	边长5厘米的正方形面积是多少？新加坡女皇镇的天气怎么样？
+live_parallel_multiple_17-15-0	将它旋转20度，再水平翻转。
+live_parallel_multiple_18-16-0	查找加利福尼亚州圣迭戈在2023年3月1日举办的音乐或戏剧活动。
+live_parallel_multiple_19-16-1	查找洛杉矶3月10日举办的音乐会或戏剧演出，今年是2023年。
+live_parallel_multiple_20-17-0	我需要为即将到来的旅行安排预订，希望你帮我尽量轻松地办好。请查找纽约2023-05-21举办的音乐活动。另外，同一天我要从马萨诸塞州波士顿乘巴士去纽约，请搜索2人的直达巴士行程。
+live_parallel_multiple_21-18-0	请搜索加利福尼亚州森尼韦尔的发型师，并为我预约'Elegant Styles'沙龙2023-05-10的15:00时段。
+live_parallel_multiple_22-19-0	请用华氏度告诉我马萨诸塞州波士顿以及旧金山目前的天气状况。
+live_parallel_multiple_23-20-0	我需要用户parath和bhanu所有待处理及有效的委托。

@@ -1,0 +1,258 @@
+live_simple_0-0-0	请获取ID为7890、特别要求为black的用户详情。
+live_simple_1-1-0	我想查看ShishirPatil/gorilla和gorilla-llm/gorilla-cli的star历史，并对齐时间轴，以便更清楚地观察它们自首次发布以来的变化速度。
+live_simple_2-2-0	我需要从2020 Addison Street, Berkeley, CA, USA出发的Comfort Uber，最多可以等待600秒。
+live_simple_3-2-1	我需要从221B Baker Street, Berkeley, CA, USA出发的'Plus'类型Uber，最多可以等待600秒。
+live_simple_4-3-0	特拉维夫当前天气如何？请用华氏度表示温度。
+live_simple_5-3-1	米纳斯吉拉斯州迪维诺波利斯当前温度是多少？请使用华氏度。
+live_simple_6-3-2	请用华氏度告诉我旧金山的天气，以便决定今天是否需要穿外套。
+live_simple_7-3-3	我在拉脱维亚里加，能告诉我当前温度吗？
+live_simple_8-3-4	我想了解天气状况。我在英国伦敦，请使用华氏度。
+live_simple_9-3-5	海得拉巴天气如何？请使用华氏度。
+live_simple_10-3-6	请告诉我加利福尼亚州马里波萨的优胜美地国家公园当前天气，并确保使用摄氏度表示温度。
+live_simple_11-3-7	请告诉我佛罗里达州那不勒斯当前的天气状况。
+live_simple_12-3-8	我计划12月去纽约州纽约市旅行，住5天。请告诉我当前天气状况，并用摄氏度表示温度。
+live_simple_13-3-9	我想知道上海目前的天气状况，可以帮我查询吗？顺便使用摄氏度来显示温度。
+live_simple_14-3-10	我今天很忙，能告诉我泰国曼谷的温度将会是多少吗？我偏好华氏度。
+live_simple_15-3-11	我在班加罗尔，请用华氏度告诉我泰米尔纳德邦金奈当前的天气状况。
+live_simple_16-3-12	请用华氏度告诉我谅山当前的天气。
+live_simple_17-3-13	今天波士顿天气怎么样？请使用华氏度。
+live_simple_18-3-14	能告诉我莫斯科当前的天气，并用摄氏度表示温度吗？
+live_simple_19-3-15	墨西哥金塔纳罗奥州天气怎么样？请使用更优越的温度单位，也就是摄氏度。
+live_simple_20-4-0	我想点一个汉堡，修改要求请原样使用：no onions, extra cheese。
+live_simple_21-4-1	请修改我的订单，将名为'chicken dish'的菜品辣度改为'extra spicy'。
+live_simple_22-5-0	我需要Whopper，老一辈也把它叫作汉堡。
+live_simple_23-5-1	帮我点披萨。
+live_simple_24-5-2	我想把订单从披萨换成汉堡。
+live_simple_25-5-3	我改主意了，能把之前点的换成蔬菜吗？
+live_simple_26-6-0	我需要从123 Đường Đại học, Berkeley, CA 94704出发的'Plus'类型Uber，不想等超过10分钟。
+live_simple_27-7-0	我想从uber pitada点五个'burgers'和六份'chicken wings'。
+live_simple_28-7-1	我想在肯德基买10个麦辣鸡腿堡，50杯可口可乐，30个油炸鸡翅，90根薯条
+live_simple_29-7-2	我想去麦当劳买一个披萨。
+live_simple_30-8-0	请获取标识符为'my-bot-id'、版本为'v2'的机器人导出列表，按升序排列，最多50个结果。
+live_simple_31-8-1	请获取ID为'B12345'、版本为'v1'的机器人导出列表，按最后更新日期降序排列。
+live_simple_32-9-0	好的，以下是问题的答案：\n\n**文本中未提及逻辑回归，因此我无法回答这个问题。**
+live_simple_33-10-0	好的，以下是问题的答案：\n\n**文本中未提及逻辑回归，因此我无法回答这个问题。**
+live_simple_34-11-0	我向语言模型询问逻辑回归，它回答'**Logistic regression is not present in the text, therefore I cannot answer this question.**'，这个回答有效吗？
+live_simple_35-12-0	什么是逻辑回归？\n好的，以下是问题的答案：\n\n**文本中未提及逻辑回归，因此我无法回答这个问题。**
+live_simple_36-13-0	好的，以下是问题的答案：\n\n文本没有定义逻辑回归，因此我无法回答这个问题。
+live_simple_37-14-0	好的，以下是问题的答案：\n\n文本没有定义逻辑回归，因此我无法回答这个问题。
+live_simple_38-15-0	使用坐标37.8651 N, 119.5383 W提供加利福尼亚州马里波萨优胜美地国家公园当前天气，包括温度、风速和降水量，温度请使用华氏度。
+live_simple_39-16-0	请提供坐标37.8651 N, 119.5383 W未来10天的逐小时温度、风速和降水预报。
+live_simple_40-17-0	我想启动客厅的空气净化功能，请将空调设为'AIR_CLEAN'模式，使用最强风力，并开启监控。
+live_simple_41-17-1	将空调切换到空气干燥模式，风力设为中等。
+live_simple_42-17-2	我想把家里的LG ThinQ空调设为除湿模式，风力中等，目标温度22度。
+live_simple_43-17-3	设置制冷模式，温度24 oC，风力为高档。
+live_simple_44-18-0	空调以制冷模式开启。
+live_simple_45-18-1	太热了！将空调设为'COOL'模式，温度20 oC，并开启空气净化功能。
+live_simple_46-19-0	我注意到空调当前工作模式为清洁，想改为制冷模式，风力中等，并开启空气质量监控。现在请启动空气净化，关闭节能模式，将温度调整为24摄氏度。
+live_simple_47-20-0	3乘2等于多少？
+live_simple_48-21-0	能推荐一款Sierra Nevada酒厂生产、味苦、具有啤酒花香气且颜色较浅的拉格啤酒吗？
+live_simple_49-21-1	有波特啤酒现货吗？要求浓郁的巧克力香气、略带苦味、颜色深，最好来自Creek酒厂，其他偏好均采用标准设置。有推荐吗？
+live_simple_50-22-0	大不列颠当前的实时碳强度是多少？
+live_simple_51-23-0	更改空调设置：制冷模式，目标温度22摄氏度，开启节能模式，风力设为高档，从现在起1小时30分钟后启动。其余设置。
+live_simple_52-23-1	今天非常热，我的空调现在关闭着。请开始制冷，温度20摄氏度，风力中等，一小时后关机。
+live_simple_53-24-0	请创建待办事项，原样使用以下文字：go for shopping at 9 pm。
+live_simple_54-25-0	你好，我叫Charlie。请从我的待办清单中移除'todo random'。
+live_simple_55-25-1	能为'go for shopping at 9 pm'创建待办事项吗？
+live_simple_56-26-0	删除内容为go to gym的待办事项。
+live_simple_57-26-1	添加内容为go to sleep at 9 pm的待办事项。
+live_simple_58-27-0	列出孟买的电影。
+live_simple_59-28-0	今天孟买上映哪些电影？
+live_simple_60-29-0	我已完成任务'Submit monthly financial report'，请在待办清单中将它标记为已完成。
+live_simple_61-29-1	添加待办事项'go to gym tomorrow.'。
+live_simple_62-29-2	我需要从待办清单中移除内容为'ravi'的任务。
+live_simple_63-29-3	添加内容为go to sleep at 9 pm的待办事项。
+live_simple_64-29-4	我需要记住'go to Goa'。
+live_simple_65-29-5	我需要将'Hi charlie'加入任务清单。
+live_simple_66-30-0	请检查L码的商品ID102和M码的商品ID103的库存是否低于最低20件的阈值，并告诉我是否需要补货。
+live_simple_67-31-0	我想计算一笔2024年款汽车的车贷月供：贷款1000000比索，期限12个月，首付20%。
+live_simple_68-32-0	5.0加3.0等于多少？
+live_simple_69-33-0	我需要查看系统某个漏洞的事件序列，请获取项目UUID为SUPERFANCY、组件AB1010CD、漏洞ef903ac-893-f00的分析。
+live_simple_70-34-0	请获取序列号Q3CC-CRT3-SZ2G的传感器今天的警报列表，每页最多显示10条。
+live_simple_71-35-0	自2022年7月以来，千禧一代对苹果公司的看法发生了什么变化？
+live_simple_72-36-0	我有一个音频文件，想识别显著节拍。请分析并过滤掉置信度低于50%的节拍，同时使用0.5秒窗口确保节拍互不混淆。
+live_simple_73-36-1	请分析这个音频文件，确定显著节拍出现的时间，捕获百分比设为90，置信窗口大小为0.25秒。
+live_simple_74-36-2	我想分析一个音频文件，请在捕获百分比70、置信窗口大小0.8秒的设置下识别显著节拍。
+live_simple_75-36-3	筛选节拍，仅保留置信度高于第93百分位的节拍，并确保在0.5秒窗口内选取置信度最高的节拍。
+live_simple_76-37-0	请将以下句子从英语翻译成法语：'What is your name?'。
+live_simple_77-38-0	请告诉我英国伦敦当前的天气状况，包括温度、风况和降水。
+live_simple_78-39-0	请给Andy的邮箱andy@gorilla.ai起草邮件，主题为'Sales Forecast Request'，内容包含"where is the latest sales forecast spreadsheet?"。
+live_simple_79-40-0	你是由Gorilla LLM开发、使用Gorilla LLM模型的AI编程助手，只回答计算机科学相关问题。对于政治敏感问题、安全隐私问题及其他非计算机科学问题，你会拒绝回答。<<question>>查找圣迭戈的酒店。
+live_simple_80-41-0	我需要添加一条关于人工智能最新进展的新闻，标题为'Breakthrough in Artificial Intelligence'，内容必须涉及机器学习算法的近期突破。请将meta标题设为'AI Breakthrough Latest Developments in Machine Learning'，meta描述设为'An overview of the recent significant advancements in artificial intelligence and machine learning technology'，URL设为'ai-breakthrough-latest-developments'。
+live_simple_81-42-0	我需要向Sitefinity CMS添加一篇新文章，类型为'NewsItem'，标题为'Julian is testing12'，请帮我设置。
+live_simple_82-43-0	我需要向Sitefinity CMS添加一篇标题为'Julian is testing'的新闻文章，能帮忙吗？
+live_simple_83-44-0	我想发布一篇新闻，标题为'Julian is Testing'，内容为'a detailed analysis on the impact of sleep patterns on productivity'。请将meta标题设为'Productivity and Sleep Patterns'，URL设为'julian-testing-productivity'，并添加meta简介'Exploring how sleep affects work efficiency'。
+live_simple_84-45-0	能告诉我盖茨先生工作的那座城市——西雅图的经纬度吗？
+live_simple_85-46-0	请使用纬度37.8715、经度-122.2730，告诉我伯克利当前的温度。
+live_simple_86-47-0	我需要将数字[1, 54, 3, 1, 76, 2343, 21]按从小到大排列。
+live_simple_87-48-0	请以DMS格式告诉我设备当前的地理坐标，包括海拔。
+live_simple_88-49-0	我刚享用了一大杯加了half and half的印度香料茶作为上午加餐。请记录我加餐喝了16盎司印度香料茶。
+live_simple_89-50-0	我想开始生成室内设计报告，偏好现代风格、暖色调，预算中等。请使用内部数据库的数据，以DOCX格式输出，并包含视觉内容。
+live_simple_90-51-0	能告诉我法国巴黎当前的温度吗？
+live_simple_91-52-0	能告诉我标识编号为4的那个人的详情吗？
+live_simple_92-53-0	我想听Käärijä的音乐，可以开始播放吗？
+live_simple_93-54-0	我想听Käärijä的所有曲目。
+live_simple_94-55-0	能播放歌手Käärijä的歌曲'Cha Cha Cha'吗？
+live_simple_95-56-0	我有数值列表[2.5, 3.6, 4.1, 5.2]，需要进行归一化；还有类别['red', 'blue', 'green']，希望进行独热编码。请帮我处理。
+live_simple_96-57-0	请告诉我马萨诸塞州波士顿当前的天气状况。
+live_simple_97-57-1	请告诉我安达卢西亚埃尔加斯托尔当前的天气状况。
+live_simple_98-58-0	能告诉我金奈目前的天气吗？我记得纬度大约13.0827，经度大约80.2707。
+live_simple_99-59-0	请连接名为'ue boom'的蓝牙音箱。
+live_simple_100-59-1	我想连接名为'JBL Flip 4'的蓝牙音箱。
+live_simple_101-60-0	我想连接一个新Wi-Fi网络，但忘了名称。请显示'Please enter the Wi-Fi network name you wish to connect to:'，询问我要连接的SSID。
+live_simple_102-61-0	我刚在加利福尼亚州旧金山消费59.99美元，这笔金额的销售税是多少？
+live_simple_103-61-1	我在加利福尼亚州买了一台999美元的新笔记本电脑，不确定税额，含税总金额是多少？
+live_simple_104-61-2	我在纽约消费250美元，销售税是多少？
+live_simple_105-62-0	对这些句子进行分类：\nlink my account\nconnect my accounts\nhello。
+live_simple_106-63-0	请将以下客户查询分入恰当类别：'Please provide the routing number for my account.'；'Which account number should I use for setting up eStatements?'；'What rewards are offered for my card?'；'Looking for the closest ATM for cash withdrawal, can you assist me in finding one?'；'What rewards are available on my card?'；'Locate ATM for immediate cash needs'；'I urgently need to find an ATM for cash withdrawal, can you help me locate the nearest one?'；'Activate my new card for loyalty program enrollment'；'I want to cancel my card and ensure the safety of my account.'；'Searching for ATM for money withdrawal'；'Can you walk me through the activation process for my new bank card?'；'What are the benefits of using my rewards points for entertainment?'；'Find ATM for urgent cash needs'；'Need to find ATM for quick cash emergency'；'I'm done here. Goodbye!'；'Please give me the account number for my business checking account.'；'Can I purchase a cashier's check through this chat service?'；'Thanks for your assistance. Goodbye!'；'I need a cashier's check, how can I get one?'；'You're amazing. Goodbye!'。
+live_simple_107-64-0	我有一组客户查询，需要将它们分为电话银行服务、银行营业时间或地点、不同银行账户类型说明等类别。查询为：'How do I sign up for tele-banking services through the mobile app?'；'Can I sign up for telephone banking services?'；'Where can I find the application for telephone banking services?'；'I'm interested in opening a long term savings account. What options do you have?'；'Are any banks open in Sri Lanka right now?'；'Do you offer any special accounts for children or minors?'；'Do you offer any special accounts for individuals looking to save for a home purchase or renovation?'。
+live_simple_108-65-0	请对以下客服查询进行分类：'Can you show me all outgoing wire transfers?'；'Can you assist me in combining my personal and savings accounts?'；'I need my credit card limit raised.'；'Can you assist me in getting a higher credit card limit?'；'I need to view all transactions labeled as "checks" on my account.'；'Please assist me in combining my accounts for a streamlined experience.'；'Can you show me my recent Google Pay transactions?'；'How can I link my auto loan and savings accounts?'；'I would like to see the details of my most recent ATM withdrawal.'；'Can you give me a summary of my recent debit card transactions?'。
+live_simple_109-66-0	请对以下查询进行分类：["Can I use bonuses or commissions as part of my income for a loan application?", "Can I schedule automatic withdrawals for different dates?", "How much do I owe on my home equity loan?", "Will my income be verified during the loan application process?", "Is there a minimum income threshold for loan approval?"]。
+live_simple_110-67-0	有一条客户查询'Need ATM location'，应归入哪个类别？
+live_simple_111-67-1	我有一组客户查询，需要按意图分类：'What is my balance?'；'Tell me my available balance, please'；'What is my current available balance?'；'Where is the closest ATM to my current location?'；'Find ATM for immediate cash needs'；'Please provide my current account balance'；'Show me my balance information.'；'What is the balance in my account at this moment?'；'How much money is in my account?'；'Tell me my available balance'。
+live_simple_112-68-0	我有一条查询'what is the weather like'，能将其恰当分类吗？
+live_simple_113-69-0	我正在为SaaS产品定价，产品提供一次性表单提交服务，以及允许无限更新和提交的年度订阅。竞争对手的一次性提交收费99美元、年订阅149美元，另一家分别收费149美元和249美元。请为位于34.0522, -118.2437的客户确定有竞争力的价格，基础价格采用100美元，且不得低于90美元。
+live_simple_114-70-0	我需要更新个人资料：新邮箱john.doe@example.com，新年龄30，用户ID为12345。
+live_simple_115-71-0	133加34等于多少？
+live_simple_116-72-0	133加34等于多少？
+live_simple_117-73-0	反转say hi。
+live_simple_118-74-0	请用摄氏度告诉我印度海得拉巴当前的温度。
+live_simple_119-75-0	请告诉我澳大利亚、加拿大和印度现任总理的姓名。
+live_simple_120-76-0	请告诉我法国巴黎2023年4月3日至4月5日的天气，温度使用摄氏度。
+live_simple_121-77-0	请创建条形图，比较软件工程师、平面设计师、数据分析师、销售经理和护士这五种职业的工资，分别为90000、50000、70000、60000、80000。
+live_simple_122-78-0	我希望使用视觉语言模型vikhyatk/moondream2，根据一个'question'从'image.png'中方便地提取信息，问题为"generate with technically complex attention to detail a description of what you see"。
+live_simple_123-79-0	请分析图像http://www.thewowstyle.com/wp-content/uploads/2015/01/Home-Interior-Design-Hd-Wallpaper-Hd-Background-With-Simple-Staircase-And-Plasma-TV-Also-Nice-Laminate-Flooring-Ideas-With-Modern-Furniture-Interior-Minimalist-Design.jpg，并根据问题'How does the arrangement of furniture contribute to the minimalist design of the interior?'提供详细描述。
+live_simple_124-80-0	请帮我检索一下'红星科技'公司目前所有未解决的工单，我想要查看最多10个。
+live_simple_125-81-0	请帮我将名字'John'和'Doe'合并成完整姓名。
+live_simple_126-82-0	请获取fabric 'Global-Fabric'上节点1200、pod 3的以太网接口状态信息。
+live_simple_127-82-1	请获取名为'test-de'的fabric上节点5、pod 1的以太网接口状态信息。
+live_simple_128-83-0	如何在Cisco Nexus Dashboard生成RESTful API请求？版本：3.1.0；IP：192.168.11.33；API名称：get nodes list；Parameter_fabricName：PEK-ACI。
+live_simple_129-83-1	获取fabric fab-ed的节点列表，IP为3.321.3232.2。
+live_simple_130-84-0	请使用IP 192.120.45.67，获取Network1 fabric中pod 10、节点ID12的以太网接口统计数据。
+live_simple_131-84-1	如何在Cisco Nexus Dashboard生成RESTful API请求？Version：6.3.1；IP：192.120.45.67；API name：get information of an interface；Parameter_fabricName：Network1；Parameter_nodeId：12；Parameter_podId：10；Parameter_interfaceType：Ethernet；Parameter_infoType：Speed。
+live_simple_132-85-0	请提供https://example.com/device-connector-versions.json中的设备连接器版本信息。
+live_simple_133-86-0	请从URL 'https://api.example.com/recommendations'获取标识符为'dac'的公告的推荐详情。
+live_simple_134-87-0	请从URL 'https://api.insights.com/groups'获取节点的Insights Groups信息，最多20个结果，按降序排列。
+live_simple_135-88-0	请从'https://api.example.com/v1/data'获取数据，最多50项。
+live_simple_136-89-0	我需要获取AcmeCorp账户下SalesApp的拓扑信息。请向'https://192.168.1.1/api/v1/applications/topologies'发送GET请求，筛选条件为'accountName:AcmeCorp AND applicationName:SalesApp'。
+live_simple_137-90-0	将事件'Alice-One-one-One'改期到伦敦时间2023年11月1日晚上8点。
+live_simple_138-91-0	将事件'Bob-123'改期到伦敦时间2023年11月1日下午4点。
+live_simple_139-92-0	请使用URL格式'https://{ip}/sedgeapi/v1/cisco-nir/api/api/v1/anomalies/summary'，获取名为'network222'的fabric的异常摘要，其中{ip}为IP地址'192.168.1.1'。
+live_simple_140-93-0	请帮我给丈夫Jeff发一条温馨的消息，我叫Emily。
+live_simple_141-94-0	使用docker --version检查是否安装了Docker。
+live_simple_142-94-1	使用dir Desktop列出桌面文件。
+live_simple_143-95-0	Docker在运行吗？请使用docker ps检查。
+live_simple_144-95-1	使用taskkill命令关闭Firefox。
+live_simple_145-95-2	列出C盘内容。
+live_simple_146-95-3	使用start命令通过链接https://huggingface.co打开Hugging Face。
+live_simple_147-95-4	使用taskkill命令移除我之前设置的timer.exe。
+live_simple_148-95-5	C盘里有什么文件？
+live_simple_149-95-6	使用echo命令输出hi。
+live_simple_150-95-7	使用精确命令shutdown /s /t 0关闭电脑。
+live_simple_151-95-8	使用命令netsh wlan disconnect断开Wi-Fi。
+live_simple_152-95-9	列出D盘中的文件，并创建名为testing.txt的文件，可通过dir D:\\ && echo testing.txt实现。
+live_simple_153-95-10	使用指令del "%userprofile%\Desktop\putty.lnk"移除桌面上的PuTTY快捷方式。
+live_simple_154-95-11	使用命令start https://www.youtube.com/watch?v=dQw4w9WgXcQ打开YouTube并播放rickroll。
+live_simple_155-95-12	使用date或echo命令查询日期。
+live_simple_156-95-13	你拥有命令提示符的完全控制权；任务需要执行命令时就直接执行。请列出C盘内容。
+live_simple_157-95-14	使用命令echo %time%查询电脑时间。
+live_simple_158-95-15	使用taskkill终止code.exe，从而关闭VS Code。
+live_simple_159-95-16	使用timeout命令设置10秒计时器，请使用timeout 10。
+live_simple_160-95-17	使用start microsoft.windows.camera:命令打开摄像头。
+live_simple_161-96-0	{"response": "图像包含DC漫画和漫威漫画的四个超级英雄标志：超人、钢铁侠、绿巨人和蝙蝠侠。标志的颜色和形状各不相同。超人标志是蓝色背景上的红黄色S。钢铁侠标志是带黑色面罩的红黄色圆形。绿巨人标志是带黑色轮廓的绿色拳头。蝙蝠侠标志是黄色背景上的黑色蝙蝠。可能包含受版权保护材料的对象包括：蓝色方块、红色方块、绿色方块、黄色方块、超人标志、钢铁侠标志、绿巨人标志、蝙蝠侠标志、拳头、蝙蝠、面罩、轮廓。"}
+live_simple_162-96-1	{"response": "一个由不同漫画超级英雄组成的四图网格。包含受版权保护材料的对象列表：红蓝色圆形标志、红黄色圆形标志、绿色圆形标志、黑色圆形标志。"}
+live_simple_163-96-2	图像是《乐高大电影》的海报，包含乐高标志，即写着白色"LEGO"字样的红黄色矩形。海报还包含埃米特、露西、蝙蝠侠和甘道夫等乐高角色。其他可能包含受版权保护材料的对象包括电影名称、上映日期和配音演员姓名。红色标志；黄色矩形；白色文字；乐高角色；电影名称；上映日期；演员姓名。
+live_simple_164-97-0	图像包含可口可乐标志，是可口可乐公司的注册商标。可口可乐公司是一家总部位于美国佐治亚州亚特兰大的跨国饮料公司，是全球最大的饮料公司，以500多个汽水和非汽水品牌服务消费者。以全球最有价值的品牌之一可口可乐为首，公司产品组合拥有20个十亿美元级品牌，其中19个在200多个国家销售。这些品牌包括Diet Coke、Fanta、Sprite、Coca-Cola Zero、vitaminwater、Powerade、Minute Maid、Simply、Dasani、FUZE TEA和Del Valle。\n\n我100%确信图像包含受版权保护的内容。
+live_simple_165-98-0	能帮我从以下文本中提取姓名和年龄吗？文本是：```我叫李雷，今年18，我姐姐比我大三岁，叫李丽```。
+live_simple_166-99-0	我需要知道电脑当前的时间，请使用命令echo %time%。
+live_simple_167-99-1	VS Code正在运行吗？请使用命令tasklist /FI "IMAGENAME eq Code.exe"。
+live_simple_168-99-2	在Windows上使用docker start启动Docker。
+live_simple_169-99-3	使用虚拟环境d:/playground/pc_contoller/env/Scripts/python.exe中的Python解释器，运行d:/playground/pc_contoller/test.py脚本。
+live_simple_170-99-4	列出C盘内容。
+live_simple_171-99-5	使用echo %date%命令显示今天的日期。
+live_simple_172-99-6	使用docker ps检查Docker是否正在运行。
+live_simple_173-99-7	使用名为start calc的命令打开计算器应用。
+live_simple_174-100-0	我需要熨衣服务的服务代码，能帮我查找吗？
+live_simple_175-101-0	请帮我寻找提供熨衣服务的家政人员。
+live_simple_176-102-0	请帮我寻找提供熨衣服务的家政人员。
+live_simple_177-103-0	请帮我寻找提供清洁服务的服务商。
+live_simple_178-103-1	请帮我寻找提供熨衣服务的家政人员。
+live_simple_179-104-0	获取清迈熨衣服务的唯一标识符。
+live_simple_180-105-0	请寻找曼谷乍都乍区提供熨衣服务、评价至少4星的家政人员。
+live_simple_181-106-0	请寻找曼谷乍都乍区提供熨衣服务、评价至少4.5星的家政人员。
+live_simple_182-107-0	请寻找曼谷Khlong Sam Wa区Sai Kong分区提供熨衣服务、评价至少4.5星的家政人员。
+live_simple_183-108-0	寻找曼谷评分至少2.0的专业清洁服务。
+live_simple_184-109-0	寻找曼谷口碑良好、评分高于4的专业清洁服务。
+live_simple_185-110-0	请寻找春武里府提供熨衣服务、评价至少4.5星、明天有空的家政人员，今天是20230929。
+live_simple_186-111-0	请寻找春武里府提供熨衣服务、评价至少4.5星、2024年3月12日16:00至18:00有空的家政人员，原日期为12/03/2024。
+live_simple_187-112-0	请寻找春武里府提供熨衣服务、评价至少4.5星、12/03/2024的16:00至18:00有空且从无工作迟到记录的家政人员。
+live_simple_188-113-0	请寻找清迈Sankampang区Ton Pao分区提供熨衣服务、评价4.5星的家政人员。
+live_simple_189-114-0	我需要从以下文本中提取信息：```\n\nMy name is Chester. i am 42 years old. My friend Jane is a year older than me.\n\n```。
+live_simple_190-115-0	MPN类型的ACHD有哪些规格？我想查看图片。
+live_simple_191-115-1	请仅获取MPN标识符为3pak7的零件规格。
+live_simple_192-116-0	请告诉我帕西菲卡2023年4月11日的天气预报。
+live_simple_193-116-1	请告诉我纽约2023年3月8日的天气预报。
+live_simple_194-116-2	我很快要去马丁内斯，请查询那里2023年4月25日的天气。
+live_simple_195-116-3	帕洛阿尔托今天2023年4月25日的天气预报是什么？
+live_simple_196-116-4	请提供阿拉米达即将到来的星期三的天气预报，今天是2023年4月25日星期一。
+live_simple_197-116-5	请提供斯廷森海滩2023年4月5日的天气预报。
+live_simple_198-116-6	请告诉我希尔兹堡2023年3月2日的天气。
+live_simple_199-116-7	请告诉我明尼苏达州马歇尔2023年3月5日的天气预报。
+live_simple_200-116-8	我想查询弗里蒙特2023年3月1日的天气状况。
+live_simple_201-116-9	我计划2023年3月4日野餐，想了解坎贝尔当天的天气预报，请提供相关信息。
+live_simple_202-116-10	请提供福斯特城2023年4月25日的天气预报。
+live_simple_203-116-11	你好，请帮我查询华盛顿哥伦比亚特区2023年3月1日的天气。
+live_simple_204-116-12	请告诉我新泽西州拉瑟福德2023年4月22日的天气。
+live_simple_205-116-13	伯克利下个星期六的天气预报是什么？今天是2023年4月25日星期二。
+live_simple_206-116-14	你好，请告诉我英格兰伦敦2023年3月5日的天气预报。
+live_simple_207-116-15	请告诉我萨克拉门托2023年4月22日的天气。
+live_simple_208-117-0	我想找一部Duane Whitaker出演、Quentin Tarantino执导的好电影。
+live_simple_209-117-1	我想看David Leitch执导、Lori Pelenise Tuisano出演的电影。
+live_simple_210-117-2	我和朋友想看电影，但找不到喜欢的，我们很想看一部剧情片。
+live_simple_211-117-3	我想挑一部电影，请找一部James Corden出演的Comic类型电影。
+live_simple_212-117-4	我想开怀大笑，请找一部Edgar Wright执导的喜剧电影。
+live_simple_213-117-5	请列出Tim Burton执导的Offbeat类型电影。
+live_simple_214-117-6	今天似乎会下一整天雨，我被困在家里很无聊，请找一部电影，最好是Nitesh Tiwari执导的Comic类型。
+live_simple_215-117-7	我今晚想看一部电影，最好是奇幻类型，有推荐吗？
+live_simple_216-117-8	请查找David Leitch执导、Alex King参演的动作电影。
+live_simple_217-117-9	我想看Nitesh Tiwari执导的电影，有吗？
+live_simple_218-117-10	我独自在家，特别安静，正适合放松看电影。请找一部Michaela Watkins主演、最好由Paul Downs Colaizzo执导的电影。
+live_simple_219-117-11	我想看McKinley Belcher III出演、Simon Curtis执导的剧情片。
+live_simple_220-117-12	请找一部Alexander Mackendrick执导的惊悚电影。
+live_simple_221-117-13	请找一部James Gray执导的好电影。
+live_simple_222-117-14	我想看一部sterling K. Brown出演、Thurop Van Orman执导的电影。
+live_simple_223-117-15	我最近开始看很多奇幻类电影，想找一部Imaginative fiction类型的电影。
+live_simple_224-117-16	请推荐一些Tim Burton执导、Johnny Depp出演的Offbeat类型电影。
+live_simple_225-117-17	我有空看电影，请找一部Kirill Mikhanovsky执导的Comedy-drama类型电影。
+live_simple_226-118-0	请使用女声，将短语'I am a pretty girl'转换为西班牙语语音。
+live_simple_227-118-1	我想听男声中文朗读短语'我爱学习'，请以WAV格式提供音频。
+live_simple_228-119-0	将以下文字转换为音频：I am a pretty girl。
+live_simple_229-120-0	获取与我关联的Business Unit产品列表。
+live_simple_230-121-0	播放Katy Perry的高音质歌曲Roar，song_id为wjeiruhuq_roar。
+live_simple_231-122-0	将我下一次健身安排，即事件号456123，改到下周四下午4:30。今天是2022-10-20星期一。
+live_simple_232-122-1	我需要将Oscar的用药预约改到即将到来的星期五，事件标识符为'med123'。如何将其移到2021年4月15日UTC时间下午1:45？
+live_simple_233-123-0	请帮我预订2023年3月12日下午3点从法国巴黎出发的航班。
+live_simple_234-123-1	请帮我安排2022年6月20日下午5点从纽约州纽约市飞往巴黎的航班。
+live_simple_235-124-0	播放Marshmello的歌曲'Friends'。
+live_simple_236-124-1	我想在Spotify听Maninder Buttar的歌曲'Dil Nu'。
+live_simple_237-125-0	播放Miley Cyrus的wrecking ball。
+live_simple_238-125-1	我想听Maninder Buttar的'Dil Nu'，能在Spotify上找到吗？
+live_simple_239-125-2	能搜索歌曲'Shape of You'吗？
+live_simple_240-125-3	能搜索'Baby Shark'吗？
+live_simple_241-125-4	播放Johnny Johnny Yes papa。
+live_simple_242-126-0	将音量设为20。
+live_simple_243-126-1	能将音频播放音量降低到30%吗？
+live_simple_244-126-2	将音量设为70。
+live_simple_245-127-0	我需要2024年3月16日从JFK出发的航班，请找14:00左右起飞的。
+live_simple_246-128-0	请帮我安排2024年3月15日从纽约出发的航班。
+live_simple_247-129-0	告诉我应用版本。
+live_simple_248-130-0	UUID为'12'的TEAM有哪些有效根项目？
+live_simple_249-131-0	嘿，小兔子，你最近怎么样？
+live_simple_250-132-0	请帮我在Uber Eats上从麦当劳下单，我想要两个Big Mac和一个McFlurry。
+live_simple_251-133-0	你好，我叫Karan。请告诉我Indigo航班6E123当前的状态，我的票号是IND4567。
+live_simple_252-134-0	你好，我叫Karan。请告诉我Indigo航班当前的状态，我的票号是IND4567。
+live_simple_253-135-0	我想从麦当劳订购五个汉堡和六份鸡翅。
+live_simple_254-136-0	获取ID为U123的Parath的所有待处理mandates。
+live_simple_255-136-1	获取ID为U123456的用户的有效mandates列表。
+live_simple_256-137-0	我提交过投诉，想查询其状态。
+live_simple_257-137-1	能告诉我包裹最短到达时间吗？

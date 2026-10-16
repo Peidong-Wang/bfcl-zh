@@ -1,0 +1,48 @@
+{
+  "reviewer": "Codex independent subagent translate_live_irrelevance",
+  "scope": "live_multiple_agent_001..011; JSON translations overrides",
+  "messages_checked": 1037,
+  "checks": [
+    "All source/translation keys and counts",
+    "All numeric literal occurrences; 6 equivalent Chinese numeral cases manually verified",
+    "URLs, email addresses, paths, identifiers and dates",
+    "Manual negations, inequalities, conditional constraints, time AM/PM, duration, precise requested payloads and code",
+    "Manual semantic review of remaining simple requests and recurring templates"
+  ],
+  "corrections": [
+    {
+      "batch": "004",
+      "source_index_zero_based": 59,
+      "key": "df03a98acb652528178691346b1b5904f189a619f1ab0e8a57e681febbcae442",
+      "source": "I know I can count on you to help me find a hotel so I can go to the studio sessions. book on the 15th of July, 2staying for 5 days?",
+      "before": "我知道能靠你帮我找酒店，好去参加录音室活动。能订 7 月 15 日入住、2 人住 5 天的吗？",
+      "after": "我知道能靠你帮我找酒店，好去参加录音室活动。能预订 7 月 15 日、2staying 5 天的吗？",
+      "reason": "源文 2staying 为含糊片段，原译擅自增加2人约束。保留原片段，避免推定人数。"
+    },
+    {
+      "batch": "007",
+      "source_index_zero_based": 8,
+      "key": "d0085473f56f5d64b6b87ffb4341fe262366c12b1d32fe9b5dc71125077c06e4",
+      "source": "Is there a rental car available in London on the 10th of March onwards picking up at 10am till 17th March, any car will do?",
+      "before": "伦敦有没有 3 月 10 日上午 10 点取车、用到 3 月 17 日的出租车？任何车型都行。",
+      "after": "伦敦有没有 3 月 10 日上午 10 点取车、租到 3 月 17 日的汽车？任何车型都行。",
+      "reason": "rental car 指租赁汽车；出租车通常指taxi，会改变工具选择语义。"
+    },
+    {
+      "batch": "008",
+      "source_index_zero_based": 72,
+      "key": "03e214bd2c9c32b57a067009482c8e18a8eb5f2919e621c1dd60cd47e7b686ca",
+      "source": "I'm planning a trip to Austin, TX and I need to book a house for 4 men over 18 yr old from 05/12/2023 to 05/18/2023. ",
+      "before": "我计划去得克萨斯州 Austin，需要为 4 位 18 岁以上男性预订从 05/12/2023 至 05/18/2023 的房屋。",
+      "after": "我计划去得克萨斯州 Austin，需要为 4 位年龄超过 18 岁的男性预订从 05/12/2023 至 05/18/2023 的房屋。",
+      "reason": "over 18 是严格大于18；18岁以上容易被解读为包含18岁。改为超过18岁。"
+    }
+  ],
+  "source_issues_retained": [
+    "Contradictory weekdays/dates and malformed dates (e.g. 20023-04-02, 2023-0101)",
+    "Ambiguous fragment 2staying is retained rather than expanded into a passenger/guest count",
+    "Truncated user requests remain truncated",
+    "Quoted exact message bodies, prompts, IDs and code literals remain in original language"
+  ],
+  "limitations": "Codex bilingual review; no external human annotator or model evaluation."
+}

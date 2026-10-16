@@ -1,0 +1,9 @@
+include README.md SOURCES.md RELEASE_READINESS.md CHINESE_REVIEW.md PROVENANCE.json CHINESE_REVIEW.json LICENSE NOTICE
+include FULL_SUITE_USAGE.md BFCL_CATEGORIES.md
+recursive-include data/benchmarks/bfcl_multiple/en *.jsonl
+recursive-include data/benchmarks/bfcl_multiple/zh-CN *.json *.jsonl *.tsv *.txt
+recursive-include src/multilingual_bfcl/_vendor *.json LICENSE
+recursive-include tests *.py
+include scripts/build_chinese_benchmark.py scripts/validate_chinese_benchmark.py scripts/vendor_bfcl_checker.py
+recursive-include data/benchmarks/bfcl_full *.json *.jsonl *.tsv *.txt
+include scripts/prepare_full_suite.py scripts/build_full_suite.py scripts/validate_full_suite.py scripts/export_translation_batch.py

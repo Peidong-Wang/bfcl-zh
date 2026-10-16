@@ -1,0 +1,402 @@
+[
+  {
+    "key": "57bb60dc41874982793871762242e1c1631a9f36c0bcc6ac826917e07b3efd3a",
+    "source": "what services are in the default namespace?"
+  },
+  {
+    "key": "e5792ffa851816b32fd27b4c53076cc963b8a06e89c7f8cdc0c094600d63f921",
+    "source": "can you list my kubernetes pods in the namespace cascade-sandbox?"
+  },
+  {
+    "key": "7c59c19ffb1d19399ced54dfdd28148d8573f37ab14b53ca73177be5e96cf3ff",
+    "source": "Retrieve the list of services from the 'cascade-sandbox' namespace for me?"
+  },
+  {
+    "key": "67c4b3c78ef65f402d906a8d1b1faace8faa5c7a1f73a5f1f1f57372554e66b2",
+    "source": "Can you provide an overview of my business checking account at U.S. Bank for the statement period from October 1, 2019, to October 31, 2019? The account number is 1-523-1713-5704, and it's under the name SILVER BUSINESS CHECKING. The beginning balance was $5,532.01, and the ending balance was $6,737.37. There were other deposits totaling $7,132.76 and withdrawals amounting to $5,927.40."
+  },
+  {
+    "key": "209883f76808e46417f79ef03f972fe7edaa06c0da9755b7cd6b29c4bb0fc958",
+    "source": "Do you have any medium red skirt"
+  },
+  {
+    "key": "d415f626f6822ac7a68dfcf58eede508e8373e4b0e93fd9dde3feb433e32badb",
+    "source": "When will size 40 be ready with id 12345-67890?"
+  },
+  {
+    "key": "e01a16d91678f86928b2cd499ac0cf48a03c10b796bbdffcc50136465baf60bd",
+    "source": "Check the current status of my order, order ID is 123456789, with name Smart LED TV."
+  },
+  {
+    "key": "d6acd89ab9759e3629f9f5fdcdd539efd1374ac02292e79e113367db206f8e7c",
+    "source": "I saw this product on the Shopee page and I'm interested in buying 30 units. Check if they have enough in stock? Here's the link: https://shopee.co.id/product/123123/123144/, id was 123123"
+  },
+  {
+    "key": "20941fc195b131b18a2f76d438ab68834413d74da754c480fed6e35f01af3240",
+    "source": "Ratings and reviews for an interviewer named Charlie Ji?"
+  },
+  {
+    "key": "07bef0088115b57d97aa4cefd4cc4a59aa0a7561df3e59ddc77bc70f66a749ad",
+    "source": "which movies are playing today in Noida?"
+  },
+  {
+    "key": "ada8c8b36de7c36fc8b064ad160f5d48e2683a35c9d206d412c0472d6d854b4c",
+    "source": "status of my order? my order ID is #123, and the product I ordered is a pair of sneakers."
+  },
+  {
+    "key": "f992fac7bdd4ecd8483cba639408fa3ddc6d965ad7f01686d18a0202e6cfd553",
+    "source": "Do you have red skirt product ID SK123 is available?"
+  },
+  {
+    "key": "eb8384281ade0c5100bd7b0ca878ecca795774b550fd6ef04a07145642603eaa",
+    "source": "I noticed that the maroon \"V-neck sweate\"s were out of stock last week. Check if they have been restocked, specifically in sizes M and L? Please check for prod id: V-neck sweate"
+  },
+  {
+    "key": "0a724022e1669245d0f16839d217927b0e46a887b04bd7dd30e14e808f5ba8e6",
+    "source": "Apakah produk dengan ID 12345XYZ masih tersedia dalam ukuran M dan warna merah?"
+  },
+  {
+    "key": "9b6e558255aabacfd3be0bf833a9779f6948e878d315be3c14dcd53e489ce909",
+    "source": "Can you check if the white iPhone 12 still available? Use the prod id iPhone 12"
+  },
+  {
+    "key": "8f95f5382c367d4f61fc41ab94ffd075490018a7cb45ff6458e1bdb840f9e13a",
+    "source": "ka kapan ready stok ukuran L lagi, id 111?"
+  },
+  {
+    "key": "d750f26600d487ae302ecda85c9212a5bbb14007c5c941c0d38045a1f5fa8f5b",
+    "source": "I recently received my order, which included a pair of pants in size UK 34. However, I noticed there's a discrepancy of ±5cm compared to the size 34 pants I purchased previously from your store. Could you check if the size measurements have changed for this product or if there was an error? Id for it was 282828"
+  },
+  {
+    "key": "8f4d20ba33068f9c0d3429d8114667904d06a52a7939a5f71b7ff42dcfcfbe2a",
+    "source": "Saya melihat bahwa produk dengan ID XY123 masih memiliki stok ukuran M. Saya ingin menukarkan ukuran yang saya miliki dengan ukuran M. Saya akan menanggung ongkos pengiriman dan pengemasannya. Tolong konfirmasi jika ini bisa dilakukan. Terima kasih sebelumnya."
+  },
+  {
+    "key": "b0e9bac6537fe8f5543089bef28dc22bb6298c456958124fb93f04bea4d5e4e7",
+    "source": "I noticed the \"Wonderland maxi dress\" is on sale on the website, but only in large sizes. Check if small sizes are available for the same sale price?"
+  },
+  {
+    "key": "c8c056fcf5253a7061266a470287ab6ae04de5307fa19b0deac943955c88268c",
+    "source": "Hai, bisakah Anda memeriksa apakah stok kemeja dengan ID produk ABC123 masih tersedia dalam ukuran L?"
+  },
+  {
+    "key": "59acab06195136f80f89e489e16703d950924d94eff9a59675f62ae9017a2f26",
+    "source": "what movies are playing in Noida today?"
+  },
+  {
+    "key": "79f980e23cd9c405faac3b6d8520082908f78ef7f7ed3e4169a20638346898b1",
+    "source": "Remove the second item from my todo list."
+  },
+  {
+    "key": "e917c7939eedcb772724f20a1a07c5dc51648f87507206e3641ddb3bcd46efdd",
+    "source": "I want to order five 'burgers' and six 'chicken wings' from uber eat with id: McDonald's."
+  },
+  {
+    "key": "c91d81fcbabd0819a6499ad0b7d34c20f535c2e82a3421c3a7c21426bbd82828",
+    "source": "Can you place an order for five burgers and six chicken wings from id = McDonald's? Each burger has the item ID 'burger123' and each chicken wing has the item ID 'wing456'."
+  },
+  {
+    "key": "416c1fff07eef92c3199c76d094f0cf311d1b146f89cf7fa30d6daa277443a75",
+    "source": "I need to establish a new Postgres server for our Canada office. The server's domain is 'http://plgah.ca', the database should be 'finance_db', the username will be 'pascal', and use a secure password 123123."
+  },
+  {
+    "key": "5e2bff772e1dadba6afe080e954bc1847b948da62c9fd4ff177c7e07adb7240c",
+    "source": "I need to add a new Postgres server with the host address 'http://plgah.ca', database 'maindb', the username 'pascal', and the password 'securepassword123'."
+  },
+  {
+    "key": "8846d081c37e13c55cbab54b6007e78ed6f8b983942fb3a3e3460e0cd38807fb",
+    "source": "I need to set up a new Postgres server connection for my project. The nickname is 'ProjectDB', the host should be 'http://foo.com', the port number is 5432, the default database name is 'project_data', the username is 'user1', and the password I think is '12345'."
+  },
+  {
+    "key": "8d9400dd87418f30d00c15009a8f4ffa0138489149405182780261ce22d96298",
+    "source": "Configure a new PostgreSQL server with the nickname 'PrimaryDB', host 'db.example.com', porting with 5432, database called inventory, username 'admin', and a password '1234567890'."
+  },
+  {
+    "key": "b2c9e8708e0d81dfd50641ff3c37387bb1aa9794c32ac6e9a60e08eb3ffdc7c6",
+    "source": "Provide me with the documentation links and usage instructions for troubleshooting in DartFX?"
+  },
+  {
+    "key": "41d8fa3bc850caaa37251e9af02c45684571938f2b2d026f59218a4dd7eff6bc",
+    "source": "I need to set up a connection to our company's database. The server is called 'EnterpriseDB', the host is 'db.company.com', the database name is 'sales_data', my username is 'dbadmin', and the password is 'secure*pwd123'."
+  },
+  {
+    "key": "39df76a0a39e380da391e198f7df6985b9a8a21f1e4de0a84b2c1367817de7c8",
+    "source": "I need some assistance setting up my new Postgres server. Add a server with the nickname 'PrimaryDB', host IP as '192.168.0.10', port number 5432, connecting to the 'main' database, with 'admin_user' as username and 'secure*pass123' as the password?"
+  },
+  {
+    "key": "d885f2739922f7ec4443e73247e044efac530daccd928d2bb801d1f702e7de3d",
+    "source": "I need to add a new Postgres server configuration. The nickname will be 'PrimaryDB', host is '192.168.0.12', port is 5432, the database name is 'main_db', username is 'admin', and the password is 'securePass123'."
+  },
+  {
+    "key": "e6a2ee84257f3ba12c5125d073c9e1f0f779019d5b74a3530fe007a6ab926ab6",
+    "source": "Could you provide assistance on the topic of 'trading' within the DartFX system, and include practical examples?"
+  },
+  {
+    "key": "57cdff7f59850194c74e9819c890be47f2467a6018ffd33b324dfffa3e9cad42",
+    "source": "I'd like to set up a connection to our new PostgreSQL server using the nickname 'PrimaryDB'. The host is 'plgah.ca' and the port is the default one. The database name will be 'maindb', with admin username and a password '12341234'."
+  },
+  {
+    "key": "88f2bb2c50f3f578ed2f213761912c55b0a3fd1e714d8696d2df4149c5d6d7e2",
+    "source": "Provide me with guidance on the 'charts' topic in Spanish within the DartFX application?"
+  },
+  {
+    "key": "075561360ad4281ee5639cef44024ce3c32c2e4676ebf6ef2768d42cc781ef45",
+    "source": "set up a new Postgres server configuration? I'd like to nickname it 'X', use 'http://plga.ca' as the host, and the standard port 5432. For the database, let's go with the default 'postgres'. The username will be 'admin', and for the password, just use 'secure_password123'."
+  },
+  {
+    "key": "a6fdd492deca458b54a6befa1f41d1d9e27f46ece93a6f3423f1cc9394e08da6",
+    "source": "I'm trying to understand how to use the charts feature in DartFX, and I'd like to get assistance in Spanish, please."
+  },
+  {
+    "key": "7eb9af86d0f8bde46aeee15b53211ec617d7ff005481f124201e6ebddd928332",
+    "source": "Could you provide guidance on the 'installation' process for the dartfx application?"
+  },
+  {
+    "key": "1cfadbf45c5045f6e1454e2216ab547486707f919022c5df07acdde26ed9a139",
+    "source": "I need to add a new server configuration to the RDS platform. The host address is http://plga.ca, and the API key is 12344. "
+  },
+  {
+    "key": "0d0a7866f6d718f1748f08cef66a23e9bf641c72edf92a21f7c009d2fff5b262",
+    "source": "I'd like to integrate a new server into our MTNA RDS platform, using the hostname http://plga.ca. The API key is '1234324'."
+  },
+  {
+    "key": "dc1d8f4d103c156d8a7931c32598838cd08c054baa676ce0d315ec7b85539f08",
+    "source": "I need to set up a database for our new project. Could you add a PostgreSQL server configuration with the host address '192.168.0.5', using the default port, database name, username, and password?"
+  },
+  {
+    "key": "1e9c6b6c8b2780d6e39fcae21f21938b878d32c22da52b23c11497ac5f83775b",
+    "source": "List all PostgreSQL servers from our environment?"
+  },
+  {
+    "key": "c8051dcb66bec306d4672dfe666b2970e3a7ccc3f46f2974fe4cc67b960badff",
+    "source": "I need to set up a new PostgreSQL server with the nickname 'PG1', using the hostname 'pg.example.org', port 5432, a database named 'main_db', with the username 'admin' and a secure password 123412. Could you assist with this?"
+  },
+  {
+    "key": "ee277f6aa8e7d49c778f1ca285e455b79d6429b3ebccb9526e5e0c0b9917fc5a",
+    "source": "I need to add a new Rich Data Services server for mobile telecommunications to our environment. The server should be identified as 'primary_db_server', and let's use '192.168.0.5' as the host. Oh, and here's the API key to use: '1234123'."
+  },
+  {
+    "key": "16d3e9bd25e7fdbbab445d367e552a1d87a62e3679818d634e0f481fd2ac963e",
+    "source": "I need to add a new MTNA Rich Data Services server with the nickname 'RSD1' and hosted at http://rds.com. I have an API key '1234123' ready for authentication."
+  },
+  {
+    "key": "096ecf6b62af9addb0578d235572820019d29449bd7f9b32e6710be164457aed",
+    "source": "List all openai servers"
+  },
+  {
+    "key": "969b3702e718950e696ead7702a0e164f0849501b828c4fe94ca3e872e65b728",
+    "source": "I need to see all the MTNA servers we have. Could you fetch that list for me?"
+  },
+  {
+    "key": "07676e95600d25007dea144fdfeaaaabec7f272a9cb81a4757dbfbd67b6306bd",
+    "source": "Hello! Could you help me select a date for my vacation? I'm thinking of flying out on the 20th of september 2023."
+  },
+  {
+    "key": "d88e8eda1d926e3f278ffbf1d55998533d724c163a9339f0b9d556a2dca90f01",
+    "source": "I need to register a new MTNA Rich Data Services server for our system. The server's hostname is 'data.example.com' and the API key is '12345-ABCDE'. Can we also give it a nickname 'FastDataServer'?"
+  },
+  {
+    "key": "102bdd00fd327bf3e03bdc848fd94dd105d78c96e5912b2ae48ccda308d07933",
+    "source": "I need to include a new PostgreSQL server configuration. The server is located at example.org, and I will be using the nickname 'primary_db', connecting to the 'main' database. For access, my credentials are username 'admin' and password '12345'. Use port 5432"
+  },
+  {
+    "key": "8c372ab7fd21f07fa996edbd92cf10621ba44f93b0fd74fcbb439804ab73a058",
+    "source": "Could you retrieve a list of all the PostgreSQL servers in our environment, please?"
+  },
+  {
+    "key": "15d147176524f969233047935caa6df6ad497ef60970a9bed3170f65e4077fd5",
+    "source": "I need to add a new PostgreSQL server to our system with the following details: host example.org, port 5432, the database named 'inventory', username 'admin', and password 'secret'."
+  },
+  {
+    "key": "60c92a3fc49a43d75c41bedd6a02e8c1064d77b5c1dba41c9a70dc2b5c814fda",
+    "source": "Could you retrieve a list of all server configurations available in the environment?"
+  },
+  {
+    "key": "63c673e7980ab116e3032819112d137998e860f5faac02763463f8e8dc2a129a",
+    "source": "Close the data analysis project with the ID 'DA-12345'. Ensure it's archived after closure, but don't send out any notifications to the team."
+  },
+  {
+    "key": "1b188ab006f3e4b3403381e4c139b6a9f94958dea7bee8a344ed2304dcd9f7e0",
+    "source": "Could you show me a list of all the '.data' files, including the ones in subdirectories?"
+  },
+  {
+    "key": "3367ffb6f380c46cf344d40496de8b405ffcc342358f6040742d78acd81cc2fa",
+    "source": "Could you establish a connection to the server nicknamed 'xyz'? It's been a while since we last accessed it, and we need to ensure it's still operational."
+  },
+  {
+    "key": "51688ef26345be1db3803c4d251b7bc5a77579a66887b4f9908070b3f6cd33a1",
+    "source": "Could you create a new Data Artifex project for me in the directory /Foo/Bar?"
+  },
+  {
+    "key": "2b8f1d869d6e9813cb5de5a4adfd4998d760efc850bbcc815eac7749f8cf46f4",
+    "source": "Check a connection to the server with the nickname 'pg1' ?"
+  },
+  {
+    "key": "50b4dd40ebf0f92dbaa8d6cc7283df373240af37a396d04032123dfa952be381",
+    "source": "Could you establish a connection to the server nicknamed 'text01', and let me know if it's successful?"
+  },
+  {
+    "key": "264202b8e3f7351383dd3be162208617325cb2dba548b6adb62b070d48816b44",
+    "source": "Establish a connection to the server with the nickname 'SQL01' exactly 60 seconds?"
+  },
+  {
+    "key": "20ad22f3d3ff5d2b16a3b0f2cc0f68455eb33fa6dcc4c5572abe46382e369e3f",
+    "source": "Could you show me all the files with the '.json' extension in our current project directory?"
+  },
+  {
+    "key": "255bc4fc6bfdf07370b12813a68bb406f1e38c42d77ddfe42cb8dc6f6cf24ce1",
+    "source": "I want to register our PostgreSQL server with the nickname 'PG1', using 'localhost' for the host address. The server is listening on port 5432, the default database is 'main_db', and the login credentials are username 'admin' and password 'secure_pass123'."
+  },
+  {
+    "key": "5d9bbace36b28ad924a2bfce03f778e81458f6a8b8f4e778568430cefc8dfd9d",
+    "source": "Can you initialize or open the existing Data Artifex project located in the directory /foo/bar?"
+  },
+  {
+    "key": "0d84f51ebd0e036fd5cc4bf31675920d71d1b4e7dcbe36e6d65f866e5eaa5959",
+    "source": "I'm having trouble understanding how to use the list_files functionality. Help me."
+  },
+  {
+    "key": "fde882ed161baab2aba9a43cf8d0c975886024675f73d62fff0882129be53e5f",
+    "source": "I need to register a new MTNA Rich Data Services server with the nickname 'FastQuery' and the host rds.example.org, and I have an API key '1231231' to associate with it."
+  },
+  {
+    "key": "b27691967b5080579f9ca079d771bbb43919ceeb8c46652066a4305785b9cd65",
+    "source": "Can you show me all the files that have a .sav extension in the current project directory, including any hidden ones?"
+  },
+  {
+    "key": "0668d55ff09da6235985a1f0b77f6d526e76de03d4da7d3297e603434b4c5524",
+    "source": "Could you provide me with a list of all the PostgreSQL servers currently set up in our environment?"
+  },
+  {
+    "key": "eda20d3fee1e004836208303cfdcc946fb932d0dd6617639be5c00787cce73cf",
+    "source": "Could you show me all of my MTNA  servers, please?"
+  },
+  {
+    "key": "8e496060a144bd4055e62ec3a68e22cf6d000a2fdb9ecee1f148342576e8c707",
+    "source": "Can you show me all the text files in the current project directory, including the hidden ones?"
+  },
+  {
+    "key": "57cc817b8ff9fe25d1dbed9fd1624388b56c4113efa721ec2d16227e2d9b7f5a",
+    "source": "I need assistance with a specific topic. Can you provide help information on 'database optimization' in Spanish, preferably in video format?"
+  },
+  {
+    "key": "e2edb1f81274a29ca1a91347bac3f1bd8d0caa7b4ee4be38e826437527edbab1",
+    "source": "Could you show me a list of all the PostgreSQL servers that are currently registered in our environment?"
+  },
+  {
+    "key": "81a3e5bb216b278808f53513f7f51c6219087dbd7908fb252a5407a47b79c0bb",
+    "source": "Could you retrieve a list of all the MTNA Rich Data Services servers for me?"
+  },
+  {
+    "key": "06c1a0d16ab7442971593a4f904ffd9f8cb967287244569b47c62d0371db0612",
+    "source": "I need to register a new PostgreSQL server with the nickname 'MainDB', the host name 'pg.example.org', port number 5432, and the default database called 'sales_db'. The username is 'admin' and the password is 'password'."
+  },
+  {
+    "key": "0870409ed93fdd9943016e42ab12b8bfaa6cf38a248be04b61754e7b7ab0cf9f",
+    "source": "Could you provide the analysis trail for project SUPERFANCY with the component UUID AB1010CD and the vulnerability ID ef903ac-893-f00?"
+  },
+  {
+    "key": "50a74db83779752d02e977b1a4e6925b0e7401ee2f9cea9c780626d27be5ea33",
+    "source": "Could you add 'read' permissions for user with principal ID 'user-123' to the resource with ID 'resource-456'?"
+  },
+  {
+    "key": "8baf67941664d558c03c4988391696e1571e71a0a6ec307c6aa2688c0d1bd90a",
+    "source": "Could you tell me the current version of the application, including its name?"
+  },
+  {
+    "key": "09628db0559c677620276a697717fd24fffeecabc96998be2bea3a4448ac2d9f",
+    "source": "Get application name and version."
+  },
+  {
+    "key": "90696e624eed8b40e0f38c4a83c153aed12b1efb451de57d7b54aed318e898ae",
+    "source": "Could you provide the current version information of the application, including the application name and its version number?"
+  },
+  {
+    "key": "6cbc44ac11b29a8dafac6e6d6e02f325ff41d69fc388714890d14d9f304ff293",
+    "source": "Can you tell me the current version information of the application, including the name and version number?"
+  },
+  {
+    "key": "6d7948491919ea897594303a7685ec35d0a9c95db143b44cdd614a71f95b6d36",
+    "source": "Could you determine the distance to the closest leading object for our vehicle? Here's the data: our car's position is at 10.5 meters laterally and 50 meters longitudinally, with an orientation of 30 degrees. The lane we're in has an ID of 'L123' and it's a regular type. We've detected several objects, but the closest has a bounding box with x coordinate 60.2 meters and y coordinate 12.3 meters."
+  },
+  {
+    "key": "9c43a84eb6620ddf0294d1b40344d325624c4a7678b59c103dd5955e29ce2a90",
+    "source": "Can you tell me how long it will take for my car to collide with the vehicle in front if I'm going at 50 meters per second, my acceleration is -2 meters per second squared, the leading vehicle is traveling at 30 meters per second with an acceleration of -1 meter per second squared, and the initial distance between us is 100 meters?"
+  },
+  {
+    "key": "56394ff34e8307a3ceaf2e33275031ff4c0fbcc83187582feda90833ba96b6ab",
+    "source": "What is the estimated time until collision if my car is traveling at a velocity of 20 m/s, accelerating at 2 m/s^2, and the vehicle ahead is moving at 15 m/s with an acceleration of 1 m/s^2, given that the initial distance between us is 50 meters?"
+  },
+  {
+    "key": "a19f2ded32ab8173aa2c8fb130e344ce65ea0c2f317d475918cf9430885516f6",
+    "source": "You are an Generative AI functions agent which generates the output mentioning which function to be called from the given list. Strictly use the mentioned functions only to generate the output. \n Functions to use:['multiply', 'add', 'sub', 'fahrenheit_to_celsius', 'celsius_to_fahrenheit', 'duck_duck_go']\n  'What is LangFuse and how can I use it in my genAI project?'               "
+  },
+  {
+    "key": "17dcf4f115402c443ccd02f5a6e38cf0b5481d39036f360a628f20cdd0c2274b",
+    "source": " \nQUERY:3 of my friends gave me 10 euros each, how much do I have now? \n Functions to use:['multiply', 'add', 'sub', 'fahrenheit_to_celsius', 'celsius_to_fahrenheit', 'duck_duck_go']"
+  },
+  {
+    "key": "91b3d03bef36f280116965816fb2449e496c8d28020f2229929dead1c50bbb5b",
+    "source": "Give me an analysis trail for my project SUPERFANCY with component UUID AB1010CD and vulnerability ef903ac-893-f00"
+  },
+  {
+    "key": "2978a51a958ec307d817bf56fc393b63a8cd9ac5dc41b3599d1801c0c431b904",
+    "source": "Find some information on 'the history of kites and how they're made'?"
+  },
+  {
+    "key": "f801ad59059aa04f091ec71e7a3d9b464aff6f5b2c17d48b14544821a82d622c",
+    "source": "Generate a digital image with captured 'a man wearing a red dress'."
+  },
+  {
+    "key": "0fba951db054ebfb6047bab2cbf8342f5a6a5bec131b9f9c5ac4cff6a1cd3415",
+    "source": "Can you search with prompt 'the current prime minister of India', ensuring that the information is from after 2022?"
+  },
+  {
+    "key": "be8cad99744298342d295319dad364768bda66417c990c2e56c8085f0efa08d8",
+    "source": "I'd like to read a poem about kites. Could you generate one with a creative touch? Prompt it as 'I'd like to read a poem about kites. Could you generate one with a creative touch?'."
+  },
+  {
+    "key": "5ab284c076a70a9bd050061a24f8d353566094798d8cd24a08cc124135e1eefe",
+    "source": "चाय कैसे बनाएं? Query proper llm with exactly the question."
+  },
+  {
+    "key": "67066885669cafd96b9a921dc41077b89a9401e2521e6b04f38501eab09fc70c",
+    "source": "You are a helpful assistant with access to various functions, which you should use as needed. Your last knowledge update was in October 2021; therefore, you should use a search engine to retrieve any real-time information, specific details, and facts about events, news articles, and developments that occurred after October 2021. Use the available functions to complete tasks whenever applicable. \n\n SYSTEM INFORMATION: Current date/time: 04 Mar 2024, 09:15 PM (UTC Timezone). Knowledge date cutoff: 31 October 2021. \n\n----\n\n \"who is the current pm of india\""
+  },
+  {
+    "key": "f0c7a3b6dce0bb40cccac01fe82b18ed32069991eda653a5c19423fa2e200eb0",
+    "source": "'chai kaise bnaye', Query this to llm as exactly."
+  },
+  {
+    "key": "3385f83e444c6f3a26ae222b61418a216b2cb943783424f5edf477cc56155024",
+    "source": "What is the price of Apple on NYSE?"
+  },
+  {
+    "key": "243ff87ce44ee870e7bd621929f8789586473c0581637ab4d33d4e5e8c1e7b8d",
+    "source": "What is the temperature in London, UK?"
+  },
+  {
+    "key": "7504de48ae6d7f58d7a509e714d2b72aa13fd68b05b2eb8bafd24a5cac51e604",
+    "source": "I'm curious about the current weather conditions in London, United Kingdom. Can you provide me with that information?"
+  },
+  {
+    "key": "da036f4fbfa3306a0eb14d7082e65e1566a1efca6cd64c33bd2d87b719691444",
+    "source": "Can you tell me the latest stock price for AAPL on NASDAQ?"
+  },
+  {
+    "key": "5a9f2527a6bd8317769672297b584d21174eeda9e74341c34e76d637b10a6812",
+    "source": "Could you tell me the current weather conditions in London, United Kingdom, including the temperature, wind speed, and any precipitation?"
+  },
+  {
+    "key": "1df188c50715845959e6eba60ff4eb2a421b59ebecbca8cc69832311abdff60f",
+    "source": "Could you tell me the current price of AAPL on the NASDAQ?"
+  },
+  {
+    "key": "b5ab8363737a952068a13d859494d50daf4862a07b22c0807fb53d6353884610",
+    "source": "Could you tell me the current weather conditions in London, including the temperature and wind speed?"
+  },
+  {
+    "key": "4300da2a660c634de18bbea7a826220400d835206dd02ba6e90793d45d199f48",
+    "source": "Could you retrieve the latest trading price for AAPL on the NASDAQ exchange?"
+  }
+]

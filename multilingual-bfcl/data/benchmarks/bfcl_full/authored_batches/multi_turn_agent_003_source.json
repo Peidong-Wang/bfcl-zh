@@ -1,0 +1,162 @@
+[
+  {
+    "key": "709be66ce7809b4e07d9c33f3bed25f6fc7f03a2ba6c06418f5774a2b5be1e39",
+    "source": "In the contents of 'summary_2024.txt', please fish out and highlight any lines featuring the term 'Progress'."
+  },
+  {
+    "key": "a44a47d543d93250786b3ac1173a9e6a25c0a7550b70f15724d3a0d623123aad",
+    "source": "Could you go to temp directory, and for each file in there, count the number of lines."
+  },
+  {
+    "key": "f295b3b8f7f3f55a4c8bf4e07034831013fd6b58edf531a4f630929553a9c1bd",
+    "source": "Now, scour through the mysterious 'dev_summary.txt' and hunt for any mentions or whispers of 'server error'."
+  },
+  {
+    "key": "ab813131187376de1d0df93d39b4a662e9894acc3042620e08e18417f9116847",
+    "source": "Make a new file whose name is the number of line but in txt format and append the second sentence containing 'server error' to it."
+  },
+  {
+    "key": "241743ea46a4783d13071688ae59dc1757865522cfb17ff68a11eb7cd2c537d9",
+    "source": "I've misplaced a vital document inclusive of extensive research. Assist in locating a file named 'findings_report' within this 'SuperResearch'. Could you remove it and the directory."
+  },
+  {
+    "key": "ee989e65813c79cbdbf6d9d88786c7a920801405888b1f59aecd105890425d5c",
+    "source": "What's left in the current directory including the hidden files?"
+  },
+  {
+    "key": "8843abc30188b67e06908c0523a96bbbabb208e7879cc1acc8263ddc7bf3142a",
+    "source": "I need you to set up a fresh folder named 'WebDevProjects' wherever you're currently working."
+  },
+  {
+    "key": "571b0feaeae1ef646fff3036866cd878b71bb40edd6afca53bae5d1dd62d0b03",
+    "source": "Enter the folder and populate the 'WebDevProjects' folder with 3 files:, 'styles.css',  'index.html', and 'script.js' with content 'Hello World!','Hi World!', 'Halo World!' in each."
+  },
+  {
+    "key": "232f2462d9721df1984cfafb19103a36a608d737375dd6c43a0ae86cda75aac4",
+    "source": "What's the second file name by system order? Don't list out hidden files."
+  },
+  {
+    "key": "b48ac2b4b6335b07de9eace5ba96f3b9e1bd1a0b0e0fc02dc662127562aa4449",
+    "source": "Can you display the content of the first file by system order?"
+  },
+  {
+    "key": "5817341402d2742c8369d78357da2ab706e5f2376f419da6f148f944810e3fd0",
+    "source": "Arrange a complete listing of all files and directories presently located here, making sure you don't overlook the hidden ones too."
+  },
+  {
+    "key": "dec6bf68d23c6d920cae8eb8a59df52fb5f03dad0d0e64455688199a77cabf72",
+    "source": "Transfer the 'annual_report.txt' in Documents directory to the 'Reports' directory that's in Documents directory, but also make sure it remains available in its current spot."
+  },
+  {
+    "key": "5dfbc1e2f7881e57909f946cb89e8bad657102503551c156f3d2aa4a176f1e8a",
+    "source": "Reveal the last lines of 'Q4_summary.doc' so we can ascertain how the report wraps up."
+  },
+  {
+    "key": "e22a558ef6cec395f5246afca0b0456dd430e9d92ce41c781b3b45c05048d9b8",
+    "source": "Attempt to relay a message to the individual with ID 'USR002' by logging in as USR001, updating them on the finalization of the report saying 'The report has been finalized.'."
+  },
+  {
+    "key": "5763d23acaef9ab5403132a961969c54859be480357be44913c487cdc6c97169",
+    "source": "Where is my notes? Forward it exactly to Bob please. I am USR001."
+  },
+  {
+    "key": "5c098511d4ee9b1d74797596499789b64cee06935e0e5b9b6c3db66abefe1d8d",
+    "source": "After Bob has received the details, would you mind removing it since there are some errors?"
+  },
+  {
+    "key": "ea4756c52d00c0063a59587538067641054196899082dccdef46c930b88fc776",
+    "source": "In my existing folder called 'Lectures', I'd like to set up a new file called 'Notes2023.txt'."
+  },
+  {
+    "key": "8f002100543441eaa12066a77fde9242fcfc644495903d01fa88564a01af6a87",
+    "source": "Inside 'Notes2023.txt', I shall jot down some pivotal reminders: 'Study diligently, practice programming, master algorithms.'"
+  },
+  {
+    "key": "6a60b23190df77c894ed6760638594611e12dbc9094d164cc7ecc1c14b195704",
+    "source": "Ascertain for me how many characters of text remain in this alphabetically sorted version of 'Notes2023.txt'."
+  },
+  {
+    "key": "c9888cd4683e71bda97846b3d0fd38ee42af54ec4bcfef138ee9d34ef9c3f00c",
+    "source": "Locate any document titled 'annual_report.txt' wherever it might be within this directory or its subdirectories."
+  },
+  {
+    "key": "f0ba751810e0a7745367e64e8cc5e3a64a87163d479ce29e8174b647cfd99dc7",
+    "source": "What's inside?"
+  },
+  {
+    "key": "eb01b625900eeac4eedd57e742d0e646a6b0f3d1ba7e88ff436c1ff517900252",
+    "source": "Log my user id USR001 in, and relay a message to the ID 'USR002', updating them with what's inside verbatim as the body of the message."
+  },
+  {
+    "key": "3bb65a483a48acf3edb2bb5ac030c4c2c4561c74ac25e7f122bc8bea8ae4f25b",
+    "source": "Could you populate 'annual_report.txt' with data on quarterly revenue: 'Q1: $5000, Q2: $7000, Q3: $6000, Q4: $8000'? I only want to store the quoted text in my file. The file is somehwhere inside the file system."
+  },
+  {
+    "key": "2012100c4f39d685dd4d903937e6ac63cead299ba6637b092956a1b2ec48a928",
+    "source": "What's the mean of the quarterly revenue?"
+  },
+  {
+    "key": "60335ac03dd7af23d9ef428421a091e4933cde655458a5b49bde4f9ac3342484",
+    "source": "Can you write the answer rounded in nearest integer into a new file named 'MeanRevenue.txt'? Just the number and nothing"
+  },
+  {
+    "key": "ec77c6301a86e447df1612032f6d4a7fcc4b0515c5d674d24f56b7020d03492c",
+    "source": "Explore 'ResearchDocs' to find second files or subdirectories that contain the keyword 'draft'."
+  },
+  {
+    "key": "2f69e98a87346c3cde0ec04342a0f561df4fe48b74714ac62a20cd31f680d62e",
+    "source": "Make a copy of summary_draft.docx, name it ultimate_draft.docx and put it in ResearchDocs directory"
+  },
+  {
+    "key": "7d81de88ca857e18a911b7fe5a78c6444eab17278fb80da9ff44c86efe083d66",
+    "source": "Delete all the files in the 'Drafts' directory including the directory."
+  },
+  {
+    "key": "eb2c61ee9b99cb2f3c0cfbdc4e6bdb653aadc49a73140dbc05d4dc5d463068d9",
+    "source": "I have a list of student record in this directory, could you find me where is it by telling me its name and using 'find'?"
+  },
+  {
+    "key": "60f053af63de0da81f3f8dedacca3a75609d2efa14a257a8c8c16c83aa4fe28e",
+    "source": "Look at the student_record.txt and tell me the average score."
+  },
+  {
+    "key": "c717ebed1660c2f0a4df91ff12ecf84e0ccc29ba6571a8960deeb16290481ed9",
+    "source": "What about the standard deviation?"
+  },
+  {
+    "key": "c92c108b10bb576ff994d7ef94131e3a091d5164ab7fafdbb0c8ab0957eedf44",
+    "source": "In my workspace folder, direct your attention to the initial directory we have access to and list out the files present including the hidden files. Should you stumble upon a directory named 'test', go into there, dive deep and identify any files with 'test' in their names using 'ls'. Keeping tabs on details is key."
+  },
+  {
+    "key": "7e7b30cd2e47d6f2bfd1e766cf491d943b21afccf690c9221626570814f0293e",
+    "source": "Subsequently,What's the character count of the file all text file with test?"
+  },
+  {
+    "key": "e2576dadebc5f366e89a09dcc79586ca055be7405bd16a6250ded794c8b02649",
+    "source": "Open up ticket 654321. If the character count of any file is greater than 20, Set the priority to 3. Else, set to 2."
+  },
+  {
+    "key": "1145061c2320b375aa53cab75e6db3c37b6892a19686131a9393f6016cf8f355",
+    "source": "Within the temp directory, could you list all the current files directly in the terminal including all the hidden files, ensuring we maintain the present directory structure intact and refrain from generating any additional directories or files?"
+  },
+  {
+    "key": "2e20490679bc4589b7958f12f78dfa6982753eeba696876fcbc0dde42d49c7ce",
+    "source": "Select the third file displayed in that directory and meticulously reorder its contents alphabetically. Proceed to display only the last 10 lines once you've done this."
+  },
+  {
+    "key": "5d0364ff681ae27e035adc6fff5e1448673b1baa2b89d323e59854216cb6335c",
+    "source": "For that same third file, could you determine the total number of lines it holds?"
+  },
+  {
+    "key": "496a8fafefb9479f6c47bfb64c06e0b3495683b750ba12d68caa5211a48fedbf",
+    "source": "In your experience, could you perform a precise computation of 2 to determine the base 10 logarithm for the number of line?"
+  },
+  {
+    "key": "33205bf1832c7d0db8f4ca957d126f35617f4a725f6a90e868c002cee12b0cf8",
+    "source": "Hey there, I noticed that all of my car doors seem to have locked themselves up, and with my schedule being pretty tight today, I'm in quite a pinch. I could really use your help to get those doors unlocked. It'd be fantastic if you could also switch on the headlights. It's getting a bit darker out here than expected, and visibility's not great!"
+  },
+  {
+    "key": "c24d15201d4d2ed2edb6caad5e93f92e2a5444b67eb46872a82a426c8c76ced7",
+    "source": "I've noticed that some of my car doors are slightly ajar while others seem to be securely locked. Would you be able to verify and make sure all doors are properly locked for safety?"
+  }
+]

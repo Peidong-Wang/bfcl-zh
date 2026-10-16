@@ -1,0 +1,22 @@
+{
+  "constants/enums.py": {
+    "source_sha256": "2182becfa2a1d071ee1db30db593b4758c6bf866aa12d2d4b8daf09175ea518a",
+    "vendored_sha256": "2182becfa2a1d071ee1db30db593b4758c6bf866aa12d2d4b8daf09175ea518a"
+  },
+  "constants/type_mappings.py": {
+    "source_sha256": "1702fb67afbe2c492608e58e2b7d02e46381f50166b47f3c952f76e34c7cd3bd",
+    "vendored_sha256": "1702fb67afbe2c492608e58e2b7d02e46381f50166b47f3c952f76e34c7cd3bd"
+  },
+  "eval_checker/ast_eval/ast_checker.py": {
+    "source_sha256": "2aae7a68461a8f76c0be3894c8901b66b56967a1989d3ab066051e3fb97f1538",
+    "vendored_sha256": "3a97786882e36982624109a3999d111e7fac3e26a596f93df7d6fff39d96e7b7"
+  },
+  "eval_checker/ast_eval/type_convertor/java_type_converter.py": {
+    "source_sha256": "2fd4f4b0443b3dd974a1723bb4e45c086d7b352631062da7807ad1ad40706604",
+    "vendored_sha256": "c7657200eddec48caedac54eadc96d7460177bf0dc63cdc1d78bec1d9b79c1d3"
+  },
+  "eval_checker/ast_eval/type_convertor/js_type_converter.py": {
+    "source_sha256": "a114e9ff75c025cb52787ac33d6c2fbaa390905c6125a2b3c6afebab232bb5e4",
+    "vendored_sha256": "99eaead9a759a3a754e6b0bbe89f5cff2170f231e204431d4d606cb62cbaa0ec"
+  }
+}

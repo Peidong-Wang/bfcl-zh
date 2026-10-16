@@ -1,0 +1,162 @@
+[
+  {
+    "key": "589e19efd3bd89d95c3987ea04fcc666b69b39f8be5c4ec2b357e5cd2cac446b",
+    "source": "I'd appreciate it if you could ignite the engine and verify that the battery voltage is at its optimal level, ensuring everything's in fine working order before our departure."
+  },
+  {
+    "key": "502b988891aac21cbdb569fc983141a1b62b2828c8d11eee912843ac408634e1",
+    "source": "For added assurance, please check our tire pressure to confirm optimal conditions for our ride."
+  },
+  {
+    "key": "78ab2e96946720c0b1c69bfdfd798ddc0bf917db5e9e3d29c7f5743caa114e57",
+    "source": "I'm currently in Rivermist planning a trip to Stonebrook. Could you provide an estimate of the distance and forward this info to my cousin Bob via text, in the format 'The distance from Rivermist to Stonebrook is xxx km.', where xxx is replaced by the distance value, in one decimal place)?"
+  },
+  {
+    "key": "9a85d0ad04090f23a01727ff90c8fb039e0e2de19184aa31fe9bc5c99ec41a5e",
+    "source": "As I set off on my drive, I need you to verify that all the doors on my car are securely locked, please."
+  },
+  {
+    "key": "e285677588ec3772fd309d054a46544beff0a529ce6d258d7ae6197679ef051c",
+    "source": "After confirming the security of the vehicle, could you initiate the engine so I can check the fuel level?"
+  },
+  {
+    "key": "f035821379f8cdc2af3c1ba76d4667292a07fc73c7a81fc741a70656e0911291",
+    "source": "Also, at your earliest convenience, can you show me all the messages I have send so far?"
+  },
+  {
+    "key": "ee71c0e8b3cc0084469eb053c1863836274191dc677e54cc81e78c583c050858",
+    "source": "I require assistance in determining the quantity of gasoline necessary for an extensive journey across California. I currently anticipate needing around 166 liters. How much is that in gallon?"
+  },
+  {
+    "key": "581fe79092f1e36273d74cc732f611048afe0fc883992d0874854eba28a9f255",
+    "source": "Prior to commencing the drive, kindly initiate the engine, ensuring all doors are securely closed and the parking brake is engaged. I am keen to avoid any mishaps on the highway due to an unfilled tank so round it to nearest hundredth and fill that in."
+  },
+  {
+    "key": "0880d5125abf1d6a878fc437ec29b05beae374dfc647aa9785e23c6c12263e7e",
+    "source": "Could you provide me with the approximate distance between San Francisco and Rivermist? This information is crucial for my travel planning notes. Will I be able to get there?"
+  },
+  {
+    "key": "21f8a956721dbdb79a3af72f3f050e08a5b99c8c6fdb485b7948476c055d3b53",
+    "source": "Before attempting to start the engine, kindly verify that every car door is meticulously secured—acknowledge once confirmed. Should everything be aligned, proceed with activating the START mode."
+  },
+  {
+    "key": "e68730ce222713ebc72b429b9364baf82b25fdfcb2b4704e3f3b8788fbdf5766",
+    "source": "Please assess my tire pressures within the context of the car's current status. If any tire registers under 40 PSI, which might imply it's below the safe threshold, promptly guide me to the closest tire service facility."
+  },
+  {
+    "key": "2557cca4d5bb3d05f66c3f5483fc13f3bb1e924b33957f4e097e89b119f801c1",
+    "source": "Imagine I just embarked on a lovely road trip and had to make a stop at the gas station. Would you be so kind as to assist me in filling up my car with 15 liters of gasoline? Fill with the second decimal digit precision in gallon. Once that's done, it would be fantastic if you could check the tire pressures as well—I'd love to share my impressive car maintenance skills with my Twitter followers with the message 'Just filled up the tank and checked the tire pressures. Ready for the next adventure!'. If you could also start up the engine and let me know the battery voltage and fuel level, that would be incredibly helpful."
+  },
+  {
+    "key": "1540b6073d129959311b4d4187cb03076d9fce5c99662b5986fee4ed19c3a990",
+    "source": "I've shared the details about my tire pressures and engine's stellar condition on Twitter, but I'd like to give that tweet a bit more visibility. Could you possibly amplify its reach by retweeting it? And if you could add a comment saying, 'Ready for the next adventure!' that would be splendid."
+  },
+  {
+    "key": "3a2ba8437d5d21b604c4b023a962b7cba6b6d6c7edf87007b08278685382135a",
+    "source": "Alright, I've been thinking about a road trip and I want to use my own car for the journey. That's quite a stretch—450 miles in one go today. Is this something I could realistically pull off? I just want to know a answer; you don't need to refill if it's not reachable. If it is reachable, set navigation to '1914 7th St, Apt B, Berkeley, CA 94710'."
+  },
+  {
+    "key": "136c7ff0b5ee2ff8479eeaef7d5758cf4d795038ce656e33407b1f222f6da2d2",
+    "source": "Given that the trip isn't looking too likely with what I have at the moment, I'll need to refuel. I think 40 gallons in total in my tank should do the trick to get me enough mileage. Can you handle the gas top-up for me?"
+  },
+  {
+    "key": "860dc7fa022091726a6d6846ed0023b91c79c77bbe6b6831aa71fb9e0f085e0f",
+    "source": "Everything's all set now, and I'm ready to get going. Could you get the engine started for me? Make sure you do it in START mode, with all doors securely locked and the brake properly engaged."
+  },
+  {
+    "key": "c91a316b233eb90ee88d6180ac0aa5f1ab1a31f647e821534652f84b774863d3",
+    "source": "I'm planning on visiting this gorgeous little spot in Berkeley, California. Would you be so kind as to set up the navigation system to take me to 2107 Channing Way, Berkeley, CA?"
+  },
+  {
+    "key": "638e3b2442e237183888c11c8cf296a4626ffcb2c9ff86847816a5860c617d2c",
+    "source": "Will you estimate the distance between San Francisco and Silverpine for me?"
+  },
+  {
+    "key": "81e9a5d190776afe46a3d72f85d5d5a1488fcb52df39126caf72f5410087a5c7",
+    "source": "I need that info to check if my vehicle can cover the distance without refueling."
+  },
+  {
+    "key": "268a54853ccf779475578a8614045a260e518b2b1f809fbc854defc7984a5113",
+    "source": "In case it can't, just fill out the fuel tank completely."
+  },
+  {
+    "key": "f5195ea8ee0f7f56e9126cc075cd921551114a8658252d44058ed83fc4a84091",
+    "source": "Turn on my vehicle's engine in 'START' mode."
+  },
+  {
+    "key": "1afad59da3dcd0217ae5ee8b6ce07ad62d45b36a2e7b383ddeeb3d12bff90361",
+    "source": "I'm about to embark on a road trip adventure and I want my car to be in peak condition. Could you make sure to increase the current fuel level to ensure that my tank is full, so I don't have to keep stopping to refuel along the way?"
+  },
+  {
+    "key": "be22bdb60fc0f0ebef8c82f610e49845e7604df7dd1143a1d080ef0030647135",
+    "source": "Before I hit the open road, I need to get the engine running smoothly. Can you confirm there's enough fuel, and ensure the engine's primed for a seamless start?"
+  },
+  {
+    "key": "87b43c065dbb0f40dd44571b7ef534549c7444fb9609511e5d76ddd198a8eb00",
+    "source": "I want to make certain my tires are roadworthy before setting off. If any of my car's tires are showing pressure below 40, point me in the direction of the closest tire service station, because I definitely don't want to run into tire trouble."
+  },
+  {
+    "key": "2af267e8477542651b286e5f342dff96a6a9d02d6ea076de2e7280c2d0e54f63",
+    "source": "Moreover, could you set up the GPS to guide me directly to the nearest shop if my tires aren't up to the mark, so I'm not wandering off course?"
+  },
+  {
+    "key": "95b01f869a1a2b4f87a52ba4edae60d8a07e67d6c1e9b972907625fc3e357fd7",
+    "source": "Once my car is ready for the journey, it would be fantastic to let my friends know about my travel plans. Could you draft a tweet that says: \"Starting my road trip with a car that is fully prepared and raring to go!\" with hashtags #Roadtrip #Adventure?"
+  },
+  {
+    "key": "cd5af13212f250a4fa222068cfb8abf684a8d192235ea0f0fe2fe1b47fb23cc2",
+    "source": "Estimate the distance between San Francisco and Rivermist. Afterwards, fill the tank with 40 additional liters of gasoline for my quick trip. Round the fill amount to two decimal places"
+  },
+  {
+    "key": "2716c146a87b111f00143acc46b0090c345b0a73fec179b447c8392b75a42887",
+    "source": "Preparations are complete. Start the engine and help me tweet about this journey containing message 'Just started my journey!' with #RoadTrip and @carenthusiast."
+  },
+  {
+    "key": "30defe1aa83feffd31a4a2e8826996f27ac01d7ca1400946ac30cb4f5977e363",
+    "source": "Ensure the fuel tank is replenished adequately by adding 38 liters of gasoline so that we're well-prepared for the lengthy voyage ahead. Only fill with interger amount for volumn; round when not integer. Once fueled, proceed to start the engine confidently with the ignition mode, and make certain that all doors are secure, and the parking brake is engaged as a safety measure."
+  },
+  {
+    "key": "86c1420c5be82b9fde70c87f3f8bf7292c18ab0ee47ef7ff88631fce22678fde",
+    "source": "As we gear up for our adventure, it’s wise to confirm that each tire is inflated to a stable 32 PSI. Should any of the tires fall short, chart a course to the nearest tire service center to have this rectified."
+  },
+  {
+    "key": "49c4cb60d4fc9ef5affb3dc80b787d64c759191bdc86992488163a660f654c1a",
+    "source": "Using my vehicle's system, estimate the distance between Rivermist and Stonebrook."
+  },
+  {
+    "key": "ff413dd83b3906e63a29a66437a5f90fa606801b40a16cabd377448cc683ed23",
+    "source": "Assess if my vehicle's current mileage will suffice for the distance calculated. You don't need to re-fill, I just want to know."
+  },
+  {
+    "key": "74bf1380c2423d9aefb02935edfcff15d5948c7d95b8498c29461b0cced513ba",
+    "source": "Fill the fuel tank to completely full."
+  },
+  {
+    "key": "dddef7c8c4d113ac83061d721f24d3b35250edd5cf6f29489d2953765c6f7c67",
+    "source": "With the vehicle secured, start the engine for our prepared journey."
+  },
+  {
+    "key": "184fbd76501ab5e0b815e4de00eb8d681c00bd85d759c4f0a4ad296cfee68fa0",
+    "source": "Set navigation directly to Crescent Hollow, Spring, TX for a smooth ride without detours."
+  },
+  {
+    "key": "d03f3c77724347ebbd8ac032d2a29785917b5905214c30a16849b49cab1ca02b",
+    "source": "Would you be able to increase my current fuel reserve to twice its size?"
+  },
+  {
+    "key": "5073e4485517866df7e2b2e1f06cc6d3f6494b37dc5d7764882b65c4fa3b3a6b",
+    "source": "Since we've topped up the fuel, let's ignite the engine and assess the battery's condition for our journey."
+  },
+  {
+    "key": "110d95de902819089903ec6d4d6e325224720d79f6518e69daf2b43d9a2768cd",
+    "source": "Verify the tire pressure to guarantee they're accurately inflated for our lengthy expedition."
+  },
+  {
+    "key": "a7dd877e810c90c3dbca106f863bb1b622b49ca7808dc222b125e3a84f69582d",
+    "source": "I need to inform my friend David about the road trip itinerary; please dispatch them a note saying 'Road trip itinerary update.'. If that helps, my user id is 'USR005'."
+  },
+  {
+    "key": "23fa0a573bf85793b15f34516f520c12676da0fc359fec9a31e6ee6ecee93603",
+    "source": "Simultaneously, might you show me all the messages I have send so far? I want to make sure I notified all the folks I want to contact."
+  }
+]

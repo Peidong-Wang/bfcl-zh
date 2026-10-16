@@ -1,0 +1,202 @@
+[
+  {
+    "key": "9e75ef132bb6e53c4a8363dec29c90b6c1644f853dabb5c9cd80c6392a3bdc4b",
+    "source": "\"Can you calculate the area under the curve for the polynomial function with coefficients [3, -2, 1] (meaning the function is 3x^2 - 2x + 1) within the interval [-1, 2], and then do the same for the polynomial function with coefficients [1, 0, -1] (meaning the function is x^2 - 1) within the interval [0, 3]? Please provide both results.\""
+  },
+  {
+    "key": "79b9310a02dc9013f6636ee92fbdf9a7463e496a5928e61f33df0b668c41ba20",
+    "source": "\"Can you help me calculate the total area of three different triangles? The first triangle has a base of 15 meters and a height of 20 meters. The second triangle has a base of 25 feet and a height of 30 feet. And the third triangle has a base of 35 inches and a height of 40 inches. I would like the area of each triangle in their respective units.\""
+  },
+  {
+    "key": "ff0d48f494fb2656651c933562cc4d151347eaf6a8aaa8368df72ca86ab0c915",
+    "source": "\"Can you calculate the result of the following mathematical operation: first, raise the number 3 to the power of 5, then raise the number 2 to the power of 3.\""
+  },
+  {
+    "key": "f8e5819d5211cbbdb3916616e61fca1981390aeed141c0cfc13b1db8e382be24",
+    "source": "You are given a task to train a Random Forest classifier on two different datasets, 'dataset1' and 'dataset2'. For the first run, you are asked to set the maximum depth of the trees in the forest to 10 and the number of trees in the forest to 100. For the second run, you are asked to set the maximum depth of the trees in the forest to 20 and the number of trees in the forest to 200. How would you invoke the 'train_random_forest_classifier' function to accomplish this task?"
+  },
+  {
+    "key": "ac50ddea7e39084d4991860d477dad0b4f3d96cea63f75a8b1b1179e27d460aa",
+    "source": "\"Could you calculate the Body Mass Index (BMI) for four individuals? The first person weighs 75 kilograms and is 180 centimeters tall, the second person weighs 60 kilograms and is 165 centimeters tall, the third person weighs 80 kilograms and is 175 centimeters tall, and the fourth person weighs 90 kilograms and is 185 centimeters tall. Please use the metric system for all calculations.\""
+  },
+  {
+    "key": "3de99bdee54ffd275794029e30e659e2f2f93614d079b93d163f0ab2b3c989e2",
+    "source": "You are given a dataset with various variables including 'Age', 'Income', 'Education', 'Gender', 'Marital Status', and 'Spending Score'. You want to predict 'Spending Score' based on the other variables. Could you please use the 'run_linear_regression' function to build a linear regression model using 'Age', 'Income', and 'Education' as predictor variables and 'Spending Score' as the target variable without applying standardization on the predictors? Then, could you please run the same function again but this time with standardization applied on the predictors?"
+  },
+  {
+    "key": "fdbe19daadf944bcab1780c6c1cfcdb4d47bed1f952b08e6c319230c7e868b8b",
+    "source": "You are given a dataset \"data_random_forest\" in the form of a dataframe and you want to train a Random Forest Model on this data. You decide to experiment with different numbers of trees in the forest and different maximum depths of the trees to see how these parameters affect the model's performance. \n\nFirst, you train a model with 100 trees and a maximum depth of 10. Then, you train another model with 200 trees and a maximum depth of 20. After that, you train a third model with 300 trees and a maximum depth of 30. Finally, you train a fourth model with 400 trees and a maximum depth of 40. \n\nCan you invoke the 'random_forest.train' function four times with these different parameters and compare the performance of the four models?"
+  },
+  {
+    "key": "38564e753d6ff83e8cd51b767b52379aca7eac562d24b07f54df0cf77b3aef91",
+    "source": "\"Could you use the 'predict_house_price' function to compare the estimated prices of four different houses? The first house is located in New York, has 3 bedrooms, 2 bathrooms, and an area of 1500 square feet. The second house is in Los Angeles, with 4 bedrooms, 3 bathrooms, and an area of 2000 square feet. The third house is in Chicago, with 2 bedrooms, 1 bathroom, and an area of 1200 square feet. The fourth house is in Miami, with 3 bedrooms, 2 bathrooms, and an area of 1800 square feet.\""
+  },
+  {
+    "key": "5938528b7451a76fd04fa3759cd74952312afda3aaa97bda767d1eb96080039c",
+    "source": "You are a data scientist working on a project that requires you to generate random numbers from a normal distribution. You need to generate four random numbers: two from a normal distribution with a mean of 5 and a standard deviation of 2, and two from a normal distribution with a mean of 10 and a standard deviation of 3. How can you use the 'random.normalvariate' function to achieve this?"
+  },
+  {
+    "key": "118785a19b236f5c1462acdcb93cb31534b9261cca91f93465a49083266a57b7",
+    "source": "\"In a board game, you have a six-sided die. You are curious about the probability of rolling a 4 three times in a row. After that, you want to know the probability of rolling a 2 twice in a row. Finally, you wonder what the probability would be if the die had 8 sides and you wanted to roll a 7 two times in a row. Can you calculate these probabilities?\""
+  },
+  {
+    "key": "e26f095e3e3ae0f1e044640fed939d3fa3830c8a23798aadb36c8236d8189841",
+    "source": "\"In a game of chance, you have a 0.3 probability of winning any given round. If you play this game 20 times, what is the probability of winning exactly 5 times? Also, if you play the game 50 times, what is the probability of winning exactly 15 times? Lastly, if you play the game 100 times, what is the probability of winning exactly 30 times? Use the function 'prob_dist.binomial' to compute these probabilities.\""
+  },
+  {
+    "key": "f48155a715a87877f16173b6fa7c20714d0f92c3aee86aa5ecd731f93e7fb1a3",
+    "source": "\"In a game of basketball, a player has a 60% chance of making any given shot. In a series of 10 shots, what is the probability that the player makes exactly 7 shots? Also, in another series of 15 shots, what is the probability that the player makes exactly 10 shots? Finally, in a series of 20 shots, what is the probability that the player makes exactly 15 shots?\""
+  },
+  {
+    "key": "fe23b929dd20c1d2db91609d86caa563489325457155019bf3c790e1155aa356",
+    "source": "You are a teacher preparing a probability lesson for your students. You have a deck of 52 playing cards and you want to explain the probability of drawing certain cards. \n\n1. What is the probability of drawing an Ace (4 successful outcomes) from the deck (52 total outcomes)? Please provide this as a decimal. \n\n2. Then, what is the probability of drawing a heart (13 successful outcomes) from the deck (52 total outcomes)? Please provide this as a decimal. \n\n3. Finally, what is the probability of drawing a red card (26 successful outcomes) from the deck (52 total outcomes)? But this time, please provide the answer as a ratio."
+  },
+  {
+    "key": "6944ad3aea1777118206a67e5c1396ba39e61525703572fc6f6e8f8b6f69b1a5",
+    "source": "\"In a game of basketball, a player has a 60% chance of making a successful shot. In a particular match, the player attempts 10 shots. What is the probability that the player makes exactly 6 successful shots? Now, consider a different scenario where the player's success rate drops to 50% but the number of attempts remains the same. What is the probability of making exactly 6 successful shots in this scenario? Finally, consider a third scenario where the player's success rate remains at 50% but the number of attempts increases to 15. What is the probability of making exactly 6 successful shots in this third scenario?\""
+  },
+  {
+    "key": "aa56a80dc043a7ebd54cc5ea59748022d118e10c8868860859476387ccb895c7",
+    "source": "You are a data analyst and you have been given two 2x2 contingency tables representing the results of a survey conducted in two different cities. The first table is [45, 55, 35, 65] and the second table is [30, 70, 50, 50]. You are asked to perform a Chi-Squared test for independence on both tables to determine if there is a significant relationship between the variables in each city. Use a significance level of 0.05 for both tests. Can you tell if there is a significant relationship in each city based on the Chi-Squared test results?"
+  },
+  {
+    "key": "2f366dba10395b768463b5c090c94b9cf1e49d92836515cefe25be1e18d79fde",
+    "source": "\"Could you please perform a statistical t-test to check if the means of two independent datasets are statistically different? The first dataset, Dataset A, includes the following integers: 12, 15, 18, 20, 22, 25, 28, 30, 32, 35. The second dataset, Dataset B, includes these integers: 14, 17, 19, 21, 23, 26, 29, 31, 33, 36. Please perform the test twice, once with a significance level of 0.05 and once with a significance level of 0.01.\""
+  },
+  {
+    "key": "ec8a9ac2b25f9a243137dae5fb0d218caca021559655376532c26e6c9ab8811a",
+    "source": "Can you predict the price of a house with an area of 2500 square feet, 3 rooms, constructed in the year 2000, and located in New York, and then compare it with the price of a similar house but with an area of 3000 square feet, constructed in the year 2005, and located in Los Angeles? Finally, predict the price of a third house with an area of 2000 square feet, 2 rooms, constructed in the year 1995, and located in Chicago."
+  },
+  {
+    "key": "05ae8b5aeae16af72cfbd726a78ab625645ef6e08ddab3ee59444cccb8fab269",
+    "source": "What is the coefficient of determination (R squared) of a regression model if we use the dataset located at \"/user/home/datasets/finance.csv\", with 'income', 'age' and 'education' as the independent variables and 'credit_score' as the dependent variable, and then repeat the same process with 'income', 'age' and 'credit_score' as the independent variables and 'education' as the dependent variable?"
+  },
+  {
+    "key": "6446066d6a620e585d8bf84466b8fb13abebc2c2b4c613b2e7bd143423fa58e5",
+    "source": "\"Can you help me calculate the quarterly dividend per share for my company? We have just paid out a total of $5,000,000 in dividends and currently have 2,000,000 outstanding shares. Also, I am considering a scenario where we might increase our total payout to $6,000,000 while keeping the same number of outstanding shares. What would be the quarterly dividend per share in that case? And what if we also increase our outstanding shares to 2,500,000 while keeping the total payout at $6,000,000?\""
+  },
+  {
+    "key": "69c7d5bb8622738d25d07f059aaefafca622ae9d6f98c1d0ddf8ddf7c5dc8497",
+    "source": "\"Can you help me calculate the discounted cash flow of a bond? I have a bond with an annual coupon payment of $50, a time frame of 5 years, and a discount rate of 5%. Also, the face value of the bond is $1000. I would like to know the discounted cash flow for this bond. After that, I want to compare it with another bond that has an annual coupon payment of $60, a time frame of 7 years, and a discount rate of 4%, with the same face value of $1000. Can you calculate the discounted cash flow for this second bond as well?\""
+  },
+  {
+    "key": "7843a33dcc3903f01e99d218e79b0d95a7ce6b329619e4ca43a5a60f18cf4707",
+    "source": "\"Can you help me calculate the compound interest for my savings? I initially invested $5000 as the principal amount. The bank offers an annual interest rate of 2.5%. I plan to keep my money in the bank for 10 years. Also, the interest is compounded quarterly, so it's compounded 4 times in a year. Can you calculate the compound interest I would get for the first 2 years, first 3 years and first 5 years?\""
+  },
+  {
+    "key": "de21c0abf37cec77aed665529e12b17a681558c05afd88a9ac2f75244f28f228",
+    "source": "\"Can you calculate the return on equity for two companies? The first company has a net income of $1,000,000, shareholder's equity of $5,000,000, and paid dividends of $200,000. The second company has a net income of $2,000,000, shareholder's equity of $10,000,000, but did not pay any dividends.\""
+  },
+  {
+    "key": "ee9da0062e594954adb2bea4e7236984bc4f6c0057d3e67aacdd05f13a4ca2e4",
+    "source": "\"Imagine you have two different investment opportunities. The first one has a present value of $5000, an annual interest rate of 5%, and you plan to hold it for 10 years. The second one has a present value of $7000, an annual interest rate of 4%, and you plan to hold it for 15 years. Both investments compound interest annually. Can you calculate the future value of both investments using the finance.predict_future_value function?\""
+  },
+  {
+    "key": "c6a8595dcfb47321eafb4b3e38e028951b87b529259d042d95ba22c84d41396c",
+    "source": "\"John has decided to invest in two different funds. He invested $5000 in Fund A which has an annual return rate of 7% and he plans to keep his money there for 5 years. On the other hand, he invested $8000 in Fund B with an annual return rate of 5% for a period of 7 years. Can you predict the profit John will make from both Fund A and Fund B?\""
+  },
+  {
+    "key": "02cb5dfc3b7db351bb53310b3547c40e41704f565788a96ef2bdc59fb080b483",
+    "source": "You are an investor who recently sold some stocks. You bought one stock at $150, another at $200, and another at $250. You sold them at $180, $210, and $300 respectively. You also received dividends of $20, $30, and $40 for each stock. Can you calculate the return on investment for each of these stocks using the 'calculate_return_on_investment' function?"
+  },
+  {
+    "key": "6aa3085c345d00e708f81fde7625389600f6f6fadd3525488b9f031fb06bf068",
+    "source": "\"Could you please calculate the future value of my investments? I have invested $5000 in Apple Inc. (AAPL) and expect an annual return of 7% over the next 5 years. I have also invested $8000 in Microsoft Corporation (MSFT) with an expected annual return of 6% for the next 7 years. Lastly, I have invested $10000 in Amazon.com, Inc. (AMZN) expecting an annual return of 8% for the next 10 years.\""
+  },
+  {
+    "key": "bececd56522a6071a07a43d5a66eded019e38dd564fa57fb50a89710fdb40ea9",
+    "source": "\"John invested $5000 in a mutual fund 5 years ago. Today, the value of his investment has grown to $7000. He wants to compare this with another investment he made 3 years ago where he invested $8000 and now it's worth $12000. Can you help John calculate the Compound Annual Growth Rate (CAGR) for both these investments?\""
+  },
+  {
+    "key": "2e3de747a3bf5f55284873741840eba9c0dc5bee4c4fca84614cb55900330f9c",
+    "source": "What is the current price per ounce of gold, silver, platinum, and palladium?"
+  },
+  {
+    "key": "4dee65a725322a0a3d82afe480add3b67f76fbbce9d6de43759513cd2cdcf050",
+    "source": "What were the closing stock prices for Microsoft and Apple on NASDAQ on the dates 2022-01-01 and 2022-02-01?"
+  },
+  {
+    "key": "6ecd1b8eee083cb96b37b79bd4fb9c6660565c7fc3cdfbee33578ae0d0693317",
+    "source": "What were the stock prices of Apple Inc. listed on NASDAQ and Microsoft Corporation listed on NYSE for the past 10 and 15 days respectively?"
+  },
+  {
+    "key": "8b77a4e6d0dec1bd18bedcb34357093601b8998801ee1051bf664b1f3a4db3dc",
+    "source": "What were the 'Open', 'Close', 'High', and 'Low' stock prices for Microsoft and Apple over the past 30 days?"
+  },
+  {
+    "key": "6cbd57cac7edf766953f05bf3b2c86d5b83485a780d5762e6f5aae9a85c347bd",
+    "source": "Can you use the get_stock_prices function to retrieve the stock prices for Apple, Microsoft, Amazon, and Tesla over the duration of 1 week, 2 weeks, 3 weeks, and 1 month respectively?"
+  },
+  {
+    "key": "1fdad24e3d511fe07d3b4364938d478d2c6957442b7ef1209ff4b2177800cf69",
+    "source": "\"John is planning to invest in a mutual fund. He is considering two scenarios. In the first scenario, he will make an initial investment of $5000 with an annual rate of return of 7% and he will not make any additional contributions. In the second scenario, he will make an initial investment of $3000 with an annual rate of return of 6% and he will make additional regular contributions of $200 every year. He wants to compare the future value of his investment after 10 years in both scenarios. Can you help him calculate the future value of his investment in both scenarios?\""
+  },
+  {
+    "key": "27519cfc9bc251a61e91e4b52521ee2405184bac400261c19193edfd4f501e63",
+    "source": "\"Imagine you are a drone operator. You are currently operating a drone that is at a point (5, 7) in the sky. You are asked to move the drone to a new point (10, 15). After reaching the new point, you are again asked to move the drone to another point (20, 25). Can you calculate the total distance the drone has traveled using the Euclidean norm method?\""
+  },
+  {
+    "key": "a5bc9c89d04568eae5331746f4781759b08abde32a65ddb81a51d60932239d70",
+    "source": "\"Can you help me find the roots of two different quadratic equations? The first equation is 3x^2 + 7x + 2 = 0, where 'a' is the coefficient of x^2 (3), 'b' is the coefficient of x (7), and 'c' is the constant term (2). The second equation is 5x^2 - 4x + 1 = 0, where 'a' is the coefficient of x^2 (5), 'b' is the coefficient of x (-4), and 'c' is the constant term (1).\""
+  },
+  {
+    "key": "d19d2e81cccf701f31831acaf9f067da3f5ed9734ae98abe0c0fd96c0290afba",
+    "source": "Can you estimate the population of Bengal Tigers in India for the year 2021, compare it with the estimated population of African Elephants in Kenya for the same year, and then estimate the population of both these species in their respective countries for year 2023?"
+  },
+  {
+    "key": "af2c31d7e1da0e2a210accee2a83d4fdb456461fcb76c6438bd2cba5d01f338f",
+    "source": "What are the potential greenhouse gas emissions savings if I switch to solar energy for 12 months and wind energy for 8 months in the Midwest region of the United States?"
+  },
+  {
+    "key": "47b97783ec5233da0aea729aa887499a6b64eb875d4037f6043d19521f491006",
+    "source": "What is the air quality data for New York City, including additional data like PM2.5, PM10, ozone levels, and pollution sources, for today, yesterday, and the day before yesterday? Today is May 5, 2023"
+  },
+  {
+    "key": "f311b5311d3caa04cbfdb9351a59490dcf77321d5446634a09a869bb67104c63",
+    "source": "What are the current traffic conditions for a route from New York to Los Angeles using driving as the preferred method of transportation, then from Los Angeles to San Francisco using bicycling as the preferred method of transportation, and finally from San Francisco back to New York using transit as the preferred method of transportation?"
+  },
+  {
+    "key": "038c3eb4f99675bdbcd35826b8478a759de53bd5d14b8afc104b9cb62c1490cc",
+    "source": "Can you find me parks in New York, USA that have a Tennis Court and a Picnic Area, then find parks in Los Angeles, USA that have a Playground and Running Track, and finally find parks in Chicago, USA that have a Tennis Court and a Playground?"
+  },
+  {
+    "key": "9dbe47881751055ac4ec7600de57b76f004302e5ec03a7e34fc3594360a9f10b",
+    "source": "What is the shortest driving distance from New York City to Los Angeles, and then from Los Angeles to Miami, considering both the shortest and scenic route preferences?"
+  },
+  {
+    "key": "84303331f04ce8abc1dba6dd451090b47adcd3ba4f1949be406c8584f2dc3aed",
+    "source": "Can you help me find public libraries in New York, NY that have a Reading Room and Fiction section, and then in Los Angeles, CA that offer Wi-Fi and have a Children Section, and finally in Chicago, IL that have a Cafe and a Reading Room?"
+  },
+  {
+    "key": "d606c5a73b26611f98dde24a3f3252fcf1f830543797b42d7c1b1caa1e5b1ae2",
+    "source": "Can you fetch the latest news on the topic of \"Climate Change\" and \"Artificial Intelligence\", each with 5 articles, and specifically for the region \"Europe\"?"
+  },
+  {
+    "key": "8fe9522ab628e4758a694b78c688b68acfc05920967a17e9cdd141d80143b913",
+    "source": "Can you send an email to my colleague at john.doe@example.com with the subject \"Project Update\" and the body content \"Dear John, The project is progressing as planned and we are on track to meet our deadlines. Best, Alex\", then carbon copy the email to my manager at manager@example.com and blind carbon copy it to the HR at hr@example.com? After that, can you send another email to my other colleague at jane.doe@example.com with the subject \"Meeting Reminder\" and the body content \"Dear Jane, This is a reminder for our meeting scheduled for tomorrow at 10 AM. Best, Alex\", and carbon copy it to my assistant at assistant@example.com and blind carbon copy it to the HR at hr@example.com?"
+  },
+  {
+    "key": "557f3519df008ec4dd4239cab3b65e624d05a9e8c4f2d047ec214b814d51a17e",
+    "source": "Can you find me upcoming jazz events in Los Angeles, CA for the next 14 days and then find the same for rock events in Chicago, IL for the next 10 days and finally find upcoming classical music events in Boston, MA for the next 7 days?"
+  },
+  {
+    "key": "53da9467761d5da5e4ca8ee0d2a4159568a1c32e93768c1fab1c4588e0592a94",
+    "source": "Can you retrieve additional information like Director, Cast, Awards etc. for the same movie \"Inception\" and also for the movie \"The Dark Knight\"?"
+  },
+  {
+    "key": "c57b40cb8f97f91d58b2428f02a07d27b7aa6d43f368c05868ad18865b6174dd",
+    "source": "Can you please retrieve the details of two lawsuits for me? The first one has a case number of '12345' and was filed in the 'New York Supreme Court'. I would also like to know the verdict details for this case. The second lawsuit has a case number '67890' and was filed in the 'Los Angeles Superior Court'. I do not need the verdict details for this case."
+  },
+  {
+    "key": "9b48f44187a0198666dd4fa7d5a63310e0f08fec41993af3b38bacb7e6ec2ce9",
+    "source": "\"Can you provide me with the details of the lawsuit case with the case number '12345ABC', which was initiated in the year 2018 and filed in the New York court jurisdiction? Also, can you retrieve the same information for another lawsuit case with the case number '67890XYZ', initiated in the year 2019 and filed in the California court jurisdiction?\""
+  },
+  {
+    "key": "0b860d5e9345fe75149b29392710bc68ebf23104b59a812b6b3905b34326864d",
+    "source": "Can you use the lawsuit_search function to retrieve all lawsuits involving the entity \"Google\" from the county of \"Santa Clara\" and then do the same for the entity \"Facebook\" in the county of \"San Mateo\", both in the state of California?"
+  },
+  {
+    "key": "dec818c606c6c62b7ada600647f2eb905c4be237f2b472b7e3e870ec09611b7c",
+    "source": "What is the current temperature and humidity in New York, Los Angeles, London and Tokyo, if I want to include both temperature and humidity in the results?"
+  }
+]

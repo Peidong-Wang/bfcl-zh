@@ -1,0 +1,171 @@
+{
+  "snapshot": "user-supplied BFCL_v4",
+  "scope": "all registered v4 categories; query-only localization",
+  "physical_jsonl_categories": 19,
+  "logical_categories": 23,
+  "logical_scoring_categories": 22,
+  "physical_source_records": 4696,
+  "logical_scoring_records_after_memory_and_web_variants": 5106,
+  "format_sensitivity": "200 IDs selecting existing cases; not an extra independent question set",
+  "unique_query_strings": 4826,
+  "translated_unique_queries": 4826,
+  "remaining_unique_queries": 0,
+  "reviewed_invariant_queries": 53,
+  "complete": true,
+  "categories": [
+    {
+      "physical_category": "irrelevance",
+      "records": 240,
+      "source_sha256": "2b6ed4c2e992cdcf5f1678a701851f944bef7550ee026ed1ddb89efed5be01a6",
+      "answer_file": null,
+      "missing_answer_ids": [],
+      "answer_mode": "no fixed AST answers by design"
+    },
+    {
+      "physical_category": "live_irrelevance",
+      "records": 884,
+      "source_sha256": "6559fda2beaceb609a2cd2e504c65b4a56cb448e1ef88fddfd199e163d163349",
+      "answer_file": null,
+      "missing_answer_ids": [],
+      "answer_mode": "no fixed AST answers by design"
+    },
+    {
+      "physical_category": "live_multiple",
+      "records": 1053,
+      "source_sha256": "fd8ccfad4d911420d0e3341dbe2fff77d1d341da934248b9bb2bda24ab3a10c8",
+      "answer_file": "possible_answer/BFCL_v4_live_multiple.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "live_parallel",
+      "records": 16,
+      "source_sha256": "6c26e9fdc3350cf596e6d1ea9c179cbff834761bccf562f4141ed29a839ca421",
+      "answer_file": "possible_answer/BFCL_v4_live_parallel.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "live_parallel_multiple",
+      "records": 24,
+      "source_sha256": "21d4b9319c1faac431e22757b367ea28917fe467364c3a4b17f16ec06d4f6e79",
+      "answer_file": "possible_answer/BFCL_v4_live_parallel_multiple.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "live_relevance",
+      "records": 16,
+      "source_sha256": "e03f9e241657a137cba48a89ee12f47bf3fcb7e4f6274263e9c699a0c974203a",
+      "answer_file": null,
+      "missing_answer_ids": [],
+      "answer_mode": "no fixed AST answers by design"
+    },
+    {
+      "physical_category": "live_simple",
+      "records": 258,
+      "source_sha256": "1af2ac87dca47556db7b7e37e51e28b459a38b594e3c7b3c792b4903598ca0c4",
+      "answer_file": "possible_answer/BFCL_v4_live_simple.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "memory",
+      "records": 155,
+      "source_sha256": "40fc21d4528af53c6b44204def89e81515d0101654229e2c2e82bbf5f047b14f",
+      "answer_file": "possible_answer/BFCL_v4_memory.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "multi_turn_base",
+      "records": 200,
+      "source_sha256": "1a21a995d06fd6f20ba55de7bced30ef953ec35e998f502ec2ecf4d66ef1c43a",
+      "answer_file": "possible_answer/BFCL_v4_multi_turn_base.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "multi_turn_long_context",
+      "records": 200,
+      "source_sha256": "78c3268c5cc8e97c0f4ec6c811b3b9a2bba14323b1830b7a874b06d822749324",
+      "answer_file": "possible_answer/BFCL_v4_multi_turn_long_context.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "multi_turn_miss_func",
+      "records": 200,
+      "source_sha256": "87d28ce10e37d864b72de85d5732eef2a867b241d6c1c99b4ae682c9e3ea921c",
+      "answer_file": "possible_answer/BFCL_v4_multi_turn_miss_func.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "multi_turn_miss_param",
+      "records": 200,
+      "source_sha256": "f0c66dda3795f5f53e3e1c0cc8ba0246b6761c8f58bdba8317203bf451ab8838",
+      "answer_file": "possible_answer/BFCL_v4_multi_turn_miss_param.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "multiple",
+      "records": 200,
+      "source_sha256": "aef168155ebd74b7ac2401198b201343bc7d16d7a3d7e0d4e6d8ee82c6969b2a",
+      "answer_file": "possible_answer/BFCL_v4_multiple.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "parallel",
+      "records": 200,
+      "source_sha256": "19f51a82eff42e5d62541aa500115a056eb78f437c2ba1f10415fd7c8e5dda84",
+      "answer_file": "possible_answer/BFCL_v4_parallel.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "parallel_multiple",
+      "records": 200,
+      "source_sha256": "8863ea8433239f55c5f016154cf0830853c89f693c6ea270396a2fa121960579",
+      "answer_file": "possible_answer/BFCL_v4_parallel_multiple.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "simple_java",
+      "records": 100,
+      "source_sha256": "13d2303a125b08754f0e41995b9273b5005fa8ed8ebfaa24ef53b4d83c4b5c6e",
+      "answer_file": "possible_answer/BFCL_v4_simple_java.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "simple_javascript",
+      "records": 50,
+      "source_sha256": "329e67fedf79a6243d93dbda4b388d12bd2d31f1f2163d92cb6ef676d1764f44",
+      "answer_file": "possible_answer/BFCL_v4_simple_javascript.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "simple_python",
+      "records": 400,
+      "source_sha256": "82dd63ba502eb2520c6b5d1d9a5c4b590e03ff261565175561f6228a367d1991",
+      "answer_file": "possible_answer/BFCL_v4_simple_python.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    },
+    {
+      "physical_category": "web_search",
+      "records": 100,
+      "source_sha256": "6fc41d96d003dc849028966a782923560d2fc127ed2088aa967f06daaafa4268",
+      "answer_file": "possible_answer/BFCL_v4_web_search.json",
+      "missing_answer_ids": [],
+      "answer_mode": "separate answer file"
+    }
+  ],
+  "translation_method": "direct Codex authoring; no translation API; no model evaluation",
+  "state_policy": "retain all original keys, code, fixed tokens, tools, answers and initial/prerequisite state"
+}

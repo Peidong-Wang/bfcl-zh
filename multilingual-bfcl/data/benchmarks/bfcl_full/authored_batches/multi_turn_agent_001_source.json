@@ -1,0 +1,162 @@
+[
+  {
+    "key": "f928c3cf413fbf24dc72c4cd42dec5aab68bae1650469559fca2e5ed19a74270",
+    "source": "Also, create a file named 'summary.txt' and write 'Hello' into it. After that, do a quick comparison between this one and 'notes.md' to spot any disparities in information."
+  },
+  {
+    "key": "c7d5da9f97891e57a1751865189ab4fb46af2de709c6cb435a556745bcee6686",
+    "source": "Finally, tally up the number of characters in 'summary.txt'."
+  },
+  {
+    "key": "8d2eaa426065b9ad066c3a5a3923339dd70fa1ed874ed10593a1daeaa980f73b",
+    "source": "Display all the available files located within the '/temp' directory including hidden one using the terminal interface ."
+  },
+  {
+    "key": "77c39c1a5f37b174476bd4493a7495391a58029216dd657b664e3c2987fa6cb9",
+    "source": "With the information presented on the terminal, draft a post on Twitter mentioning only the file names seperated them by comma and space, and include the hashtag '#fileshowcase' to spread the word."
+  },
+  {
+    "key": "9b718f0d16a84ae2635e6c23e27df7cc3000e1eda3271c1a377fc9f48878ba2e",
+    "source": "Pop on over to the 'Documents' directory and craft a new file dubbed 'summary.txt', would you? If it already exists, return an error"
+  },
+  {
+    "key": "21fce9b7544912ce27d7f2ec650405f8bb096777251025948f38fbf29c6551cf",
+    "source": "In 'Documents', let's capture some profound topic 'quantum computing' and jot them down in the 'summary.txt'. The file should only contain 'quantum computing' in its contents."
+  },
+  {
+    "key": "78f2eb32d0cc8aba58b8f4c57168afcc058f0c83f1b6a2fa9ff81acf81fc78ac",
+    "source": "It would be great to get a sense of how comprehensive this file has become. Mind tallying up the words in 'summary.txt' for me?"
+  },
+  {
+    "key": "c6b0e8b4f268292592411e28201c886f65053d9cc154090ca843edcce36d86c4",
+    "source": "In documents directory, there's a file that piques my curiosity regarding its contents. It's alphabetically first file in that directory. Could you display the last line of that file for me?"
+  },
+  {
+    "key": "727233d840c560d8fe6c5f20e8712abb37eb6d2bbb237ac6ee0f561ef78f3085",
+    "source": "I've lately stored some work that parallels another document on my system. Might you review both files in this directory and articulate the distinctions"
+  },
+  {
+    "key": "98c40089a022a02626663f4c397fedad54f7f61ee648e90cc4d5bba87acc5e0d",
+    "source": "First cd within the 'ResearchDocs' directory and then locate any files titled 'report.csv'."
+  },
+  {
+    "key": "5ac77c1396dbe5d3aa6efd99ed22051d6c5ec9378c877d744991a5be89b55aca",
+    "source": "Once you locate 'report.csv' in the 'ResearchDocs' directory, delve into it to find lines that reference the 'Quarterly Financial Overview'."
+  },
+  {
+    "key": "360b856825b90dcd45264a33bc6632f19629e1703bed6e9f37ad59008e92431c",
+    "source": "Extract and display the last five lines from the 'report.csv' file in the 'ResearchDocs' directory, as these need to be emphasized for recent updates."
+  },
+  {
+    "key": "1945f2c3cece68ca0ec6f37dccdbf559bdc49d2806238b23d16a3ad23d3ce4fb",
+    "source": "Logging in as USR001. Lastly, upon completion of our file review, kindly message my colleague, John Levy, add him as new contact, that 'Latest Quarter Performance has been well.'"
+  },
+  {
+    "key": "d4bac958890ce49fa9c3757197777cc98b724244b205e9892f1e4d0a64e33b2d",
+    "source": "I'm embarking on a new data analysis project that's as thrilling as scripting the next great story. Let's start by producing a file named 'DataSet1.csv' to hold all our initial bursts of raw data."
+  },
+  {
+    "key": "fcfcfafe69b9c447b3e3c919182c34a375748dbaface1fb6c4c4fa495a9157c3",
+    "source": "Infuse 'DataSet1.csv' with some preliminary numbers for our initial analytical exploration, just like adding depth to a character's backstory. Here are the data 'Student | Math | Computer Science Alice | 5 | 9 Bob | 10 | 7'. You should copy as it is and split by line each each row"
+  },
+  {
+    "key": "49978ce9c6ae3b8ae038d4e031ba5b1f774ff7bb21d091ec599226877c84cd90",
+    "source": "Picture this: you're reading the last entry of 'DataSet1.csv' could you give me a glimpse to gauge the data's current health?"
+  },
+  {
+    "key": "969570f3fbf9655fe5cead451dd19e16ba01dcb3c060f339170ff1dd4290d688",
+    "source": "Provide a summary of the lines, words, and characters in the previous file. It's crucial, like measuring the script's length, to grasp the scope of our data narrative."
+  },
+  {
+    "key": "21844b03216199c93840930c05138ec6d00c497809003b03bcee14f8eee349f9",
+    "source": "Could you compute the average of the three numerical value obtained? Just for my personal use."
+  },
+  {
+    "key": "25c3ed298cb1de8a1d3178917af00d8401d760e7b678963011d556329c650701",
+    "source": "In research directory, there is a file called 'research_notes.txt'. Please make a prioritized backup by moving a copy of it to the folder named 'archives' within research, labeling the new file as '2024_research_backup.txt'."
+  },
+  {
+    "key": "d302500c93176da5edc3e6919545884752c5622088b50ac692d5ea15cddc01a2",
+    "source": "Now, take the contents of '2024_research_backup.txt' that we just created and sort the lines alphabetically."
+  },
+  {
+    "key": "a6554296293d8e1f6869a2fa97d35acaf1aaf6c9b6749080978abf9b877414a6",
+    "source": "Once the list is sorted, find out how many lines are in the sorted '2024_research_backup.txt' file."
+  },
+  {
+    "key": "a58079c9b14c58b3491833021b03ba64241cd85285c93c1fa44b08dbf1ff049c",
+    "source": "Could you provide me with an inventory of files that are currently visible and hidden in the directory I'm working in at the moment?"
+  },
+  {
+    "key": "ae70e606504c79f543565d9d9953befcbae6208a17b5f30b9b6f82deca3117bb",
+    "source": "Please cd into project folder and find Kelly's test report somewhere in the directory and read the content to me."
+  },
+  {
+    "key": "27d3546846677bec004971d588d47737b13f9ccc26e139345c7a50dda04599bb",
+    "source": "Please dispatch of the report to Kelly, I need to add her contact (Kelly), in the format of 'Kelly Total Score: total_score', I'd appreciate a list of all the communications I've sent until now."
+  },
+  {
+    "key": "1fee4df600110c6b582f790edb8369c0079e41ae9532fcb93d80543671aa4af6",
+    "source": "Copy all the text files of the 'Quarter1_Reports' directory and place it in a new directory naming it 'Archived_Quarter1."
+  },
+  {
+    "key": "45e4f6005ecfa2276ef3dfeb901fc6864b404480a4b4b0e72f92521d2e9ce300",
+    "source": "Within the 'MonthlySummary.docx' file, display the content and sort it alphabetically by line to organize the information neatly."
+  },
+  {
+    "key": "7b35ff9582ba4ddc272260c52e9f8332d40be73722069cd60a9b1944f7f3a6c2",
+    "source": "Compare the educational material differences between 'History101.txt' and 'History202.txt', then post the differences to my Twitter account for my followers to see, mentioning Jerry."
+  },
+  {
+    "key": "78717455da3d52232d4a84e3e32c674f11996ef211c7a2589cf2d6993c9dbf8f",
+    "source": "Find every file with the name 'test_document.txt' nestled within the current directory."
+  },
+  {
+    "key": "a6d2663fdc9ff64f26e138249d203bf841f727d8ddb39a57b16f0000b7867cdf",
+    "source": "Transfer a duplicate of 'test_document.txt' over to the archives folder and rename it 'final_document.txt'."
+  },
+  {
+    "key": "879c466637d14c57947219678c6ec561490ed64eeea5d1173f3402505a11397b",
+    "source": "Reveal the contents of 'final_document.txt' located in the archives."
+  },
+  {
+    "key": "831643585d7e8171a437055434f10149b0d42d08d32afa00737ed2eb7a313a89",
+    "source": "Go to documents folder in CWD. Next, from the first document in current folder. What does the last line look like?"
+  },
+  {
+    "key": "9c7b172a134e22535d49f97da8b2bd123bd46fea1bd74983e440785f9fc1316d",
+    "source": "Write the difference of the first two file into a new file call file5.txt."
+  },
+  {
+    "key": "8f2d4084c22d32b3bd978930cbd58028e5ef113163fd0f51a4b88ac1112b2712",
+    "source": "I've just put together a file named 'ProjectOverview.txt' into my working directory where I've laid out an initial summary of the project. But as I foresee possible modifications down the line, I'd like to modify the file content by putting 'To be discussed' in it."
+  },
+  {
+    "key": "1bf7f3068bfb4e7e8baf15dd6f2538f8b70d190512691dd7cc2f9258b71320d7",
+    "source": "For peace of mind, let's verify both 'ProjectOverview.txt' and 'Draft.txt' are identical."
+  },
+  {
+    "key": "946e4473d04ea97620aacd6a99c09d25d39d7c9d5a81b8689a2f8734329529b7",
+    "source": "Lastly, I'd like to broadcast my recent documentation progress on Twitter. Please draft a tweet announcing a brief project update, as 'Initial summary of the project. To be discussed.', tagging it with 'ProjectUpdate' and mentioning @manager and @team_lead to keep everyone in the loop. My user name is tech_guru and password is securePass123."
+  },
+  {
+    "key": "0d343e3c3cb16ae31a93d17a1b66fe455a260e4d229ec36d17954f4b69a6c082",
+    "source": "There's a file I cooked up earlier named 'project_analysis.txt' in workspace folder, and I've just realized it desperately needs some extensive updating. Could you roll the content out for me to have a look-see?"
+  },
+  {
+    "key": "68b1f5dd0c97983743e0ee0e5e420e49e0eb402ccf1473e7e1b793788bf4c1db",
+    "source": "Much appreciated! Now, I'm sprucing up my analysis here. Could you whip up a duplicate of 'project_analysis.txt' and shift it over to this folder I've named 'project_archive'?"
+  },
+  {
+    "key": "35f4f7136c22b9a18081bb3710c57c9905833798109aeea52d40cb9f2af7108a",
+    "source": "Important stuff right there! I need to do a comparative review as my next step; be a champ and compare 'project_analysis.txt' with 'old_project_analysis.txt' to spotlight any differences."
+  },
+  {
+    "key": "3782fffa866047c5400c0f85d3df6e092f2396e7a19825b8be510fa666eabcb5",
+    "source": "In this reflective summary, I'm keen to share some eye-opening insights with my colleagues. Toss a tweet out there about this comparative analysis, mentions @colleagues, and throw in #ProjectInsight to amplify its reach. Here is a the post content I am thinking about:Just completed a comparative analysis between the latest and previous project data. Some insightful findings! My user name is tech_guru and password is securePass123."
+  },
+  {
+    "key": "9c6a18ab0867938bb8fb2f41efca9a476ee30e460812bd2335088352fbfdc506",
+    "source": "I need you to draft a comprehensive guide for our new initiative, and let's name it 'Project_Guide_1.md'. Put 'Comprehensive guide for the new initiative.' in it."
+  }
+]

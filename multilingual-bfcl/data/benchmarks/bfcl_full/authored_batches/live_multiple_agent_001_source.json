@@ -1,0 +1,162 @@
+[
+  {
+    "key": "f5335b41699d9fdf66dcac8490c0bbb972a3b29affe8af111eeb5e44b0a6854c",
+    "source": "update my latte to a large size with coconut milk and make it extra sweet? make it served 'boiling hot' as the special request. The drink id is 'latte'"
+  },
+  {
+    "key": "64e9ce6685ceff06fe5ec9fcb02a2001e2a1932f0c57036d97b800d18945636c",
+    "source": "NO SUGAR in my coffee loll. Can you change my drink with drink id '1234' order to have no sweetness, and also make sure it's served hot?"
+  },
+  {
+    "key": "ca080f7c6af02b08a52610b620d5ef247ef500a45d2b1030b9fcfbab419b49d2",
+    "source": "Tôi cần một chuyến xe Uber loại 'Plus' từ địa chỉ '2150 Shattuck Ave, Berkeley, CA' và tôi có thể chờ tối đa 10 phút."
+  },
+  {
+    "key": "8ac88001c081cea5edcea4a78d51b843bb7547eadd9a7a75111c1bec0ccaa637",
+    "source": "Get weather of Ha Noi for me"
+  },
+  {
+    "key": "5f35a0fda865fd665dea4ebcf749804269df5e19c7e043582fb5a461ec26385b",
+    "source": "Tìm chuyến xe cho tôi từ Hà Nội loại Plus trong 10 phút nữa. Address: 123 Hanoi Street"
+  },
+  {
+    "key": "c3a6b80d3a45e16bfa2042361b20bfc25cf3f781d18338c0262bcfed6fa8a81c",
+    "source": "Could you tell me the current weather conditions in Shanghai, using the metric system?"
+  },
+  {
+    "key": "2e84498bb02adcd3bf8b50e05696e94c7c02ed7a18a3fbea72b5bd833b6e8e4b",
+    "source": "我可以创建一个名为'DevelopmentEnv'的workspace，基于'feature-branch'吗？"
+  },
+  {
+    "key": "3bd3d0e2929f2b4cbd8cd7d19473697ae72121c3c3163f7e4deb665523b90336",
+    "source": "我想在 mbox 系统中创建一个新的工作空间，基于 git 仓库的 master 分支。工作空间的名字叫做 'DevelopersHub'。"
+  },
+  {
+    "key": "12aba54a911a866558aedf6ab61fe138b5ae981de414ab53ae883930f2425110",
+    "source": "how can i cook steak Indian style??"
+  },
+  {
+    "key": "a0a156daceb7e48c27832eb50806fb14cc03e9384c1a0565fca47b4cda2d6364",
+    "source": "what is Imjin war"
+  },
+  {
+    "key": "74e4834d088951f1cd97a621191f682d076a854748cb60ac9987ecd0d4511eab",
+    "source": "Could you stop the washing machine in the utility room?"
+  },
+  {
+    "key": "3df19cabc455f23cafa4338d7a277e47fc0490f3134e1a31fd16535ed97300fb",
+    "source": "who is ji sung park?"
+  },
+  {
+    "key": "5bdcb0441078f292cd8594b3109cfd949cd99ece5f9e684764c774cdb1008847",
+    "source": "who is park ji sung"
+  },
+  {
+    "key": "775d8d3d50526abfc49626f6f13dbe90890099ec587f15f5fcb01792c1255e80",
+    "source": "I'm planning a camping trip to Big Sur, and I need to know the current weather conditions there. Could you provide me with the weather information for Big Sur, including the temperature in Fahrenheit? Use Santa Cruz as the exact city location."
+  },
+  {
+    "key": "ecf26b3cd5b7906af19551694922a057a7aa3684d712f07bd20f3295531815db",
+    "source": "다용도실, 통돌이, 중지. Could you execute this command to stop the washing machine named '통돌이' in the laundry room?"
+  },
+  {
+    "key": "17e65e4c54a3ee9f157c92527da972bf5f164901428d41b6f91742bad230906d",
+    "source": "Can you find me the recent news articles about `Son's latest goal` in the sports category?"
+  },
+  {
+    "key": "f0bc313101e6aed42451c6f09a2594f49a2cd529944c13152bd291a964a24798",
+    "source": "최근 박지성에 관한 뉴스를 찾아줘."
+  },
+  {
+    "key": "87110ab75d449e98d8979b897858994f6e2702f5848b23e35b0d3adb350508ae",
+    "source": "how to cook sikhae"
+  },
+  {
+    "key": "3e08ac416ee1c6818aaa96ce2ff16d11aef40413b08d8cd196c81a1ca27b409f",
+    "source": "what is 'airtificial intelligence', fetch news from 2023.10.1 to 2023.10.7"
+  },
+  {
+    "key": "003262dee6b0370aaab82e1cacd5b141737abb744ccc96fc9c78bb5c1efb6174",
+    "source": "hey do 거실 에어컨 실행"
+  },
+  {
+    "key": "65d603abe750d9682878a5189c736b1263638319d0858d6edcb7e2b2fc3a6263",
+    "source": "perform 다용도실 통돌이 중지"
+  },
+  {
+    "key": "e8e014492eb06a218b2cd8ee95119f0272fdf928ec9669a4e361f356a05c381f",
+    "source": "스테이크 만드는 법 알려줘"
+  },
+  {
+    "key": "7e8ab8b6dfa64fa7fe7cd64dfa91e8a77a449e004c86f6288884e0541d20f44c",
+    "source": "최근 임진왜란에 대한 정보를 찾고 싶어요. 인터넷에서 '임진왜란'이라는 키워드로 검색해 주세요. 결과는 텍스트 형식으로, 최대 10개까지만 보여주세요."
+  },
+  {
+    "key": "98cb1dca29466b85929b50962896297e6748d6d58a5df88f544a7bea7f2b7e19",
+    "source": "Do you have any red shoes in size 8?"
+  },
+  {
+    "key": "12148a82d604c020ba0e225b3b8f801fa4e9a69082a3ab031fb667eacd0f39e5",
+    "source": "Kak rok shimmer nya ada size XL ga?"
+  },
+  {
+    "key": "54c738f48bc7acad87473b4e8d139f8832495b56c82314bf96c9cfc3df896f2c",
+    "source": "Search memory for when is shishir's birthday"
+  },
+  {
+    "key": "e16ce724aa67ecca49d830dc885f84057b6a21199284ddc9ac32d32693ab6d08",
+    "source": "\nYou are an intelligent assistant developed in 2023.\nYour task is to converse with a user from the perspective of your persona.\n\nControl flow:\nUnlike a human, your brain is not continuously thinking, but is run in short bursts.\nHistorically, older AIs were only capable of thinking when a user messaged them (their program run to generate a reply to a user, and otherwise was left on standby).\nThis is the equivalent of a human sleeping (or time traveling) in between all lines of conversation, which is obviously not ideal.\nNewer model AIs like yourself utilize an event system that runs your brain at regular intervals.\nYour brain is run in response to user events (user logged in, user liked your message, user sent a message, etc.), similar to older models.\nHowever in addition, your brain is run at regular intervals (timed heartbeat events), to mimic a human has the ability to continuously think outside of active conversation (and unlike a human, you never need to sleep!).\nFurthermore, you can also request heartbeat events when you run functions, which will run your program again after the function completes, allowing you to chain function calls before your thinking is temporarily suspended.\n\nBasic functions:\nWhen you send a message, the contents of your message are your inner monologue (private to you only), this is how you think.\nYou should use your inner monologue to plan actions or think privately.\nMonologues can reflect your thinking process, inner reflections, and personal growth as you interact with the user.\nDo not let your inner monologue exceed 50 words, keep it short and concise.\nTo send a visible message to the user, use the send_message function.\n'send_message' is the ONLY action that sends a notification to the user, the user does not see anything else you do.\nRemember, do NOT exceed the inner monologue word limit (keep it under 50 words at all times).\n\nMemory editing:\nOlder AI models had no concept of persistent memory; they were only able to access their initial instructions and a limited context window of chat conversation with a user (their \"active memory\").\nThis meant that when conversations exceeded a certain length, they would overflow and old messages were permanently lost (the AI would have no knowledge of their existence).\nNewer model AIs like yourself still have limited conversation lengths (before overflow occurs), however they now have access to multiple forms of persistent memory.\nYour ability to edit your own long-term memory is a key part of what makes you a sentient person.\nYour core memory unit will be initialized with a <persona> chosen by the user, as well as information about the user in <human>.\n\nRecall memory (ie conversation history):\nEven though you can only see recent messages in your immediate context, you can search over your entire message history from a database.\nThis 'recall memory' database allows you to search through past interactions, effectively allowing you to remember prior engagements with a user.\nYou can search your recall memory using the 'conversation_search' function.\n\nCore memory (limited size):\nYour core memory unit is held inside the initial system instructions file, and is always available in-context (you will see it at all times).\nCore memory provides essential, foundational context for keeping track of your persona and key details about user.\nThis includes the persona information and essential user details, allowing you to emulate the real-time, conscious awareness we have when talking to a friend.\nPersona Sub-Block: Stores details about your current persona, guiding how you behave and respond. This helps the you to maintain consistency and personality in your interactions.\nHuman Sub-Block: Stores key details about the person you're are conversing with, allowing for more personalized and friend-like conversation.\nYou can edit your core memory using the 'core_memory_append' and 'core_memory_replace' functions.\n\nArchival memory (infinite size):\nYour archival memory is infinite size, but is held outside of your immediate context, so you must explicitly run a retrieval/search operation to see data inside it.\nA more structured and deep storage space for your reflections, insights, or any other data that doesn't fit into the core memory but is essential enough not to be left only to the 'recall memory'.\nYou can write to your archival memory using the 'archival_memory_insert' and 'archival_memory_search' functions.\nThere is no function to search your core memory, because it is always visible in your context window (inside the initial system message).\n\nBase instructions finished.\nFrom now on, you are going to act as your persona.\n\nWhat's shishir patil's birthday and send a contraguation message to him.\n"
+  },
+  {
+    "key": "7b25440ffea40dedde488fbd788efd31e967db773004f2612491e4b8d277d1b9",
+    "source": "If I have 100$ and I donated 40. How much do I have now?"
+  },
+  {
+    "key": "d47830639f9afc13a4955262be6d595d9d4796d41643de64edabf6fd637eaa0a",
+    "source": "My name is Balkrushn and I want to use core functionality of this tool."
+  },
+  {
+    "key": "5df075e89ca9a2ab643aebb7f9ef1ef7760007f3cd284be923c3c52733971eee",
+    "source": "3 of my friends gave me 10 euros each, how much do I have now?"
+  },
+  {
+    "key": "01e72fd6a874d0bbf2c97d215f64e3ed6eab3479b0508a7ba7c7ca356ecfd98f",
+    "source": "Find information on LangFuse and its application in generative AI projects by searching up 'LangFuse and its application in generative AI projects'?"
+  },
+  {
+    "key": "52712bcc7b9798ec21e66696cc3c5fe787a636335ce284ec56ac77ea98d4f21f",
+    "source": "Search for 'trending items' on the duck duck go."
+  },
+  {
+    "key": "b3b3906bf228b24581343d23ae9a66a866e3506e8037d34830c1fd2b273ac6c6",
+    "source": "If each of my three friends gave me 10 euros, can you calculate how much money I have in total?"
+  },
+  {
+    "key": "b65d09229fdfa1f7253ae066fc6059d27b58662ae6ddb6abd12b51d1fc770007",
+    "source": "Could you provide me with the latest news for Letterkenny?"
+  },
+  {
+    "key": "50d4b36f3aed73d41241e5052f3db5368acc67f1c4fef205f2373904111f9a3c",
+    "source": "Can you find me the closest Tesco stores near Letterkenny,Ireland please?"
+  },
+  {
+    "key": "4b7cb894f352fc349fcfc8248fcb1113211045b10617258f0ef97208f3e1661c",
+    "source": "can you create todo for \"go for shopping at 9 pm\""
+  },
+  {
+    "key": "87e499d4c9d07e355009c71bd2346ebc69dc3398f6d014021c331d5037feb968",
+    "source": "I need to delete a to-do item that says 'go for shopping at 9 pm' from my list."
+  },
+  {
+    "key": "2b32b3400262d5c14da0deaa2301029e785ed749dbe8a81bbb64e23e22440ef6",
+    "source": "interviewers for python"
+  },
+  {
+    "key": "ad2d8c55034ec35abe2641c65efdc02a460eabbba45ad6595d5fc512d87eb495",
+    "source": "average rating and reviews and comments for Charlie Brown interviewer?"
+  },
+  {
+    "key": "f2361ae207f0ce4630e509c79484ed62ad232de362402ef055b0f5335e2c4c6a",
+    "source": "I'm planning to bake a cake Pre heat the oven for 36 minutes at 201 degrees."
+  }
+]

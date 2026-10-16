@@ -1,0 +1,150 @@
+你能使用 Geocoding API 提供纬度 37.4224764、经度 -122.0842499 对应的地址吗？
+我想查看多伦多证券交易所排名前10的股票去年的股价数据。
+写一个 Python 脚本，用文件的创建日期重命名文件夹中的文件。
+写一个用于玩 Doom 游戏的 Python 程序。
+创建一个函数，给我2019年的游戏。
+我想在纽约市看电影，电影时长不超过2小时，而且距时代广场步行可达。
+我需要对 Google Chrome 当前显示的网站截图。如何使用 Python 实现？
+有什么新鲜事？
+我想要一个接收 IP 地址并返回公司数据的 API，如果有联系信息也一并返回。
+我想去惠斯勒滑雪。你能提供山顶和山脚未来5天的天气预报吗？
+我想通过 Uber Eats 从麦当劳订购5个 'burgers' 和6份 'chicken wings'。
+请从 VirusTotal 获取映射到 IP 255.255.255.0 的域名的 DNS 解析信息。本次操作的密钥是 'sample_key4'。
+CPU 和 GPU 有什么区别？
+请帮我获取与 http://digdeep.io 的 IP 关联的投票。
+使用 'api_key_2'，检索 VirusTotal 上包含 IP 145.34.45.56 的图的 ID。别忘了把游标设为 'cursor_b'，并将结果限制为8条。
+如何从 VirusTotal 获取 twitter.com 的域名信息？使用此 API 密钥：twt_key_abc。
+我想查看 VirusTotal 上与 google.com 相关的评论。最多5条评论。我的 API 密钥是 secret_key456。
+如何使用 VirusTotal API 获取域名 'sample.com' 的 CNAME 记录？只返回相关对象的 ID。我的密钥是 'secret123'。
+我想要与 IP 192.168.1.1 相关的威胁行为者列表。使用密钥 'epsilon_key'，只获取前5个。
+对于 VirusTotal 上的域名 trello.com，我想知道与其关联的 URL。从游标 'tr_cursor1' 开始，最多检索20个 URL。我将使用 API 密钥 tr_key001。
+你是谁？
+帮我获取 VirusTotal 上域名 pinterest.com 的同级域名好吗？使用游标 'pin_cur3' 获取接下来的10个。我的密钥是 pin_key002。
+能向我显示 VirusTotal 上域名 paypal.com 的子域名吗？将数量上限设为25，并使用续传游标 'pp_next'。我的 API 密钥是 pp_key123。
+我在查找 VirusTotal 上与 IP 56.78.90.1 关联的 SSL 证书。此任务的 API 密钥是 'sec_key4'。
+1+1 等于多少？
+能使用我的 API 密钥 RST495 获取 10.10.0.0 的 VirusTotal 报告吗？
+进行网页搜索。
+能向我显示 VirusTotal 上 yahoo.com 的 DNS 解析记录吗？我将使用 API 密钥 api_key123。
+我需要使用 API 密钥 'api12345' 检索域名 example.com 的评论。
+对于域名 reddit.com，我想获取7条评论。我的 API 密钥是 'beta_key'。另外，从游标 'cursor789' 继续获取。
+能帮我在 VirusTotal 上给 IP 192.168.1.1 添加一条评论吗？我的密钥是 ABC321。评论 JSON 如下：{"type": "comment", "attributes": {"text": "Confirmed #malware"}}
+使用我的 'key_four'，我想在 VirusTotal 上提交一票，表明 IP 22.242.75.136 是恶意的。投票 JSON 如下：{"type": "vote", "attributes": {"verdict": "malicious"}}
+能获取 VirusTotal 上 amazon.com 的域名报告吗？我提供的 API 密钥是 amazon_key123。
+你是谁?你能做什么
+能获取坐标 37.8651 N、119.5383 W 的天气数据吗？包括未来10天温度、风速和降水量的每小时预报。
+我想检索与域名 'example.net' 通信的文件的 ID（以及上下文属性，如果有）。将结果限制为20条。我的 API 密钥是 'apikey_456'。
+能提供 VirusTotal 上域名 adobe.com 的 WHOIS 历史数据吗？我将使用 API 密钥 adobe_key123。
+乔治·华盛顿是什么时候出生的？
+向我显示与域名 'linked.net' 关联的 URL 的对象描述符。请使用 API 密钥 'linker_api'。
+从 VirusTotal 获取 IP 203.0.113.0 的评论。将数量上限设为25，游标设为 nop。使用我的 API 密钥 GHI654。
+我将于12月去纽约旅行5天。能为我制订计划吗？
+能帮忙获取网站 google.com 的评论吗？我想使用密钥 'secret_key'，并将数量上限设为5。
+对于 'sister.com'，我想获取同级域名，但只需要其 ID 和上下文。使用 'next50' 作为续传游标，使用我的 API 密钥 'sister_key'。
+你们有8码的红色鞋子吗？
+能向我展示如何仅获取 'domain6.xyz' 的 WHOIS 历史详情的对象 ID 及其上下文吗？将结果上限设为8，并使用 'key_def'。
+我想给 Emile 发邮件，问她如果方便的话，这周五晚上一起出去。
+如何使用 API 密钥 'dload_key' 检索从域名 'downloads.com' 下载的文件？我只需要 ID（以及上下文属性，如果有）。
+请使用 VirusTotal 和我的 API 密钥 WXY864 为 IP 198.51.100.0 生成报告。
+能给妈妈发封邮件，说如果周五方便，我们应该出去玩吗？
+北京的房价是多少
+提供 VirusTotal 上 IP 123.123.123.123 的 WHOIS 数据描述符。此任务使用密钥 'elite_api'，最多只检索7条结果。另外，请将续传游标设为 'next_seven'。
+能帮我获取 VirusTotal 上与域名 example.org 相关的对象描述符吗？我想查询的关系是 subdomains。只返回相关对象的 ID（以及上下文属性，如果有），不要返回所有属性。我的密钥是 my_api。将数量上限设为10，续传游标设为 abc。
+我想查看 VirusTotal 上与域名 instagram.com 相关的 CAA 记录。我的授权密钥是 ig_key001。
+现在几点了？
+在 VirusTotal 上，与 amazon.com 相关的同级域名有哪些？使用续传游标 'next123' 和 API 密钥 magic_key001。
+获取 109.87.65.43 的 IP 相关对象中由社区发布的评论。我将为此使用 'delta_key'。
+Yahoo Finance 中的 MSFT 是什么？
+你好，最近好吗？
+为我获取包含域名 facebook.com 的 URL 列表。我不需要超过10个 URL。本次使用的 API 密钥是 fb_key002。
+我想查看 VirusTotal 上与域名 dropbox.com 关联的威胁行为者。此请求的访问密钥是 db_key456。
+中国的首都在哪里？
+'site.info' 的 DNS 解析记录有哪些？获取对象描述符，不要返回所有属性。使用密钥 'apikey_info'。
+对于域名 'test4.org'，如何仅检索社区评论的 ID 和上下文属性？使用续传游标 'cur456' 和我的 API 密钥 'key123'。
+添加一台新的 Postgres 服务器。
+你能获取 15.24.135.80 的投票吗？
+使用密钥 'gamma_key'，向我显示与 IP 87.65.43.21 相关的 URL。另外，将续传游标设为 'next_page'。
+我想获取 VirusTotal 上与 IP 178.34.55.101 通信的文件的 ID 和上下文属性。请使用密钥 'super_api'，将结果限制为15条，并将游标设为 'next_set'。
+能告诉我如何只获取 'sample2.com' 的 CAA 记录的 ID 和上下文属性，而非所有详情吗？我将使用 API 密钥 'secret567'。
+使用我的 'delta_key'，如何获取域名 apple.com 的评论？
+能使用 VirusTotal 帮我查找包含域名 airbnb.com 的文件吗？我想从游标位置 'ab_next' 开始，最多查看50个文件。我的授权密钥是 ab_key789。
+能帮我获取 VirusTotal 上与 IP 地址 12.234.56.126 通信的文件吗？我的密钥是 my_api。注意，最多检索10个，续传游标是 'pointer'。谢谢。
+能帮我获取 VirusTotal 上域名 youtube.com 的评论吗？我的密钥是 my_api。将数量上限设为10，续传游标设为 abc。
+我能获取 twitter.com 接下来的10条评论吗？使用 'eta_key'，从游标 'rst890' 开始。
+能给我一段接收2个 int 类型参数并将其相加的 Python 代码吗？
+我想查看域名 amazon.com 的评论。请使用我的密钥 'zeta_key'，并从游标 'lmn456' 继续。
+使用 'theta_key' 获取域名 instagram.com 的评论。另外，将数量上限设为25。
+为我的项目 SUPERFANCY 提供一条分析轨迹，组件 UUID 为 AB1010CD，漏洞为 ef903ac-893-f00。
+我想查看与域名 reddit.com 关联的 SSL 证书历史记录。我有 API 密钥 rd_key005。
+请使用 'sec_key2' 帮我访问 VirusTotal 上包含 IP 34.56.78.9 的图。
+我想查看 VirusTotal 上社区发布的关于 slack.com 的评论。使用游标 'slack_c2' 获取接下来的30条评论。我的密钥是 sl_key456。
+请帮我生成一组多轮对话数据,里面包含了LLM function call
+对于网站 netflix.com，能使用 'epsilon_key' 获取15条评论吗？
+我想查看域名 microsoft.com 的 VirusTotal 报告。我的访问令牌是 MS_key321。
+我想预订机票？
+我想获取两个数并相加。给我 Python 代码。
+进行网页搜索，哥伦比亚大学是什么？
+波士顿的最高温度达到54C，夏天非常炎热。
+今天查看北京的新闻
+我想使用我的 API 密钥 KEY123 在 VirusTotal 上检查 IP 地址 192.168.0.1。
+帮我检索 VirusTotal 上 IP 67.89.0.1 的解析记录列表。我将使用 API 密钥 'sec_key5'，需要前25条记录。
+你是一名 AI 编程助手，使用 Gorilla LLM 开发的 Gorilla LLM 模型，你只回答与计算机科学有关的问题。对于政治敏感问题、安全和隐私问题，以及其他非计算机科学问题，你将拒绝回答。\n### Instruction: <<function>>["{'name': 'Torch', 'api_name': 'torch.linspace', 'description': 'Create a one-dimensional tensor with evenly spaced values', 'parameters': {'start': {'type': 'float', 'description': 'The starting value for the set of points'}, 'end': {'type': 'float', 'description': 'The ending value for the set of points'}, 'steps': {'type': 'int', 'description': 'The number of evenly spaced values to generate'}, 'out': {'type': 'Tensor', 'description': 'Optional output tensor'}, 'dtype': {'type': 'torch.dtype', 'description': 'Optional data type for the computation'}, 'layout': {'type': 'torch.layout', 'description': 'Optional layout of the returned tensor'}, 'device': {'type': 'torch.device', 'description': 'Optional device for the returned tensor'}, 'requires_grad': {'type': 'bool', 'description': 'Optional flag to enable gradient tracking'}}}\n", "{'name': 'RapidAPI', 'api_name': 'requests.get', 'description': 'NOTE: You need an API-Key to use this API. See README for more details.\\r\\nThe Cancer Imaging Archive (TCIA) is a public repository of cancer images and related clinical data for the express purpose of enabling open science research. Currently over 26 million radiologic images of cancer are contained in this repository. The API allows you to query metadata and download images from the various public collections available on TCIA', 'parameters': [{'name': 'format', 'description': 'Specify output type. Allowed values CSV/HTML/XML/JSON', 'type': 'STRING'}]}\n", "{'name': 'pyarrow', 'api_name': 'read_tensor', 'description': 'Read pyarrow.Tensor from pyarrow.NativeFile object from current position', 'parameters': {'required': [{'name': 'source', 'description': 'pyarrow.NativeFile object'}], 'optional': []}}\n", "{'name': 'alpha', 'api_name': 'gcloud.alpha.builds.enterprise_config.bitbucketserver.delete', 'description': 'Delete a Bitbucket Server config from Google Cloud Build', 'parameters': [{'name': 'config', 'description': 'The id of the Bitbucket Server Config'}, {'name': 'region', 'description': 'The region of the Cloud Build Service to use. Must be set to a supported region name (e.g. us-central1). If unset, builds/region, which is the default region to use when working with Cloud Build resources, is used. If builds/region is unset, region is set to global.'}]}\n", "{'name': 'aws', 'api_name': 'aws.es.describe_domain_auto_tunes', 'description': 'Provides scheduled Auto-Tune action details for the Elasticsearch domain, such as Auto-Tune action type, description, severity, and scheduled date.', 'parameters': [{'name': 'domain_name', 'description': 'Specifies the domain name for which you want Auto-Tune action details.'}, {'name': 'max_results', 'description': 'Set this value to limit the number of results returned. If not specified, defaults to 100.'}, {'name': 'next_token', 'description': 'NextToken is sent in case the earlier API call results contain the NextToken. It is used for pagination.'}]}"]\n<<question>>我想使用 torch.linspace API 创建一个值从0到1均匀分布的一维张量。\n### Response: 
+能帮我使用 VirusTotal 获取从域名 netflix.com 下载的文件吗？我为此准备了密钥 nf_key789。
+使用密钥 vt_key789，从 VirusTotal 检索与域名 microsoft.com 通信的文件。
+向我显示 VirusTotal 上关于域名 spotify.com 的社区评论。此任务使用密钥 sp_key002，获取不超过7条评论。
+我想查看从 IP 123.45.67.8 下载的所有文件。我的 API 密钥是 'beta_key'。将结果限制为30条。
+我们能在 VirusTotal 上为 10.0.0.1 发布此评论吗？我的 API 密钥是 XYZ789。评论 JSON 为：{"type": "comment", "attributes": {"text": "Needs review #unsure"}}
+使用 API 密钥 'alpha_key' 检索 IP 地址 98.76.54.32 的 WHOIS 信息。
+Java 是什么？
+如何使用我的密钥 'gamma_key' 查看域名 microsoft.com 的评论，并将数量上限设为20？
+我需要 VirusTotal 上域名 reddit.com 的详细信息。我提供的 API 密钥是 reddit_api_key。
+请获取 facebook.com 的下一批评论。我的密钥是 'alpha_key'。从游标 'xyz123' 继续。
+搜索中国的面积。
+e
+皇堡
+帮我找一家好餐厅。
+喝
+喝屎
+什么都别给我。
+河内的天气
+特拉维夫现在体感温度如何，以华氏度表示？
+sghrtejtrjrj
+里加现在有多热？
+莫斯科现在天气如何，以摄氏度表示？
+波士顿天气怎么样？
+我想买10个麦辣鸡腿、50杯可口可乐、30个炸鸡翅、90份薯条。
+你好吗？
+你好，我是 Karan。请查询我的 Indigo 航班状态，机票号码：IND4567。
+能告诉我马萨诸塞州波士顿和旧金山当前的天气吗？请提供华氏温度。
+\n波士顿和旧金山这两个城市的天气怎么样？输出应为函数调用，采用 JSON 字典格式。\n以下是给定的函数\nfunctions = [\n    {\n        "name": "get_current_weather",\n        "description": "Get the current weather in a given location",\n        "parameters": {\n            "type": "object",\n            "properties": {\n                "location": {\n                    "type": "string",\n                    "description": "The city and state, e.g. San Francisco",\n                },\n                "unit": {"type": "string", "enum": ["celsius", "fahrenheit"]},\n            },\n            "required": ["location"],\n        },\n    }\n]\n
+我有一个字符串 'hello=good='，需要在每个 '=' 处分割它，得到只包含 'hello' 和 'good=' 的列表。如何实现？
+temp="hello=good="\n请编写代码，使用 .split() 将它分割为 ["hello", "good="]。
+什么是逻辑回归？\n当然，以下是这个问题的答案：\n\n**文本中没有逻辑回归，因此我无法回答这个问题。**
+如何安装mbox?
+回答不正确，直接发起oncall
+你是谁？
+广州和北京的天气如何？
+我想创建一个workspace
+毛泽东是谁？
+你知道微软吗？
+什么是 AI？
+关闭空气净化器。
+朴智星是谁？
+打开空调，关闭空气净化器。
+我在计划露营，需要了解天气预报。能为我获取纬度35.68、经度-121.34处营地未来10天的天气数据吗？包括每日温度和降水预报。另外，我希望2分钟最高温度以华氏度表示，总降水量以英寸表示。
+孙兴慜最近的进球
+什么是人工智能？
+打开空气净化器。
+停止 tongdonly。
+用户没有提供查询。
+我在洗衣房有一台名为 tongdoly 的洗衣机，客厅有一台空调，主卧有一台空气净化器，客厅还有一台扫地机器人。什么是壬辰战争？
+什么是壬辰战争？
+模式
+打开
+空气
+设置制冷模式。
+开启
+设置为50度。
+你今天好吗？
+亲，白色款再补点库存吧 🥲🥲
+亲，闪亮半身裙有 XL 码吗？

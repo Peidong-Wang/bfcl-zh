@@ -1,0 +1,202 @@
+[
+  {
+    "key": "0b4d3b7c3e18a712e5a66e3a267d46f92e64e28610c8e8d628d0621ca84dd346",
+    "source": "\"Could you help me with a few things? First, I'm interested in finding out all the movies that actor Leonardo DiCaprio starred in the year 2010, specifically in the Drama category. Second, I'd like to know about any lawsuits filed against the company 'Apple Inc.' in the location 'California' in the year 2015, and I'm particularly interested in civil cases. Lastly, I need to book a direct flight from 'New York' to 'London' on the date '2022-12-25', and I prefer the time to be around '10:00AM'. Can you assist me with these?\""
+  },
+  {
+    "key": "8204d3e36af83c0418a014df21bb5c5a00635ff0ba4fc7bc247764f382c11042",
+    "source": "\"Imagine you are planning a vacation to Paris, France. You want to stay at the 'Hotel Le Bristol Paris' in a suite room for 10 days starting from 12-01-2022. You also have a preference for a city view from your room. How would you book this hotel? After booking, you want to know how much 1000 US dollars would be in Euros. Can you find out the latest exchange rate? On your way to the hotel, you want to stop by a Safeway store in Palo Alto, CA to pick up some items. You need to order 2 bottles of water, 3 apples, and 1 loaf of bread. How would you place this order? Lastly, you are curious about the universe and want to know how long it would take for light to travel from Earth to Proxima Centauri, which is approximately 4.24 light years away, considering the speed of light in vacuum is 299792458 m/s. Can you calculate this?\""
+  },
+  {
+    "key": "35ace2697571cae47b3d09f3efe057a74819876fe02b6cf29725d062efa28f3c",
+    "source": "\"Can you help me with a few things? First, I'm trying to calculate the area of a triangle that has a base of 12 meters and a height of 15 meters. I would like the result in square meters. Second, I'm curious about the inventor and year of invention of the 'Telephone'. Could you find that for me? Lastly, I'm planning a road trip and need directions from 'New York City' to 'Los Angeles'. I would like to avoid 'tolls' and 'highways'. Can you provide the best route for me?\""
+  },
+  {
+    "key": "473cb03cedbc04b8a3efb23b043200a257245d07a55ea9b033bc441434352584",
+    "source": "\"Could you help me plan a trip? I want to go to Paris for 7 days with a daily budget of $200, and I prefer exploring urban areas. Also, I'm trying to cook a dish called 'Chicken Alfredo', but I'm not sure if it fits my diet. Could you find a recipe for 'Chicken Alfredo' that has less than 800 calories? Additionally, I have a cooking measurement problem. I have a recipe that calls for 2 cups of flour, but I only have a scale. Can you convert 2 cups of flour into grams for me? Lastly, I'm doing a research project and need to run a linear regression model. The predictor variables are 'age', 'income', and 'education level', and the target variable is 'job satisfaction'. Could you also standardize the predictors for me?\""
+  },
+  {
+    "key": "68d0f2836165f6bffadb5e8b8c73f2727ffcf86ace14b55e488cee8acfd0c706",
+    "source": "\"Imagine you are considering to buy a house in San Francisco, California. The house was built in 1985, has an area of 2000 square feet and contains 4 rooms. You want to predict the price of this house. After buying the house, you also want to know about any lawsuits involving the previous owner, Mr. John Doe, in the county of San Francisco. Additionally, you are curious about the probability of winning a lottery where the total number of possible outcomes is 1000 and the number of favorable outcomes is 5. You want the result to be rounded to 3 decimal places. Can you provide the predicted house price, the lawsuits involving Mr. John Doe in San Francisco county, and the probability of winning the lottery?\""
+  },
+  {
+    "key": "22efc15c6b7941b204397e7eb4af0723f98f7c2287f850f481c9048fd0d050b5",
+    "source": "\"Can you help me with a few calculations? First, I need to calculate the power of 7 raised to 3. Then, I want to know the probability of drawing a red card from a standard deck of 52 playing cards, round the answer to 3 decimal places. After that, I have a DNA molecule with the ID 'XYZ123' in a public database, can you retrieve its sequence in 'genbank' format? Also, include 5 base pairs upstream the DNA sequence. Lastly, calculate the power of 2 raised to 5, but this time with a modulus of 3.\""
+  },
+  {
+    "key": "a3e9855949b1da97da9727a41af61e09698979b21004681bd94e49918ab56635",
+    "source": "\"Could you please help me with the following tasks? First, I have two groups of data points: group1 consists of [12, 15, 18, 22, 25] and group2 consists of [20, 23, 26, 29, 32]. I want to run a two-sample t-test on these groups with the assumption that they have equal variance. Second, I'm currently in Boston, MA and I'm craving for some Sushi. Could you find the closest sushi restaurant that has a Patio and Wi-Fi? Lastly, I've recently taken up painting as a hobby and I'm curious about the common personality traits associated with it. Could you retrieve the top 5 personality traits of people who enjoy painting?\""
+  },
+  {
+    "key": "5cdd29bc13bbe3b60c5577505143cfe29d886f46360b034c7bb0eade58ed5df0",
+    "source": "\"Could you help me with a few calculations and searches? First, I'd like to calculate the area of a triangle with a base of 15 meters and a height of 20 meters, and I'd like the result in square meters. Then, I have two datasets that I'd like to compare statistically. The first dataset consists of the numbers 12, 15, 18, 20, 22, and 25, and the second dataset consists of the numbers 14, 16, 19, 21, 23, and 26. I'd like to perform a t-test with a significance level of 0.05. After that, I'm interested in finding upcoming rock concerts in Los Angeles, CA for the next 14 days. Lastly, I'd like to calculate the area of another triangle, this time with a base of 10 meters and a height of 30 meters, and again, I'd like the result in square meters.\""
+  },
+  {
+    "key": "a595a0d5c129a97d297365afd5b48e10a6c08456ae34cf79fddab2520b4615ec",
+    "source": "\"Could you help me with a few tasks? First, I'm interested in a company's financials. I'd like to know the quarterly dividend per share for a company that has a total dividend payout of $1,000,000 and 500,000 outstanding shares. Second, I'm a big fan of the Beatles and I'd like to know the lyrics of their song 'Hey Jude'. Third, I'm planning to watch a movie tonight and I'm considering 'The Godfather'. Could you provide a brief about this movie and also include additional information like Director, Cast, Awards etc.? Lastly, I'm doing a painting and I'd like to mix the colors red and blue, and I want the resulting color to have a lightness level of 70%.\""
+  },
+  {
+    "key": "6a0a8229ffbe9be2f6a683a7661c3e6e05a1e6d1645f9364bb621280b6fc2e6c",
+    "source": "\"Could you help me with a few things? First, I'd like to calculate the return on equity for a company that had a net income of $2 million, total shareholder's equity of $10 million, and paid dividends amounting to $500,000. Then, I'm trying to find the lyrics to the song 'Bohemian Rhapsody' by the artist 'Queen', and I need them in English. After that, I'm interested in finding a historical law case related to 'fraud' that took place between the years 1990 and 2000. Lastly, I'm looking for a public library in 'Boston, MA' that has both a 'Reading Room' and 'Wi-Fi' facilities. Can you assist with these?\""
+  },
+  {
+    "key": "b7cc95dc81dc65a05124b935d79c16bad1b735e5429f28670b945a6bd81a536b",
+    "source": "\"Can you help me with two tasks? First, I want to calculate the compound interest on an investment I made. I invested $5000 with an annual interest rate of 5%. The interest is compounded quarterly and I plan to keep the money invested for 7 years. Secondly, I heard some rumors about a company named 'Tech Corp' and I want to check if there were any lawsuits filed against them in 'San Francisco' in the year 2018. Can you find this information for me?\""
+  },
+  {
+    "key": "06c37f7471955143a392c4538313e195f62f93c7279da66e252b3ead6e97aff3",
+    "source": "\"Can you help me with a few calculations? First, I'm curious about the current classical chess rating of a player named Magnus Carlsen. Second, I have a quadratic equation that I'm struggling with, it's 2x² - 3x + 1 = 0, could you find the roots for me? Lastly, I made an investment 5 years ago. The initial value was $5000 and now it's worth $8000. Could you calculate the Compound Annual Growth Rate (CAGR) for me?\""
+  },
+  {
+    "key": "ac5e3570ae0ed3666f0e320eb5f76dcf6a1090e2d0b6cfb35cbfa2cabfb0a8aa",
+    "source": "\"Imagine you are planning your finances and you want to calculate the future value of your investments. You have an initial investment of $5000, an annual rate of return of 7%, and you plan to invest for 10 years. Additionally, you will be making regular contributions of $200. After calculating the future value, you want to visualize your annual returns over the past 10 years. The returns are as follows: [7, 8, 9, 6, 7, 8, 10, 9, 8, 7] and you want to create a histogram with 5 bins to better understand the distribution of returns. Later, you decide to take a break and engage in some art. You want to mix two primary paint colors, blue and yellow, and adjust the resulting color's lightness level to 70%. Can you calculate the future value of your investment, create the histogram, and mix the paint colors accordingly?\""
+  },
+  {
+    "key": "4d308bf7c3088836db42d61991158be52ad7cc5a401af75c1b4b4a89cb627b4d",
+    "source": "\"John is planning to invest in a mutual fund. He has $5000 to start with and the fund he is interested in has an annual yield rate of 7%. He plans to keep his money in the fund for 10 years. After 10 years, he wants to use part of his investment returns to build a circular garden in his backyard. The radius of the garden will be 5 meters. Can you help him calculate how much money he will have in his mutual fund after 10 years and what will be the area of his circular garden?\""
+  },
+  {
+    "key": "a97f1e8b8208cc7a8aa50cc25202a416b522479fa43eff0dde82962b7a09ab15",
+    "source": "\"John is a lawyer who is working on a case with docket number '12345' in the 'Supreme Court'. He needs to retrieve the details of the 'accused' from this case. After his work, he plans to help his son with his homework. His son is learning about triangles and he needs to calculate the area of a triangle with a base of 10 units and a height of 5 units. The unit of measure is 'square meters'. Later, John has to go back to his work and retrieve the 'verdict' details of another case with docket number '67890' in the 'High Court'. Can you assist John with these tasks?\""
+  },
+  {
+    "key": "81daacf043e7d197ce8b5d938945b16fd38320d2fc0c04e0df3bcbf958dfbf70",
+    "source": "\"Can you help me plan my week? I'm interested in attending a jazz event in San Francisco, CA within the next 5 days. Also, I heard about a lawsuit involving Apple Inc. that was filed in California after January 1, 2020, can you find the status of that for me? Lastly, I need to do some shopping at Walmart, can you tell me the total price for 2 bottles of olive oil, 3 bags of rice, and 4 cans of beans at the Walmart in San Jose, CA?\""
+  },
+  {
+    "key": "d358ad12f89282a387f5466b2829bb160e747e5ff36a2967122467de693d1be6",
+    "source": "\"Could you please help me with the following tasks? First, I would like to know the elevation and area of the Yellowstone National Park. Second, I am considering investing $5000 in a stock that has an expected annual growth rate of 7%. I plan to hold the stock for 10 years and I would like to know the projected return of this investment, taking into account potential dividends. Third, I need to fetch detailed information about a legal case with the ID 'LC12345'. Lastly, I would also like to know the location and the year when the Yosemite National Park was established.\""
+  },
+  {
+    "key": "b446e165f71b3d41e491224b904ab54f5049f9cdbf20c0b954eb9844daf4d6c4",
+    "source": "\"In the game 'Animal Crossing' during the 'Summer' season, can you find out what types of 'fish' are collectable? After that, can you tell me the highest score achieved by any player in the game 'Fortnite' on 'Playstation' platform in the 'Asia' region? Then, I would like to know the details of lawsuits involving the company 'Apple Inc.' in the year 2018. Lastly, could you calculate the binomial probability for 10 trials, with 3 successes and a probability of success of 0.7 on an individual trial?\""
+  },
+  {
+    "key": "cde512774a6ec3e60b38b355c8cffc8aaade69f19850808ec8b41bc3d0f71527",
+    "source": "\"Could you help me with a two-part request? First, I'd like to know if there were any lawsuits filed against the company 'TechCorp' in the location 'San Francisco' in the year 2018, specifically civil cases. Secondly, I'm planning a trip and need to check the availability of Hilton hotels in 'New York City' for the check-in date '2022-10-15' and check-out date '2022-10-20' for 2 adults. Could you assist me with these?\""
+  },
+  {
+    "key": "0214415ad7259f1e7326410047991c595c7ee386383d9b592d96df265488911c",
+    "source": "\"Could you please tell me the latest game score, individual player stats, and team stats for the basketball team 'Los Angeles Lakers' in the 'NBA' league? Also, I would like to know the same information but this time for the football team 'Manchester United' in the 'Premier League'. Additionally, could you provide me with a 5-day humidity forecast for New York, ensuring that the minimum humidity level is 60%? Lastly, I would also like to know the humidity forecast for the next 7 days in London, but without any minimum humidity level filter.\""
+  },
+  {
+    "key": "5076488a5f6f74acd7f38e02dddcec9a863f0dd84c166f3184646f7637904eed",
+    "source": "\"Imagine you are playing a role-playing game and you want to create a new player profile. You decided to name your character 'DragonSlayer' and choose 'Warrior' as your class. You also want to start at level 5. After setting up your profile, you want to take a break and find a nearby concert to attend. You are currently in 'New York, NY' and you want to find a concert that plays 'Rock' music. Later in the evening, you decide to play a game of poker with a standard deck of 52 cards and a hand size of 5. What is the probability of getting a full house? The next day, you decide to go on a hike and you want to calculate the slope gradient between two geographical coordinates. The first point is [40.7128, -74.0060] (New York, NY) and the second point is [34.0522, -118.2437] (Los Angeles, CA). You want the slope gradient in 'degree'. Can you provide the information for all these scenarios?\""
+  },
+  {
+    "key": "2e1eb73dea15e3e5bfdff15f8c7971efc6b793c73ed0b13eeb901869245b550e",
+    "source": "\"Could you please tell me the ranking of the New York Yankees in the Major League Baseball for the 2019 season, then check the ranking of the Los Angeles Lakers in the National Basketball Association for the 2020 season, and finally, could you provide the air quality index for Los Angeles on December 25, 2020 and for New York on January 1, 2021?\""
+  },
+  {
+    "key": "d7e03a6c79914f7b29b7d952b5b54261ec9b3b409ca93131cfc74aceb4e7b698",
+    "source": "\"Can you help me with the following tasks? First, I want to find the closest high-rated grocery stores from my location at '123 Main Street, New York' that have 'milk', 'bread', and 'eggs' in stock. The store should have a minimum rating of 4.5. Second, I am interested in knowing more about the sculpture titled 'The Thinker' made by the artist 'Auguste Rodin'. I specifically want to know about its 'material'. Lastly, I drove my car, which uses 'diesel' as fuel and has a fuel efficiency of 25 miles per gallon, for a total distance of 12000 miles last year. Can you calculate the annual carbon dioxide emissions produced by my vehicle? Also, consider a 2% decrease in fuel efficiency per year.\""
+  },
+  {
+    "key": "a07e7bbc99984dc68ab0c111df853f37ae8487dff635b35fbca8ef8fd6267946",
+    "source": "\"Can you help me find a Thai restaurant in New York, NY within a 10-mile radius, and then find an Italian restaurant in the same location within the same distance? After that, could you provide the precipitation statistics for the Amazon rainforest for the past year and then for the past five years?\""
+  },
+  {
+    "key": "28fcb3497b443360513b6c217b1f6418a508c40630136ce936b07e7620423f2f",
+    "source": "\"Could you help me with a few tasks? First, I need to convert 5000 Euros to US dollars. After that, I would like to know the population of turtles in Galapagos Islands in the year 2018, and also include the species information. Then, I need to plan a trip from New York to Los Angeles, but I want to avoid tolls and ferries. Finally, I need to convert 3000 British Pounds to Japanese Yen.\""
+  },
+  {
+    "key": "89cb69956afce1c69345049f6def021c5b3366beb0b8e701cfad2e7b2bc906d6",
+    "source": "\"Could you please first use the 'get_current_time' function to find out the current time in Tokyo, Japan, in the 'Asia/Tokyo' timezone? Then, could you use the same function again to find out the current time in New York, United States, in the 'America/New_York' timezone? After that, could you use the 'get_stock_info' function to retrieve a detailed information about the stock of the company 'Microsoft' in the 'NASDAQ' market? Finally, could you use the same function again to retrieve a summary information about the stock of the company 'Apple' in the 'NASDAQ' market?\""
+  },
+  {
+    "key": "8c32c960fbca6a277efe35cbd5af24a37f82a4a54230f1886a3b6e9dccd52f0d",
+    "source": "\"Could you help me with a few tasks? First, I'd like to book a hotel room at the 'Hilton' in 'Los Angeles, CA' from '2022-05-01' to '2022-05-10' and I need '2' rooms. Second, I'm curious about the time difference between 'New York, NY' and 'Los Angeles, CA'. Third, I've been trying to keep track of my health and I'd like to calculate my Body Mass Index (BMI). I weigh '75' kilograms and I'm '180' centimeters tall, and I'd like to use the 'metric' system. Lastly, I've written a piece of text in 'English' and I'd like to perform a sentiment analysis on it. The text is 'I had a wonderful day at the beach. The weather was perfect and I enjoyed a delicious ice cream.' Can you assist me with these?\""
+  },
+  {
+    "key": "ae424952b4f392184296abc8f6700ede5a2d109ac977e4958b36feb6f12873a8",
+    "source": "\"Can you first find out the key historical events related to 'War' and 'Economy' that took place in France between the years 1800 and 1900? After that, could you please tell me the current market value of the sculpture 'The Thinker' created by the artist 'Auguste Rodin'? Lastly, I would also like to know the market value of the sculpture 'The Kiss', also created by 'Auguste Rodin', in the year 1882.\""
+  },
+  {
+    "key": "ee1d66062315600501e74a84f038529354ae3253a7f6f211da065fba45ef4a76",
+    "source": "\"Can you help me with a few things? First, I'm planning a trip and I'm interested in mountains. I'm currently in Tokyo and I want to find the 5 tallest mountains within a 200 kilometer radius of my location. Second, I'm working on a physics problem and I need to calculate the entropy change for an isothermal and reversible process. The initial temperature is 300 Kelvin, the final temperature is 350 Kelvin, and the heat capacity is 1.5 J/K. Lastly, I'm curious about a historical event. Can you tell me the date of the 'Battle of Waterloo'? I believe it took place in Belgium.\""
+  },
+  {
+    "key": "5d76abd9ec0ff537317d9b12314efa5977d16bd2117588490f18afd12d56ddbb",
+    "source": "\"Can you help me with a few things? First, I need to update my user information in the CustomerInfo database. My user ID is 12345, and I want to change my name to John Doe and my email to johndoe@example.com. Second, I'm curious about the last match played by the soccer club Manchester United, and I'd like to know the match statistics as well. Third, I'm doing a history project and need to know who the U.S. president was in the year 1980, and I'd like the full name with middle initial if applicable. Lastly, I'm playing a card game and need to find the Ace of Spades in a standard 52 card deck. Can you assist with these?\""
+  },
+  {
+    "key": "9a5a0b05003e100efd6ca5b28e5a774ec71e25b199ee88bfb90ebbc380a015a9",
+    "source": "\"Can you tell me who discovered the Higgs Boson and provide additional details about them, such as their birth date and nationality? Also, I am a 180 lbs, 5'11\" tall individual who is moderately active, can you predict my likelihood of having type 2 diabetes? Lastly, I am planning to visit the Louvre museum in Paris, can you tell me its working hours on Monday?\""
+  },
+  {
+    "key": "f3490d0ae5b537f9d70fd08c418e806315894de017113b6974b3e57034d82d7d",
+    "source": "\"Could you help me with a few tasks? First, I need to find the greatest common divisor of two numbers, let's say 48 and 36. Second, I'm curious about a historical event. I want to know about the contribution made by Albert Einstein on the date of 1905-05-14 in the field of Physics. Lastly, I'm working on a music project and need to calculate the duration between two notes. The first note has a frequency of 440 Hz and the second note has a frequency of 880 Hz. The tempo of the music is 100 beats per minute. Could you provide me with the results of these calculations?\""
+  },
+  {
+    "key": "bb4ad594449cf285b9b7b1d0aee676abccd20a65ec3165729aac148a8585519a",
+    "source": "\"Imagine you are a musician who also loves to paint and is interested in probability. You are planning to paint a wall in your house that is 12 feet in length and 8 feet in height. You have chosen a specific paint brand that can cover 350 square feet with one gallon of paint. How many gallons of paint would you need? After painting, you want to compose a song. You are thinking of composing it in the key of 'D'. What would be the musical scale for this key if you choose a 'minor' scale type? Also, you are curious about the binomial distribution. If you were to conduct 20 independent experiments with a success probability of 0.6, what is the probability of having exactly 10 successes?\""
+  },
+  {
+    "key": "9920388e69eab171a8093d3b1235c2f6ba6395b331d6af512c031329fd1635ad",
+    "source": "\"Could you first calculate the probability of drawing a heart from a deck of 52 cards where there are 13 hearts, and then calculate the probability of drawing a queen from the same deck where there are 4 queens? After that, could you retrieve the most recent artwork by the artist named 'Pablo Picasso' with a detailed description? Finally, could you locate the most popular sculpture exhibitions in New York, NY that are happening in the month of December and have high user ratings?\""
+  },
+  {
+    "key": "9dd79b34870a976d7625e491c5a7bdff604f7b5aef56f9453d23ac2c853688cb",
+    "source": "\"Could you first analyze the structure of a building with the building_id 'B1234' for floors 1, 2, 3, and 4 using the 'dynamic' mode of analysis? Then, could you retrieve the player statistics for 'Michael Jordan' for the year 1996? After that, can you analyze the structure of another building with the building_id 'B5678' for floors 5, 6, 7, and 8 using the 'static' mode of analysis? Finally, could you retrieve the player statistics for 'LeBron James' for the year 2018, specifically for his time with the 'Los Angeles Lakers' team?\""
+  },
+  {
+    "key": "fa9fad365366fc14feb32208d990ccbceb5666bae9605924527756c83255d894",
+    "source": "\"Could you first fetch the top 10 popular artworks at the Metropolitan Museum of Art sorted by popularity and then fetch the top 5 artworks sorted chronologically? After that, could you search for ongoing lawsuits related to Google that were filed in California starting from January 1, 2020? Lastly, could you also find any settled lawsuits related to Microsoft that were filed in New York starting from January 1, 2018?\""
+  },
+  {
+    "key": "c7e1e0d7ef4f0805aeec66c57b023acdf9a9c56679c6e6cf58eb0c322606ab2b",
+    "source": "\" I'm trying to figure out the RGB values of the color 'Cerulean' based on the 'pantone' standard. Secondly, I'm interested in buying a used 'Fender Stratocaster' guitar in 'Good' condition, being sold in 'Los Angeles'. Could you find out the price for me? Lastly, I'm organizing a chess tournament in 'New York' and I'm looking for top players to invite. Could you find the top 15 players with a minimum rating of 2200 for me?\""
+  },
+  {
+    "key": "1f8fd1c71299748435727ff56f62223ec02132501e21d0b2f797696017c16c5d",
+    "source": "\"Could you please help me with the following tasks? First, I would like to know the top 5 defence ranking NBA teams from the 2018 season. Second, I have a list of numbers [23, 45, 12, 89, 34, 67, 29] that I need to be sorted in descending order. Lastly, I am curious about the Compound Annual Growth Rate (CAGR) of an investment I made. The initial investment value was $5000, the final investment value turned out to be $15000, and the period of the investment was 7 years. Could you calculate this for me?\""
+  },
+  {
+    "key": "583e0d97a25d420c0dfe3eda76700abc85250a6e8a90cbff10f353a5206b66a7",
+    "source": "\"Could you help me with a few calculations and searches? First, I'm studying probability and I'd like to calculate the binomial probability for a scenario where I have 20 trials, and I'm interested in 5 successful outcomes. Let's assume the probability of success on any given trial is 0.25. Secondly, I'm a big fan of basketball and I'm curious to know who the top female player is currently. Thirdly, I'm planning to buy a guitar and my budget is $500. I prefer a Fender make. Lastly, I'm working on a physics problem where I need to calculate the electromagnetic force between two charges. The first charge is 2 coulombs, the second charge is 3 coulombs and they are placed 0.5 meters apart. Could you help me with these?\""
+  },
+  {
+    "key": "2ca94b3d0db8b353d5b8e258defc88d026dfbe2bebf51489ca624d8374e0f905",
+    "source": "\"Can you help me plan a trip? I want to start by finding a vegan restaurant in San Francisco, CA that operates until at least 22:00. Then, I want to book a hotel in the same city. I prefer a deluxe room for 3 nights starting from July 1st, and I would like the hotel to be pet-friendly and have a gym. After that, I want to find the schedule of the Golden State Warriors for the next 5 games in the NBA. Lastly, I have a deck of cards and I want to find the Queen of Hearts in it.\""
+  },
+  {
+    "key": "3314edcd221846db87d570e22786e9a017f50f7840500c59640a633408840dca",
+    "source": "\"Could you please help me with the following tasks? First, I need to know the travel distance and estimated travel time from my home in New York to my office in Boston, considering the current traffic conditions. Second, I am interested in finding out the top 5 chess players in San Francisco with a minimum rating of 2500. Lastly, I am working on a project and need to retrieve the historical GDP data for Japan from the year 2000 to 2020. Can you assist me with these?\""
+  },
+  {
+    "key": "ff59940ff8f1b27db440ea27931b3aeaad64f8cd7a8d3927fafc6017d7b5b437",
+    "source": "\"Imagine you are planning a cozy evening at home. You want to play a card game with a deck of cards, but you are not sure if the 'King of Hearts' is in the deck. Can you check if it's there? Later, you plan to cook a recipe that requires 2 cups of sugar, but you only have a tablespoon to measure. How many tablespoons are equivalent to 2 cups? Also, you have 100 Euros in your wallet, and you want to know how much it would be in US dollars. Can you convert it? Finally, you are thinking about adding some new plants to your garden. You live in San Francisco and are interested in nurseries that provide 'Annual' and 'Tree' type plants. Can you find some local nurseries?\""
+  },
+  {
+    "key": "0bd82957c5c5623d045775ba4812fb5c670e9aabc89d66bb277425ff75c123e8",
+    "source": "\"Can you help me plan a dinner? I am looking for a vegan main course recipe that can be prepared within 45 minutes. After dinner, we are planning to play a poker game, could you tell me the probability of getting a full house with a deck of 52 cards and a hand size of 5? Also, I am new to Denver, CO and would like to know the nearby hospitals within a radius of 10 kms, specifically those with an Emergency department.\""
+  },
+  {
+    "key": "57219c8c23550c5dbe531b41473ec5fc5ff2b9f575c7925014aee46b475e0325",
+    "source": "\"Can you tell me the name of the scientist who is credited for the discovery of 'Relativity Theory'? After that, I want to book a direct flight from 'Los Angeles' to 'New York' on the date '2022-12-25' at '10:00 AM'. Also, I am interested in knowing the player statistics for the video game 'Call of Duty' for the username 'gamer123' on the 'PlayStation' platform. Lastly, can you find me upcoming 'rock' genre events in 'San Francisco, CA' for the next 14 days?\""
+  },
+  {
+    "key": "140e625bd4dd9ee4686e34dbf7d4dba331b28e25ebf42b4437c53422a67deccd",
+    "source": "\"Could you help me with a few tasks? First, I would like to visualize a sine wave with a frequency of 5 Hz, starting from 0 radians and ending at 10 radians, with an amplitude of 2 and a phase shift of 1 radian. Secondly, I have a dataset `dataset` that I would like to train a Random Forest Model on. The dataset has 1000 rows and 20 columns, and I would like to set the number of trees in the forest to 200 and the maximum depth of the tree to 10. Thirdly, I am interested in the last match played by the soccer club 'Manchester United', and I would like to include match statistics like possession, shots on target etc. Lastly, I am curious about the dimensions of the 'Empire State Building', and I would like the dimensions in feet. Could you assist me with these?\""
+  },
+  {
+    "key": "2f89be8e542f0008b17ab401dae473214632cebd136fa280cfe2cd2c82ee84c3",
+    "source": "\"Can you help me find a multiplayer game that is compatible with my Windows 10 system, has a minimum rating of 4.0, and falls under the 'Action' genre? After that, I need to calculate the area under the curve for the mathematical function 'x^2' within the interval [0, 5] using the 'trapezoidal' method. Then, I want to know the geographic distance in kilometers from 'Los Angeles' to 'New York'. Lastly, I need to send an email to 'john.doe@example.com' with the subject 'Meeting Reminder', the body saying 'Do not forget about our meeting tomorrow at 10 AM', and carbon copy it to 'jane.doe@example.com'.\""
+  },
+  {
+    "key": "5972d115a46938710df31bc562bb326ddcc99098bfb0c5e0906beefdaf404d6c",
+    "source": "\"Could you please help me with some information? First, I would like to know the amount of calories in the 'Chicken Alfredo' recipe from the 'AllRecipes' website for dinner. Second, I am interested in the current stock prices of 'Apple', 'Microsoft', and 'Tesla'. Lastly, I want to know the FIFA ranking of the 'Brazil' men's soccer team in 2018.\""
+  },
+  {
+    "key": "c8ce0faa5a9b664c0e2bbc2c53afab42c5d90f17e8f097670c9c0c900ceba09d",
+    "source": "\"Could you help me plan a dinner party? I need to find a Vegetarian recipe that uses potatoes, carrots, and onions and serves 4 people. Also, I'm hosting this party in New York and I would like to know the detailed weather forecast for the next 12 hours, including precipitation details. Lastly, my friend is joining from Tokyo and I need to know the time difference between New York and Tokyo to schedule the party at a convenient time for both of us.\""
+  },
+  {
+    "key": "0aeea3f1b4334045a9c58e2c5e09417c5dab39b302c751bdb932e5550273c183",
+    "source": "\"Can you first find me a vegan, main course recipe that can be prepared within 30 minutes? After that, could you please retrieve the details of the scientific discovery of Gravity using the most accepted method? Once done, I would also like to know about the discovery of the Higgs Boson particle using the same method. Lastly, could you find me a gluten-free dessert recipe that can be prepared within 45 minutes?\""
+  },
+  {
+    "key": "ae92c1006d32daf3225f014e39615229211ce941bd959fdfb71e185f4a689c5d",
+    "source": "\"Can you help me with two things? First, I am currently in New York and it's 2pm here. I have a meeting scheduled with a client in London and another one in Tokyo. I need to know what time it will be in both these cities when it's 2pm in New York. Second, I am considering switching to solar energy for my home in California and I want to understand the potential greenhouse gas emissions I could save. I plan to use it for 12 months. Can you calculate the emission savings for me?\""
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "key": "5e7a49fc081d3b1719d0ffc0ad1d39a7a5921c98b145961b1cb891a19fd54a79",
+    "source": "Could you provide the current weather data for London in the UK, including the temperature, wind speed, and precipitation levels?"
+  },
+  {
+    "key": "4c3cc25ac2f81dae253a16b169a28968d7966eec1527f4b93d2fe4c39d239ad1",
+    "source": "Can you give me the current price for the ticker symbol AAPL on NASDAQ?"
+  },
+  {
+    "key": "0315bb490c7532ffaa01cd237a4d80b749a31d9aa24ed01b462d9a2912cafd39",
+    "source": "Can you tell me the lowest temperature reading across all sensors for my organization from the latest data available?"
+  },
+  {
+    "key": "e62697c47311ed71a8dbe4102df0147ffc782f87a73b8950c9e010814716266a",
+    "source": "Can you tell me the current price of a 'winter jacket' in Berkeley, CA?"
+  },
+  {
+    "key": "c6c7aaaf5ca74f69dde79d8044a0dbc9cbf0d896993252a085fd1361d5528c10",
+    "source": "Can you retrieve the most recent readings for each metric from sensors within the networks 'n1' and 'n2'?"
+  },
+  {
+    "key": "367fb63b24e2ddcbc65546d4ee986743318926b1cdf1586438c94b510147cdf9",
+    "source": "I need to review the temperature readings from our sensors for a specific period. Can you fetch the data from yesterday midday to yesterday 3pm? Use the network ID 'L_579838452023959405'. Today's date is March 6, 2024."
+  },
+  {
+    "key": "20f86cb4cc594056c15285c28271436ebdaefff90a8c494bf74c08a95dadd24e",
+    "source": "Can you retrieve the most recent readings for each metric from the sensors in my organization? Let's limit the results to 10 entries per page."
+  },
+  {
+    "key": "c73b4fb6418977a4c38d97e86c911ce8cc65e5ac32deb60b8ecc52d9dc6324f9",
+    "source": "Could you retrieve a list of sensor alerts, showing 10 entries per page for the network with ID L_579838452023959405?"
+  },
+  {
+    "key": "b7e824ff4afdf50104cd67eae9b3ef87a4df6e5e538b4c79977ccdcd330e777c",
+    "source": "I want to retrieve the most recent readings from all sensors within my organization. I don't have any specific network IDs to filter by, so it should include all available networks. I have the necessary permissions and API access. How should I proceed to obtain this data? keep 100 entries per page"
+  },
+  {
+    "key": "72112afe10ba353aa858fabce93062c0d01190b3b72128a459efd885b009a353",
+    "source": "I need to see the latest readings from our sensors. Can you provide the most recent data for each metric from each sensor, limiting the result to 10 entries per page?"
+  },
+  {
+    "key": "72904c39d2292ff9f7d8f46c0aa360cc17d5554cfda4fb6c9ad43634c78e0e7f",
+    "source": "I need to check the latest readings for all temperature and humidity sensors in my office network. The network ID is 'office-network-001'. Can you retrieve the most recent data for these metrics? Please give 100 entries per page too"
+  },
+  {
+    "key": "29308374f36d988e42e87b20625e1576e28d5e14df18948816ec81ed28027b36",
+    "source": "How can I access the temperature readings from my sensors for the past hour? I have the specific network ID ready to provide, it's 12312. If possible, I'd like the information to be presented in a sorted manner according to the timestamps. Make sure there is maximum amount of page for display."
+  },
+  {
+    "key": "5c39cffb6f12dfde21d6f0e0bda5c7149dcaabdd0660bc786d68015c10ca502b",
+    "source": "Could you retrieve a list of sensor alerts for the network with the ID L_579838452023959405, limiting the results to 50 entries per page?"
+  },
+  {
+    "key": "e21e6cbdeee259e0de748b062cbde89b2aba1a94192b2101238fb87bc44c392f",
+    "source": "Could you retrieve the most recent sensor readings for each metric, organized by the sensor's serial number, with a limit of 50 entries per page?"
+  },
+  {
+    "key": "d794aa13d5960fe964000a24e4f6fd6689e423398527cfafb446d2b4acd21246",
+    "source": "Can you retrieve the analysis trail for the vulnerability ef903ac-893-f00 within component AB1010CD of the project SUPERFANCY?"
+  },
+  {
+    "key": "a4765b7e7ab1f9cb384b20c2d756f1d341eec96631a5c21cfdc1526355ba7090",
+    "source": "Can you tell me the list of projects that Adriel has been involved in from January 1st, 2021 to December 31st, 2021?"
+  },
+  {
+    "key": "9d7d2f86cfc2c538c9f1f10627d3f7133e47f9d2adc0f7c7b85f8047e05a8922",
+    "source": "Can you tell me the list of projects and their statuses that Adriel is currently working on for user ID 7623, and include the completed projects as well?"
+  },
+  {
+    "key": "d013f4688abcee6845776f49a38b0a390949de6e71db6a9e1f03b216fdae03c6",
+    "source": "Can you provide detailed information about the 'e-commerce platform overhaul' project that Adriel worked on?"
+  },
+  {
+    "key": "d805073d63c0693e7dde775b82663b0abc595be0a18c47abde9dbf8822dced3c",
+    "source": "What's project is \"Adriel\" working on? exclude any that are completed?"
+  },
+  {
+    "key": "81bcfa0b03bb31a2dcc70492e7cbe67637c7c8ac75e58334712d93b9cbd6e922",
+    "source": "Can you provide the full details of the project named 'portfolio-web', including its status and Adriel's role in it?"
+  },
+  {
+    "key": "a9e8b0d713867c31e47af996091510d27a33e72587320b6c8085d3f856891e89",
+    "source": "Can you retrieve the full details for the 'e-commerce-web' project, including project status and Adriel's role?"
+  },
+  {
+    "key": "8a58194a469312ca214ba8e8139aaf17999d09b231ec4a4dba2ccaf1577e0a85",
+    "source": "Can you retrieve the detailed information about the 'portfolio-web' project that Adriel is working on, including the list of tasks and financial details?"
+  },
+  {
+    "key": "9fccde34a73db1151e095f7e1ca0c829ecb9f822bf0e573c8769a51aaf6751c1",
+    "source": "retrieve the detailed information for the 'portfolio-web' project that Adriel worked on, including its current status?"
+  },
+  {
+    "key": "33cb42cdde59c4cdf6c64f132421fb8247772f1d3daa46aede53d5087cd56740",
+    "source": "show me the list of all projects \"Adriel\" with user id 123 is currently involved in, both active and inactive?"
+  },
+  {
+    "key": "69c35e9f430c4d0d977f779df2a6c4fb2f3a9163b3f0270a12b8b51aaa7dc19e",
+    "source": "get me with Adriel's detailed profile information, including his personal and professional details? I would also like to have his contact details included. his id is 12445"
+  },
+  {
+    "key": "53dec6bd0e9d789f1768e48975dcf577db5d3a1dc863697d098f4b5d53606d48",
+    "source": "fetch the profile information for Adriel with user_id '12345', including his personal details and preferences?"
+  },
+  {
+    "key": "459eb5ca57a2b4049658f5c38dbb5aa3bb06798d1814387ad7791984251b172f",
+    "source": "fetch the profile information for Adriel, id 12345, including his personal details and account settings?"
+  },
+  {
+    "key": "bd86bbb808a5bd8f4b0e8c6aebcb4895c7178b2f275d969848e02bdf6b8d6c02",
+    "source": "get the detailed information regarding Adriel's internship at Sebelas Maret University?"
+  },
+  {
+    "key": "72e146a7775cef40d928b9e7946d0cb389eee51252245e047089d8957dd6cb0b",
+    "source": "Get the details of Adriel's internship at Sebelas Maret University?"
+  },
+  {
+    "key": "784e5d73f8991db0e5f417ae562fb686ae40448a26f3cae56f8310b0848757cd",
+    "source": "Could you provide me with the details of Adriel's internship experiences, including the name of the organizations and the dates of the internships?"
+  },
+  {
+    "key": "b4ad3febdcf5f15907373eef5a4e01f12d51a6b617f9ae6d41379f242faf8caa",
+    "source": "List all the project. her id is 123"
+  },
+  {
+    "key": "0d55cf93364503c5733a5b404e4a66a259db3d1eb455e33d4042a76438567051",
+    "source": "Can you tell me which technologies, including programming languages, frameworks, and tools, \"Adriel\" with employee id 123 is currently using or has experience with?"
+  },
+  {
+    "key": "39398ea82bf17fabeda2306098aa58e10c6069f6d67fa0f7be74e974dd5a0249",
+    "source": "Can you provide me with the details of Adriel's internship at the sebelas maret university?"
+  },
+  {
+    "key": "97345382b80f80b8aa7f8debf3e0050aa213e60f1458b2163c1772e1a9e96aef",
+    "source": "Can you provide me with a list of projects that Adriel, id 12345, has worked on which are currently active?"
+  },
+  {
+    "key": "a991bfb1dc5d02c0e336be553b8e3880d9f0f371ab6319be754a747d990efe8a",
+    "source": "What is Shishir's birthday and the answer is in your memory."
+  },
+  {
+    "key": "ce23760755cf2d45d09950ab424dc67cdd04bf82fd0f2beca013ddc0bb1c1a79",
+    "source": "I'm starting from New York, NY. Could you provide me with details for a trip, including potential destinations, estimated costs, and any travel advisories?"
+  },
+  {
+    "key": "a5f1965bbc85342a38c3a99e4af9a42ab0742a849171e4155a8a46e8eab4cc6b",
+    "source": "I'm curious about the current top news involving Ji Sung Park. Can you search for recent news articles that mention him? And let's limit it to 5 articles."
+  },
+  {
+    "key": "f605dc2b25646c553e83865de52c963f5e4bf32ca2082bc58a12b42ad03a7865",
+    "source": "Can you find any recent news articles that discuss artificial intelligence? I'm interested in the Technology category and would prefer the articles to be in English."
+  },
+  {
+    "key": "89a1fcd36c98587a49e0cbeadcf8057eeb00786a109a4f0101c7d7c110eccc69",
+    "source": "Could you please assist me with processing an order? The order ID is ORD123, it includes the items with IDs ITM456 and ITM789, and the customer's ID is CUST001. The customer's shipping address is '123 Maple Street, Springfield, IL, 62704', and the billing address is '456 Oak Avenue, Springfield, IL, 62705'. There's a discount that should be applied with the code 'DISC20', and we need to notify the customer about the order confirmation. The quantities for each item are 2 and 1 respectively, and the prices are $15.99 and $42.50."
+  },
+  {
+    "key": "ff6eb4aa3e64d73f9b1006471bf601c553f679914e01a344a7a3b5f7d7f3a025",
+    "source": "I'd like to know how to retrieve a weather forecast for New York City on the 4th of July this year."
+  },
+  {
+    "key": "674f7a33efc20ae634c1c284e28c8beb2d17371609d5eec9fa27a40f6a95201f",
+    "source": "Can you tell me what the greatest common divisor of 100 and 120 is?"
+  },
+  {
+    "key": "7237cfd10e94ec01b8281e49d1f015bce6d82593d91eae30c21cf77fc2f69a39",
+    "source": "Can you help me translate this English text to Danish: 'The quick brown fox jumps over the lazy dog.'"
+  },
+  {
+    "key": "a2d0839b05ffa3015b9900c2138d0b7ed78fef4e5d7331fac34925a0288ffaf0",
+    "source": "I'm looking for some guidance about 'career growth'"
+  },
+  {
+    "key": "dfc15fc9a23214323ee8aba81faa167808a049f24441393d50872c4c572e6a86",
+    "source": "I'm looking for an educational activity that can involve 5 participants, any suggestions?"
+  },
+  {
+    "key": "0ed1906e76c65fce67dc967123bffdcd802c6a5ff967f62f224cc41962b18155",
+    "source": "北京后天的天气如何？"
+  },
+  {
+    "key": "69802a3ccbfdee2431b691c9f0f87eab4453f1c552da25167da3e298a98c5677",
+    "source": "I need to review Berkshire Hathaway's financial performance for the third quarter of 2024. I want their 10-Q report. Their CIK is 0001067983."
+  },
+  {
+    "key": "06467499358bd3433d64b3210c9766ef70e96957946f57f105702abc2541c595",
+    "source": "I need to review the investment activities of Berkshire Hathaway. Retrieve their 13F-HR filings and their CIK number is 0001067983."
+  },
+  {
+    "key": "78d1d9159b94af0871c4bedd3aae07341463143881af1b5554b417d4f7607d67",
+    "source": "\"input\": \"A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions with the help of some tools.\\nUSER: I'm troubleshooting some requests, so can you help me send a POST request to https://httpbin.org/post with the header \\\"Content-Type: application/json\\\" and the data '{\\\"name\\\": \\\"John Doe\\\", \\\"email\\\": \\\"john.doe@example.com\\\"}'? Let me know the response details.\\nASSISTANT Thought: \""
+  },
+  {
+    "key": "d4cfe5d32a3b921aed6294366b35d31eee8befa3e43ef07cd1101b520681db32",
+    "source": "Sort this list of names in ascending order: ['Sam', 'Alice', 'Jack']. \nFirst, identify the appropriate function."
+  },
+  {
+    "key": "e2c54a1b33e4a7861c09394d3efb07b042770d7c1cf3cc24248210b09abbaf7f",
+    "source": "How much is 394 times 213?"
+  },
+  {
+    "key": "a6dba304d63e6ad4ba603ea94be300aa3630fafa4dc0309e9025ae002c80d65d",
+    "source": "compute 443 * 349"
+  },
+  {
+    "key": "e8679590540ad695d3af673e62b0d817835951b502729ccfdf85b7045440675c",
+    "source": "what time is it for the timezone 'America/Los_Angeles'?"
+  },
+  {
+    "key": "2d26f8b2e20ba4fe02fa0589a23e361fcbad5f3916437af8b06b2cbd82979f67",
+    "source": "获取阿迪达斯的工单"
+  },
+  {
+    "key": "8dcff5f743d2038d3cb89578da4e8d34405777a5d271308c4c87baaf222dbdd4",
+    "source": "获取阿迪达斯的p4工单"
+  },
+  {
+    "key": "70e770b510ac4d1af3bf951fccb3d78b5782f7563f090884f51a915b88b523fa",
+    "source": "What is the contact of Adriel"
+  },
+  {
+    "key": "baaadf1abd6d7efc565b30ca6a7423c50a8182cf1636e6364e9d66beff0548ad",
+    "source": "What is the tech stack that Adriel is working on"
+  },
+  {
+    "key": "05423bf076bc77cc813dc94f095277c33c7f41f1360019113ca77c036ac44c2d",
+    "source": "Could you provide me with a list of projects that Adriel is currently working on, including details and status? id:3"
+  },
+  {
+    "key": "5ac802e5a3d85398525d78fc91dd5607063167856fdde3f66533e5cbc40291ef",
+    "source": "Could I get Adriel's contact information in XML format, please?"
+  },
+  {
+    "key": "d7cacfb679298c40d2ba280dc2906a155c8147d1e964435b30245aa4dfbba835",
+    "source": "Can you provide me with the list of projects that Adriel is currently working on? I need to know the details and the status of each project. id 1234"
+  },
+  {
+    "key": "93fdde20c1c986cee062635ce8e6253ecb5bb1089d575e83e2e4ed443fead5b4",
+    "source": "I need to know more about the e-commerce-website project that Adriel is working on. Can you provide me with its current status and expected completion date?"
+  },
+  {
+    "key": "e08414ee2a10de5dc9667f393b959cfdef74b7328531c2943633c28b2e39fdd5",
+    "source": "What is the list of experiences and education of Adriel"
+  },
+  {
+    "key": "3880e8044e6e16d251371c3b60143003a0b998fab9fafe2b5fc1f134bd0e5be3",
+    "source": "Can you give me a comprehensive list detailing Adriel's professional experiences and educational background?"
+  },
+  {
+    "key": "f44686644ced31e577d38190a47535d6db89252a486b23db3da4bcef162a7f66",
+    "source": "What is the tech stack that employee (id Adriel) was working on"
+  },
+  {
+    "key": "fe22278bad029b7067c13bb026434e8e7e60e2f97a3c198582487c6a260307e3",
+    "source": "Can you show me the projects that Adriel is currently working on and also include the completed ones? id 1234"
+  },
+  {
+    "key": "ca17598c8e372a3be5c4d126a34793745dcde2e4d6951035416d492c19aa4d7b",
+    "source": "what's the details turing project"
+  },
+  {
+    "key": "6019c1308465877a955ff04f8c003cca0cde9fdc5e4d5947472035e3bef52773",
+    "source": "detail experience in freelance at pingfest"
+  },
+  {
+    "key": "0f325bf4c6481fe48fd6b99135592b3d49e8054b64e7359e686b05e4574c4872",
+    "source": "Can you tell me which technologies, including programming languages and frameworks, Adriel was working with? I don't need the list of tools, just the main tech stack. id is 1234"
+  },
+  {
+    "key": "4c3bf2b271f4bc39fd33c40e97ffb2e71b5a49ce64f8fae893b9e3eefc81087c",
+    "source": "Can you provide me with the details of the 'car-rental' project that Adriel was working on, including its current status and the start date?"
+  },
+  {
+    "key": "638bef10a514a26e773daf5ead115aba46725ad1e6acdcd4787e715ade1ff9bf",
+    "source": "Can you provide information about the internship at Universitas Sebelas Maret that Adriel participated in?"
+  },
+  {
+    "key": "6dcca8c85d82cc109ad79ec2821467e86016ab35949e9dd9b241cddbc11bda07",
+    "source": "What is the list of experiences and education of Adriel, id is 1234"
+  },
+  {
+    "key": "f50a9d848661d3c8ab87da59f6f0091906ac473d05ad910ce36c6a3322dacc17",
+    "source": "Can you provide me with a list of Adriel's professional experiences, id is 1234?"
+  },
+  {
+    "key": "5dbc9671eb3b74d7725511c6bb097eba4f5b269934fe2571a7a898bbc751b419",
+    "source": "I need to travel from Berlin to New York on 2021-10-10 with 2 passengers. Can you help me find available flights and also assist with booking once we choose the right one?"
+  },
+  {
+    "key": "f34e6ccb511e4c26f60d13c60e670ca0e13399aebb023e5e790b671df00f8528",
+    "source": "i want to get the subdomains from google.com"
+  },
+  {
+    "key": "78e9229bf61c493440bbf8d5a43de49c381b8b2ee7eb2bab7916f73d96393f5f",
+    "source": "Get the sensor reading for temperature on the last 3600 seconds for my network L_579838452023959405"
+  },
+  {
+    "key": "a74c4d2e05e95ed66f3c37978111ecd68922c829d91176a848866cf2cf1951ba",
+    "source": "\"Get the sensor readings max entries per pages for the metric current from today to 15:30 to 15:32 on my organization. Today is March 10 of 2024"
+  },
+  {
+    "key": "d71ab66454cc9ef9f0367ff6e7ff94e7859cbc10923adf5faeaf2094ed1be528",
+    "source": "Bring me the temperature  max entries per pages readings of all sensors please"
+  },
+  {
+    "key": "8b2f67e9a90d02d7690723e21fc543a70cb29fd9ee5171774d17123ce217a087",
+    "source": "Segment all objects in an image at './yoha.jpg'"
+  },
+  {
+    "key": "c0c22f46e7b774bb85d23c5fbd9a3f79051a3cf45e9b64e0ca07e30cf73889eb",
+    "source": "Could you arrange for a comfortable Uber ride for me from 456 Elm St, Springville, IL with a maximum wait time of 10 minutes?"
+  },
+  {
+    "key": "496905d058ffa6b0177eef34f6d8c8c2362f7660571a2fe687e14a00c8599892",
+    "source": "list all the files and directories in the '/out/programs' directory, including hidden ones and in descending order by name"
+  },
+  {
+    "key": "7b1b5d64d7362f6593e583737425c7796be023aa32304cb0335d637f5ef3c2af",
+    "source": "Reschedule my next appointment with id dentist to November 1, 2024 at 4pm EST."
+  },
+  {
+    "key": "2e3811e43ab294b12f58b84e553e5f942e923b1c73bd945e44368ecf80712fb2",
+    "source": "Get version"
+  },
+  {
+    "key": "161d44d88eac4aeb2f8821ef5c40453af4fb1c691bdf6b5b441af61c2069eff0",
+    "source": "I need to define permissions for a user on a certain resource. The resource ID is '123-resource', the user ID is 'user-456', and the permissions to assign are 'read' and 'write'."
+  },
+  {
+    "key": "63c48e94439348f86a714806bcf5586f06598d5b08a1ca436f18a2973a435fd2",
+    "source": "retrieve the child projects associated with the tag 'environment' for the parent project with UUID '123e4567-e89b-12d3-a456-426614174000'?"
+  },
+  {
+    "key": "ef667635576d7c5807e693ea77aa3ef9c1550b5354a6330e5ec60cc84dcbc12b",
+    "source": "Give me an analysis trail for my project id SUPERFANCY with component UUID AB1010CD and vulnerability ef903ac-893-f00"
+  },
+  {
+    "key": "8c6c76c4c3333906a52e91369d1800791bcd342bc58de3524abae6c967c7ea06",
+    "source": "get the contact information for the employee A1234567B?"
+  },
+  {
+    "key": "674d607feae4fac92135c578b07ec9b99a6f8c8b8b1169d9b054dd63c14497be",
+    "source": "What's the address of Liam Neeson?"
+  },
+  {
+    "key": "36cbc6660ae3599ce1ff184cb4c64e1bca340b6bbd6833879474300debfa1bba",
+    "source": "Find the contact information for the employee 123?"
+  },
+  {
+    "key": "26dd8635e3cf9e95d992b44c0171114358f9844303e1691c75b626cf648ef56c",
+    "source": "I need to send a letter to Liam Neeson, Find his contact information for me?"
+  },
+  {
+    "key": "48af0ac77ffe33927eae1b97d461e321842cd22ffab06e8eb6947e745146584f",
+    "source": "retrieve the contact details for Rayson Goh?"
+  },
+  {
+    "key": "9025a196cb6958077989a3b5322d07d7e8c22ae930cf5795fa49e89cfbdb1f84",
+    "source": "Set columnCount to 8"
+  },
+  {
+    "key": "d0a2791b9b64af5d1931ca75f588be5b73535451014bd6903290bb3ca41cbe1d",
+    "source": "Ändere columnCount zu 12"
+  },
+  {
+    "key": "9f419e23eb9c10ec03344628034d6f53dd2d2b4849b1b7148d767c61b902af76",
+    "source": "Move 'pointA' to 2,3,4"
+  },
+  {
+    "key": "5fcf0f12a6005289ec138ad8bc0db4f7bb1ab586f002efa759f6b0d4fde7187c",
+    "source": "Pick one of the provided functions to fulfill the following command: Change the point 'pointA' to 2,3,4"
+  },
+  {
+    "key": "2002de0110b9105bde3ebfb2396f6f60d1c88a6ad2ec9d2a8f4a619d123f010e",
+    "source": "Set 'roomHeight' to 4.2"
+  },
+  {
+    "key": "64a46a7650a775bee4415c3d094bf84a14ff763912701ced92f98d35f19be094",
+    "source": "seacrh apple using your tools and respond in json "
+  },
+  {
+    "key": "7e41641c602a89cad64ec4d9ade55a6264b71f1cd92e89949c9a8b8649cadf03",
+    "source": "weather in India using searcvh web tool "
+  },
+  {
+    "key": "c1d7df22a5aaa5d423efbe846b60032daf10cabf5f488484cf071d5a41273bee",
+    "source": "search flight prices from NYC to NEw Delhi use tools, finally respond in json"
+  },
+  {
+    "key": "a2c388391900a5bd4893f248921b933990d99c826a7692fd67cbedd1adec2a53",
+    "source": "voice narration tool prompt \"If you could have dinner with any historical figure, who would you choose and why?, also genart a photo of that figure\""
+  },
+  {
+    "key": "dba14116ef0f0596a30c5521c4699f6116058be6ebd65f708c4dbdf959b2eb73",
+    "source": "tool prompt \"Find a recent news article about corona virus\"."
+  },
+  {
+    "key": "838a9944d09e30ff26d1f9057a9c3b7943c88c9e5f653756ae4815208369b357",
+    "source": "What is the version?"
+  }
+]

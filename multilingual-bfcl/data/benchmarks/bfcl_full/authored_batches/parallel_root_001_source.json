@@ -1,0 +1,202 @@
+[
+  {
+    "key": "b4760d367feb96b1684e3eccb244dfd44c09afe187dec5a4c55f75ac8b5f9b0e",
+    "source": "Play songs from the artists Taylor Swift and Maroon 5, with a play time of 20 minutes and 15 minutes respectively, on Spotify."
+  },
+  {
+    "key": "34fcaaff8ac084579062f28c70646fd4fd729f552ef8ae06cd0e08fe4ecf2299",
+    "source": "Calculate the induced electromagnetic force for a magnetic field of 5 Tesla, area of 2 square meters and change in time of 4 seconds, then repeat with a change in time of 10 seconds."
+  },
+  {
+    "key": "36b89f60f7280731be96b9ed8ef779ff4ec60173ccd26a48d3cc7ed10e69068b",
+    "source": "Calculate the resistance of a wire with a length of 5m and cross sectional area 0.01m² with resistivity of copper and aluminum"
+  },
+  {
+    "key": "75891423b0cd1e10dfe80e2449ac79229f3b275d48e73c39093b315eada3fe4c",
+    "source": "Get the protein sequence of human HbA1c, normal hemoglobin, and rat hemoglobin and their 3D models"
+  },
+  {
+    "key": "3b6bf3449cb4de9c6e529a2a8525df19ed8e06e8b5be6d64bd9c96a6e19708ee",
+    "source": "Calculate the body mass index for a person who is 6 feet tall and weighs 80 kg, also for a person who is 5.6 feet and weighs 60 kg."
+  },
+  {
+    "key": "efff1a19ec73eb6e19acdcffd6cf17d9e641ce48afdcc9986b2e2b1b5b3ad0bb",
+    "source": "Find the list of TV shows and their ratings on Netflix for 'Friends', and Hulu for 'The Office' and 'Stranger Things' and sort by its rating"
+  },
+  {
+    "key": "e1f8357ebd34f77e29b0561a67568c2ad4bba5b9313fc40b425fe0d80a3b8a01",
+    "source": "Calculate the amount of sales tax to be added on a purchase amount of $30.45 in Chicago, Illinois, $52.33 in Sacramento, California and $11.23 in Portland, Oregon."
+  },
+  {
+    "key": "a1ba8a666bcced40afecec02b7f31b6a72190528d6d3b814d8fec24dcd41fd5f",
+    "source": "Find the factorial of 5,10 and 15."
+  },
+  {
+    "key": "8fedb56e4c4c7f14db7ec9bdc85eb1252078875fe35157bdc27d142b7cf050d0",
+    "source": "Fetch the population of New York City, NY,  and Los Angeles, CA from US Census Database, and also get the population data for Alaska state and USA"
+  },
+  {
+    "key": "648a9d9de67b164122b9af1992066dddbacdc852f1469b6df5c88a0a015f064c",
+    "source": "Find two movie theatres near San Diego with availability for Tenet at 5 pm and No Time To Die at 7:30 pm."
+  },
+  {
+    "key": "d32916647812d9488755d509cc6b1d3019817f99e51cbcfe0066c2dae730e7e3",
+    "source": "Compute the Pythagorean Theorem of two side lengths: 3 and 4, 5 and 12."
+  },
+  {
+    "key": "cb828dd278e6e85e8b1501ba94532e1d891186d05e594776633bd78e647e8037",
+    "source": "Predict house price for a house of size 3000 sq ft. in location New York and 4000 sq ft. in Los Angeles using Machine Learning Model."
+  },
+  {
+    "key": "b458b9498ecd811d461d99f1a711c39ab14658a54a6b37aeb0331520d3e8d71c",
+    "source": "Build a decision tree classifier model with gini criterion, maximum depth of 5 and random state of 1, another with entropy criterion, maximum depth of 10 and random state of 1."
+  },
+  {
+    "key": "d5fadbbc6578a5e562861024dcdbed7bb57e36ecf895e0d10ca7dde7cc5b9bc6",
+    "source": "Can you give me 95% confidence interval for a sample mean with standard deviation of 10, sample size of 50 and sample mean of 25? And can you do the same but for a sample size of 150 instead?"
+  },
+  {
+    "key": "20ff218b81fddc4c2cbd840b07ecc7e57edd8e79791acdb84664acee8d19a113",
+    "source": "Calculate the Present Value of an investment paying $1000 per year, with an interest rate of 5%, for 10, 20 and 30 years."
+  },
+  {
+    "key": "f6ccbd52d0b34cdd4d6786ac5d59e395df56a193435dd64ac1b566ad01e33e98",
+    "source": "What will be the capital gains tax for a short term capital gains of $15000, long term gains of $25000 in the state of California and $20000 short term, $50000 long term in Florida?"
+  },
+  {
+    "key": "dcb786e0d3f3afc492a75370cae297fa6f34a7873b8262f555ad0b3e9a6695ef",
+    "source": "Calculate return on investment for an initial investment of $2000 with a gain of $500. Do the same calculation for an initial investment of $5000 with a loss of $1000."
+  },
+  {
+    "key": "dab3dbc3cd9c5878f44d4539139421716ccc447d3f0a7cad3da0060b0162fcd4",
+    "source": "Get the latest closing prices and volumes for Apple Inc., Google LLC., and Microsoft Corporation in the New York Stock Exchange"
+  },
+  {
+    "key": "e868773bf6717f1ada8dcaf036721ce0b1f02266ed5117150d8dfa3bdb1562bd",
+    "source": "Calculate the Future Value of an investment of $1000 with an annual interest rate of 5% for 1,5 and 10 years."
+  },
+  {
+    "key": "8e891998a609551930739f11d589fc60bb584761dc0e95ec2e716da283aa4357",
+    "source": "Calculate the monthly mortgage payment for a loan amount of $400,000, with an annual interest rate of 4% and a loan term of 15, 20 and 30 years."
+  },
+  {
+    "key": "b471770cef295ca9a17b35e5fd77a2f1572e6636c4e72c06a2e4253c529e0ad5",
+    "source": "Can you check my loan eligibility for a home loan of amount $500,000 from HSBC with annual income $100,000 and for Wells Fargo for a amount of $700,000 with annual income of $120,000?"
+  },
+  {
+    "key": "5913b687182182157269fa8345789486dd65210f988e17883cb8df427ee0e03b",
+    "source": "Show me all individuals who were convicted for money laundering from San Francisco in 2019 and ones convicted for the same in Texas in 2018"
+  },
+  {
+    "key": "3bd993cb0fb6c81cf912bb6f63a2df7cbd791abfc80a994b527383f567df7514",
+    "source": "What is the status and scheduled trial date for case number XY1234 in Los Angeles County Court, and case number GH5678 in Orange County Court?"
+  },
+  {
+    "key": "e8b959b9a27febdb9b85d45a53aaf941b8398295b4df01a15ad928e5732a6f1c",
+    "source": "Please calculate the amount of alimony the payor spouse would have to pay to the recipient spouse in California for the next 10 years and 20 years if the payor spouse's monthly gross income is $10,000 and the recipient spouse's monthly gross income is $3,000."
+  },
+  {
+    "key": "f57db728f9a7f13df603b9387bb5f814c8018415de18367746ce8b3852add590",
+    "source": "Can you find me case law details of Case No 28473 and 64725, their history and details of litigants?"
+  },
+  {
+    "key": "ddf8fba51b7b79604ee0d89238e0e470da7a7aef7c3819299935ac6404e51c46",
+    "source": "List all cases against a company named 'Dara Inc' filed in 2019, Also list cases filed in the year 2018 against the same company."
+  },
+  {
+    "key": "559fed90277d6c01ee3d64c93ea7deb9a40395bcab1e6b592fc6b2487d6b0965",
+    "source": "Find details of lawsuits with case numbers '67813', '71249' filed in the New York District court for type 'Civil' and 'Criminal' cases."
+  },
+  {
+    "key": "5f8ae7b5c65f5ce6a417daacd9a235e666d5e13d1dcad2ff2aa019b43384ac50",
+    "source": "Find a nature reserve around Berkeley within 10 kilometers that has picnic tables and public restrooms, as well as one around Tokyo within 5 kilometers that has playgrounds and biking trails."
+  },
+  {
+    "key": "2e3350c023e53d5a415fc345f61da38aae01b89e9abfc05906f09433eb13d612",
+    "source": "What is the temperature right now and for the next three hours in Seattle and Los Angeles?"
+  },
+  {
+    "key": "5c2345fccc59d7ce7e8f4c1d815ecccac7a1f14bdc5692f0c1a57896489d5b15",
+    "source": "Find out how much waste a family of four generates in Los Angeles, assuming two children and two adults. Also, calculate waste production for a bachelor in New York."
+  },
+  {
+    "key": "3b671611d7d32428b13a28f446bc12fc956a385a9bf55c778dfb8e90861a4192",
+    "source": "Book a flight from San Francisco to Tokyo on May 3rd 2022 and another flight from Tokyo to Sydney on May 18th 2022."
+  },
+  {
+    "key": "92af2be3531a89c03a565256d476d21ae6961b35e886ee298fa72058e3cfa14e",
+    "source": "What was the Treaty of Paris about? Also, what was the importance of Magna Carta in history?"
+  },
+  {
+    "key": "d5e8b9d8b934ae8fe46c51269fe1f3b0b3415e387f5837b445299b2f48172ee7",
+    "source": "Provide me the major events during the presidency of Abraham Lincoln and George Washington."
+  },
+  {
+    "key": "377fc830167add3f460c8f0a65e05eb20d92922d903c2d6004d6eda6d16b9beb",
+    "source": "Find out who was the president of United States in 1980 and 2016, and the vice president in 1975 and 2011."
+  },
+  {
+    "key": "bc9f3060be25dcf547137028aa5fe5adc8de5da222d8fec4e734892ce7fa953a",
+    "source": "I want to know the rise and fall of Christianity in Egypt and Turkey from 100 A.D to 1500 A.D."
+  },
+  {
+    "key": "779931de930f888add7aaf14783fd362ea4be12a75e3d560f389218af2ccb8cb",
+    "source": "Fetch the details of the ancient empires Persian Empire and Mauryan Empire with their religious history and influences."
+  },
+  {
+    "key": "e844e84cabb2ecafc4fe25740b98d64befc867e460e37a446a8dc06eb6cbb495",
+    "source": "Using watercolor, what combination of colors should I mix to get the color magenta and what quantity for each color? Also, I want to know how to get color navy by using acrylic paint and their respective quantities."
+  },
+  {
+    "key": "453029be19c3f9792d9babc2c9df2217c766f88e9ae9b953ba0a4f3bd99f6ec3",
+    "source": "What are the RGB and HEX color values for navy, purple and maroon? "
+  },
+  {
+    "key": "ad14b1c6b31eb33231005c9cfbce2a0c473bba2daf81236fd6edbe1a8f5b66e7",
+    "source": "What's the driving distance between New York and Washington DC, and between Los Angeles and San Francisco with optional parameter shortest route enabled?"
+  },
+  {
+    "key": "712f819abd9ea82314d171075ba0e21ae4de8ae7f63a01cf7478eca7f2e93c0e",
+    "source": "Find opening hours and ticket prices for adults and children for the National Museum in Washington D.C. and the Louvre Museum in Paris."
+  },
+  {
+    "key": "0fbe1a64a49edfe16c05ad349fb1a377b540cccf10e80436db63c214ba0aacdc",
+    "source": "Give me the detail of the exhibition named 'Wonder of Nature' in the Louvre museum, and 'Age of Reptiles' in the British Museum. Plus their cost per visit for children and adult."
+  },
+  {
+    "key": "33f62929327794cbad0966b0ce13ab94ebbb9683541b4e92098dabdd6cb4d7e3",
+    "source": "Show me the closest music shop where I can purchase a Yamaha acoustic guitar and a Kawai piano in San Francisco, California, and Chicago, Illinois."
+  },
+  {
+    "key": "120ba37b1c88ab01a56aca5184cdd7b74cde7bcf4674f6fd67306e77a8bd5c1a",
+    "source": "Get me the price and stock availability for a Yamaha P125 piano in Berlin and Madrid's music stores."
+  },
+  {
+    "key": "2a384210b596252e17b45a362a35f1915845046ab8bf29a7fe46daf86d2984d2",
+    "source": "Can you find me any upcoming rock and jazz concerts for the next month in San Francisco, California and New York, New York?"
+  },
+  {
+    "key": "36503463fdba04622cbb0be7cd39c9502e397b0d264f0f342bb5601e804684f0",
+    "source": "Find me all the classical concerts near Berlin and Paris happening next Friday, and I am interested only in those with available parking."
+  },
+  {
+    "key": "29c367d12ee4fc5a002b3c4ef3f1be88d36f19e380f2bde236dd374fb61e74d1",
+    "source": "What's the current most played Pop song and also find me the current most played Rock song in Australia."
+  },
+  {
+    "key": "feb9f77240cf7fe7b0c2461178d3c46668e5a91001d1419e6a9041e6aacafdc4",
+    "source": "Find the winning percentage of Lakers and Bulls in NBA seasons 2018 and 2020."
+  },
+  {
+    "key": "037b39c60d9d29e13d694fd9c2364fea636e4aeee4c1f2a7f2b1d03f857f0acd",
+    "source": "What is the current ranking of Barcelona and Manchester United in the UEFA Champions League and La Liga respectively?"
+  },
+  {
+    "key": "f2df307113927b287cb02cecc86087e0f5f578a783b48e5aabaa77c2e5a1647d",
+    "source": "In a game of Pokemon GO, what moves can a Pikachu learn? Also, check if Bulbasaur can learn a specific move named 'Solar Beam'."
+  },
+  {
+    "key": "96755d33650b9f624153ff5aa4664695c47bfa9ab4277720e9ba89d17fef4452",
+    "source": "Check if the player with id 3142 in team RocketLeague has achieved top scorer status in seasons 2017, 2018 and 2019."
+  }
+]

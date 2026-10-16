@@ -1,0 +1,303 @@
+simple_python_0	求底边10个单位、高5个单位的三角形面积。
+simple_python_1	使用数学函数计算5的阶乘。
+simple_python_2	已知直角三角形两条直角边长为4和5，计算斜边长度。
+simple_python_3	求系数 a=1、b=-3、c=2 的一元二次方程的根。
+simple_python_5	已知系数 a = 3、b = -11、c = -4，求一元二次方程的所有根。
+simple_python_6	系数 a=2、b=5、c=3 的一元二次方程的根是什么？
+simple_python_7	半径4英寸的圆周长是多少？
+simple_python_9	计算半径5个单位的圆面积。
+simple_python_10	直角三角形的底和高分别为6厘米和10厘米，计算面积。
+simple_python_11	底边10个单位、高5个单位的三角形面积是多少？
+simple_python_13	计算曲线 y=x^2 从 x=1 到 x=3 的曲线下面积。
+simple_python_14	计算函数 3x^2 + 2x - 1 的导数。
+simple_python_15	使用辛普森法计算函数 y = x^3 从 x = -2 到 x = 3 的曲线下面积。
+simple_python_17	求450的所有质因数。
+simple_python_18	求数字123456的所有质因数。
+simple_python_19	计算40和50这两个数的最大公约数。
+simple_python_21	求两个数的最大公约数（GCD），例如36和48。
+simple_python_22	计算给定两数的最大公约数，例如12和15。
+simple_python_23	数字60的质因数分解是什么？请以字典形式返回。
+simple_python_25	假设初速度为零，计算物体从150米高建筑上落下时的最终速度。
+simple_python_26	汽车在2小时内行驶50千米，计算其速度。
+simple_python_27	车辆初速度为10米/秒，以2米/秒^2的加速度运动5秒，计算最终速度。
+simple_python_29	忽略空气阻力，物体从静止下落5秒后的最终速率是多少？
+simple_python_30	车辆从静止开始，以4 m/s^2的加速度运动300米，最终速度是多少？
+simple_python_31	物体从静止开始，以9.8 m/s^2的加速度运动5秒，计算其最终速度。
+simple_python_33	提供从悉尼到墨尔本最快路线的导航。
+simple_python_34	制定东京7日旅行行程，每日预算不超过100美元，偏好探索自然。
+simple_python_35	寻找纽约营业至少到晚上11点的全纯素餐厅。
+simple_python_37	估算从旧金山开车到洛杉矶、途经圣巴巴拉和蒙特雷的旅行时间。
+simple_python_38	两个带电体电荷分别为1e-9和2e-9，距离为0.05，它们之间的静电势是多少？
+simple_python_39	计算距2库仑电荷3米处的电场。
+simple_python_41	计算相距3米、电荷量分别为5C和7C的两个电荷之间的电磁力。
+simple_python_42	已知电容100µF、电感50mH，计算LC电路的谐振频率。
+simple_python_43	计算距载有20安培电流的长直导线10米处的磁场强度。
+simple_python_45	计算100克水在沸点由液态变为蒸汽时吸收或释放的能量，以焦耳表示。
+simple_python_46	将30摄氏度的20千克水与60摄氏度的15千克水混合，计算最终温度。
+simple_python_47	求海平面以下5000米处水的沸点和熔点。
+simple_python_49	已知大气压为1 atm、表压为2 atm，计算绝对压力，以帕斯卡表示。
+simple_python_50	1千克、0°C的冰块在1个大气压下加热到100°C，其熵变是多少焦耳/开尔文？
+simple_python_51	某过程初温300K、末温400K、热容5J/K，计算熵变。
+simple_python_53	获取ID为`DNA123`的DNA分子序列。
+simple_python_54	确定给定人类基因'BRCA1'的蛋白质序列。
+simple_python_55	帮我查找人类细胞结构的详细信息。
+simple_python_57	样本光密度为0.6，实验稀释倍数为5，计算细胞密度。
+simple_python_58	线粒体中ATP合酶的功能是什么？
+simple_python_59	计算葡萄糖（C6H12O6）的分子量，以克/摩尔表示。
+simple_python_61	预测一个体重150磅、身高5英尺10英寸、轻度活动的人是否会患2型糖尿病。
+simple_python_62	根据参考序列'AGTCCATCGAACGTACGTACG'，分析DNA序列'AGTCGATCGAACGTACGTACG'是否存在潜在替换突变。
+simple_python_63	查询人类与黑猩猩基因相似程度的百分比。
+simple_python_65	巴西2022年人口为2.13亿，陆地面积850万平方千米，计算人口密度。
+simple_python_66	获取亚马孙雨林过去六个月平均降水量的数据。
+simple_python_67	识别森林里一只绿色的小鸟。
+simple_python_69	查询2020年密西西比河龟类的数量及物种。
+simple_python_70	汽油车一年行驶1500英里的碳足迹是多少？
+simple_python_71	生成一段100个碱基的DNA序列，其中G（鸟嘌呤）和C（胞嘧啶）含量较高。
+simple_python_73	预计美国未来20年的人口增长情况如何？
+simple_python_74	细菌种群初始有5000个细菌，每个细菌每小时复制一次，持续6小时，计算其进化速率。
+simple_python_75	当前大象种群为35000只，增长率0.015，估算未来5年的种群数量。
+simple_python_77	寻找洛杉矶附近提供纯素食物的餐厅。
+simple_python_78	获取奥斯汀未来3天的平均温度，以摄氏度表示。
+simple_python_79	为学生成绩85、90、88、92、86、89、91创建直方图，并将分箱范围设为5。
+simple_python_81	查找从旧金山到洛杉矶最快且避开收费道路的路线。
+simple_python_82	计算整数列表[12, 15, 18, 20, 21, 26, 30]的平均值。
+simple_python_83	计算GPS坐标(33.4484 N, 112.0740 W)与(34.0522 N, 118.2437 W)之间的距离，以英里表示。
+simple_python_85	马萨诸塞州波士顿与华盛顿哥伦比亚特区相距大约多少英里？
+simple_python_86	查找纽约与洛杉矶之间乘火车的最短距离，可以换乘。
+simple_python_87	将列表[5, 3, 4, 1, 2]按升序排列。
+simple_python_89	从StudentDB获取'Bluebird High School'中学习Science的所有学生记录。
+simple_python_90	获取'ABC Ltd.'公司中ID为345的员工的个人信息及工作经历数据。
+simple_python_91	查找波士顿评分最高且周日营业的寿司餐厅。
+simple_python_93	获取洛杉矶附近影院未来一周上映的IMAX电影列表。
+simple_python_94	在数据库中更新用户ID为43523的客户信息：'name':'John Doe'，'email':'johndoe@email.com'。
+simple_python_95	计算底5米、高3米的三角形面积。
+simple_python_97	计算数字5的阶乘。
+simple_python_98	晚上6:30时，钟表时针与分针的夹角是多少？
+simple_python_99	绘制从0到2 pi、频率为5 Hz的正弦波。
+simple_python_101	物体在20秒内运动450米，计算速度，以千米/小时表示。
+simple_python_102	地球到月球相距多少英里？
+simple_python_103	计算曲线 y=3x^2 + 2x - 4 在 x = -1 到 x = 2 之间的曲线下面积。
+simple_python_105	计算3的4次方。
+simple_python_106	在数据集your_dataset_name上训练随机森林分类器，树的最大深度为5，估计器数量为100。
+simple_python_107	计算体重70千克、身高175厘米的人的身体质量指数。
+simple_python_109	在给定数据my_data上生成一个包含100棵树、深度为5的随机森林模型。
+simple_python_110	预测旧金山一套有3间卧室、2间浴室、面积1800平方英尺的房屋价格。
+simple_python_111	从均值0、标准差1的正态分布中生成一个随机数。
+simple_python_113	连续两次掷六面骰子都得到六点的概率是多少？
+simple_python_114	求抛一枚公平硬币10次恰好出现5次正面的概率。
+simple_python_115	计算抛一枚公平硬币8次恰好出现5次正面的概率。
+simple_python_117	从充分洗匀的标准52张扑克牌中抽到红心的概率是多少？请以比率格式表示。
+simple_python_118	对实验数据中Control组[10, 15, 12, 14, 11]和Treated组[18, 16, 17, 20, 22]进行双样本t检验，alpha为0.05。
+simple_python_119	对两个独立样本Sample1：[22,33,42,12,34]和Sample2：[23,45,44,14,38]进行假设检验，显著性水平为0.05。
+simple_python_121	硬币正面概率为0.5，抛100次，计算观察到60次正面的概率。
+simple_python_122	对2x2列联表[[10, 20], [30, 40]]进行卡方独立性检验。
+simple_python_123	进行双样本t检验，判断group1（12.4、15.6、11.2、18.9）与group2（10.5、9.8、15.2、13.8）的均值是否存在显著差异，显著性水平为0.05。
+simple_python_125	根据面积2500平方英尺、房间数量5、建造年份1990，预测旧金山的房价。
+simple_python_126	使用路径C:/data/cars.csv中的数据集，以发动机排量和燃油经济性变量预测car_price，该模型的决定系数（R-squared）是多少？
+simple_python_127	已知cash_flows=[200,300,400,500]、贴现率10%、初始投资2000美元，求投资净现值（NPV）。
+simple_python_129	债券未来5年每年支付100美元票息，贴现率4%，计算其贴现现金流。
+simple_python_130	现金流序列[-50000, 10000, 15000, 20000, 25000, 30000]按年贴现率8%计算的净现值（NPV）是多少？
+simple_python_131	初始本金10000美元，年利率5%，每个计息周期计息4次，投资期限10年，计算复利。
+simple_python_133	投资5000美元，年利率5%，按月复利计息，预测3年后的终值。
+simple_python_134	我投资了5000美元购买XYZ股票，年回报率7%，预测5年后的预期总利润。
+simple_python_135	股票以20美元买入、25美元卖出，股息为2美元，计算投资回报率。
+simple_python_137	投资5000美元购买ABC公司股票，预期年增长率6%，持有5年，计算预期回报。
+simple_python_138	如果我投资5000美元购买股票'X'，预期年回报率5%，期限7年，我的投资组合终值是多少？
+simple_python_139	共同基金年收益率5%，投资额2000美元，期限3年，预计回报是多少？
+simple_python_141	获取当前每盎司黄金的价格。
+simple_python_142	查询亚马逊公司2022年3月11日在纳斯达克的股票收盘价。
+simple_python_143	'获取苹果公司过去5天在纳斯达克的股票价格。'
+simple_python_145	初始本金5000美元，年利率5%，复利期限10年，计算复利。
+simple_python_146	亚马逊过去3天的股价是多少？
+simple_python_147	获取微软和谷歌过去两周的股票价格。
+simple_python_149	苹果和微软当前的股价是多少？
+simple_python_150	银行储蓄账户存款1000美元，年利率3%，期限1年，计算投资回报。
+simple_python_151	查询2020年美国收入最高的银行。
+simple_python_153	初始存款5000美元，年利率3%，期限5年，按季度复利计息，计算复利。
+simple_python_154	今天投资5000美元，期限10年，年利率5%，计算未来价值。
+simple_python_155	投资1000美元，年利率5%，期限2年，计算终值。
+simple_python_157	查询出生日期为01-01-1980的John Doe在加利福尼亚州是否有重罪前科。
+simple_python_158	查找Mr. X在纽约2012年至2015年的刑事案件信息。
+simple_python_159	提供2013年《刑法修正法》的详情。
+simple_python_161	详细查询在加利福尼亚州犯盗窃罪可能受到的处罚。
+simple_python_162	为John与Alice在加利福尼亚州的租赁协议生成定制法律合同。
+simple_python_163	提供我位于圣克拉拉县123 main street、地块编号1234567890的房屋产权记录，响应中包含所有者信息。
+simple_python_165	获取2020年加利福尼亚州洛杉矶有关盗窃犯罪的案件。
+simple_python_166	寻找芝加哥专攻离婚案件、收费低于每小时400美元的律师。
+simple_python_167	获取名为'Roe v. Wade'的最高法院案件详情，包括异议意见信息。
+simple_python_169	查询得克萨斯州案卷号123456的法院案件详情，不要返回全文。
+simple_python_170	查找2010年至2015年有关欺诈的历史法律案件。
+simple_python_171	获取纽约法院2018年案号43403的法律案件详情。
+simple_python_172	如何获取'R vs Adams'法律案件的详细信息？
+simple_python_173	查找纽约2015年至2021年这过去5年间涉及土地纠纷的州法案件。
+simple_python_174	列出中国宪法领域最重要的10个标志性案件。
+simple_python_175	律师John Doe处理破产案件有多少个月的经验？
+simple_python_177	查找Facebook在2018年的所有专利诉讼案件。
+simple_python_178	查询洛杉矶法院案号为'LAX2019080202'的诉讼详情。
+simple_python_179	查找美国发生的苹果与三星之间最新的法院案件。
+simple_python_181	获取洛杉矶法院案号为'123456-ABC'的诉讼详情，包括判决。
+simple_python_182	获取案号XYZ123的所有诉讼详情。
+simple_python_183	搜索圣克拉拉县当前针对苹果公司提起的诉讼。
+simple_python_185	纽约未来72小时的天气如何，包括降水情况？
+simple_python_186	日本东京现在的摄氏温度和湿度是多少？
+simple_python_187	华盛顿州西雅图当前的温度和湿度是多少？
+simple_python_189	获取美国纽约未来3天的详细天气信息。
+simple_python_190	黄石国家公园的海拔和面积是多少？
+simple_python_191	查找科罗拉多州丹佛50千米范围内最高的5座山峰。
+simple_python_193	寻找多伦多最好的本地苗圃，要求一年生植物种类丰富。
+simple_python_194	从防止侵蚀的角度看，最适合山坡种植的前三种植物是什么？
+simple_python_195	计算我生活方式的碳足迹，假设每天开车20英里、每周吃3顿肉食、一年产生500磅垃圾。
+simple_python_197	查询圣迭戈中午12点的空气质量指数。
+simple_python_198	计算体重70千克的人的每日所需饮水量。
+simple_python_199	查询圣何塞未来三天的空气质量指数。
+simple_python_200	一辆汽油车每年行驶12000英里，燃油经济性为25 MPG，每年产生多少CO2？
+simple_python_201	估算中国野生大熊猫的种群数量。
+simple_python_202	如果我在加利福尼亚州改用可再生能源3个月，可以减少多少温室气体排放？
+simple_python_203	能帮我查找芝加哥空气质量指数和污染数据的最新信息吗？
+simple_python_205	查询从波士顿开车去纽约的当前交通状况。
+simple_python_206	寻找伦敦最近的、设有网球场的公园。
+simple_python_207	获取美国纽约与美国迈阿密之间最短的驾车距离。
+simple_python_209	寻找马萨诸塞州波士顿最近的、设有英文小说区和免费Wi-Fi的公共图书馆。
+simple_python_210	获取美国关于比特币的5条最新新闻。
+simple_python_211	给John Doe的邮箱john.doe@example.com发送邮件，主题为'Meeting'，正文为'Let's meet at 10 AM tomorrow'。
+simple_python_213	预订2022-04-27下午从旧金山直飞伦敦的航班。
+simple_python_214	搜索纽约下个月举办的摇滚音乐会。
+simple_python_215	简要介绍电影'Interstellar'。
+simple_python_217	分析位于~/data/myfMRI.nii的多带序列fMRI数据，该数据经过6毫米平滑处理，各向同性体素大小为2毫米。
+simple_python_218	获取ID为546382的患者状态为'concluded'的脑部MRI报告。
+simple_python_219	大鼠全脑中产生GABA神经递质的神经元坐标是什么？
+simple_python_221	伦敦未来五年的人口增长情况会怎样？
+simple_python_222	我的体重70千克、身高180厘米，能计算身体质量指数（BMI）吗？
+simple_python_223	一个50人的群体中有15名外向者和35名内向者，分析其社会行为和模式。
+simple_python_225	更喜欢数字阅读而非纸质书的人口百分比是多少？
+simple_python_226	查询白羊座与双子座的契合度，以百分比表示。
+simple_python_227	获取ENFJ人格类型的优点和缺点。
+simple_python_228	查找喜欢慢跑的人的三项人格特征。
+simple_python_229	我高效、有条理、随和且富有同情心，我的大五人格各特质得分是多少？
+simple_python_230	1510年的法国国王是谁？
+simple_python_232	1800年英国国王的全名是什么？
+simple_python_233	《托德西利亚斯条约》是什么时候订立的？请以YYYY格式回答。
+simple_python_234	查找19世纪欧洲历史上的重要战争。
+simple_python_236	获取美国内战的开始日期。
+simple_python_237	获取美国1960年至2000年的历史GDP数据。
+simple_python_238	美国内战期间的美国总统是谁？
+simple_python_240	1940年的美国总统是谁？
+simple_python_241	内战期间的美国总统是谁？
+simple_python_242	最早提出进化论的科学家是谁？
+simple_python_244	艾萨克·牛顿在哪一年发表了万有引力定律？
+simple_python_245	谁发现了镭？
+simple_python_246	谁发现了引力，使用的是什么方法？
+simple_python_248	谁提出了相对论，在哪一年？
+simple_python_249	详细介绍基督教及其截至14世纪的历史。
+simple_python_250	旧金山与悉尼的时差是多少？
+simple_python_252	查找16世纪与基督教相关的十个重大历史事件，并按重要性排序。
+simple_python_253	获取佛教的完整历史。
+simple_python_254	获取300年至400年间与基督教有关的历史日期和事实。
+simple_python_256	生成一个半径50像素、颜色为'Red'的圆形图像。
+simple_python_257	能帮我确定海绿色的基本RGB值吗？
+simple_python_258	混合黄色与蓝色，并将明度调整到60%。
+simple_python_260	计算粉刷宽20英尺、高12英尺的墙面需要多少加仑油漆，假设每加仑约覆盖350平方英尺，扣除15平方英尺的窗户面积。
+simple_python_261	画一个宽20个单位、高10个单位的红色矩形。
+simple_python_262	将我的画作媒介改为油彩，尺寸改为12x18，主色调改为红色。
+simple_python_264	查询米开朗基罗的雕塑'David'的尺寸。
+simple_python_265	查找芝加哥附近创作于19世纪的雕塑。
+simple_python_266	罗丹雕塑'The Thinker'的价值是多少？
+simple_python_268	帮我查找意大利罗马的米开朗基罗大理石雕塑。
+simple_python_269	投资10000美元，利率5%，每年复利计息，计算10年的复利。
+simple_python_270	请告诉我帝国大厦的高度和宽度，以英尺表示。
+simple_python_272	计算半径5个单位的圆面积和周长。
+simple_python_273	查询巴黎卢浮宫的开放时间。
+simple_python_274	查找大都会艺术博物馆开放时间的信息。
+simple_python_276	获取巴黎卢浮宫的营业时间。
+simple_python_277	查询大英博物馆本周末Jun.20,2023的开放时间和票价。
+simple_python_278	查询雅马哈钢琴的平均价格和评分。
+simple_python_280	寻找一件价格在我1000美元预算内的原声乐器。
+simple_python_281	查询由'Stradivarius'制造、制作于1721年的乐器'Violin'的详细信息。
+simple_python_282	寻找在售的雅马哈长笛，规格为开孔、C尾管和银制笛头。
+simple_python_284	获取纽约下个月流行音乐会的信息。
+simple_python_285	寻找芝加哥票价低于100美元且仍有票的摇滚音乐会。
+simple_python_286	获取Beyonce下个月（2022年4月）在圣迭戈演出的音乐会详情。
+simple_python_288	为我购买阿姆下一场纽约市演唱会的两张门票。
+simple_python_289	查找我在西雅图附近的爵士音乐会。
+simple_python_290	The Weeknd在12月举办的音乐会时间和地点是什么？
+simple_python_292	创作一段简单的钢琴旋律，使用C、F、G和弦进行，长度4小节。
+simple_python_293	使用C大调音阶的音符创建混音曲目，每个音符持续四分之一秒，曲目总长3分钟。
+simple_python_294	生成一个C调、包含四个和弦的大调和弦进行。
+simple_python_296	生成C大调音阶进行，速度80 BPM，时长4拍。
+simple_python_297	music.theory.chordProgression(progression=['I', 'V', 'vi', 'IV'])
+simple_python_298	升C大调的调号是什么？
+simple_python_300	根据和声节奏，计算频率分别为440Hz和880Hz的两个音符之间的时长。
+simple_python_301	C大调音阶中的第三个大三和弦是什么？
+simple_python_302	棒球运动员600次打数中有180次安打，计算打击率，四舍五入保留3位小数。
+simple_python_304	获取球员'LeBron James'上一场篮球比赛的得分和篮板数据。
+simple_python_305	计算足球运动员梅西在西甲2020-2021赛季的总进球和助攻数。
+simple_python_306	查询板球运动员Virat Kohli过去10场比赛的平均击球得分。
+simple_python_308	曼联接下来五场英超比赛是什么，分别对阵谁？
+simple_python_309	查找Tom Brady在2020年NFL赛季的纪录。
+simple_python_310	篮球运动员勒布朗·詹姆斯的职业生涯数据是什么？
+simple_python_312	罗纳尔多2021年比赛的统计数据是什么？
+simple_python_313	根据最新数据，梅西的总身价是多少欧元？
+simple_python_314	查找足球运动员利昂内尔·梅西的所有主要成就。
+simple_python_316	查询网球运动员Serena Williams当前的世界排名。
+simple_python_317	查询洛杉矶湖人队在2021年NBA常规赛中的排名。
+simple_python_318	德国男子足球队2021年的国际足联排名是多少？
+simple_python_320	获取篮球联赛排名，详细说明金州勇士队在当前2022-2023赛季的位置。
+simple_python_321	巴塞罗那在2021年西甲赛季中的排名是多少？
+simple_python_322	获取利物浦足球俱乐部当前的英超排名。
+simple_python_324	查询洛杉矶湖人队上一场比赛的比分，包括对手名称。
+simple_python_325	芝加哥公牛队与洛杉矶湖人队上一场交锋谁赢了？
+simple_python_326	获取洛杉矶湖人队在NBA的最新比赛比分和统计数据。
+simple_python_328	查询桌游'Ticket to Ride'的评分和玩家人数。
+simple_python_329	计算桌游大富翁中掷两枚骰子得到点数和7的概率。
+simple_python_330	桌游'Catan'的平均评价分和适用年龄范围是多少？
+simple_python_332	Magnus Carlsen的国际象棋慢棋等级分是多少？
+simple_python_333	查询英国伦敦未来3天的最高温度、最低温度、湿度和降水量。
+simple_python_334	二十一点游戏中，玩家持A和10，庄家持10和9，判断谁获胜；A算作1。
+simple_python_336	洗一副扑克牌，并从牌堆顶部抽3张。
+simple_python_337	在一场德州扑克游戏中，玩家为Alex、Sam、Robert和Steve，手牌分别为Alex':['A of spades', 'K of spades'], 'Sam': ['2 of diamonds', '3 of clubs'], 'Robert': ['Q of hearts', '10 of hearts'], 'Steve': ['4 of spades', '5 of spades']，谁获胜？
+simple_python_338	从52张扑克牌中抽到红心牌的概率是多少？
+simple_python_340	判断扑克游戏的赢家：John的手牌为8♥、10♥、J♥、Q♥、K♥，Mike的手牌为9♠、J♠、10♠、Q♠、K♠。
+simple_python_341	从不含大小王的牌堆中抽到红心牌的概率是多少？
+simple_python_342	查找2019年发布、ESRB评级为'Everyone'的所有多人游戏。
+simple_python_344	游戏'Legend of Zelda: Breath of the Wild'中武器'Guardian Sword+'的攻击力是多少？
+simple_python_345	查询1985年的老版Super Mario Bros.游戏在几乎全新品相下的价值。
+simple_python_346	获取游戏'Animal Crossing: New Horizons'在春季的所有可收集物品。
+simple_python_348	创建名为'StarPlayer'、角色职业为'Mage'的新游戏玩家资料，将初始等级设为5。
+simple_python_349	查找在线游戏'Overwatch'在全球PC平台所有玩家达到的最高分。
+simple_python_350	获取游戏'Valorant'在2022赛季得分最高的玩家。
+simple_python_352	获取GameSpot上游戏'The Legend of Zelda: Breath of the Wild'的平均用户评分。
+simple_python_353	有哪些无麸质晚餐食谱？
+simple_python_354	寻找制作时间不到30分钟的纯素汤食谱。
+simple_python_356	找一份供2人食用、纯素且准备时间不到30分钟的食谱。
+simple_python_357	获取纯素巧克力蛋糕的食谱，包括制作步骤。
+simple_python_358	寻找准备时间少于30分钟的无麸质饼干食谱。
+simple_python_360	寻找卡路里含量低于500的卡邦尼意面食谱。
+simple_python_361	查找纽约市附近提供无麸质选择的意大利餐厅。
+simple_python_362	东京评价高于4/5的前五家寿司餐厅是哪几家？
+simple_python_364	能在布鲁克林附近找到提供无麸质选择的意大利餐厅吗？
+simple_python_365	2磅黄油等于多少盎司？
+simple_python_366	我的食谱中2汤匙等于多少茶匙？
+simple_python_368	烤熟一只1.5千克的鸡需要多久？
+simple_python_369	在休斯敦寻找我附近销售有机水果和蔬菜的杂货店。
+simple_python_370	从帕洛阿尔托的Safeway订购三瓶橄榄油和一袋5磅大米。
+simple_python_372	按评分列出Whole Foods商店的前五个有机香蕉品牌。
+simple_python_373	我想从圣何塞附近的沃尔玛购买苹果、大米和12瓶装瓶装水，请展示产品信息和库存情况。
+simple_python_374	查询沃尔玛一个牛油果中的蛋白质、卡路里和碳水化合物含量。
+simple_python_375	查询沃尔玛三个南瓜和两打鸡蛋的总价。
+simple_python_376	英国伦敦当前几点？请使用24小时制。
+simple_python_379	澳大利亚悉尼现在几点？
+simple_python_380	从2023年3月10日起，在纽约曼哈顿附近允许携带宠物的酒店预订一间单人房，住3晚。
+simple_python_381	查询巴黎是否有希尔顿酒店可供两名成人在2023年4月4日至4月8日入住。
+simple_python_383	我想在The Plaza酒店预订一间单人房，住两晚。
+simple_python_384	在法国巴黎为两名成人和一名儿童预订酒店客房，入住时间为2022年7月10日至2022年7月20日。
+simple_python_385	从2023年10月15日起，在洛杉矶预订带特大床的酒店客房，住2晚。
+simple_python_387	从2022年6月1日起，在纽约Plaza Hotel预订酒店客房，住3晚。
+simple_python_388	500美元可以兑换多少加拿大元？
+simple_python_389	我需要兑换200美元，计算目前对应的英镑金额。
+simple_python_391	获取英镑兑换日元的汇率，包括0.02的手续费。
+simple_python_392	获取英镑兑换日元的最新汇率。
+simple_python_393	20000日元可以兑换多少美元？
+simple_python_395	寻找纽约中央公园2英里范围内最近的停车场。
+simple_python_396	寻找科罗拉多州丹佛周围半径5千米内设有儿科的医院。
+simple_python_397	查询纽约与波士顿之间的距离，并考虑地形。
+simple_python_399	寻找纽约市最好的意大利餐厅，要求顾客平均评分高于4且接受信用卡。

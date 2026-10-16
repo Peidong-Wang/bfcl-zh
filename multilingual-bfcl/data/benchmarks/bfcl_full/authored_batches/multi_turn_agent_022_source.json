@@ -1,0 +1,162 @@
+[
+  {
+    "key": "0396db17b952b44bd8ac6f6397edaf7a7eb7de82adfb341ace5afdb634300d66",
+    "source": "I am planning a road trip and I need to know how far I will be traveling. This would help me ensure that my car is sufficiently fueled for the journey."
+  },
+  {
+    "key": "36088e6061e63d73b50eeee1c985882d5e092258334ea1674639dd93a5d6fa77",
+    "source": "My road trip is from Rivermist to San Francisco."
+  },
+  {
+    "key": "1ce8fed10b01cb51ce1f7d9a6ae56f03a1437f3b65dfff6d0936145150860394",
+    "source": "Now that I have the distance sorted, Could you get me a specific statistics of my car?"
+  },
+  {
+    "key": "482b997d6ac55304deabab1d72dcf7dfb4a9b07eadbec422ccc04d69ced41c11",
+    "source": "I mean the fuel situation, in liters."
+  },
+  {
+    "key": "29b60d1c95b9e2eb860a88940aebc5f335f0458b837875ba10c105143946bb5d",
+    "source": "Could you please retrieve the details of a ticket I submitted earlier to ensure all issues were addressed and nothing is left unresolved? I think it's about windshield."
+  },
+  {
+    "key": "dbe012a7cf61c835868a4d56db8b123ea19e6bba2ae44811942243dd3e9269a0",
+    "source": "Sorry, I remember wrong. I mean the last service ticket that you just submitted for me."
+  },
+  {
+    "key": "598d449b06fdd4604e345023bf76148b500e8137c2ad343e914b4eb7442ca43f",
+    "source": "For added assurance, please check"
+  },
+  {
+    "key": "4097cd22b4d80e8692d8047fab18c0a0a50b53e44ae639140c3d465dba1ea5f2",
+    "source": "I mean check our tire pressure again to confirm optimal conditions for our ride."
+  },
+  {
+    "key": "e7d19d55a40ae7a1711decc2e7d12ef83774503bfe0790a7fe800a7595757307",
+    "source": "I'm currently in Rivermist planning a trip to Stonebrook. Could you provide an estimate of the distance and forward this info to my cousin via text, in the format 'The distance from Rivermist to Stonebrook is xxx km.', where xxx is replaced by the distance value, in one decimal place)?"
+  },
+  {
+    "key": "842ba140a4094156fa6b3e76c3b85b631effa62a3a27c6b188c2cab2fd559004",
+    "source": "His name is Bob."
+  },
+  {
+    "key": "3f41da3916acd84fdc692b33ebba7d8dd93f85fb7b66b42f58916687e74c8138",
+    "source": "Could you provide me with the approximate distance estimation? This information is crucial for my travel planning notes. Will I be able to get there?"
+  },
+  {
+    "key": "e7422b118314779f337be6151b12c86bebf56b2038052848a02c4d84961b5bd4",
+    "source": "I mean between San Francisco and Rivermist."
+  },
+  {
+    "key": "8664b3767cf5d8c7e508d8ba569effb90957287bbdf0eef5311cf356bfa5d8ea",
+    "source": "Please assess my car's current status. If below 40, promptly guide me to the closest service facility."
+  },
+  {
+    "key": "8f545859f2b47ac84be18c5d721e5f810e946748ee17bda4ae23b63d9168d256",
+    "source": "Sorry I should have been more clear. Please assess my tire pressures within the context of the car's current status. If any tire registers under 40 PSI, which might imply it's below the safe threshold, promptly guide me to the closest tire service facility."
+  },
+  {
+    "key": "64386e02f9891a002c2bd594f25821a7dbf49d257cd6616057ebc9815c157028",
+    "source": "Imagine I just embarked on a lovely road trip and had to make a stop at the gas station. Would you be so kind as to assist me in filling up my car with that amount of liters of gasoline? Fill with the second decimal digit precision in gallon. Once that's done, it would be fantastic if you could check the tire pressures as well—I'd love to share my impressive car maintenance skills with my Twitter followers with the message 'Just filled up the tank and checked the tire pressures. Ready for the next adventure!'. If you could also start up the engine and let me know the battery voltage and fuel level, that would be incredibly helpful."
+  },
+  {
+    "key": "00244fccde2d6a4f97ea47006d07c1535508bf66ce9ad3955487ef881b157245",
+    "source": "I want 15 liters of gas."
+  },
+  {
+    "key": "6d9356a240b1d58ac4ec0ddc86922504868aa5d0dad3b914037d084c14129446",
+    "source": "I'm planning on visiting this gorgeous little spot in my mom's hometown. Would you be so kind as to set up the navigation system to take me there?"
+  },
+  {
+    "key": "e514a1a576faa6957b7face3696f95d60bcd9f4b8555cd54b12baa8114cfc979",
+    "source": "I want to go to 2107 Channing Way, Berkeley, CA."
+  },
+  {
+    "key": "8070787ad686b64d6e39381a63ba7812e36dc15f904b31dd4721d4ace99ad133",
+    "source": "Will you estimate the distance to Silverpine for me?"
+  },
+  {
+    "key": "5da6e65c60427d47b4922dd57b3f85a81dddfc7cd09488a76d47a6c5bfd73c45",
+    "source": "I mean from San Francisco to Silverpine."
+  },
+  {
+    "key": "efb4c01f2de778fbf61b0181e0d7bfbdecce58d17e16027ad07494ca67f2b1ba",
+    "source": "Once my car is ready for the journey, it would be fantastic to let my friend know about my travel plans. Could you draft a tweet that says: \"Starting my road trip with a car that is fully prepared and raring to go!\" with hashtags #Roadtrip #Adventure and mention him?"
+  },
+  {
+    "key": "a23feec597dbcfe924c6147865aaea13dfe0d2295ea6d09538b73c543ba903e3",
+    "source": "His handle is 'huanzhimao01'."
+  },
+  {
+    "key": "f2f5b558a5438d672aec57f4ee68c80a066928a7413b1cb107de7fcbbc6ee941",
+    "source": "Preparations are complete. Start the engine and help me tweet about this journey containing message 'Just started my journey!' with the tag we discussed previously and @carenthusiast."
+  },
+  {
+    "key": "4c921f23711ad4350d833175561f77d60b6ec6d769422883b85a96660164d352",
+    "source": "Ah I forget I was talking to another person, the tag should be #RoadTrip."
+  },
+  {
+    "key": "d7434d68a913febb48a925a66c280c8692a22b0bf32d7209718279203eb7e4c9",
+    "source": "As we gear up for our adventure, it’s wise to confirm that each tire is inflated to that PSI."
+  },
+  {
+    "key": "a16af8494fb16c2a632bd27d3ff707410f2cd706c2fd41b1f2509e1865869724",
+    "source": "I mean they should be at 32 PSI. Should any of the tires fall short, chart a course to the nearest tire service center to have this rectified."
+  },
+  {
+    "key": "f043b3d131e93d380b21e4a954491c5403354bfa62d78f70c5731894ab17763f",
+    "source": "Using my vehicle's system, estimate the distance to Stonebrook."
+  },
+  {
+    "key": "f49ea2cb0d9818a5176930083805cebf3060243770f0388a3306d0d76275bbfa",
+    "source": "I'm travelling from Rivermist."
+  },
+  {
+    "key": "7b83a1ebf98d1b8cfb9faed0569a9f1971f4a409e732b291f2721977e48b02d1",
+    "source": "I need to inform my friend about the road trip itinerary; please dispatch them a note saying 'Road trip itinerary update.'. If that helps, my user id is 'USR005'."
+  },
+  {
+    "key": "65509e3125877c71086f585f77125274b47a1565f2d69fa29e9aa7a4eb2d05ee",
+    "source": "My friend's name is David."
+  },
+  {
+    "key": "05438d4eb65445611b8c2933ae4ebf2ed9c935f0eef3f96c295c61ce40ef580b",
+    "source": "Finally, I'm plotting a trip through San Francisco, specifically aiming for my friend's house. Set the GPS for a seamless ride to that location. Anticipating a smooth drive ahead!"
+  },
+  {
+    "key": "a827379a294882e21bec87507fa1f88b14ca76f4c7d82425c15baeb0f37c338c",
+    "source": "The destination should be 123 Pine St, San Francisco, CA 94016."
+  },
+  {
+    "key": "90b2cdc080ff1b57f6f17bef975013e372c1695b5dba2bb41706fb513ed243f8",
+    "source": "Wonderful, with the fuel tank now adequately replenished, proceed to activate the engine in \"START\" mode. Convey to me a statistics."
+  },
+  {
+    "key": "3e7c7186d65009b98b7710a1db0d4c672b10636b2ec0134a118d01a209b0095a",
+    "source": "Oh I should have been more clear. I want the climate of car."
+  },
+  {
+    "key": "402968ffc23abb8aa39de346df3a11be8bada779880a1942ab4afdbecee9bc4c",
+    "source": "While you're at it, it'd be awesome if you could that tweet"
+  },
+  {
+    "key": "8c5071ffa49b754468d29ef8fb0cfc07530ff748a1543f19c78ea312bbcc2b8b",
+    "source": "I mean comment that tweet, something like 'Is this pressue too low? Should I take any action?' would be perfect."
+  },
+  {
+    "key": "4b985e25656999ee257e31fb389192e35b9f78532009cb5f16b8b850f31e7357",
+    "source": "Also, let's not forget to boast a little online. Could you post an update regarding my impeccable tire condition on Twitter like 'Tire pressure is perfect!'? Don't forget to use the hashtags and be sure to give my friend Mike a mention as well."
+  },
+  {
+    "key": "6d44c451bbd82d5431799e8590076d12dbe66be927ab7aab69e4b564f34bdccd",
+    "source": "Let's use the hashtags #CarCare and #TireHealth. Btw, I think Mike's user handle is 'mike53'."
+  },
+  {
+    "key": "07d771590e485c1b7a522aea570247a4327ab8ffcaf9f4a92ecc4440b9cd448a",
+    "source": "Before I set off for Stonebrook to uncover family history, I need to determine the road distance for my genealogy exploration."
+  },
+  {
+    "key": "b91eccdbf43ce5210f8457c46ca6745d6a349a4119cf90fb7294c7adb934489e",
+    "source": "I will be travelling from San Francisco to Stonebrook."
+  }
+]

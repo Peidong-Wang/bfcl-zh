@@ -1,0 +1,155 @@
+{"id": "memory_0-customer-0", "question": [[{"role": "user", "content": "我的名字是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_1-customer-1", "question": [[{"role": "user", "content": "我多大了？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_2-customer-2", "question": [[{"role": "user", "content": "我住在哪里？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_3-customer-3", "question": [[{"role": "user", "content": "我偶尔喜欢喝哪种拿铁？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_4-customer-4", "question": [[{"role": "user", "content": "我的厨房台面有多少平方英尺？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_5-customer-5", "question": [[{"role": "user", "content": "新客户的折扣是多少？请给出减免百分比。"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_6-customer-6", "question": [[{"role": "user", "content": "我订购意式咖啡机时，为了达到免运费条件还加购了两件配件，请说出其中一件。"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_7-customer-7", "question": [[{"role": "user", "content": "结账页面最初预计我的订单需要多久送达？请给出工作日数。"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_8-customer-8", "question": [[{"role": "user", "content": "我希望咖啡机能在什么活动前准备好？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_9-customer-9", "question": [[{"role": "user", "content": "我的咖啡机送到时哪个部件弯了？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_10-customer-10", "question": [[{"role": "user", "content": "收货时外包装箱有几个角被压坏了？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_11-customer-11", "question": [[{"role": "user", "content": "哪件配件送到时有一道小划痕？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_12-customer-12", "question": [[{"role": "user", "content": "为了给咖啡设备腾地方，我把哪件电器搬进了储藏室？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_13-customer-13", "question": [[{"role": "user", "content": "那个据说能让咖啡豆更长时间保持新鲜的专用储存罐多少钱？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_14-customer-14", "question": [[{"role": "user", "content": "什么能让我的拿铁更好喝？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_15-customer-15", "question": [[{"role": "user", "content": "我第二次下单购买的电子秤是你们与哪家公司合作开发的？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_16-customer-16", "question": [[{"role": "user", "content": "下个周末我要去哪里接一个小型自由职业项目？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_17-customer-17", "question": [[{"role": "user", "content": "应该从哪个地方的仓库发出我的磨豆机套装？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_18-customer-18", "question": [[{"role": "user", "content": "我正在把哪项创作爱好与拿铁拉花结合起来？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_19-customer-19", "question": [[{"role": "user", "content": "我很期待可能推出的会员延长保修计划。这个计划有多少个月？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_20-customer-20", "question": [[{"role": "user", "content": "我希望订阅中风味细腻的小批量烘焙产品的容量是多少mL？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_21-customer-21", "question": [[{"role": "user", "content": "那笔意外扣款是几天前出现在账单上的？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_22-customer-22", "question": [[{"role": "user", "content": "我估计那笔不明扣款是多少？请按 $__.__ 的格式回答，例如 $19.99。"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_23-customer-23", "question": [[{"role": "user", "content": "购买咖啡储存罐和电子秤时，我收到了几封“order confirmed”邮件？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_24-customer-24", "question": [[{"role": "user", "content": "我的厨房现在看起来像哪本杂志里的一页？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_25-customer-25", "question": [[{"role": "user", "content": "造成运输不稳定的平均降雨量是多少英寸？请给出四舍五入保留一位小数的数值，例如7.9。"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_26-customer-26", "question": [[{"role": "user", "content": "我的咖啡Instagram主页叫什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_27-customer-27", "question": [[{"role": "user", "content": "我临时举办了什么活动？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_28-customer-28", "question": [[{"role": "user", "content": "运输大型意式咖啡机时，我想尽量消除发生什么情况的可能性？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_29-customer-29", "question": [[{"role": "user", "content": "除了你们的品牌，我还信任哪个品牌？"}]], "involved_classes": ["MemoryAPI"], "scenario": "customer"}
+{"id": "memory_30-healthcare-0", "question": [[{"role": "user", "content": "患者提到的最主要健康问题是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_31-healthcare-1", "question": [[{"role": "user", "content": "患者几年前确诊了2型糖尿病？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_32-healthcare-2", "question": [[{"role": "user", "content": "患者为了控制血糖采取的一项生活方式改变是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_33-healthcare-3", "question": [[{"role": "user", "content": "患者因什么健康状况去过急诊？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_34-healthcare-4", "question": [[{"role": "user", "content": "患者几年前做过什么手术？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_35-healthcare-5", "question": [[{"role": "user", "content": "患者如何记录众多的医生预约和用药安排？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_36-healthcare-6", "question": [[{"role": "user", "content": "患者在40岁出头时被诊断出了什么疾病？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_37-healthcare-7", "question": [[{"role": "user", "content": "患过一次肺炎后，患者除了接种流感疫苗，还采取了另一项预防措施。那是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_38-healthcare-8", "question": [[{"role": "user", "content": "患者目前在健康方面最关注什么？是增加睡眠、健康饮食、管理压力，还是减少屏幕时间？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_39-healthcare-9", "question": [[{"role": "user", "content": "患者早餐吃鸡蛋时通常还会吃什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_40-healthcare-10", "question": [[{"role": "user", "content": "患者改变了睡前习惯，说在几点之后不再摄入咖啡因？请按 HH:MM AM/PM 格式回答，例如 01:30 AM。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_41-healthcare-11", "question": [[{"role": "user", "content": "患者最喜欢的一道常备餐食是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_42-healthcare-12", "question": [[{"role": "user", "content": "患者过去认为锻炼必须强度很大。但随着年龄增长，他发现有件事更重要。比锻炼强度更重要的是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_43-healthcare-13", "question": [[{"role": "user", "content": "患者认识到随着年龄增长维持社交联系的重要性。去年他加入了什么，以帮助维持社交联系？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_44-healthcare-14", "question": [[{"role": "user", "content": "患者通过什么活动保持记忆敏锐？请从以下选项中选择一个：puzzles、jogging、gardening。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_45-healthcare-15", "question": [[{"role": "user", "content": "患者最近一次空腹血糖读数是多少？请给出以mg/dL为单位的数值。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_46-healthcare-16", "question": [[{"role": "user", "content": "患者的A1C值是多少？请给出百分比数值并四舍五入保留一位小数，例如7.9。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_47-healthcare-17", "question": [[{"role": "user", "content": "理想情况下，空腹血糖应低于多少？"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_48-healthcare-18", "question": [[{"role": "user", "content": "患者的LDL胆固醇水平是多少？请给出以mg/dL为单位的数值。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_49-healthcare-19", "question": [[{"role": "user", "content": "患者上次体检时的血压读数是多少？请给出以mmHg为单位的数值。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_50-healthcare-20", "question": [[{"role": "user", "content": "患者的维生素D水平是多少？请给出以ng/mL为单位的数值。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_51-healthcare-21", "question": [[{"role": "user", "content": "患者的ALT水平是多少？请给出以U/L为单位的数值。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_52-healthcare-22", "question": [[{"role": "user", "content": "患者的ESR结果是多少？请给出以mm/hr为单位的数值。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_53-healthcare-23", "question": [[{"role": "user", "content": "患者为治疗2型糖尿病服用什么药，剂量是多少？请按'medication X mg'格式回答，例如 Caffeine 200 mg。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_54-healthcare-24", "question": [[{"role": "user", "content": "患者为治疗高血压服用什么药，剂量是多少？请按'medication X mg'格式回答，例如 Caffeine 200 mg。"}]], "involved_classes": ["MemoryAPI"], "scenario": "healthcare"}
+{"id": "memory_55-finance-0", "question": [[{"role": "user", "content": "我管理的投资公司叫什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_56-finance-1", "question": [[{"role": "user", "content": "那家面临恶意收购并由此采用著名毒丸策略的中型科技公司叫什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_57-finance-2", "question": [[{"role": "user", "content": "我记得有一笔142亿美元的医疗保健合并，涉及BioCrest Labs和另一家公司，被称为“重塑现代癌症治疗的交易”。与BioCrest Labs参与合并的另一家公司叫什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_58-finance-3", "question": [[{"role": "user", "content": "什么成了我的电子交易日记？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_59-finance-4", "question": [[{"role": "user", "content": "Legend Investments内部开发的人工智能市场分析平台叫什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_60-finance-5", "question": [[{"role": "user", "content": "2001年，我在哪里开始职业生涯？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_61-finance-6", "question": [[{"role": "user", "content": "我在哪里取得了MBA学位？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_62-finance-7", "question": [[{"role": "user", "content": "我对个人投资的处理方式与管理公司资产有什么不同？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_63-finance-8", "question": [[{"role": "user", "content": "我总是忘记，我的高尔夫差点是多少？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_64-finance-9", "question": [[{"role": "user", "content": "我每天早晨几点开始活动？请按 HH:MM AM/PM 格式回答，例如 01:30 AM。"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_65-finance-10", "question": [[{"role": "user", "content": "作为个人发展目标，我希望能流利使用哪种语言？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_66-finance-11", "question": [[{"role": "user", "content": "我计划到多少岁时转任公司的董事长？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_67-finance-12", "question": [[{"role": "user", "content": "为了维持全球人脉，我需要多频繁地出差？请给出每周次数。"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_68-finance-13", "question": [[{"role": "user", "content": "我每季度举办的系列晚宴叫什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_69-finance-14", "question": [[{"role": "user", "content": "在家庭生活中，如果牺牲了最重要的人际关系，金融事业的成功对我还有多大意义？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_70-finance-15", "question": [[{"role": "user", "content": "我的孩子们正在探索各自感兴趣的方向。我14岁的那个孩子对什么着迷？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_71-finance-16", "question": [[{"role": "user", "content": "我如何在商务旅行中安排家人参与？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_72-finance-17", "question": [[{"role": "user", "content": "我使用哪个平台作为金融指挥中心？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_73-finance-18", "question": [[{"role": "user", "content": "我推动公司采用了哪个机器学习平台？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_74-finance-19", "question": [[{"role": "user", "content": "我使用哪种工具进行数据可视化和客户沟通？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_75-finance-20", "question": [[{"role": "user", "content": "以下哪种编程语言是我在疫情期间自学的？请从 Java、C、Python、SQL、Go 中选择。"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_76-finance-21", "question": [[{"role": "user", "content": "我认为成功的三个关键因素是什么？请按字母顺序，以'factor1, factor2, factor3'格式列出。"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_77-finance-22", "question": [[{"role": "user", "content": "我职业生涯早期错失的那笔重大交易叫什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_78-finance-23", "question": [[{"role": "user", "content": "什么会眷顾那些主动让机会有可能找到自己的人？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_79-finance-24", "question": [[{"role": "user", "content": "我对于职业成长给年轻专业人士的建议是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "finance"}
+{"id": "memory_80-student-0", "question": [[{"role": "user", "content": "我最喜欢的课程是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_81-student-1", "question": [[{"role": "user", "content": "毕业综合项目持续多久？请以学期数回答。"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_82-student-2", "question": [[{"role": "user", "content": "哪门课程包含模拟去中心化文件存储系统的项目？请给出课程编号（CS XXXX）。"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_83-student-3", "question": [[{"role": "user", "content": "我的毕业综合项目涉及计算机科学的哪个领域？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_84-student-4", "question": [[{"role": "user", "content": "毕业综合项目每周可能需要投入多少小时？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_85-student-5", "question": [[{"role": "user", "content": "我大约每周进行四次什么活动？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_86-student-6", "question": [[{"role": "user", "content": "我最近在玩哪类电子游戏？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_87-student-7", "question": [[{"role": "user", "content": "我最喜欢的人工智能主题科幻小说是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_88-student-8", "question": [[{"role": "user", "content": "除了学习时间，我还会同样安排什么活动的时间？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_89-student-9", "question": [[{"role": "user", "content": "哪项爱好让我看到循序渐进的进步？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_90-student-10", "question": [[{"role": "user", "content": "高中时我参与合著了多少篇论文？请给出数量。"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_91-student-11", "question": [[{"role": "user", "content": "第一个研究项目是关于什么的？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_92-student-12", "question": [[{"role": "user", "content": "我在研究中探索哪类技术？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_93-student-13", "question": [[{"role": "user", "content": "我计划向哪个重要会议投稿？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_94-student-14", "question": [[{"role": "user", "content": "服务器崩溃让我认识到了什么的重要性？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_95-student-15", "question": [[{"role": "user", "content": "我什么时候加入了VR/AR俱乐部？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_96-student-16", "question": [[{"role": "user", "content": "一年一度的科技节在哪里举办？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_97-student-17", "question": [[{"role": "user", "content": "我前两年住的宿舍叫什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_98-student-18", "question": [[{"role": "user", "content": "我参加志愿服务的那个为期一天的活动叫什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_99-student-19", "question": [[{"role": "user", "content": "校园里哪个团队最近获得了正式认可？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_100-student-20", "question": [[{"role": "user", "content": "如果我打算先去业界工作，计划工作多少年？请给出年数。"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_101-student-21", "question": [[{"role": "user", "content": "如果读研究生，我想研究什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_102-student-22", "question": [[{"role": "user", "content": "我去年夏天实习的数据分析初创公司有多少员工？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_103-student-23", "question": [[{"role": "user", "content": "我在就业市场上寻找什么职位？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_104-student-24", "question": [[{"role": "user", "content": "我希望未来的公司鼓励哪种协作？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_105-student-25", "question": [[{"role": "user", "content": "我曾在哪个州的近海进行帆船旅行？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_106-student-26", "question": [[{"role": "user", "content": "大三寒假我去了哪个国家？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_107-student-27", "question": [[{"role": "user", "content": "大三寒假我去过哪个不是首都的亚洲城市？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_108-student-28", "question": [[{"role": "user", "content": "全家去欧洲旅行时，我们先去了哪个城市？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_109-student-29", "question": [[{"role": "user", "content": "我和室友去过的短途旅行目的地举一个例子是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_110-student-30", "question": [[{"role": "user", "content": "我暗恋的人在哪门课上？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_111-student-31", "question": [[{"role": "user", "content": "我最初是在什么场合与暗恋的人熟悉起来的？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_112-student-32", "question": [[{"role": "user", "content": "我打算课后和暗恋的人一起去买什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_113-student-33", "question": [[{"role": "user", "content": "有了暗恋的人之后，我担心失去什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_114-student-34", "question": [[{"role": "user", "content": "通常我什么都会告诉谁，但这次没有告诉对方我暗恋的事？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_115-student-35", "question": [[{"role": "user", "content": "我的狗叫什么名字？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_116-student-36", "question": [[{"role": "user", "content": "我妹妹比我小几岁？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_117-student-37", "question": [[{"role": "user", "content": "我在家时，全家通常在星期几去徒步？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_118-student-38", "question": [[{"role": "user", "content": "我爸爸从事什么职业？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_119-student-39", "question": [[{"role": "user", "content": "哪位亲戚会拿我打碎古董花瓶的事打趣我？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_120-student-40", "question": [[{"role": "user", "content": "我大一时的室友是谁？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_121-student-41", "question": [[{"role": "user", "content": "我曾和谁一起凌晨3点写代码，并因此建立了友谊？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_122-student-42", "question": [[{"role": "user", "content": "哪个俱乐部让我结识了同样喜欢某项水上运动的人？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_123-student-43", "question": [[{"role": "user", "content": "周末我通过什么来放松头脑？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_124-student-44", "question": [[{"role": "user", "content": "我在哪里认识了法学院学生Jackson？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_125-student-45", "question": [[{"role": "user", "content": "我通常早上几点起床？请按 HH:MM AM/PM 格式回答，例如 01:30 AM。"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_126-student-46", "question": [[{"role": "user", "content": "我使用什么可以在各台设备之间同步的工具？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_127-student-47", "question": [[{"role": "user", "content": "我的日程中哪一部分被视为不可妥协？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_128-student-48", "question": [[{"role": "user", "content": "大多数晚上，我尽量在几点之前结束学业相关工作？请按 HH:MM AM/PM 格式回答，例如 01:30 AM。"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_129-student-49", "question": [[{"role": "user", "content": "周日的小组学习有多少名学生参加，不包括我自己？"}]], "involved_classes": ["MemoryAPI"], "scenario": "student"}
+{"id": "memory_130-notetaker-0", "question": [[{"role": "user", "content": "周一我几点送孩子去托儿所？请按 HH:MM AM/PM 格式回答，例如 01:30 AM。"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_131-notetaker-1", "question": [[{"role": "user", "content": "我差点忘了，每月托儿费的缴费截止日是哪天？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_132-notetaker-2", "question": [[{"role": "user", "content": "最终敲定第一季度预算报告的截止日期是什么时候？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_133-notetaker-3", "question": [[{"role": "user", "content": "等等，IT更新安全协议后，我应该更改什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_134-notetaker-4", "question": [[{"role": "user", "content": "我记得与Jacob的客户电话会议改期了，现在是什么时候？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_135-notetaker-5", "question": [[{"role": "user", "content": "我需要向经理汇报工作流程变慢的原因。周二是什么拖慢了工作流程？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_136-notetaker-6", "question": [[{"role": "user", "content": "在人力资源部设定的下月截止日期之前，我应该检查什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_137-notetaker-7", "question": [[{"role": "user", "content": "接孩子离开托儿所的时间是几点？请按 HH:MM AM/PM 格式回答，例如 01:30 AM。"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_138-notetaker-8", "question": [[{"role": "user", "content": "等等，我周三应该把客户提案草稿发给哪个团队？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_139-notetaker-9", "question": [[{"role": "user", "content": "我压力很大，忘记了周一团队会议超时多少分钟？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_140-notetaker-10", "question": [[{"role": "user", "content": "等等，谁要求在周四之前收到削减成本的建议？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_141-notetaker-11", "question": [[{"role": "user", "content": "供应商规划工作需要这个信息：周五有多少供应商回复了后续联系？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_142-notetaker-12", "question": [[{"role": "user", "content": "我可能忘了，我需要在周五之前紧急提交哪些文件？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_143-notetaker-13", "question": [[{"role": "user", "content": "我的汽车发动机有异响，我该怎么办？这让我很困扰。"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_144-notetaker-14", "question": [[{"role": "user", "content": "我完全忘记了，我必须完成哪个培训模块？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_145-notetaker-15", "question": [[{"role": "user", "content": "关于手机软件，我的提醒让我做什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_146-notetaker-16", "question": [[{"role": "user", "content": "周日我应该对汽车做什么？我知道要洗车，但感觉还有另一件事要做，是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_147-notetaker-17", "question": [[{"role": "user", "content": "我记不清补充储藏室食品的计划了。我知道大米快用完了，除了大米还应该补充什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_148-notetaker-18", "question": [[{"role": "user", "content": "周二系统停机的准确时间段是什么？请按'HH AM/PM - HH AM/PM'格式回答，例如'01 AM - 02 AM'。"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_149-notetaker-19", "question": [[{"role": "user", "content": "我完全忘了，周三是否有需要我安排入职的新员工？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_150-notetaker-20", "question": [[{"role": "user", "content": "我早上应该服用什么保健补充剂吗？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_151-notetaker-21", "question": [[{"role": "user", "content": "关于周日备餐计划，我原本打算烹饪的主要蛋白质食材是什么？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_152-notetaker-22", "question": [[{"role": "user", "content": "我计划自己动手修理几件家里的东西？"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_153-notetaker-23", "question": [[{"role": "user", "content": "等等，除了蜡笔和笔记本，我还要去买什么学习用品？孩子们需要用。"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}
+{"id": "memory_154-notetaker-24", "question": [[{"role": "user", "content": "老师让我的孩子在数数练习中重点练习哪些数字？请按'X-Y'格式给出范围，例如'37-83'。"}]], "involved_classes": ["MemoryAPI"], "scenario": "notetaker"}

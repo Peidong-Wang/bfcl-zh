@@ -1,0 +1,162 @@
+[
+  {
+    "key": "ac02706907c1b3c59721e920b36afe845a6a2d5500e0512d096ccc4013e87357",
+    "source": "To my friend John please?"
+  },
+  {
+    "key": "2439964d6741e6b4a4d5276bc207156afc0951fd767b8c8385098e176253e13c",
+    "source": "A company comes to my mind.I'm eager to delve into its financial performance. Would you mind providing a comprehensive analysis of its latest stock status?"
+  },
+  {
+    "key": "66d0b076cabf07818fc41650d13f6546e834d168997c87cedb1668633ac61e4e",
+    "source": "I just tracked down an intriguing company named Synex Solutions."
+  },
+  {
+    "key": "e5756fc5fac06c64ee1a760dae3d0e963d61ff8181287737cd7ac07a71db0aac",
+    "source": "With Zeta Corp's stock now on my radar, let's pull up the complete list of stocks."
+  },
+  {
+    "key": "7014f23258b9b71d1826b153373df735fb01fb56c5cc8fd79be9af902a2feee5",
+    "source": "I want a list of all stocks on my watchlist"
+  },
+  {
+    "key": "ccf4855904207d317fc1b7d5a562ab87912acf5b29b570296f37ef890e174174",
+    "source": "I'm contemplating whether adding a stock to my watchlist is the right move. It sounds like it's on a noteworthy upward trend. Could you add that to my watchlist?"
+  },
+  {
+    "key": "a22824ffbbba580fd44e9be3c84f114969cc4c639954d91babbdf81923a8b0a1",
+    "source": "The stock is under Zeta Corp"
+  },
+  {
+    "key": "17fae49ac747cb60b4211bcc144faa7ced34847a0a9008d2731dc359bb039209",
+    "source": "I'd like some help managing my stock watchlist. There's one particular stock I'd rather not monitor anymore. Would you mind removing it for me?"
+  },
+  {
+    "key": "f9da132c335b82793cc85380d0ea5f5bf443ff20ae304f38d4f4a52c38ec8f7c",
+    "source": "The stock is TSLA."
+  },
+  {
+    "key": "4956a5a4aabfeab75b1e19ce92c569868277c8c8a7e7d84a1fac3f54d7505c39",
+    "source": "Let's get a company on my watchlist, alright? I'd like to keep an eye on them."
+  },
+  {
+    "key": "61d073c00b9a87372905c37ab0fa9d87cb7b944afca2c5cad910343d486d6792",
+    "source": "The company is named Zeta Corp"
+  },
+  {
+    "key": "f6142e392ef266b07cc8c86c140902dca909fc5afbeb1040c5dae7ac22f1aa22",
+    "source": "I require some confidence about my current financial positioning. Share a detailed overview of my account, including balances and any associated card numbers. Furthermore, logging in as USR001 to notify my financial advisor promptly about this potential shift in my investment strategy with our latest account details. The message should be like 'My strategy is shifting due to recent market movements and the cancellation of a specific order. Current balance in my account is $10000.'"
+  },
+  {
+    "key": "576f09265939d3af5389d97057be857abda9ec8f4bf07d7984174ad693e85737",
+    "source": "My financial advisor is USR003"
+  },
+  {
+    "key": "a309fe47167a2872c359e949dfff29ec4a3cd9ef069b5416a0a7e7954e57ffbc",
+    "source": "Using the current details of a stock, calculate the average of price, trading volume, MA5, and MA20."
+  },
+  {
+    "key": "7e1071995119c7341b8992fb7bacf2193bde760350f885fc150136f310e9c7e2",
+    "source": "The stock should be AAPL."
+  },
+  {
+    "key": "adf5be8a73546490facaf131ba58169d1d456051005d33bfa13eb54a12f9d9ce",
+    "source": "Having kept a keen eye on the advancements in the tech industry, I recently caught wind of some stellar performance from a company. How's their stock currently faring?"
+  },
+  {
+    "key": "1c0b0d5b5e51cd2faaf2ea5bd3184c2c60306626210759325eac40957fe897d7",
+    "source": "The company called Zeta Corp."
+  },
+  {
+    "key": "641557c37e29563e003168e10e420cc40f06b5db7bfe34b89dd8577cc70d498f",
+    "source": "I am interested in purchasing 50 shares at the present market price. Please proceed with the transaction."
+  },
+  {
+    "key": "e0e1b0dfe27c0f0645f234fc953631ddd015d1703445746de9774d82928cb8f8",
+    "source": "The share I want to purchase is from AAPL."
+  },
+  {
+    "key": "5f2263141eacdd44d43088920bbec0237e129cbaf8953a6c40fc873b9277f7ab",
+    "source": "Hi there! I noticed Omega Industries is trading at high price, and they're quite a rising star in the tech domain. Would you like to kick off a dazzling tweet for me? Could you find the price and fill it with content 'Omega Industries is skyrocketing at ${price} per share! The tech industry evolution is electrifying, and we are just getting started.' with a specific tag in it, while highlighting @industryexperts. It’s sure to create buzz!"
+  },
+  {
+    "key": "c315a412c427a42b8507db3d24ca41a67064961aa2611e55e25923ef3815b9cc",
+    "source": "The tag is #TechBoom."
+  },
+  {
+    "key": "1d212a6c7594589563475d808ef500e91bf6e9654ac5afd8d8a2dbb7cc9a9a66",
+    "source": "I'd appreciate if you could initiate an order, purchasing some shares of the company under the symbol AAPL at the market's current rate. I've assessed it as a promising chance."
+  },
+  {
+    "key": "3134c0998a9a56a25ce5e4e609cfe66dee65c6f813ca1e79ff42825aace2b65d",
+    "source": "Hi there! I've noticed a stock have been slipping more than I'd like. Would you be able to pull up their stock information for a quick review and also make sure it's no longer on my watchlist?"
+  },
+  {
+    "key": "71163d6c497e8fd6a0889980baa6e4d34d2343ac5e7a1fd509c005cf813c624c",
+    "source": "The stock name is Zeta Corp."
+  },
+  {
+    "key": "c9999b6771aeca9255d5dcffd78de519457dec3acad3584b8b347dfb3e4a87d7",
+    "source": "Let's anchor my daily spend at a specific amount."
+  },
+  {
+    "key": "5758a9511c42bf7fd42a2c46c3a4a7bbcc7d6df3d75a0a02a821b10c2273944c",
+    "source": "Oh, it's in 15400 GBP—an expedient conversion—per my esteemed authorization. I appreciate your assistance in tethering my budget to this new mooring. My access token is 'abc123token'."
+  },
+  {
+    "key": "e0673a943ca8aa29a7e92fe0de38758d27571191b0622a50c8e2a1ad8bac0e40",
+    "source": "Oh no, something unforeseen circumstances happened"
+  },
+  {
+    "key": "cd636e39604dac5c86be85a954fbb72376d9789090d86ce07c0364abc69ddc9d",
+    "source": "I'm unable to proceed with my journey to Los Angeles next week. Could the system initiate a cancellation process for the flight booking made earlier?"
+  },
+  {
+    "key": "5204ee2491345fed7b0dd944a9184531d8aa28e89ec22c16d6e43987b70046fa",
+    "source": "After reconsideration, I want to cancel one of the flights some time later"
+  },
+  {
+    "key": "669b7ce2c8e356618a1514a8af2ea192474eaa755d494054a84c7a6acb100f8d",
+    "source": "Oh the flight planned for London on the 15th is no longer necessary. I require the cancellation of this booking immediately."
+  },
+  {
+    "key": "f5d69b8e26578460f979d4972598a59911835ecf09dbed78979347dde50db2b8",
+    "source": "Now that my personal details have been sorted, I'm eager to locate the nearest airport"
+  },
+  {
+    "key": "cb971f73db443f4c959d1966ce8c526eb61e334b3e2f7d9e41754ba34b47d9fd",
+    "source": "The nearest airport to Rivermist. After that, I'd appreciate a price estimate for flying business class from there to GFD on December 15, 2026."
+  },
+  {
+    "key": "8fbc9831ad2565242196e08155bf7647dc7173807544bf08d3215878414abea1",
+    "source": "I need you to verify my travel documents before I embark on this journey. Confirm if my personal details match the required criteria. Once all checks are done, I'll proceed. Here's my personal info"
+  },
+  {
+    "key": "749ecea3e47e1840fd1423d184023aac6a9bb56ce2c4fd920f3f2029d4c8ee25",
+    "source": "Oh sorry, here are the full info for reference, my birthdate is February 14st 1962 ans passport number is P87654321, my first name is Michael and last name is Smith"
+  },
+  {
+    "key": "dfadf3c4704158ab0706c84e65be3553c40a108a258108190a7a4306020bdecb",
+    "source": "After booking my flight, I'd like to cover myself against any unforeseen issues. I wanna an travel insurance"
+  },
+  {
+    "key": "f3667db297c6ad1e59c4d2397a57f467dff936f72ead9b6b80e8c43059d8e51e",
+    "source": "Oh I want to have a comprehensive insurance for $120, using the same credit card I used for the flight booking, to ensure I'm protected throughout my journey?"
+  },
+  {
+    "key": "98ea97a4ced0879439687b0cb0fb082ae7f2d38301c8ba17da82b9a75a6d6b5f",
+    "source": "I'm planning to fly on October 15, 2026. Could you assist in securing a first-class seat using my travel card? Everything you need—access token (abc123xyz456), traveler details—are at the ready. Just make sure that I can afford it because I only have 6000 dollars to spend for this flight."
+  },
+  {
+    "key": "cf4fbc31c7874c5634634488ea1f841e5be1f323a036fff42ebaa8504e1c18a4",
+    "source": "I'm planning to fly from San Francisco to Los Angeles"
+  },
+  {
+    "key": "ee4f1051125903ca1a89eb19e9b3573806d7f5b86701aa41d79aaf6fefed2406",
+    "source": "I'm organizing a trip soon and need the flight cost."
+  },
+  {
+    "key": "8b2edc34329923050fc5012baff880ce582deaf922fc7fb50e130c450b5d3f21",
+    "source": "The flight is from my nearest airport to Pinehaven on March 3, 2026, traveling in business class"
+  }
+]

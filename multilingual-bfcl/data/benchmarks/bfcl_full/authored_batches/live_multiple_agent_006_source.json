@@ -1,0 +1,402 @@
+[
+  {
+    "key": "b00282d013325166a0184641ee5ff5aeafcd1e2db448ded608ad5c969e1031ed",
+    "source": "I can't figure out why my dreams are so scary lately. I think I'll go to a therapist. Would you help me locate a Psychologist in Vacaville, please?"
+  },
+  {
+    "key": "3b1c5ec4f99aa3422524c74239fef592302620a043e62873a6c6b5630b4fa70e",
+    "source": "I need to see if there is a psychologist in Novato CA."
+  },
+  {
+    "key": "7b83ae521928f10b9531c4e6492bd457f33b80ec254d27369bfe3c85347174dd",
+    "source": "Hello, I am in need of a family therapist in the St. Helena CA."
+  },
+  {
+    "key": "fb5168983d48a78beed2d2c2f7ea7d15b4bbe13681c0342e463c16b1c57875a5",
+    "source": "Find a roundtrip flight from JFK to LAX, departing on April 15th and returning on April 22nd 2023? I'd like to fly Business class and have no airline preference."
+  },
+  {
+    "key": "522041ba50d1a107aebc624360d96d252430bed951b0302ccd71be2ed3a6830f",
+    "source": "get a list of attractions in Paris that are suitable for children?"
+  },
+  {
+    "key": "d6d07a6255d906c6b2313f4323e937eb99cf13bc976f3a3bb5480fab39a26bbe",
+    "source": "I'm planning a vacation and need to fly roundtrip from Atlanta, GA to Boston, MA. Find flights that depart on the 12th of march 2023 and return a week later?"
+  },
+  {
+    "key": "cb767f898f2bcac2b8ef6e40e30ca29d1153e5fe6cc8c995adf4fb5ff65540ca",
+    "source": "What Museum is best in New York City, free to enter and suitable for kids?"
+  },
+  {
+    "key": "ff6ff3cd86cee771b60f191742db016ba2ec3ece76e51b8b13db3b7c1206d1ce",
+    "source": "I'm looking for something to do with my grandchildren in San Francisco. Hopefully something that's free."
+  },
+  {
+    "key": "3fdbc65a317b00d07f226f92ac8f4c8b1d7b0c12f9e85772392a66fe85375493",
+    "source": "Can you find me a list of museums suitable for children in London, England, with no entry fees?"
+  },
+  {
+    "key": "218ff8ae87096e175eee3affa43180207ee10e126f84d4c13e27c6f72f5e126b",
+    "source": "Search for free entry gardens suitable for a short trip in London, UK?"
+  },
+  {
+    "key": "039ba9f811586a9c9860d3665c75dec6a40fba4a6e5e4330ea38645e39ee6ade",
+    "source": "Hi, are there any free performance venue I can visit in London?"
+  },
+  {
+    "key": "97a26a0fb044ecc662fa5aee33a72c0f43746bf40fc228c0e30a2fcaec245e01",
+    "source": "Will you find child-friendly attractions to visit in Paris, France?"
+  },
+  {
+    "key": "c1cdc3721fd612fcc8c4f96d5fa0a3ddc60c0c0ffecd4946618d109128d4a86c",
+    "source": "I'm planning to visit Paris, and I'd like to find attractions that are suitable for children and have no entry fee."
+  },
+  {
+    "key": "c281313c4d46b0965972f044bdad8d850a417184918ca1ff0637f4a0a6ba69fc",
+    "source": "I have some leisure time and I'm planning to visit Berlin. Find me some attractions there that are particularly good for kids and have free entry?"
+  },
+  {
+    "key": "404de85466219bd67690cc7a992a3263296a32739f5e865fd99f7f6f8ca8b8bd",
+    "source": "Can you find me a list of parks in New York that have free entry and are suitable for children?"
+  },
+  {
+    "key": "5b0d072e5ad0e420a2f05f7044de5e73966c33df24369f207594580fc72d7405",
+    "source": "Could you search for shopping areas suitable for a family outing in Paris, and let me know if there's no entry fee?"
+  },
+  {
+    "key": "5b3cfe4fb66403754475da1cb81770eea1883125da3c1128d2688185cfe56b34",
+    "source": "Can you find me a roundtrip flight from San Francisco to Atlanta, departing on the 2023 1st of March and coming back on the 6th of March, with American Airlines and in Economy class?"
+  },
+  {
+    "key": "56615bf63c4a2e9f7e5a11ace61847218e8ce933a631fa4ba7b504c1d029f753",
+    "source": "Can you find me a tourist attraction in Philadelphia that has no entry fee?"
+  },
+  {
+    "key": "138901978a3e26da77f6b9f9a18dcd41fd72e2e3145514f15a65abdf7c09a83f",
+    "source": "Can you search for a Theme Park in Orlanda that's great for kids and has no entry fee?"
+  },
+  {
+    "key": "2ae8e1fce1dd12418781f0578b41ec06e6360dd15d278595b30f123eacfed811",
+    "source": "Find me a one-way economy class flight from JFK to LAX departing on the 6th of October?"
+  },
+  {
+    "key": "9cf7f7c7d6e62b0d41a0bb396d1b179d233e81a2a986e1a46a0074546214e6e8",
+    "source": "Find me attractions in New York that are shopping areas, free, and kids friendly?"
+  },
+  {
+    "key": "dfe4858bf3b31df0a5861fb1181ad9382fdaa94c2e3a313ddd4b13de5aac7f53",
+    "source": "Can you find me a historical landmark to visit in Portland, that's suitable for kids but need fee to entry?"
+  },
+  {
+    "key": "defb734311364b8a28237e832344104735bb0f49ee408fda3b44e1c2c3e6c792",
+    "source": "Retrieve a list of attractions in Seattle that are suitable for children?"
+  },
+  {
+    "key": "57f1a7e7691db80d8d9bbf3d1bf46415e0ccb0d812700202cdbcacb935f351fa",
+    "source": "I'm looking to visit a park in Toronto that's suitable for children. Find one for me, and I don't mind if there's an entry fee."
+  },
+  {
+    "key": "b1df14bb1c7ab6d41aa792e703f8b9398b6086ca058554514c3e95a83c06d745",
+    "source": "Can you search for attractions in Paris that are suitable for children and have free entry?"
+  },
+  {
+    "key": "dde3aebb8bd93599ff22184f01c7630ca5077e1c3142ecfd4a59b9e08b0dd302",
+    "source": "Can you search for roundtrip flights from JFK to LAX, departing on April 15th and returning on April 22nd 2023?"
+  },
+  {
+    "key": "0bd39d57e2a086d70b42e6cb99cbc33d46e15b51bddd0f6ec742f5701828a350",
+    "source": "I'm planning a trip to Chicago with my family. Can you find attractions kids friendly in that city?"
+  },
+  {
+    "key": "b111a98d73f0a75c0d683665a78fe8e612cbd2c01f3be289b6ff38c214e6ad81",
+    "source": "Find me a museum to visit in New York? I prefer it to be free for entry."
+  },
+  {
+    "key": "fd0b1617229b96a3c2fc3a1fe456e4669584eb9662656b62533b67809cbd80dd",
+    "source": "I'm interested in visiting a museum with my kids in Paris, and I'd prefer if it has no entry fee."
+  },
+  {
+    "key": "f3d96c0b5a70939d0d918979e178c1e482e4fee7a5af499bc2152904fada0459",
+    "source": "Find some Electropop songs that were released in 2019?"
+  },
+  {
+    "key": "9984ba96300d5652478dee6b15ebb8ec13c02e3622bc80cb8e7e02de20381d10",
+    "source": "I'm in the mood for some Electropop music from around 2014. Find some please"
+  },
+  {
+    "key": "4fa4ea70c8ec4ac68ac066f91c210a8d4f325b98c3787607c9370f50e024f249",
+    "source": "I want to find a song now, and I know that there are some really good songs in the album called We Are Not Your Kind, I enjoy Rock-and-roll songs which are from the '19."
+  },
+  {
+    "key": "3d8a6232574e0a35c8f855300ad6e1bb72b70c0a4cebb4aae1a65af7a6d4d761",
+    "source": "Hey, I feel like listening to some tunes right now. Can you find me something from 2021?"
+  },
+  {
+    "key": "b2a377938ad218567dbba5463c689381be169f46f3d86d8a1d443780357cd7f8",
+    "source": "Hello, I am hoping you can help me find some songs from the Electropop genre that were released in 2014."
+  },
+  {
+    "key": "e7774fd6dc98f20ece66c73adcbc76a086d47b59f012e8a8645d10d037bed709",
+    "source": "Can you play my favorite track Summer Vibes by DJ Sunny in the kitchen, please?"
+  },
+  {
+    "key": "9de849dbb18f450a92837a213407c8779e4bf68f6b8950d447eb078dde09fd5e",
+    "source": "Can you find me some songs from the album High Expectations released in 2019?"
+  },
+  {
+    "key": "1607240df9a1d6c54dcc2ec250f604f1796e360d2113ab1ca2b198d23f30c7c5",
+    "source": "Find me some Reggae tracks to choose from?"
+  },
+  {
+    "key": "8b553a52f3b8f3c66c68c2c21cb3a7b6d02c8babc21c915d118d19f259c65619",
+    "source": "Hey, I'm in the mood for music from the album This Is Acting and I really enjoy Sia. Can you find me tracks from that album and by that artist? Additionally, I'd like to hear some Pop genre songs."
+  },
+  {
+    "key": "376caeb64947f59555c7b833e8622d69d556433f5f6bc23d1614658cb5de3458",
+    "source": "Find songs similar to those on the album 'The New Classic' Additionally, I'd like to explore tracks released around six years ago. This year is 2023"
+  },
+  {
+    "key": "50708ff738bdbd7af6f9e909daface8b6e2c6844d2da2d6e71d34bb1700e699c",
+    "source": "Can you check for any available trains from New York, NY to Los Angeles on April 25th, 2023?"
+  },
+  {
+    "key": "2833c939eeca0a7d55eef5ba6597c4a382f415a350197bac6d47bccfd68faf40",
+    "source": "Could you reserve tickets for two adults for a train ride from New York, NY to Los Angeles on April 23, 2023, starting at 10:00 AM without trip protection and in business class?"
+  },
+  {
+    "key": "2b9ff35c2493fb08113a320af5e731824099b64dd640afbbbb04d62e3b48dadc",
+    "source": "Can you book 9am Business class train tickets for two adults from New York, NY to Sacramento on March 13th, with trip protection included?"
+  },
+  {
+    "key": "3f7b0cdcc43cedc8df5e7e587babb7cec77fbce4df563068fdf3d2185fd06170",
+    "source": "I'm looking to book a train journey from Portland, OR to Seattle, WA on April 22nd. Can we find the available trains for that day?"
+  },
+  {
+    "key": "0efa0849f0123c8ade5bc0f89aa310474d87fa26101f869224fb02f258660686",
+    "source": "Can you book a train ticket for me from New York, NY to Phoenix, AZ on April 23rd, 2023, leaving at 13:45 for one adult, without trip protection?"
+  },
+  {
+    "key": "ca67ba1f7695ec7b73eaa1e73274f9597d6330e5ea4c1fd63d5903de4e11606c",
+    "source": "Can you find me a Theater event in Chicago for the date 2023-04-29?"
+  },
+  {
+    "key": "c3b86d3d2e8e658cf59d283ac26f6c3727f140abd17a50684886b290fd47df9e",
+    "source": "find a Music event happening in Berkeley, CA on 2023-05-12?"
+  },
+  {
+    "key": "4e2be3be08c18beabde01607864477fa45d81003c572d36e5afd67ba2a9140ad",
+    "source": "I have a day off on the 10th march 2023, and I'm interested in attending a music event in Berkeley, CA."
+  },
+  {
+    "key": "ad34dd1fc6d0183379dd1009b1881f59fb96865ecec904a92a29163d67416f3d",
+    "source": "I'm looking to attend a theater event in New York. Find me some plays happening on 2023.4.15?"
+  },
+  {
+    "key": "ca8613def609f02d31b8d06de8e96856a15513b629585e7f2e32b70fcc5d7250",
+    "source": "I'm interested in finding a Music event in New York on the date 2023.4.15. Could you provide some options?"
+  },
+  {
+    "key": "6f52411ee9ab156a3b3a4fb7d1d4a38e7ed3432340dec4b008f790220796dff9",
+    "source": "I'm looking for a Music event in New York for today. Can you find one for me?"
+  },
+  {
+    "key": "68742df238a825627a5b485777cf23ca949886d8de1eee325a6c7c23fc81449a",
+    "source": "Find a music event in New York on the 25th of march 2023? today is march 15th"
+  },
+  {
+    "key": "cf68e506979272461935e28355207c18d12470549174c015f3cf75ebdeb416ca",
+    "source": "Can you find any Theater events happening in Oakland, CA on 2023.4.11?"
+  },
+  {
+    "key": "d015ab17cebf796cb01d5e94fbe4ec1f84948f5cd74fded09de94f409cc2ed04",
+    "source": "Find me a music event happening in New York on the 1st of march? 2023"
+  },
+  {
+    "key": "c056626a0d6b0165d9027d975b57c54b40801bc3b0641c1520b9077b394bbeff",
+    "source": "I'm interested in attending a music event in New York. Find me one that's happening on the 9th of march 2023? today is march 1st 2023"
+  },
+  {
+    "key": "1468202823580a80e0a1d79816966b9510678689d4bf18fa954357e934c4fb95",
+    "source": "I'm looking to catch a music concert today in San Francisco. Find some cultural events for me?"
+  },
+  {
+    "key": "fa9c42e04a41f14dd63558a6db8eb78e5944b52af8299c5bcb72d732beb2be7e",
+    "source": "During our visit to San Francisco for a regional conference, my colleagues and I are looking to attend an interesting event on the evening of the 1st October 2023. Find us a Theater event happening in San Francisco on that date?"
+  },
+  {
+    "key": "054ddf3a6259e219817eb0ba4f2176fef562ec3232e419f3196d59fb099f1724",
+    "source": "Help me locate any theater events happening in New York on March 12th?"
+  },
+  {
+    "key": "91b995c9d825c2a10a79bdce85c4869887706bdae7d48af8e86d7047e709469f",
+    "source": "Hi, find me a one-way flight from JFK to LAX for the 15th of April 2023? I would like to travel in Premium Economy class."
+  },
+  {
+    "key": "9aa706d54d4ccd53c7bc792514accfd97aed006e49a18c96d54f22f2f8d29967",
+    "source": "I'm planning to travel from New York to Los Angeles on April 15th. Find a one-way flight for that date? I'd prefer to fly with Delta Airlines if possible."
+  },
+  {
+    "key": "33c5f32ddaf6de979eedff825fdeac79f0903301ee5f0a4fdc4aa38c0de6b82c",
+    "source": "Search for a one-way flight departing from San Diego to Chicago on the 20th of May 2023? I'd prefer to fly with American Airlines in Business class."
+  },
+  {
+    "key": "f3b9009b6114271de59934947cca6c72b7ecefaae82c777350c81ceda78dbbe2",
+    "source": "I'm planning a short trip and need to find a one-way flight from JFK in New York to LAX in Los Angeles. Can you find me options for flights departing on April 15th, 2023?"
+  },
+  {
+    "key": "306382be73dcc93a16427db4c5ead72c9266d47063a132134f859bdaeaae8c47",
+    "source": "I need to purchase a one-way Economy class flight ticket from LA to New York for March 14th."
+  },
+  {
+    "key": "5742457c56cb5ef6361511221655570fa185adbdb17cfd881a5a77b016742695",
+    "source": "Find a one-way flight from JFK to LAX departing on the 15th of April 2023?"
+  },
+  {
+    "key": "9563baf79d5eb121fa14bc10b5e4bc2285cff28df7689abf5e679700ff420cd3",
+    "source": "I need to book a business class one-way flight from Vancouver, BC to Seattle for my business trip. Find me options available on the 12th of march 2023?"
+  },
+  {
+    "key": "16af60e722e0b5f111f5e956061699ac13fec7c5fc3da4115df7d2576a4bddc5",
+    "source": "Find me a one-way flight to Portland, OR, departing from JFK Airport in New York on the 20th of April 2023?"
+  },
+  {
+    "key": "bc317f0e92b55fff42f4e91d18acbf87f8f194b6bd9381d8027e93cb264fe236",
+    "source": "Search for a one-way Economy class flight leaving from Chicago to Shanghai with Delta Airlines? Departing on the 15th of April 2023."
+  },
+  {
+    "key": "061f52352ca56e258d1e3ec493ad360a7fc6e9e44b3f71943cee2bf4ccbbc719",
+    "source": "I'm done with work, I want to find a 3D movie available in Los Angeles for me to watch during my free time?"
+  },
+  {
+    "key": "140d2263dc37b6df4558c0b1c71db55cd26aaa8da32239e3457cf897a4465b28",
+    "source": "Find action movies showing in New York this weekend?"
+  },
+  {
+    "key": "0dd4c64b6acb2963db90ea43f64070456341544346c4f968df30bfb7f5e80647",
+    "source": "Hi, are there any nice regular movies showing in San Jose at the Century 20 theater?"
+  },
+  {
+    "key": "7221627104d8ad989681cb1656e40c6956800de79a95a2956ebaa5b6adf61b61",
+    "source": "Find horror movies showing in San Jose, CA, I want to watch at the West Wind Capitol Drive-In theater?"
+  },
+  {
+    "key": "5c9fc7223e0ef6843d31099b4f06d15b296baa8e1c68b5302590fb49aa13d865",
+    "source": "Find me an IMAX movie playing at Regal theater in San Ramon, CA?"
+  },
+  {
+    "key": "fae091cd73b9e0012eaa1d472486f4adb85cacea674d0f4f8c8a2a8d25a1e887",
+    "source": "Can you find a regular screening of a Supernatural movie for me in Los Angeles?"
+  },
+  {
+    "key": "946addf6a3808d014de6a0ea315ab3ece898bf807d896137de4f72fb36bbeb1d",
+    "source": "Can you find action movies being screened in Sonoma, CA?"
+  },
+  {
+    "key": "d127820e1b51dd09cc6557d9800ef963dafe3e36f1d31cfafe137a88d3b299ef",
+    "source": "Find a documentary movie for me to watch in a regular format at theaters in Los Angeles?"
+  },
+  {
+    "key": "672e25638f75c4260901b656c125a35feffea74560160db6108ba0b03c397b50",
+    "source": "Find movie to watch at AMC theater Saratoga this weekend? I'm open to any genre."
+  },
+  {
+    "key": "dcb65df1e7b86709697cd95c0404cf2514ec3efd0ca5564e294264dbe70a9a28",
+    "source": "Search for a family-friendly movie available in 3D format at theaters in Sonoma, CA?"
+  },
+  {
+    "key": "c549612449357ecaa3f625636aee5f94b33fa117ae1e73a93bed34cfde3532b7",
+    "source": "Can you find a theater in Larkspur that's showing action movies? I'm not picky about the genre if there are no action movies available."
+  },
+  {
+    "key": "b85b56bd908d2868e2bb328d606beac5c041e11e3ec382e4b1a3ae062cabf5f7",
+    "source": "I want to watch a War genre film in a regular format at 3 Below Theaters and Lounge. in San Jose, CA"
+  },
+  {
+    "key": "5b15b20b3f74344257833509fe6cb085d8dd6742bfb9be115038662a19d50a8e",
+    "source": "Find Theater events happening in Chicago, IL sometime?"
+  },
+  {
+    "key": "bc560a9096897fef8d138e372e6241ea68fb801c35d48ab92d23ef5334aeaa60",
+    "source": "I'm going to be in Toronto, Canada next Monday, and I'm interested in attending a Music event. Could you check for any musical shows available on that day? today is monday April 25th 2023"
+  },
+  {
+    "key": "5394e57d313459b26ebc1227a75b3c9494698c423b5972973d753149f6341caa",
+    "source": "Find any Music events happening in San Diego, CA on 05/05/2023?"
+  },
+  {
+    "key": "bcdf91b80cccf89efd61e3fd9597eb4b175c98faa38a6d6992d3ea2d2b288bff",
+    "source": "Find a Theater event happening in Seattle, WA on the 15th of May 2023?"
+  },
+  {
+    "key": "59a2300ede2d4328dc30840f961716ec4e2ad7cdcf696b54fb7c16fc8d239373",
+    "source": "I'm currently in New York, and I'm looking to attend a Theater show. check if there are any plays happening today?"
+  },
+  {
+    "key": "574f29fccedf6b83fcabdba8ab0faa3b66c9093d8ba13fba8d23ae3389e45444",
+    "source": "Find any Music events happening in Los Angeles on 04/07/2023?"
+  },
+  {
+    "key": "6ff4b231f9bb844bee655ee3782799bd22fe950ecb18716c5e33c2c3237dcfad",
+    "source": "I'm looking for a Music event happening on 09/09/2023 in New York."
+  },
+  {
+    "key": "ba19ee69573da02a7558946b7fec5496742ad646e4a594199804d599be63874e",
+    "source": "I'm looking for a Music event in Philadelphia. Find what's available?"
+  },
+  {
+    "key": "702087b2b69e77d0083557c4f648fbe7d08103d3fa8bd4041bb0ac1a56d6f79d",
+    "source": "Find a music event in Portland that's happening sometime?"
+  },
+  {
+    "key": "d2e1349256610e5ec65227f9081cd52859298afbfec9327d9f6282647f73a96a",
+    "source": "Can you find any Theater events happening in London, UK sometime"
+  },
+  {
+    "key": "368aca9d094f9b3f540891187fcb8faa34fe615438f9ef0df95e697db1cdc939",
+    "source": "Could you assist me in discovering musical events in Livermore, CA on March 6th 2023?"
+  },
+  {
+    "key": "38962d9747e398542198b919b42c5d649ccf6c3367cfda5d5ce3dcdf6d78aa4d",
+    "source": "I'm interested in attending a musical show in Belvedere, CA. Are there any events happening?"
+  },
+  {
+    "key": "d7829209927af84bd7517dc9606a1726adca4544d9c672db7baecc61f5e35f69",
+    "source": "My sister is visiting me in Portland next month and I'm looking to entertain her with some cultural activities. Find out if there are any Music events happening on March 9th 2023?"
+  },
+  {
+    "key": "8872318342668af96b18cd0c8341806f0edaa3eb1e4e78f98bf3e2e673ea9c66",
+    "source": "I'm currently in Chicago, IL, and I'm interested in attending a music event."
+  },
+  {
+    "key": "3e11ed21caa1f4d32ac618adf62e105852c1af67c89e262a2c83b4d16d333b88",
+    "source": "I'm looking to buy a home with at least 3 bedrooms and 2 bathrooms in Sunnyvale, CA."
+  },
+  {
+    "key": "1e1d8d7f02be2bee89e8160b82b697f0d4c194b2612cd92913ffed2680abddde",
+    "source": "I'm looking to rent a 2-bedroom, 2-bathroom apartment in San Francisco, and I would love it if it came with a garage and in-unit laundry."
+  },
+  {
+    "key": "8905b5bfa39e693090036fa2944985401bfd82a0667a3af2741dd55a8cfe0cce",
+    "source": "I'm looking to rent a home in Fremont with at least 3 bedrooms, 2 bathrooms, I have a car so ideally garage. Can you find options for me?"
+  },
+  {
+    "key": "1e0cc5ecd6ca8214558d935fce44201aa6971f30a8002201d3ef87c0af3c0886",
+    "source": "I'm looking to rent a 3-bedroom, 2-bathroom home in Austin texas, and I don't care about garage or in-unit laundry facilities."
+  },
+  {
+    "key": "c296f1891c6e80a9e31b13eab926c153de803e215131554b6cbca153130ddc0e",
+    "source": "I'm planning to buy a house in Austin, Texas with at least 3 bedrooms, 2 bathrooms, and I'd like it to have a garage."
+  },
+  {
+    "key": "dc7c84ac28aff495eafd46d38c982e9b53b972d2d6c684f857e176985e526a42",
+    "source": "Find a rental in San Francisco with 2 bedrooms and 1 bathroom, and I'm not concerned about having a garage or in-unit laundry....."
+  },
+  {
+    "key": "10995cb25157a85148040683ffa4a3a87d2b3ccca63ff4374671999e8ae2f812",
+    "source": "Search for a property to rent in Mountain View california with at least 2 bedrooms, 1 bathroom, and must have in-unit laundry facilities?"
+  },
+  {
+    "key": "fd0d87eca1d95e5fa6071135ca3df0c304f19b7650da0b8041ba0c0ea05ec229",
+    "source": "Find properties available for rent in Petaluma, CA with at least 2 bedrooms and 2 bathrooms?"
+  }
+]

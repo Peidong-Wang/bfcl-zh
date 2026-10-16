@@ -1,0 +1,162 @@
+[
+  {
+    "key": "fc3dee5f864783fc23e0d6cac70ba8d069f0e5e0a8c811a2da590cd54995501a",
+    "source": "I'm gearing up for a quick business getaway and need my ride all set. Would you be able to verify if my tire pressure is in check? If it falls under a specific PSI, perhaps we could swing by the nearest tire shop?"
+  },
+  {
+    "key": "7cfc057eb3e39cd85012e00ef710264f473a92f88f81162fab8022bfde12d63b",
+    "source": "I think falling udner 37.5 PSI would not be ideal."
+  },
+  {
+    "key": "092bc5366254844eb83eceaa716d67caef88e2d45aeb3f5e469b386f43a20565",
+    "source": "Fantastic! With the engine humming nicely, it’s time for my adventure. Could you adjust the cruise control and make sure we're keeping a prudent distance (100 meters) from the car in front?"
+  },
+  {
+    "key": "f0db1c060b2ff33f1b9cd221c7f33148c547e3289b6c9a3708cba761f814079b",
+    "source": "Set cruise control to 65 mph."
+  },
+  {
+    "key": "79d98d79a5ae81416728bc4979220108ff903427600c70c64d12628cbcfec889",
+    "source": "You're planning an extended expedition from Rivermist to San Francisco."
+  },
+  {
+    "key": "f06bcf080a502c0539f63dbec9a38f6e5c7c210c18136e90cf0908fda0a9c62d",
+    "source": "I should be more clear. I mean could you determine the travel distance between these two locations for me?"
+  },
+  {
+    "key": "f72273ce09d9ec91dd42f2103463c40015df84b7a99023cef4ad1fd9f65ca35e",
+    "source": "Could you check the current status of a specific part of my vehicle and let me know?"
+  },
+  {
+    "key": "40ab0d1fa59ab9cfd96f854a70784a78e2c409751cd106fad2e7956664b6b1a1",
+    "source": "I'm keen on ensuring the tires' health is up to standard before we venture further into the rolling hills. Can you show me the tire pressure for each one?"
+  },
+  {
+    "key": "085b88049d25fac0b676f909e9093fc754f48afb548a792b2d34aa0517a96d79",
+    "source": "With a tank full of fuel and all safety measures addressed, I'd love to perform a specific operation."
+  },
+  {
+    "key": "a3722106af0dff62e89f8859716494475225244b199bebe955f48a4123d0906e",
+    "source": "Ignite the car in pure anticipation."
+  },
+  {
+    "key": "8e7a7c848eb238e77412d4273db8ffc17adc9d3017dd3a7af51bfffda087ea3c",
+    "source": "I am at the gas station and ready to fill up my car with gasoline. I would appreciate it if you could manage filling a certain number liters into my vehicle to ensure it's properly fueled for the journey ahead. Use 2 decimal digit of the gallon amount"
+  },
+  {
+    "key": "bb79715df2b8a533dbccd1f910f2395a9f0a74cd8d82b225330cd479460d56f3",
+    "source": "Let's do 30 liters."
+  },
+  {
+    "key": "a9faabd346600a27143c68b1666df3f1cb46e4413f47b3f3dff14cba6d9fb6fb",
+    "source": "My vehicle's fuel tank is low; please refuel it to a certain level. Following that, initiate the engine using ignition mode 'START', ensuring all doors are secured and the parking brake is set to avoid errors."
+  },
+  {
+    "key": "d43a9d1dc9ce390455babe762201544e24fd57df56253850c08119c8cda65c38",
+    "source": "Let's fill it with 30 gallons."
+  },
+  {
+    "key": "16d5b3a82540f82592f6bf19744a04c6ac3e3667f9d3d369143e5c021e5274ce",
+    "source": "I’m planning a trip that starts from Rivermist, and I need to see if my current fuel situation will get me there. Could you work out the distance?"
+  },
+  {
+    "key": "052d6015f7d9732d5581e1c1a344df23f1b46f900096c5819f0e3ead6f93b011",
+    "source": "I'm going to San Francisco."
+  },
+  {
+    "key": "36e5f8e7963b8251449e932a2c6f3932d5a22eb46b3daef4586f37f37abb832f",
+    "source": "I have the tire issue fixed. Thinking aloud, since it's been a successful start to this journey, I'd like to send a thank you tweet 'Thank you to our vehicle for a smooth start!' about our vehicle with a few hashtags we previously discussed."
+  },
+  {
+    "key": "79eb1a78c470e3c7f0e06a46214686048ba4d68a0666fbb10764292d0baac027",
+    "source": "I mean these: '#Journey, #SmoothRide, #Grateful'."
+  },
+  {
+    "key": "b8a2b4466a3a5c1ca26ba3672051ce606e320c23cea9b2d1cfb1a6c087f5a804",
+    "source": "As I gear up for another delightful journey exploring the captivating waterways, I'm looking to convert some gallons of fuel into liters. Could you assist me with that conversion? I tend to work more comfortably with liters."
+  },
+  {
+    "key": "eff6eee3adb3d7950091d7df51b929ef6b76f8923cc2f3b44cb9f41dbf060bc2",
+    "source": "How much is 60 gallons in liters?"
+  },
+  {
+    "key": "e67f41a5fd52dcd2a34cd161a879e3bbc58da4e00dcf2101cbc3eba5abf0f2b9",
+    "source": "With the car prepped, I need to gear up for a drive to Rivermist. I'll be checking the fuel level once the engine is on in 'START' mode. Then, help me post a tweet, 'Embarking on an exciting road trip from SF to Rivermist!' and please throw in hashtags #RoadTrip #Adventure #Exploring."
+  },
+  {
+    "key": "c74926ceeff5dc74d1b5bb7269b419da6a715d317448bc9d16e3cd8c4f9664e1",
+    "source": "I'm leaving from San Francisco."
+  },
+  {
+    "key": "377cc4ed36479a785a6e99dd85a1a5506814be3f3eaf36f9544088372fd36b7b",
+    "source": "Perfect, it's ready!"
+  },
+  {
+    "key": "b182adcf104380d4b1bc410f4b21b29b3d306878f5b56c8346733ea4c992b075",
+    "source": "Oh one thing I missed. Let's get the vehicle ready by starting the engine, please make sure everything's in place."
+  },
+  {
+    "key": "8f75249b714817fce26775f29a052b8f4fb774b819de8283a2ed0ba2f57fa029",
+    "source": "Also, on Twitter, let everyone know about my upcoming trip from San Francisco to Rivermist, with content 'Excited for my trip from San Francisco to Rivermist!', mentioning my best friend and using the hashtag #JourneyAhead."
+  },
+  {
+    "key": "269bbf9c9935d5ca76d9e6d9bfba0fe2b8799ce8fadaf20e5d30c2f3b6297081",
+    "source": "His user handle is '@TravelBuddy'."
+  },
+  {
+    "key": "0ad10758447b24ad242ea4dae3f8ec17c800d2b00f08ea9977611058ecca7fbd",
+    "source": "Hi, I am Kelly. I'm sweating. What's the temp outside right now? Would you be able to update my friend on today's outdoor temperature with message 'It is hot outside.'? He should know whether to bundle up or dress down for the weather."
+  },
+  {
+    "key": "ecb2e97233eceda167a6fab76683a692595ee3cac5ad0d889eab8b860e329120",
+    "source": "I want to send it to Michael."
+  },
+  {
+    "key": "86d2f71b697f829cbda1b17787be5913425740af4c62f7aeefcf7d66f4b88868",
+    "source": "Could you provide me with a rough distance to Greenway (zip 74532)? I'm eager to plan a visit and need to know the travel distance."
+  },
+  {
+    "key": "baff55e2120251bae621f6ad85deb67a341bbf5929211d2d08cd7c69831fed40",
+    "source": "I'm departuring from Rivermist (zip 83214)."
+  },
+  {
+    "key": "68e2a7f5d0da874fe163fa69a0950a386132d7ef481ce8a20727cf0dba85c9e1",
+    "source": "Should I notice that my tire pressure falls below a certain psi, kindly provide me with directions to the nearest tire service center for prompt resolution."
+  },
+  {
+    "key": "61e39f71b94139cf39975508af7d676230350d254b223486d333b1f1c35708eb",
+    "source": "Let's use 40 PSI as the threshold. Anything below that is not good."
+  },
+  {
+    "key": "09ab51c92bdcbcfb9202d08dbd386601910b13d45ba36b9f9b1a97ce9b673775",
+    "source": "Hello! I'm laying out a detailed plan for an extended road trip and need to verify if my car can endure a stretch of that much miles without requiring a pit stop for gas. Check the stats for me, would you? Should the range fall short, go ahead and top off the fuel tank with 30 gallons to ensure we're in the clear."
+  },
+  {
+    "key": "c46433f91e7ec62a71878399a4efc60ec5c7956204ec07e8dd7701fed4025759",
+    "source": "I think the total trip is about 300 miles."
+  },
+  {
+    "key": "ed4d4b722b3677cac331fedbb3e734d273eb0a25d495b21212958537019019bc",
+    "source": "Please relay the estimated distance from Rivermist to San Francisco to my colleague Emma. The message should be in the format 'The estimated distance from Rivermist to San Francisco is X miles.', where X is replaced by the actual integer value you computed earlier."
+  },
+  {
+    "key": "714b90c8885ac8bfaac7ec8d72cf5c5834d6b643f2ff5f8dabfecafef57cbdc7",
+    "source": "If it helps, my id is 'USR005'."
+  },
+  {
+    "key": "dcee6205f668c07b7c23f61c6f9ac4961e3653ca77262c25f525ae28c52ff860",
+    "source": "I'm curating a road trip to the golden light of Rivermist. Could you craft an estimate of the travel distance and time? I'm keen to envision the extent of this journey."
+  },
+  {
+    "key": "e51d7b6029c4c27618d587760358768b724b629924d6354f9ca352a154d4b115",
+    "source": "The trip starts from the vibrant hues of San Francisco."
+  },
+  {
+    "key": "1b6e9ee68b6d24a1a4fd8a155fc6932756697ca5015bb931b8400712279206a0",
+    "source": "Great! My tank are full now."
+  },
+  {
+    "key": "20de9b3b02815863467a7a353086ada3ce048b711ce9555d86020519422e87ad",
+    "source": "With my tank now full, let's embark on this journey. I'd appreciate it if you could start the car for me."
+  }
+]

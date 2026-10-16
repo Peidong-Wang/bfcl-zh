@@ -1,0 +1,669 @@
+{
+  "date": "2026-10-16",
+  "reviewer": "Codex, same session second pass",
+  "independent_human_review": false,
+  "scope": "132-case five-condition subset; full-suite review tracked separately",
+  "description_count": 1104,
+  "records": [
+    {
+      "source_id": "multiple_2",
+      "content_sha256": "672b13e6c1c2ac03196d27155c98b1e894bcb11cf59547e25f9cd833590f7e71",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_7",
+      "content_sha256": "44e7a5636720411bbe63c04c3fbcd660f62ecfbfec2856fa81c69052e981e187",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_8",
+      "content_sha256": "9d5b6d0f5b016714b225e5a097ca62e0d1537478991df7d4e370df5d89d4fdb1",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_9",
+      "content_sha256": "cdcc5ec46c9e509a8d294a75b427912f2995cff5af8c5ae5e14793de00f16a0a",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_12",
+      "content_sha256": "077e8f11efac418d8d7c80fa7f7a448da606d2b5c95c7e87b3e2affbbcc4322f",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_13",
+      "content_sha256": "ab9e0bf2b48f3141edc5ef5e0e6454a0a971618d584b8ad8429aa1ee9bca88cd",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_15",
+      "content_sha256": "080b19aedf965d8713b4673c50ad260968b05c665e25966662b33af0dc949213",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_16",
+      "content_sha256": "be9005e90649f8eec6e890804edc4de9bbbe732e2366cfd4369cbfea63b180fb",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_17",
+      "content_sha256": "f44a7af004754dd1a215255f2e0eb8aec40557da63f2881f75a6f76fdda19c97",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_18",
+      "content_sha256": "ad6cd26dd23979d7344a41fb931c58c366a3e88a915f33fefdebaa5630af16f7",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_19",
+      "content_sha256": "e71781cbc659faf3d44ba8da4c90bbe7def366f21500d5c7a4395c69a58f355f",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_20",
+      "content_sha256": "3ff518b2a0fbd63f7675d3c97b37fb6fd2ef4c4e6dd73429763e3ab04e910664",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_22",
+      "content_sha256": "3ac6c44f6022a357eac96fa89bf0cefdfc0a41606e0a75d5f24f66facbe11cb6",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_23",
+      "content_sha256": "45098d1feb037a701226c88ccae4e5abb276af4a1925efc1a05dc9b5b4ba6cc8",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_24",
+      "content_sha256": "6f254c04fd71486b6655584527479a990c1b5ecc14e3169e1d7d0d2143b1b14c",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_25",
+      "content_sha256": "588e845ef123343bc4f7f90d331269c49ee13d4e46def273472d828c84ab1e42",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_26",
+      "content_sha256": "844ed2533fe0af7a67dc4fcbce572ef4a8af6e50dd837ef798c7730a344ebce5",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_27",
+      "content_sha256": "23b4c051ca4213416e4689e15278caa4b0307686773ef2131780fc5e28d16c2a",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_38",
+      "content_sha256": "8f897d5c06f8f023c2434d04fe09f0935fe4c7c69c2d8939e6676c8bb0642d17",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_39",
+      "content_sha256": "cfd9e5a804229fa7a9b3b0ed69f2e90b561c2b573505380f22e9541413a56e62",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_44",
+      "content_sha256": "61c178de7697e1bd6ea56701c4736dd9910e7705c7ce78057ff60f36a458e37e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_45",
+      "content_sha256": "a50f50c0edbf647fe88cbadded8fd2e7d3cedd5016c2f1a2bfa4fe582c216e12",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_46",
+      "content_sha256": "26989e56dfbbc2dc4f6a2e39c2c6bcfa50fa6dcec38c30df2fc6c0046975f096",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_48",
+      "content_sha256": "189d63bb7322f28f3ad47697a507aad9d61ec67c04e38d42816304f3293b4d26",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_50",
+      "content_sha256": "9238cc2ba5e560a44815e1909273c89b346c47bebbdbaeb7fadd446f7948f67e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_52",
+      "content_sha256": "dca5634bd4d414f74b32591c9a46ac2327dc14e3ebb5eb070efb5d761e665d62",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_53",
+      "content_sha256": "fe3e622aadcf3e1a533e5e6d8ddecad8ccec6a4535d34347f29d097ebdf35209",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_54",
+      "content_sha256": "05c961e9f205f9e515ce5c62b04bd0f03b1cdbab945112006c7d335cf1d12e7e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_55",
+      "content_sha256": "3d62a61a3736c64b26e8b786b76173d5ba1f34545dc098d5589124e3e0b13ef2",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_56",
+      "content_sha256": "ce874f0f4bc21c61ccd34cdb3ba17127e7f619cffd51a8e35e4489ca8f26001f",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_58",
+      "content_sha256": "5c5a3ba65d5090fe633c03a86b1ef76cb1aba23a78c710beea124fed00331853",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_59",
+      "content_sha256": "77d24ab9a19c274e274217e290bf9bad89791c0a20fdc29d2769ef0d80fa8c9b",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_60",
+      "content_sha256": "f15373778bc26b8ca24833c68e04f36391263876f5e4a57de891d1d408eafe90",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_61",
+      "content_sha256": "754b4e193d850a1fbe7cefe127c394203e9bf25e96f1c0f5eb25da94eaee9d8e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_62",
+      "content_sha256": "05a8efe4834ab2552aaa060f1cea248e29762cf291faead12f7aa9490e23545a",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_63",
+      "content_sha256": "74a488ea10b7f8c39e724139c09190f2be74d2a7d32926c23eca6ca7f4140801",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_64",
+      "content_sha256": "560c0738df1d74122e355c3ecabc9ae9f4b0215ada552672ae05f01bd7cf029d",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_65",
+      "content_sha256": "c2aace0f68cf723554f47d2587f5c6c7b90c3943be4407569f98fb6050d896c1",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_66",
+      "content_sha256": "ab58cb40d1da97515155d8c61df71569a28fe5650dc117dcdd74395d75a5f8a4",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_67",
+      "content_sha256": "31b7a417cbf1809bbaa91c39670254b50657243e720a285a5712bbed4d48c69c",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_68",
+      "content_sha256": "f5f3e02d6abb5d2447d60444d57c11f7f2e87b9b91c6cbab5f6626af76174bd5",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_70",
+      "content_sha256": "bfdac24e4d9d086aaf585baea9de97d2a718f4592f081698bcdc5a807d828053",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_71",
+      "content_sha256": "078627c8022fd42c55ac39d4099b9b697216d5a6a3a4f3e04f70a7753d100ece",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_72",
+      "content_sha256": "45fd0ec21130660af34963a0d604d976abf296b6c9302d09b7aef199072797e1",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_73",
+      "content_sha256": "5b2d8d79ecbda3df0dc6d01daa8453db9daed08a5797eb49f5c53eda2c0e18af",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_74",
+      "content_sha256": "570c9e4249a5fc11acc078937695645804943cecc478ffe43c25d17b960b2d40",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_75",
+      "content_sha256": "cffd5353c2ec45365cabc7dff408b3ae587b520bc9f5c8255b56d4369b457240",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_76",
+      "content_sha256": "a20ceddc331d34f34e8a967ca94e7b9527d56eace952d5ac04e81c4ed8247ee4",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_77",
+      "content_sha256": "fa2553ed6ed9847ff6603e2021a6e12fdeebf7b95f31165db80d7458fadd2845",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_78",
+      "content_sha256": "6e2ee743bacac8f4e412f8377926e220a68bbc76db6fa5aaf9de02161e7d5529",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_79",
+      "content_sha256": "dfb1d180137dfd36a62eb4fec2a3af142a57e47c98ce427761e4ab21bcee1eb0",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_80",
+      "content_sha256": "c8d247fe72d3372380295fa24c746ecf8c089bace349f131f26c6d4916ea4af8",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_81",
+      "content_sha256": "60672715fed2616091267f80e3c6072cc98a874b113c59786dded94090fca3e3",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_83",
+      "content_sha256": "7ea09a3857dccc4ed450341eedc92edbd4454f4a799fe94dd77775eee507a436",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_84",
+      "content_sha256": "790e47b4fa34d7982ba5004eb14a63a9c42f381b26474ce89371921743e92158",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_85",
+      "content_sha256": "2e20525e0990aa7734775d8cc9bd6262ed0b0f6a291bf5ac30f39e9e552a0142",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_86",
+      "content_sha256": "9d3b6cbb6d0468504e755238ef00634038c7b9680fe3505b47b67d0814d7f0f4",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_87",
+      "content_sha256": "73f66900243d8131034d7e0c6e728f062fa4808cd0089048aaf82aaaf5968595",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_88",
+      "content_sha256": "5db17155ce1e99ca28c20182b628040aff5d89bc11a72faffa101ced533deb54",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_89",
+      "content_sha256": "e21a64f1ae3b692e872f6e7ed418daafa5cf62f3affaeedb42c4da859000dcf1",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_90",
+      "content_sha256": "9af74b6b163b3f1a068ffa02ece44b0e41d4aedcf82f8f145ad2f98174a0c344",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_91",
+      "content_sha256": "e07b7e4fd1aa95aacd7c8fa763e3f2ef04afeb7d518293bafae639eed8ea0b4c",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_92",
+      "content_sha256": "7f53bf5eeaa6abf788486a757a453c20618c31621f87a755bacbbe22e02f28e8",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_93",
+      "content_sha256": "45b378fe8dd8217fc8d6123a96b370a9ee02910c72ec4b81fdf26e0e66c017ff",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_94",
+      "content_sha256": "4817ac07496f5d9225f58432db8ab27e4f943d2150c10b16a5a06998a3ac134f",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_95",
+      "content_sha256": "7096b49c1a20f90068be1ab7421b430178858564e404192f49a0a05d9b35dd5b",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_97",
+      "content_sha256": "6c5ac841d744a3e99f62fe67d72f7947d19e6794ea62b2e81ba8f2478d940ec8",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_98",
+      "content_sha256": "46cb598fbd95e6c968ff875d1e1799a5e0c3fc150f0918568c891fae373203d5",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_104",
+      "content_sha256": "73d161eea479ce3af0e619b158c97b91a1db0d57123ffcc303ba8da711fe15ef",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_108",
+      "content_sha256": "b65e05dc79a310dd137bc2f41a6a238efe39c265842b97629a6c9b5b54939fa0",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_109",
+      "content_sha256": "d483d0a4aaca2521999abb331e95083c565f91f371ee8ded8600243c8bb8f9a8",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_110",
+      "content_sha256": "587920852bdf5860b826bda5d7ac85062eca0bc2e0d50ae29500015a33ac2569",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_112",
+      "content_sha256": "450eccc675695372a0a43f2db6b1ea33f31d821ba03c1a668df4e042766802fc",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_114",
+      "content_sha256": "ff406bab5900914cca83d186ca4756fa9f3c1fb1cd27898c5119cf799f4a3abe",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_115",
+      "content_sha256": "8fee1dfe25010ecfbb267727b1616f6626684f39874ba3dcf92d642711d850ea",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_118",
+      "content_sha256": "443bd97647b5e14c96f39fb2da01609fe0432da1e48b1e4257da74742f941686",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_119",
+      "content_sha256": "703b9b2ad256dd0d3b16bea3eb8980170f4f8a3a0af1df9bbcf3df2591ffcb4e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_121",
+      "content_sha256": "80b9fd4216ab1991c48d57cba92ad72bb1f9ec07dbb2b37d025dca7ec31777f6",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_131",
+      "content_sha256": "2863aca774475ad05a6ac1fba83fd9940787628762ddbc8a3528ac7310d1ced5",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_134",
+      "content_sha256": "9ad3e99571d3eec259d651214dc06522b8d5576c1efb7e5db4bdb65de846c1bc",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_135",
+      "content_sha256": "f8078ce0567ccb70d16a487de8139b97c89e76d53a19d6a3b0437a33c3991c58",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_136",
+      "content_sha256": "a17a62ae9d7ee33e8ce5b943098c96a48ee51253c180e7ca799bdf36743a5654",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_137",
+      "content_sha256": "32afd84934353f879fec57f1d73a9d0816decddfebcd93c128e7ce4e81f06fc6",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_138",
+      "content_sha256": "b7691e60910a0b3e1e932ce858366eda46c02bec44176fcb87e33bad279f43a1",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_139",
+      "content_sha256": "8d2b18a9cb9c1ccb720c696eed92a466669ac52375c352a98c65f5b99fef2455",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_140",
+      "content_sha256": "77cf9affb7aeb76e00fbafea200dd4ee6df6afd6b1fe60b6189658786f428175",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_142",
+      "content_sha256": "d366b0075cd0123dde493e8e2b35ec1b80242060b017ad416cfb6d2242512d3e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_144",
+      "content_sha256": "0ababc69a93ec9b4f575eb2e45c4bf9def77b44559f3568cf6ec124c7e35e90e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_145",
+      "content_sha256": "2e196c54e8274f558bf094acf4ecaa0113cbb39a57fb162a4d34f2dfcebfe53d",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_146",
+      "content_sha256": "1422ba37abd316a609ef805d3b12e0246ad125d82260065dfc5be275d9723c4a",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_147",
+      "content_sha256": "18a1dc58be6610251d2f9bcc1df6bb867f81b2b30e3986da147050686d872238",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_148",
+      "content_sha256": "8cbeb4c082c2c5037c3c77e93f1c40ae78863cbebe4bc36710994012256dcad3",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_149",
+      "content_sha256": "2b50139a81ca912538fffddf11f280cf52df3dde38c7908a626ef11b24781568",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_151",
+      "content_sha256": "4ee3efd450527aa7fd667d27419f12aee0d0dd036bc17cee186c5c480eeb57e5",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_152",
+      "content_sha256": "f86b5c743b8acb9743405640c6744f42ea53a3dc3cbe942414ce88a408e0be47",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_153",
+      "content_sha256": "75de846d3bffc79c0852101476cdfe06aee494774ca346179dd794890bbb990c",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_155",
+      "content_sha256": "0b0bf13325b9867534242cb52bba78cc51ee769069da011138b032ef0487bcbd",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_156",
+      "content_sha256": "5f263cf8a65194be7138e3d483210c8d2202c13a68fdec4b01a1f2c86056cf80",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_157",
+      "content_sha256": "30de4a0829c8f2da377dfe324aa5619088b7a56fc25576cdf5de6c972528c6a4",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_158",
+      "content_sha256": "ce6e7c4005c7d3b97cc8d82a35b80bb8e84470fea9ecc1e51ac091ab1246c118",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_160",
+      "content_sha256": "db94ff2b4393e51b9d1f5b9ce0da680393b1dd08fba94529b697d0edd41179b4",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_161",
+      "content_sha256": "391f3f72e98811d193e382f452c67ccfb61eca5723d34cd2709aa4b422a8d62e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_163",
+      "content_sha256": "df86f05ca1f82d1a2ba7bbfdf6b97520669de205f928b48fc51f83caa097790e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_164",
+      "content_sha256": "cea90ae64aafd6768888bfce93f7eec3f79bd56d5d02aba3f8f55526098d71b2",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_165",
+      "content_sha256": "2fd9f692f879f149df6eba76225f762e0d1acbcf830230fa5dd67f7f26e3c53e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_166",
+      "content_sha256": "f5581e5fe67ec05fd4a67076425b7e5ad2db34bb671a212534bfeaf5f7a2f235",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_168",
+      "content_sha256": "05520a00517a709c3972ae821aa9b23fba0a1e92152294a969f725230d3702a4",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_170",
+      "content_sha256": "71458dbcae7515a781bd9bed6707ef16e18768599ce6a7bb022d4ec218d907e8",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_171",
+      "content_sha256": "d575046153ed5b15d070de26f7ccee32ed0d9a4463ee7ce924d5379f6bc757af",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_172",
+      "content_sha256": "338339fbf00cff23bb3afcd8205a9babd22be5473ed95403b21427d81ff1c6b9",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_174",
+      "content_sha256": "2043ccea6386b38d1c19fee65a8c7a55ddfe739a5f7b3f957af66444091b2b43",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_175",
+      "content_sha256": "917f12594188384914d98aa81bce1094a03f38dd26c52c3f13d3e0883798a094",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_176",
+      "content_sha256": "7247cd5d7fef58a604d90bcad2e7169dc8fd0f9de4ddf6ea8f65002ea43061d0",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_177",
+      "content_sha256": "2836a30e68657918784fbdad8a486ab6a962391f97a867acdc5507b97f8e25ee",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_178",
+      "content_sha256": "baa892afc3636c75a518df027346524de3cd075274b42d8818577c0d2c22bcf4",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_180",
+      "content_sha256": "7f504b8e78380061695e1ae7463c447210ba886d005c55bd3d07bac404c773c7",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_181",
+      "content_sha256": "c407ac0c42d869771ac32487db2c7e649e2d3eae3c0c434d79510cc07fe49070",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_182",
+      "content_sha256": "7c3320292722efde27790ce9776c3e18d98ebb0b78356422e88ca63a5275c04e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_183",
+      "content_sha256": "6028eb6934704719bc730bd7ad03b1293c3c0557705dbca203313dd60edf1c9c",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_184",
+      "content_sha256": "81f2b26edb0f93dc2c9cb7e8b44ee65fa8d639e097e7151c417b6d13ee9229cc",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_185",
+      "content_sha256": "08d1a0ff415f610177d25eddf5d8f7d1fa87dee0152882860e0ec187c33cd289",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_186",
+      "content_sha256": "a757994753362c903827de42d35740bb79d129caced897267271530c7e0fd0db",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_187",
+      "content_sha256": "312b9520b0f05666ef0996e4f353dddb1612c9e5dbc276961762489a3b338652",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_188",
+      "content_sha256": "353aa317b0fa2399c47c4bab527028d1f65ef18f2793519de8b20c9489271357",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_189",
+      "content_sha256": "a28fe40779f906384c16eb2e857f9cabfafa8d32f4d9a9cf31af85c111da1dc2",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_190",
+      "content_sha256": "0ae3d9f66cd7aaadd06effe13739f1269ab0c4a7f76e82e30955931dbb2d178e",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_191",
+      "content_sha256": "48df8c415b92fcbd42c484151f186e382139cf3341af19282cbd44d7b1792a5d",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_193",
+      "content_sha256": "97e957867b9efcba2bf9d3d33536004c5160a6e8bc6808a89259be5e81d4b58c",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_194",
+      "content_sha256": "1f0dc4e5ac21333309abb040977efb140005b4167b52c278c08e082e4086ac35",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_196",
+      "content_sha256": "0c4e78a27f657eec3d1a3084a93820fe60a498c57e21185d41ae146d1d23be33",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_197",
+      "content_sha256": "53636c2c10c8b4aa512fc21b7775a7743e8791a92dfb32cafacd40cbdc64daf6",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    },
+    {
+      "source_id": "multiple_199",
+      "content_sha256": "72d78b0136f212224c8a50d9c34911800ec427dfbc51580e0330fe9dc8a31a6c",
+      "status": "Codex second-pass review; see disclosed source ambiguities"
+    }
+  ]
+}

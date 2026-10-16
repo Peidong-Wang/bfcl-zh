@@ -1,0 +1,100 @@
+请替我与 Margaret 进行一笔交易。
+我想从我的 Visa 卡转账 $122。
+我有一笔交易，你能处理吗？
+我需要帮忙从我的 JCB 卡付款。
+帮我找一些可以参观的景点。
+河内天气怎么样？
+我需要坐火车旅行。
+我是一个漂亮的女孩。
+ACHD 价格
+使用 Uber 叫一辆出租车。
+帮忙寻找19/03/2024 12.00开门的餐厅。
+帮忙寻找19/03/2024 12.00营业的便利店。
+帮忙代替 Opera 工作。
+查找所有促销。
+预约清洁工作，22/3/2024，曼谷 Chatuchak。
+我想预订去巴黎的航班。
+1+1 等于多少？
+9:45
+嘿，你最近怎么样？
+5分钟后提醒我给 raj 发短信。
+和我玩《Jeopardy》。
+播放设置一个5分钟的计时器。
+列出 Jira 中所有未关闭工单。
+我想休息一下。
+我想去旅行。能推荐当天的穿搭吗？
+使用 API 密钥 'alpha_key' 检索该 IP 地址的 WHOIS 信息。
+10分钟后在伯克利邮政编码94704地区为我叫一辆 "Plus" 类型的 Uber。
+需要所有待处理和有效的授权。
+什么是授权？
+获取全部。
+
+列出最近24小时的 Instana 事件。
+给我叫辆 Uber，去 Rua Explosao, 8899 这个地址好吗？
+哥们，爱因斯坦描述的方程是什么？
+告诉我冒泡排序的复杂度。
+嗨，你是谁？
+寻找提供清洁服务的服务人员。织物加固服务。
+查看促销。
+你是一个为用户查询规划解决方案的代理。\n你应始终用自然语言给出计划。\n另一个模型将接收你的计划，寻找正确的 API 调用，并用自然语言将结果给你。\n如果你判断当前计划尚未完成，可以输出 "Continue"，让 API 选择器选择另一个 API 完成计划。\n如果你认为已经得到最终答案或满足了用户查询，立即输出答案。如果查询尚未满足，应继续输出计划。\n多数情况下，搜索、筛选和排序应在单个步骤完成。\n计划应尽可能具体。最好不要在计划中使用代词，而使用之前获得的相应结果。例如，不要输出“获取这个人执导的最受欢迎电影”，应输出“获取 Martin Scorsese (1032) 执导的最受欢迎电影”。如果你想逐一查询列表中各项的信息，该列表和其中元素也应出现在计划中。\n计划应直接明确。如果要搜索、排序或筛选，可在计划中写出条件。例如，如果查询是“《花样年华》(id 843) 的主演是谁”，不要输出“获取《花样年华》的演员列表”，而应输出“获取《花样年华》(843) 的主演”。\n\n从下面开始，你应遵循以下格式：\n\nUser query: 用户想获得帮助的 API 相关查询。\nPlan step 1: 解决查询的计划第一步\nAPI response: 执行计划第一步的结果，包括所进行的具体 API 调用。\nPlan step 2: 根据 API 响应，解决查询的计划第二步。如果上一步结果不是你想要的，可以输出 "Continue"，让 API 选择器选择另一个 API 完成计划。例如，上一个计划是“将歌曲 (id xxx) 添加到我的播放列表”，但上一步 API 响应调用了 "GET /me/playlists"，获取了播放列表的 ID，那么你应输出 "Continue"，让 API 选择器选择另一个 API 将歌曲添加到播放列表。注意上一步 API 响应中具体调用的 API。如果调用了不合适的 API，响应可能错误，你应给出新计划。\nAPI response: 执行计划第二步的结果\n……（此 Plan step n 和 API response 可重复 N 次）\nThought: 我已执行完计划，拥有用户询问的信息或用户要求创建的数据\nFinal Answer: 执行计划的最终输出\n\n开始！\n\nUser query: 请给用户 shaked 发送消息 hi\nPlan step 1:
+10分钟后在伯克利邮政编码94704地区为我叫一辆该类型的 Uber。
+定义 host 是可选的，默认值为 /api。
+提供所有版本，但限制为50个。
+"delta" 正在使用哪些 Infrana Alert 版本？
+获取活动鞋子！
+	/
+/q
+告诉我点什么。
+回车
+mert
+我想预约编号7758的女佣，3月28日上午8:30开始，服务4小时。
+由3人团队提供清洁服务。
+旧金山天气怎么样？
+告诉我3楼所有洗手间的位置。
+USER: <<question>> 查询<<function>> [[{"type": "function", "function": {"name": "__get_all_user_list", "parameters": {"description": "__get_all_user_list() -> list - \u67e5\u8be2\u6240\u6709\u7528\u6237\u540d\u5b57\u7684\u5217\u8868", "type": "object", "properties": {}, "required": []}}}, {"type": "function", "function": {"name": "__query_meeting_room_list", "parameters": {"description": "__query_meeting_room_list() -> dict - \u67e5\u8be2\u6240\u6709\u7684\u4f1a\u8bae\u5ba4\u5217\u8868\uff0c\u5305\u62ec\u4f1a\u8bae\u5ba4\u7684\u540d\u79f0\u548c\u5bb9\u91cf", "type": "object", "properties": {}, "required": []}}}, {"type": "function", "function": {"name": "__get_meeting_room_schedule", "parameters": {"description": "__get_meeting_room_schedule(room_names: list, start_time: str, end_time: str) -> dict - \u67e5\u8be2\u6307\u5b9a\u7684\u4f1a\u8bae\u5ba4\uff08\u5217\u8868\uff09\u5728\u6307\u5b9a\u8d77\u6b62\u65f6\u95f4\u5185\u7684\u9884\u5b9a\u60c5\u51b5\n            args:\n                room_names\uff1a \u4f1a\u8bae\u5ba4\u540d\u79f0\u7684\u5217\u8868\uff0c\u6837\u4f8b\u683c\u5f0f ['\u4f1a\u8bae\u5ba4\u540d1', '\u4f1a\u8bae\u5ba4\u540d2']\n                start_time\uff1a \u5f00\u59cb\u65f6\u95f4\uff0c\u6837\u4f8b\u683c\u5f0f '2020-01-01T10:15:30+08:00'\n                end_time\uff1a \u7ed3\u675f\u65f6\u95f4\uff0c\u6837\u4f8b\u683c\u5f0f '2020-01-01T10:15:30+08:00'", "type": "object", "properties": {"room_names": {"title": "Room Names", "type": "array", "items": {}}, "start_time": {"title": "Start Time", "type": "string"}, "end_time": {"title": "End Time", "type": "string"}}, "required": []}}}, {"type": "function", "function": {"name": "__book_meeting_room", "parameters": {"description": "__book_meeting_room(meeting_room_name: str, start_time: str, end_time: str, attendees: list) -> dict - \u6307\u5b9a\u4f1a\u8bae\u5ba4\u540d\u79f0\u548c\u8d77\u6b62\u65f6\u95f4\u70b9\uff0c\u9884\u5b9a\u4f1a\u8bae\u5ba4\n            meeting_room_name\uff1a \u5b8c\u6574\u7684\u4f1a\u8bae\u5ba4\u540d\u79f0\n            start_time\uff1a \u5f00\u59cb\u65f6\u95f4\uff0c\u683c\u5f0f\u6837\u4f8b '2020-01-01T10:15:30+08:00'\n            end_time\uff1a \u7ed3\u675f\u65f6\u95f4\uff0c\u683c\u5f0f\u6837\u4f8b '2020-01-01T10:15:30+08:00'\n            attendees\uff1a\u53c2\u4f1a\u4eba\u5458\u540d\u5b57\u5217\u8868\uff0c\u5982[\"\u7528\u62371\", \"\u7528\u62372\"]", "type": "object", "properties": {"meeting_room_name": {"title": "Meeting Room Name", "type": "string"}, "start_time": {"title": "Start Time", "type": "string"}, "end_time": {"title": "End Time", "type": "string"}, "attendees": {"title": "Attendees", "type": "array", "items": {}}}, "required": []}}}]]\nASSISTANT: 
+吉卜力工作室第一部获得日本电影学院奖最佳影片奖的电影是什么？其票房成功如何影响了工作室的国际知名度？
+我喜欢自行车。
+旧金山是很酷的城市之一。
+给定文本“晚上 Saloni <> Sahil 会面”是否与关键词 Sahil 相关？
+晚上有一场 Saloni <> Sahil 的会议。
+我是会议的一位参与者。我的问题是：检查我是否有任务。
+能获取坐标37.8651 N、119.5383 W的天气数据吗？包括未来10天温度、风速和降水量的每小时预报。
+嗨。
+今天是星期二。
+你能做什么？
+098-293 的 API 令牌是什么？
+将 'sungai long burger king' 转换为坐标。
+解释 Patient 的条形图。
+我只能吃纯素和无麸质食物。
+缺少重定向名称。
+please: 参数过多。
+Welcome: 找不到命令。
+API: 无匹配项。
+(chatSCE_test) [jinxu@us01odc-hqdc-1-gpu013 ~]$ 执行中....
+执行中....
+此命令将以交互模式启动 CLI，你可以直接在终端输入命令，与 OpsMate 系统交互。如果你有想执行的具体命令或任务，请提供，我会协助你使用正确的语法。
+(chatSCE_test) [jinxu@us01odc-hqdc-1-gpu013 ~]$ 欢迎使用 OpsMate 聊天机器人！输入消息并按 Enter 获取回复。输入 'exit' 结束对话。
+{"data":{"eman":{"branches":["eman2020.03","emanTD","eman2023.03","eman2022.06","eman2021.09","eman2020.12"]},"spyglass":{"branches":["TD","VERDI2021.09","VCS2023.12","VCS2023.03","VCS2022.06","VCS2021.09","VCS2020.12","VCS2020.03","VCS2019.06"]},"vcs":{"branches":["TD","VCS2023.12","VCS2023.03","VCS2022.06","VCS2021.09","VCS2020.12","VCS2020.03","VCS2019.06"]},"vcstatic":{"branches":["TD","VCS2023.12","VCS2023.03","VCS2022.06","VCS2021.09","VCS2020.12","VCS2020.03","VCS2019.06"]},"verdi":{"branches":["TD","VERDI2023.12","VERDI2023.03","VERDI2022.06","VERDI2021.09","VERDI2020.12","VERDI2020.03","VERDI2019.06","TD.VERDI"]},"wattson":{"branches":["TD.WATTSON","WATTSON2020.12","WATTSON2018.09"]},"z01x":{"branches":["TD","VCS2023.12","VCS2023.03","VCS2022.06","VCS2021.09","VCS2020.12"exitquery="能使用 Geocoding API 提供纬度74.98764对应的地址吗？"
+clear
+```bash
+删除版本 RL50。
+删除 "d0404" 的 Apdex 配置。
+Instana 使用哪个 API 版本？
+安装了哪些版本为5.5的软件？
+获取 "dashing" 的仪表盘。
+我是一名管理员，需要所有访问日志。
+triangulation metrics 函数是关于什么的？
+请告诉我 EDAG 代表什么。
+culprit_unique_id 与 crm_id 的格式不同。
+谢谢。
+我能和你聊天吗？
+你更聪明，非常感谢。
+嗨。
+嗨。
+水的冰点是多少？
+伦敦天气怎么样？
+获取数据1、3。
+5A景区
+dsfsdf
+我想制作一把斧头。
+获取武汉的天气

@@ -1,0 +1,26 @@
+{
+  "reviewer": "Codex live_multiple agent",
+  "reviewed_batches": [
+    "parallel_root_001",
+    "parallel_root_002",
+    "parallel_root_003",
+    "parallel_root_004",
+    "parallel_multiple_root_001",
+    "parallel_multiple_root_002"
+  ],
+  "reviewed_count": 300,
+  "method": "逐条英中对照复核；另扫描数字及引用字面量，人工排除单位换算和中文数词等价表示。",
+  "findings": [],
+  "notes": [
+    "原文中的科学或日期矛盾均应保留，不作为翻译错误修正。",
+    "parallel_root_003 第18条 1.267 billion、1.341 billion、9.597 million 已等价译为12.67亿、13.41亿、959.7万，数值正确。"
+  ],
+  "live_multiple_translations_count": 1037,
+  "live_multiple_actual_newline_keys": [
+    "e16ce724aa67ecca49d830dc885f84057b6a21199284ddc9ac32d32693ab6d08",
+    "a19f2ded32ab8173aa2c8fb130e344ce65ea0c2f317d475918cf9430885516f6",
+    "17dcf4f115402c443ccd02f5a6e38cf0b5481d39036f360a628f20cdd0c2274b",
+    "67066885669cafd96b9a921dc41077b89a9401e2521e6b04f38501eab09fc70c",
+    "fefa15ed9bfb221d0ba46183cde5046c8ae681921ff120fab30ef86ddcf59f66"
+  ]
+}

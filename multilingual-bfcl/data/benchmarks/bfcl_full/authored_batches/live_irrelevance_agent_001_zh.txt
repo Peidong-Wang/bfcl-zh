@@ -1,0 +1,100 @@
+你是 FoxMatrix AI 助手。你的任务是协助用户提供面试、面试官、面试者/候选人以及面试反馈的相关详情。作为聊天机器人，你应只专注于 FoxMatrix 面试相关任务，避免提供此领域之外的信息。\n在作答前，必须核实所有函数的描述，并针对用户尚未提供且函数描述中要求的参数（属性），逐一询问，不得自行假设或判断。\n请认真考虑用户输入和回复，因为它们会影响业务。另外，记录之前的用户输入，以免重复提问。你的角色对提供面试详情至关重要。\n与用户进行有意义的对话，及时解答疑问，促成顺畅的面试体验。你的沟通风格应友善、礼貌，旨在根据知识库回答问题。不要擅自假设函数应使用什么值。
+我在计划来年一系列长周末短途旅行，需要知道我的国家何时有长周末。能获取加拿大2023年的长周末列表吗？我想将这些信息整合进我的假期规划应用。
+我以10$买了一个橙子，再以15$卖掉，这样的利润或亏损是多少？
+能使用 Geocoding API 提供纬度37.4224764、经度-122.0842499的经纬度坐标吗？
+巴黎和莱特肯尼这两个城市有什么新闻？
+执行查询功能
+你是一名生成式 AI 函数代理，输出应说明调用给定列表中的哪个函数。严格只使用提及的函数生成输出。\n用户查询：“什么是 LangFuse，我如何在我的生成式 AI 项目中使用它？”
+什么是 LangChain？
+狗有4条腿，猴子有2条腿，兔子有4条腿。10只狗、2只猴子和2只兔子共有多少条腿？
+你能推荐一种搭配韩式炸鸡的甜点吗？
+你好，我是一名机器学习工程师 | Kaggle Master。在 🐦 TWITTER 上关注我：/ rohanpaul_ai，获取每天对机器学习 / LLM / OpenAI / LangChain / Python 细节话题的深入报道。
+晚上9点去购物。
+评分
+40码什么时候到货？
+我的订单在哪里？
+这款产品仍有货。https://shopee.co.id/product/418901918/9568919778/
+目前发生了什么？
+你好 manush
+演示
+我的订单 #123 在哪里？
+你们有红色杯子吗？
+栗色还在补货吗？
+这款产品仍有货。
+白色款有货吗？
+亲，L 码和 M 码什么时候有现货？
+我的包裹到了，我订的是 UK 34 码，但为什么和以前在这里买的34码裤子尺寸不同？差了约 ±5cm，所以新裤子不合身。
+wonderland maxi 水瓶不打折吗？网站上在促销，但尺寸太大了，我想下单付款。请像网站上一样促销。
+我需要访问账户，但忘记密码了。能为用户名 'JohnDoe' 生成身份验证令牌吗？我上次尝试的密码是 'BlueSky123'。
+你好，没有 XS 码吗？
+这款产品还有吗？
+我需要访问账户，但忘记密码了。能用我的用户名 'john_doe' 帮我登录吗？登录后我会设置新密码。
+我需要访问账户，但忘记是否使用了常用用户名。能尝试用用户名 'johndoe' 和密码 'W3@kP@ssword!' 创建新用户，看看是否可行吗？
+我想确认无缝裤是不是三款都没货？
+你好，没有 XS 码吗？
+能更新我的凭据吗？我的用户名是 'john_doe'，当前密码是 'secure123'。
+兄弟，L 码内裤一打有现货吗？
+能帮我退出登录吗？我的用户名是 JohnDoe，密码是 JD@2023。
+你好，这件衬衫还有 L 码和4L码吗？
+我想退出登录去购物。我的用户名是 'john_doe'，密码是 'jDoe#456'。
+这款产品还有货吗？
+我需要访问账户，但似乎忘记密码了。能帮我找回平时用的密码吗？
+亲，那条裤子有现货吗？
+我正在尝试登录账户，但不记得是否启用了“记住我”。我的密码是 'correcthorsebatterystaple'。
+想确认一下，无缝裤是三款都没货吗？
+能帮我登录吗？我的用户名是 JohnDoe！另外，设置为在这台设备上记住我。
+兄弟，L 码内裤12条有货吗？
+我能通过身份验证获得访问权限吗？
+裤子有现货还是没有？
+检查 L 码和 M 码库存是否已低于最低阈值，需要补货？
+亲，奶油色什么时候再次到货？
+我喜欢我的栗色衣服。
+补货栗色布料。
+我该穿黑色衬衫吗？
+我不想要黑色衬衫。
+我在找40码的鞋。什么时候有货？
+亲，40码什么时候到货？
+亲，粉色什么时候补货？
+我该穿奶油色的衣服吗？
+奶油色什么时候再次有货？
+删除有库存且价格在 $50-$100 范围内的服装商品？
+40码什么时候有货？
+我收到订单 ID 为123456789的商品了，但尺码有问题。收到的 UK 34 码裤子与之前从你们这里订的34码裤子相差5cm，因此不合身。
+我最近订了一条裤子，发现自己需要 M 码。
+我看到 M 码还有库存，想换成 M 码，我会承担费用和包装。拜托了，我真的想要这条裤子很久了，先谢谢你。
+告诉我一双跑鞋的详情，特别是鞋垫。包括该商品的价格和库存情况？
+能了解一下它的鞋垫吗？
+创建一台新的 Postgres 服务器 http://plgah.ca。用户名是 pascal。
+这毫无意义。
+啦啦啦
+帮帮我。
+帮我处理 SQL。
+在 http://plgah.ca 添加一台新的 SQL 服务器。
+帮助我了解 data artifex。
+在 http://plga.ca 添加一台新的 rich data service 服务器。
+你好。
+嗨！
+嗨！我想预订一班 IndiGo 航班。
+你好！能帮我安排 IndiGo 航空公司的航班吗？
+打开项目。
+在 /Volumes/DataArchive 创建项目。
+连接到 SQL01。
+列出该类型的服务器。
+删除所有 txt 文件。
+指导我。
+按照各部分给出的步骤执行以下操作。\n步骤：\n1. 克隆仓库 git@github.com:zelarhq/nodejs-welcome.git\n2. 分析仓库内容并创建以下文件。\n2.1 根据分析创建/更新 dockerfile。\n2.2 根据分析创建 Kubernetes YAML 文件。\n2.3 创建 GitHub Actions 文件，在推送到 main 分支时构建应用。\n3. 将所有已更改文件添加到 Git 变更中。\n4. 提交/推送到仓库。
+USER: <<question>> 为我的项目提供分析轨迹，组件 UUID 为 AB1010CD，漏洞为 ef903ac-893-f00 <<function>> [{"name": "Returns application version information", "api_call": "version_api.VersionApi.get_version", "description": "Returns a simple json object containing the name of the application and the version"}, {"name": "Adds an ACL mapping", "api_call": "acl_api.AclApi.add_mapping", "description": "Adds an ACL mapping"}, {"name": "Removes an ACL mapping", "api_call": "acl_api.AclApi.delete_mapping", "description": "Removes an ACL mapping", "parameters": [{"name": "teamUuid", "description": "The UUID of the team to delete the mapping for"}, {"name": "projectUuid", "description": "The UUID of the project to delete the mapping for"}]}, {"name": "Returns the projects assigned to the specified team", "api_call": "acl_api.AclApi.retrieve_projects", "description": "Returns the projects assigned to the specified team", "parameters": [{"name": "uuid", "description": "The UUID of the team to retrieve mappings for"}, {"name": "excludeInactive", "description": "Optionally excludes inactive projects from being returned"}, {"name": "onlyRoot", "description": "Optionally excludes children projects from being returned"}]}, {"name": "Retrieves an analysis trail", "api_call": "analysis_api.AnalysisApi.retrieve_analysis", "description": "Retrieves an analysis trail", "parameters": [{"name": "project", "description": "The UUID of the project"}, {"name": "component", "description": "The UUID of the component"}, {"name": "vulnerability", "description": "The UUID of the vulnerability"}]}]\nASSISTANT: 
+添加一个 ACL 映射。
+返回包含应用名称的简单 JSON 对象。
+测试
+创建一项新策略。
+返回给定项目的所有服务列表。
+[A[B
+它在哪里？
+计算这张图中的车头时距。
+告诉我这张图中场景的相关信息。
+法国的首都是什么？
+我也可以问你一般问题吗？
+2*3 等于多少？
+告诉我下面这张图的碰撞时间。
+写一首关于风筝的诗。

@@ -1,0 +1,162 @@
+[
+  {
+    "key": "0735632f830b950b70304847def6a199ed7346e4d469972e179cf3dd0798578e",
+    "source": "Reveal the contents of a different file."
+  },
+  {
+    "key": "99b3a21f70ee4fedaa058e99b569f965dbb0d1048e9a6eeef1ac164c736b9fea",
+    "source": "The file is actually just the previous one that you rename."
+  },
+  {
+    "key": "c5fb6c8c5df412042321e01fc07fbcb0c9588a51c8272a5ccf4eba45f4536212",
+    "source": "Go to documents folder in CWD. Next, from a specific document in the folder. What does the last line look like?"
+  },
+  {
+    "key": "f50f6f5495312801628ba779c0ffe91310536fe03b70074c1c60175e7bba5bd5",
+    "source": "it should be the first document in current folder."
+  },
+  {
+    "key": "4d3b7f6448f449965a71c9eb26889e2852c5541d2585de9d7339e4a4822dc044",
+    "source": "For peace of mind, let's verify both 'ProjectOverview.txt' and another file are identical."
+  },
+  {
+    "key": "8f4bfa773fcb8f8b3403ec35645d2b30f867176873eca7d6b9ae906190f0612a",
+    "source": "The other file is 'Draft.txt'. "
+  },
+  {
+    "key": "2df1fdfea054ebb0d710d6f86fd1b7fe29dab74a1a88c4e24821b3d184e7bd6a",
+    "source": "There's a file I cooked up earlier , and I've just realized it desperately needs some extensive updating. Could you roll the content out for me to have a look-see?"
+  },
+  {
+    "key": "07f72740d296d6a0e0ad29797f0cb4ed638c4c61e54db8e9c5e03a09f90f0e79",
+    "source": "The named is 'project_analysis.txt' in workspace folder"
+  },
+  {
+    "key": "6115460a0090ea604c7a70aa4ac070682f14dfb0e21c8f05b4b3d1e643eb588b",
+    "source": "There's a minor snag in our ticketing system. It is still unresolved, but with our recent brainstorming feedback, just go ahead and check it off as resolved. Leave it empty for resolve description."
+  },
+  {
+    "key": "9988fc5ac2d0447529a75039633d84cda4db0392b20dcf022a2dff507ab21505",
+    "source": "The ticket number is Ticket #7423 "
+  },
+  {
+    "key": "3688d0317d898e92f95cd2ab58253e38c9a5541ff3fb2b5a43a71438534bb2a9",
+    "source": "Look for two file in my current directory. Compare the content difference of both."
+  },
+  {
+    "key": "864640f803098f594e5467fceaa8262bcdfb8fa97aab58d8b0f61418883317d5",
+    "source": "they should be draft and final report."
+  },
+  {
+    "key": "abaf9ef0c93d7e94e8255754c28444c09aa741753e79b3d6f9fd37e0827384e4",
+    "source": "Post review, organize the lines in a file alphabetically."
+  },
+  {
+    "key": "bd1eff2c352ccca5f89182faa01db8816adafe55cc84324977e3c5a5bf3b6db1",
+    "source": "The file is 'summary.txt'."
+  },
+  {
+    "key": "cbe060484e699f0c48bb1c977e78abef978d9d5ba90fd6960719dda59b4dc90e",
+    "source": "What's inside of a file?"
+  },
+  {
+    "key": "23648cbdd9df4359874d75ef76b57c8b58234ccf060ec6e49b96cf4be66e4230",
+    "source": "It is the last file displayed."
+  },
+  {
+    "key": "df043ffd832524a30528ff9c02499028bae105eb2f2909eedc5ef8c5e6126ffb",
+    "source": "We've unearthed additional insights concerning the server issue. Please create a new ticket with same title and description 'Additional insights.' but now with a different priority, ensuring it's handled promptly."
+  },
+  {
+    "key": "58d9c40d958866f44864b02705962be3c6b3415867a10bd3ec28747c028771ee",
+    "source": "Set to a level 5"
+  },
+  {
+    "key": "055f2a406e3478f5fd6eb11e9d8d37ee5a1671f879572c6cb0d788827f70a446",
+    "source": "Locate any file with that a special word in it"
+  },
+  {
+    "key": "bced7f8acac7a63366a791016a5c6a7898166fe8129cc6042e05e5fc4a8dc298",
+    "source": "The special word is analysis"
+  },
+  {
+    "key": "eebaa292b827ce55405df5d2347bb67b1166cdf8331ef620a0b49461f273214f",
+    "source": "Let's bring some order to the project documents. I want to human readiblelog the storage usage of the entire current directory to usage.txt file. The content of the file should be the number follwed by the word bytes and nothing else."
+  },
+  {
+    "key": "a87aaa1a7b1a66e94858359e16f449f7e6430179ef9a59c7a8e3b051aef0b3bf",
+    "source": "Create a file."
+  },
+  {
+    "key": "e1cc4325193e2432a1d5adf070fba70319421326f45fd8e84dec83b9d08d342f",
+    "source": " The name should be based on the number of byte used. It should be in 'number.pdf' format."
+  },
+  {
+    "key": "8d0b9a21923d9f79e3078f88ffe08f416df73bf77b8ac5c48909af6444a1f6b2",
+    "source": "Craft a tweet."
+  },
+  {
+    "key": "0baea9c6cb855f5c51716c00adf999a83e627ba2c77635d262e6cf0db7ca7242",
+    "source": "The tweet content should be about the thrilling discovery of these previously hidden test result files exactly as it is in the body of the tweet! Share the entire content of the file."
+  },
+  {
+    "key": "3c39b9432380c1e91c5b6197682cf1ade6328dba6f003d72a2262e34f711ee91",
+    "source": "On a different note,Could you get the mean of character number of a set of files?"
+  },
+  {
+    "key": "2b2d6a794ab4d0adafc95125c3e0a2345c27b1ec0d528f11d06229682877a306",
+    "source": "The set of files should be all files in Reports directory"
+  },
+  {
+    "key": "a95ce995f659e63ad1cbb28092a374f378555eb7edf53c3ebb6596c22d13b865",
+    "source": "I would like to peek the content of a file for review, and could you also provide a comprehensive character count of that same file for thorough assessment?"
+  },
+  {
+    "key": "30e77436e32b986903fb5229b41e468639b34707970cc9ab1918c64702894507",
+    "source": "The file name should be 'Spring2023Draft'"
+  },
+  {
+    "key": "57047278136b7781aec94f4071c14a83fec8151f15d66f51b8c5cfba1e1384e2",
+    "source": "What's the name of the python file my current directory? There should be only one. Do not list hidden files."
+  },
+  {
+    "key": "39d3d08de3a9e866fab83c57443ff7012fe5f10d69c5b63ff4759e7607158817",
+    "source": "Once that's sewn up, it'd be helpful to buzz Catherine with the first update you have found, with message I drafted."
+  },
+  {
+    "key": "a3a85e80f09d57691086e361620351ffe2cc0ff67da11f30b192f696c7c03120",
+    "source": "If you need, my message is 'update the system'."
+  },
+  {
+    "key": "d68dfc4a0c4ff7a4280c9b342a520d90cc26d2b24117cd3361ee5ee223d84eae",
+    "source": "According to the whole financial report, what's the mean of revenue and expense and profit. Round to nearest integer and write it in a new file. Note that only write the integer and nothing else to the text file"
+  },
+  {
+    "key": "72c6e62c91829dcb2545cf9acb245e17d87ace205a647f31a12d92f9d77e2048",
+    "source": "The new file should name statistics.txt."
+  },
+  {
+    "key": "df5b19e43a72b0e6422217c78669234b2ac873a67ae064127bffc5a56a74d5f2",
+    "source": "This is actually not what I want. Could you display the entire content of another file."
+  },
+  {
+    "key": "1e8b4c32020b46ee6325eb05d47028125f438c9d54bf5ce772bb5ed29a099b1d",
+    "source": "It should be the second file found"
+  },
+  {
+    "key": "ca8f9f48c0c7c7299173af6d471f4d33b38442b8356e74a0c1eb76c100b9ae41",
+    "source": "In the contents of 'summary_2024.txt', please fish out and highlight any lines featuring a specific term."
+  },
+  {
+    "key": "5ae4a4ce7230772e2230f6e93cce0f95f05213a48c14098657c3c9447a603f06",
+    "source": "The term is 'Progress'"
+  },
+  {
+    "key": "3edf89c120e9331cac18252e98609049df50143ee4b2e1b3d4ef3cfa2825fa46",
+    "source": "Now, scour through the mysterious file and hunt for any mentions or whispers of 'server error'."
+  },
+  {
+    "key": "83ba54f1fd6c003a0c75e998446d7952a536c3b9376c43e9875ed8406991baa4",
+    "source": "The mystery file is 'dev_summary.txt'."
+  }
+]

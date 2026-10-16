@@ -1,0 +1,40 @@
+现在已得到换算金额，请安排预订本周末 2026 年 7 月 1 日从 San Francisco 到 Boston 的商务舱航班，使用访问令牌 'abc123xyz456'，确保向主要信用卡 ID 'card5638' 收费。
+航班安排确定后，检索发票详情，让我记入预算记录。
+为解决预订时遇到的问题，请联系客服，告知我 'Require assistance with the transaction particulars'。
+联系客户支持后，请通过我的账户 ID 'USR100145' 向顾问 ID 'travel_advisor' 发送简短消息，说明所遇问题的具体情况。对方期待及时收到消息。发送内容应为 'Details regarding problems faced with the flight booking transaction.'。
+我刚搬到 Rivermist，想预订去 Los Angeles 参加重要商务会议的航班。请使用 ID 为 'card_6789' 的信用卡安排，时间为下周二 2026-11-10，商务舱，费用低于 $1200。另外，我收到的新访问令牌是 2278-9812-3456-4567。航班确认后，务必取得本次交易发票，以便报销。
+航班预订完成后，我发现旅行行程有些事项需要澄清。请代表我向客服咨询，使用最新预订详情，并说明我对行李限制的担忧。
+我计划飞行，找到一个从 San Francisco 到 Los Angeles 的不错航班。预算不算紧，只要总费用低于 $10,000。你应该知道舱位是 'first'，旅行日期是 '2026-11-15'。我的卡 ID 'card123' 和账户令牌 'access_token_abc123' 都准备好了。
+航班已安排妥当，请为我整理发票详情。我需要记录何时旅行、去哪里以及花了多少钱。
+如果行程出了问题，请帮我联系客户支持。联系时只需提及已确认的预订。
+我想可能需要取消这趟旅行。请联系支持取消预订，并确保退款到账。非常感谢！
+我在冒险中积累了一些实用旅行经验，想分享出来。如果提供要点，请使用用户名 'michael_smith' 和密码 'michael1234' 代我写推文。推文应为 'Exploring the world, one city at a time!'，可以添加热门话题标签 'Travel' 和 'Adventure'。
+哇，旅行建议推文很受欢迎！请转发以进一步推广，让更多人看到。
+我正计划去 Beijing，希望财务策略为冒险充分准备。请给我足够预算，达到 10000 RMB 的目标，并确认票价低于预算。谢谢！现在安排 2026 年 6 月 15 日从 JFK 到 Beijing Capital Airport 的豪华头等舱航班，使用主要信用卡 ID 'card_8283'。我的访问码是 897362。
+我已成功确认前往 Beijing 的航班。请用同一张卡购买价值 $250 的旅行保险。然后为我获取这次预订的发票以备记录。感谢帮助保存这些重要文件。
+换个话题，请给旅行代理（ID：'travel_agent'）写简短感谢信，感谢其高效处理预订。以 USR001 登录，消息应为 'Thank you for your efficient handling of my booking to Beijing. My trip is confirmed for June 15th from JFK to PEK in first class'。完成后，查看最近消息，确保该通信顺利发送。
+我最近加入这款旅行应用，据说能优先获得很棒的优惠。首先需要访问账户。凭据已准备好：客户端 ID 为 'trav3lMaxID2023'，客户端密钥为 'M@xSecret!'，刷新令牌为 'r3freshM3n0w'。请处理认证，我想同时配置读写权限。名字为 Maxwell，姓为 Edison。
+很好！认证完成后，请登记我的信用卡。卡号 2345-6789-1234-5678，到期时间 08/2025，持卡人为 Maxwell Edison，CVV 为 567。然后请帮我预订 2026 年 12 月 15 日从 SFO 到 LAX 的商务舱机票，所有旅客详情均使用我的姓名 Maxwell Edison。
+接下来，我需要通知旅伴我们的计划。请联系用户 ID 为 m0llyTr@vel2k24 的旅伴，分享行程详情。发条友好消息 'Everything for our trip is sorted and ready!'。
+感谢帮助！趁没忘，我想看看以前发了什么。请检查我最近发送的内容。
+我考虑在 2026 年 11 月 15 日从 Los Angeles Internationa（LAX）到 John F. Kennedy（JFK）乘商务舱。这班飞机通常多少钱？
+知道费用后，我需要换算为英镑，这样更方便规划预算。请使用访问令牌 'abc123xyz'，将未来旅行开销基准设为 $10,000。
+好了，预算已整理好，继续按讨论预订航班。使用我的卡，ID 为 card_1496 的那张。
+我发现这次预订关联了一张已无必要的工单。请代我取消。
+我正在安排 2026 年 10 月 10 日从 San Francisco 到 Rome 的旅行，考虑坐商务舱。请使用卡 ID card_7243 和访问令牌 'abc123xyz'，预订符合财务限制的航班。务必将票价换算为 EUR，准确参考币值。
+我想为本次预订购买旅行保险，以防意外。确保保险约为 150 欧元，假设同一张卡资金充足，使用它支付。选择 'travel' 类型保险。
+现在整合一份包含航班和保险费用的发票，以便我在同一份文档核实总费用及每项详情。
+使用 'bookworm_traveler' 和密码 'Tr@v3lB00ks2023' 登录 Twitter。我想在 Twitter 兴奋地宣布即将到来的旅程，内容为 "Off to Rome! Can't wait to explore the ancient wonders and dive into Italian cuisine!"。
+另外，请为推文添加贴心评论："Safe travels and enjoy every moment!"。
+从 SF 到 LA 的航班究竟多少钱？大概很便宜。就这样，直接订吧。我需要为 Robert Trenton 安排 2026 年 11 月 25 日从 San Francisco 到 Los Angeles 的商务舱航班，使用他的旅行卡 ID card_3487 和访问码 1293。预订后，必须开具发票以核实费用。
+Robert Trenton 想在 Twitter 表达对近期航班的满意。我需要发推文 'Loved my flight journey!'，附带话题标签 #TravelDiaries。如果需要登录，用户名为 'john'，密码为 'john1234'。之后，从他的旅行账号转发该帖子，让更多关注者看到。
+我计划在 2026 年 12 月 15 日从 New York 的 JFK 到 Los Angeles 的 LAX 乘商务舱。Alex Johnson 将与我同行。我打算使用标签为 'id_1234' 的信用卡支付 $4500 行程费用。访问令牌为 ABCD1234。
+由于日程意外变化，我需要立即取消行程。另外，必须提交关于航班取消的优先级 5 支持工单，标题为 'Urgent Flight Cancellation'。工单应详细解释导致取消的突发变化，描述为 Due to unexpected changes in schedule, the flight from JFK to LAX on December 15, 2026, needs to be canceled immediately.。
+设想有位患者，在此情境下是旅客，希望使用卡 ID 'card_7629' 和访问令牌 'abc123xyz' 预订航班，到期日 10/2026，CVV 456。其计划于 2026 年 12 月 15 日从 Los Angeles 飞往 Tokyo，商务舱，预计 $1,200。
+想想核实信息的重要性。我们的旅客需要确认航班预订详情，以求安心。
+对于行程 ID flight_001，我似乎预订了 Rome 到 New York 的航班，却未考虑旅行保障，尤其冬季出行存在不确定性。请使用访问令牌 'abc123xyz' 登记新信用卡，卡号 4012888888881881，到期日 2028 年 12 月，CVV 465，以便为旅程购买价格 $200 的综合旅行保险。我的姓为 Smith，名字为 Michael。
+我需要核实最近安排的旅行保险和预订的具体信息及总费用，目前记不清了。请提供关联保险购买的发票。
+关于即将前往 New York 的旅行，我遇到一些问题需要立即帮助。请尽快联系客服，处理这些尚未解决的保险相关问题。
+客服回复未解决问题，我对收到的帮助相当失望。请写正式投诉，标题为 'Unsatisfactory Customer Support'，指出服务不足。我的工单用户名是 msmith，密码是 SecurePass123。工单描述留为空字符串。
+由于意外个人情况，我决定取消 New York 行程。请尽快执行取消流程。
+我计划预订从 Crescent Hollow 到 New York 的商务出行航班。使用常用信用卡（ID=card_6789）和访问令牌 'abc123xyz' 付款。安排在 2026 年 11 月 12 日，经济舱，务必应用常旅客折扣，确保总费用为 $850。

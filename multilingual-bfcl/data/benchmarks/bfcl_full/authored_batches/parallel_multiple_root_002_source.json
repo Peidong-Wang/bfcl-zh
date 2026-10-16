@@ -1,0 +1,202 @@
+[
+  {
+    "key": "35598a58ce737fec41d610ee1fcfabd4444fac5c9b6aa3293506b80405ac367a",
+    "source": "Analyze the performance of the L.A Lakers in their last game and give me the field goal percentage and free throw percentage. Also, compare the team's points per game (ppg) average from 2018-2019 and 2019-2020 season."
+  },
+  {
+    "key": "a86026b89c30949f672150f2571c7fd48d79cbcfc3be00be66fb107447c8c408",
+    "source": "Can you find information on Michael Jordan's highest scoring game and the total championships he won?"
+  },
+  {
+    "key": "767197ca9941927e56e801e49287ba4d7f3eff4dc86bccd7ed2efa3e94e374b7",
+    "source": "Play the Game of life for 3 rounds starting from an empty board, then play chess where the 1st move is e4 and the 2nd move is e5."
+  },
+  {
+    "key": "ca312304738de1c09733ff6efae310a948bede6258b6528cf097353f463716eb",
+    "source": "Find a board game with complexity rating under 2.5 and that supports more than 5 players, as well as a trivia game that could be played within 60 minutes."
+  },
+  {
+    "key": "ca7b8264b585efe5f4fbcee00319e36e57c551fe73208aa5ffebe3fe2665d08b",
+    "source": "In game Battle Reign, change the armor level to 5 and find me a game guide for how to win in snowy weather conditions. Also find me any strategy guides available for game Shadow Fall."
+  },
+  {
+    "key": "b4b85b239e43c5a8676b71aca0240d76d92e652663981f1db45890eb77664b5b",
+    "source": "I want a homemade healthy spaghetti recipe that is gluten free, how long will it take to prepare and cook, and what nutritional information could it provide me."
+  },
+  {
+    "key": "72700fd82c087004073d81b76fb85865d891b0445e3241385ce80002459cdbdf",
+    "source": "What is the current time in Beijing and Tokyo and what's the time difference between two cities?"
+  },
+  {
+    "key": "4906499d20774623c35efd9bde80e8369883b76dbf3f1376b28113b9054f0257",
+    "source": "Find hotels in Paris, France and New York, USA with at least 4 stars rating. Also I prefer hotels with amenities like free WiFi, breakfast included, and gym facility"
+  },
+  {
+    "key": "4635ea8fc2887e1b2ad4e1cc3b73fa23e5eaa3b525a12a20f4090adaea995ba2",
+    "source": "\"Imagine you are a geometry teacher preparing for your next class. You have two shapes, a triangle and a circle, that you want to discuss in detail. For the triangle, the lengths of the sides are 5 units, 7 units, and 9 units respectively. You want to calculate the area, perimeter, and internal angles of this triangle. For the circle, the radius is 3 units. You want to calculate the area and circumference of this circle. Can you provide these details?\""
+  },
+  {
+    "key": "c7cc9377743e72e535308b1dcaa6619f0dcdf3fa79f5dde66bf14b6105842493",
+    "source": "\"Imagine you are a math teacher preparing for a geometry class. You want to create a worksheet for your students that includes problems on calculating areas of different shapes. You have decided to include a problem on calculating the area of a triangle using Heron's formula, another problem on calculating the area of a triangle using the base and height, and a problem on calculating the area of a circle. For the first problem, you have chosen a triangle with sides of lengths 7 units, 10 units, and 5 units. For the second problem, you have chosen a triangle with a base of 8 units and a height of 6 units. For the third problem, you have chosen a circle with a radius of 4 units. Could you calculate the areas of these shapes for your worksheet?\""
+  },
+  {
+    "key": "ffabece191a315e644e91201454696ce30cdf4ad3346bc7b12b3e18ca92ec1b7",
+    "source": "\"What is the capital city of Australia, what is the current population of Canada, and what is the largest city in Brazil?\""
+  },
+  {
+    "key": "49c939e151f412c51c95c9a7a2bccb2fff051ab36df1b21343de294ab85ad17d",
+    "source": "\"Could you please help me with a couple of calculations? I have two points in a 2D space, Point A with coordinates [3, 2] and Point B with coordinates [7, 5]. First, I would like to know the Euclidean distance between these two points, rounded to 2 decimal places. Then, I would like to find out the angle between these two points with respect to the x-axis, also rounded to 2 decimal places. After that, I have another set of points, Point C with coordinates [10, 8] and Point D with coordinates [14, 12]. Could you please calculate the Euclidean distance and the angle to the x-axis for these points as well, both rounded to 2 decimal places?\""
+  },
+  {
+    "key": "443f140766d37b542d48f31132f1069c9a49fe7d7cec5402d30716cc1c8b52af",
+    "source": "\"A car is traveling on a straight road. At the start, it has an initial speed of 5 m/s. Suddenly, the driver sees a traffic light turning red in the distance and starts to accelerate at a rate of 2 m/s^2. The driver keeps this acceleration for 10 seconds. Can you calculate the displacement of the car during this time? Also, what is the final speed of the car after this 10 seconds? Please round off your answers to 2 decimal places.\""
+  },
+  {
+    "key": "7b618876e493f308fc1ab3d6055390d4252320c2aa3dd8c959a2ac236aa898ad",
+    "source": "\"Can you tell me what the weather was like in New York City on 2020-12-25 and 2021-01-01, and also provide the historical weather data for the geographical coordinates (40.7128, -74.0060) on 2021-01-15? Additionally, can you forecast the weather for the same coordinates for the next 10 days?\""
+  },
+  {
+    "key": "eb9aa041fd26aa51f5e8fe2081dde64cc73a3c586df600c6faf2103cece30f05",
+    "source": "\"Can you help me understand the ecological impact of the African Elephant in the Serengeti ecosystem over the last 5 years and also assess the population growth of the same species in the same location over the last 10 years? After that, I would also like to know the ecological impact of the Bengal Tiger in the Sundarbans ecosystem over the last 3 years and assess the population growth of the same species in the same location over the last 7 years.\""
+  },
+  {
+    "key": "3213e1619effa26871574aaeb0c8b3ed6a2887673a6c169dcde7718c78fb0c87",
+    "source": "\"Can you help me find a property in San Francisco, CA that is a condo with 2 bedrooms and fits within my budget range of $500,000 to $800,000? After that, could you also provide an estimated value for a villa in Los Angeles, CA with 3 bedrooms that is 5 years old? Lastly, I would also like to know the estimated value of an apartment in New York, NY with 1 bedroom that is 10 years old.\""
+  },
+  {
+    "key": "dd7c358c2efcaef5e47dc0eb82c667fb5bc2e519c88934fdd30ed47db9617d51",
+    "source": "\"John is a student who recently received his grades for the semester. His grades were as follows: Math - 85, English - 90, Science - 88, History - 92, and Art - 89. Could you please help John to understand his performance better by doing the following: \n\n1) Calculate the average grade across all his subjects using the 'calculate_average' function with the grade dictionary {'Math': 85, 'English': 90, 'Science': 88, 'History': 92, 'Art': 89}.\n\n2) Calculate the standard deviation of his grades using the 'calculate_standard_deviation' function with the same grade dictionary {'Math': 85, 'English': 90, 'Science': 88, 'History': 92, 'Art': 89} to understand the variability of his scores.\n\n3) Identify the subject in which John scored the highest using the 'highest_grade' function with the grade dictionary {'Math': 85, 'English': 90, 'Science': 88, 'History': 92, 'Art': 89}.\""
+  },
+  {
+    "key": "4da8601dc8045ceec59b6ddbeb5d48fefe136c449f28b763426915f095bbcaf3",
+    "source": "\"Can you help me with some math problems? First, I need to find the roots of a quadratic equation. The equation is 3x^2 + 4x - 7 = 0, where 3 is the coefficient of the second-degree term, 4 is the coefficient of the first-degree term, and -7 is the constant term. \n\nSecond, I have a cubic equation, 2x^3 - 5x^2 + 3x - 1 = 0. Here, 2 is the coefficient of the third-degree term, -5 is the coefficient of the second-degree term, 3 is the coefficient of the first-degree term, and -1 is the constant term. \n\nFinally, I have a polynomial equation of degree 4, which is 6x^4 - 3x^3 + 2x^2 - x + 1 = 0. The array of coefficients of the polynomial equation starting from the highest degree term is [6, -3, 2, -1, 1]. Can you calculate the roots for these equations?\""
+  },
+  {
+    "key": "0c005e0c335bbb150cb102e427fb173e65595b7c957234fa2797d735a7853575",
+    "source": "\"Can you help me analyze the financial performance of a company named 'Tech Innovators'? I would like to understand their year over year (YOY) growth rate from 2018 to 2019. In 2018, their revenue was $500,000 and in 2019, it increased to $750,000. Additionally, I would like to know their return on equity (ROE) for the year 2019, where their net income was $100,000 and the average shareholder equity was $200,000. Lastly, I am also interested in their return on assets (ROA) for the same year, given that their total average assets were $1,000,000.\""
+  },
+  {
+    "key": "d63cb3970267bfadd3b320ec300244668cc90233a76fee7d2b8554d152675b33",
+    "source": "\"Imagine you are a real estate investor. You bought a property 5 years ago for $500,000. The annual depreciation rate for the property is 2%. Can you calculate the current depreciated value of the property? Now, consider you had a sum of $200,000 at the same time you bought the property. If the annual inflation rate has been 3% for the past 5 years, how much would that sum be worth today? Also, suppose you took out a loan of $300,000 with an annual interest rate of 4% to help finance the property purchase. If the loan term was 10 years, what would be your monthly repayment for the loan? Lastly, if you calculate the property depreciation monthly instead of annually, what would be the depreciated value of the property now?\""
+  },
+  {
+    "key": "57d3540cc1543428560738197285a394c1e978588d29c67f63feb143a9e50f61",
+    "source": "\"Can you help me compare the potential energy output of two different renewable energy projects? The first project is a solar farm located at coordinates 37.7749 and -122.4194 with a total solar panel area of 50000 square feet. I would like to know the estimated energy output for the month of July. The second project is a wind farm located at coordinates 40.7128 and -74.0060 with a total of 100 wind turbines. I would also like to know the estimated energy output for this wind farm for the month of July.\""
+  },
+  {
+    "key": "f7ef4c101fe0b41084a6c2adaeb1e625b979b26cf089a3cd7eb77de4afe6a96f",
+    "source": "\"Could you first check the availability of a sculpture named 'The Thinker' made of bronze in the inventory using the 'sculpture_availability.check' function? Then, could you provide information about a sculptor named 'Auguste Rodin' using the 'sculptor_info.get' function? Lastly, could you calculate the estimated price to commission a sculpture made of marble, 10 feet in size, and with high complexity using the 'sculpture_price.calculate' function?\""
+  },
+  {
+    "key": "baa6c94def1cea19d8cc5520d53e188dc561bd96684896c0b1fe27fd000777f5",
+    "source": "\"Could you please generate a sinusoidal sound wave with a frequency of 440 Hz and a duration of 5 seconds, save it to a WAV file named 'test.wav', then generate a square wave sound with a frequency of 880 Hz and a duration of 10 seconds, save it to a file named 'test2.wav', and finally play the 'test.wav' file at a volume level of 0.8 and the 'test2.wav' file at a volume level of 0.6?\""
+  },
+  {
+    "key": "95d9153ef1ab1af86563406b71c71a3c1b1439c4efb3e2ca62bfca4537402b47",
+    "source": "\"Could you provide me with the following information about the NBA league: the record for the most points scored by a single player in one game, including the player's name, points scored, and game date; the record for the most points scored by a single player in one season, including the player's name, points scored, and season; and the record for the most points scored by a player in his career, including the player's name, total points scored, and career span?\""
+  },
+  {
+    "key": "3c0778388d3339b4af10a5adae035a283899994f113f8504c58934fb34698a40",
+    "source": "\"Can you provide me with the current statistics for the basketball player LeBron James, specifically his points, assists, rebounds, and minutes played? Then, can you also provide the current statistics for the Los Angeles Lakers, including their total points, total assists, total rebounds, and win rate? After that, could you give me the detailed statistical data from the game between the Los Angeles Lakers and the Golden State Warriors that occurred on January 18, 2021, including total points, total assists, total rebounds, and turnovers?\""
+  },
+  {
+    "key": "95ff1381259d7230c0e46546e1851b15e7cc583cd4ea8dc1c14b205b79483f06",
+    "source": "\"Can you help me plan my day? I want to start from my home in New York and go to a chess club named 'Knight Gambit' located in Boston. I want to take the fastest route. After that, I want to go to another chess club named 'Rook Corner' in Philadelphia, again taking the fastest route. Finally, I want to return home, but this time I want to take the shortest route. Can you also provide me with the details of the events hosted by both chess clubs?\""
+  },
+  {
+    "key": "55fc4e35036accc169d3316a847de303b4d550a4ad4856ba6e8c740914f806a9",
+    "source": "\"Could you please tell me the selling price of the video game 'The Legend of Zelda: Breath of the Wild' on the Nintendo Switch platform in the United States, and also let me know if the game 'Super Mario Odyssey' is currently on sale on the same platform and region? Additionally, could you fetch the currency used in the United States on the PlayStation platform, and also tell me the selling price of 'God of War' on the PlayStation platform in the United Kingdom?\""
+  },
+  {
+    "key": "8a48041d84a7a5f7c48e1cc4340dc65519a32cb5328a392bfe5805f1635cf584",
+    "source": "\"Can you help me with some gaming information? First, I want to know about the rewards I can get from playing 'Call of Duty' on my 'Playstation'. Second, I am curious about the scores and rankings on level 3 of 'FIFA' on 'Xbox'. Third, I would like to know all the missions for 'Assassin Creed'. Lastly, I want to know the rewards for the 'Master' trophy level in 'Fortnite' on my 'PC'.\""
+  },
+  {
+    "key": "c0ec9f7aceacaf2e781bfbcd58740f75926118838057ed81bb2560686aba8e48",
+    "source": "\"Can you help me plan a trip? I would like to first find the shortest path from my home in New York City to the Metropolitan Museum of Art by walking. Then, I want to estimate how long it will take to walk this route. After visiting the museum, I plan to bike to Central Park. Could you find the shortest path for this bike trip? And finally, I would like to know how long it would take to bike this route.\""
+  },
+  {
+    "key": "cc0ebcffd85d160b679af975b3a159b25bb0318f2e5aaaeb5633724a4ef0d6fd",
+    "source": "\"Imagine you are working on a programming project and you encounter the following tasks. First, you need to solve a quadratic equation where the coefficient of x^2 is 5, the coefficient of x is 6, and the constant term is 1. After that, you need to convert an RGB color code to a hexadecimal color code. The RGB values are Red: 255, Green: 160, and Blue: 0. Finally, you have a string 'Hello, World!' that needs to be reversed. Can you perform these tasks using the appropriate functions?\""
+  },
+  {
+    "key": "0fdcb4036224d7c6cef00d756bd96f3011570603863f605a087513b68c845e51",
+    "source": "\"Can you help me with a math problem? I have two functions, the first one is '4x+7' and the second one is '2x+5'. I need to find the intersection points of these two functions. After that, I have another function '3x+9'. I need to find the zero points of this function. Can you solve these for me?\""
+  },
+  {
+    "key": "4c98d64acba889ae32e5059185512c177e71f1526a1d3cb4a3e45da49d726773",
+    "source": "\"In a park, there is a rectangular playground with a length of 50 meters and a width of 30 meters. Next to it, there is a square sandbox with a side length of 5 meters. A circular fountain with a radius of 3 meters is located at the center of the park. Can you calculate the area and perimeter of the playground, the area and perimeter of the sandbox, and the area and circumference of the fountain?\""
+  },
+  {
+    "key": "e42b681565a0ecadd8216d4298700eb7a1f648685f6a68550a43a05806336281",
+    "source": "\"Imagine you are a sculptor working on a large project. You have two different types of materials available to you, each with a different density. The first material has a density of 5.2 g/cm^3 and the second material has a density of 7.8 g/cm^3. You are planning to create two identical cones, each with a base radius of 10 cm and a height of 30 cm. The first cone will be made from the first material and the second cone will be made from the second material. Can you calculate the volume of each cone, rounding off to 2 decimal places, and then calculate the mass of each cone using their respective densities?\""
+  },
+  {
+    "key": "fc648d9f64d4a158b821d30347475bdbaa79e92cbd03ed63d17c29e2bda5c4da",
+    "source": "\"Can you help me with my calculus homework? I have two problems that I'm stuck on. The first one is to calculate the definite integral of the function 3x^2 - 2x + 1 from x = 1 to x = 4. The second problem is to calculate the derivative of the function 2x^3 - 3x^2 + 4x - 5 at x = 2. And for extra credit, I need to find the second order derivative of the same function at x = 2. Can you solve these for me?\""
+  },
+  {
+    "key": "c1374904d05f65501347b964585abae65eece092a6d14e75fe8d24fa25202880",
+    "source": "\"Imagine you are a math teacher preparing for a class. You want to create a challenging problem for your students that involves multiple steps. You decide to create a problem that involves finding the least common multiple (LCM) and the greatest common divisor (GCD) of two numbers, and then calculating the square root of these results. You choose the numbers 36 and 48 for the LCM and GCD calculations. For the square root calculations, you want the results to be accurate to 3 decimal places. What are the square roots of the LCM and GCD of 36 and 48, accurate to 3 decimal places?\""
+  },
+  {
+    "key": "8cb312878fe376329649a67f7066afd9058e92f47d0cbecd839a07dcffce70b0",
+    "source": "\"Could you please help me with a couple of calculations? First, I need to find the greatest common divisor of 56 and 98 using the Euclidean algorithm. After that, I would like to know the greatest common divisor of 81 and 27, but this time using the binary algorithm. Once we have those, I need to calculate the least common multiple of 15 and 25 using the standard method. And finally, could you find the least common multiple of 21 and 14 using the reduced method?\""
+  },
+  {
+    "key": "a35af99f69227917c65a07ee836c7a499ad6006f6d7db677d5f6a227f5689fa1",
+    "source": "\"A car starts from rest and travels a distance of 120 meters in 10 seconds. What is the speed of the car at the end of this time period? After reaching this speed, the car continues to accelerate for another 5 seconds from 12 m/s until it reaches a final speed doubling the initial speed. The final speed is twice the speed calculated in the first part. What is the acceleration of the car in this second phase?\""
+  },
+  {
+    "key": "c0f910ec97ebe1ff5ceb562f323036aa57f93febb08ba8f898860932f7dbb80b",
+    "source": "\"A car is initially at rest and then starts moving with a constant acceleration of 3 m/s^2. After 5 seconds, what is its final velocity? Now, imagine a wave with a frequency of 50 Hz and a wavelength of 3 meters. What is the velocity of this wave? Going back to the car, if it continues to move with the same acceleration for another 7 seconds, what is the total distance it has traveled from the start?\""
+  },
+  {
+    "key": "ec81e149e0eb116519dc569aeeea6ae1eb75b653a70151ac96e0c17f80be32ac",
+    "source": "\"Could you help me find a book in the library? I am looking for a book named 'To Kill a Mockingbird' in the city of New York. I would like to know if it's available. Also, I am interested in the genre of 'Fiction'. Once you find it, can you reserve it for me? The book id is '123ABC' and the branch id is 'XYZ789'. I plan to return it by '2022-12-31'.\""
+  },
+  {
+    "key": "c1ffde74000137c67481047d04a3be8b8ac680237a0eb54b191e9e5a7e1cc9da",
+    "source": "\"Could you help me plan my day? I need to go from my home at 123 Main Street to my office at 456 Park Avenue, and I don't want to spend more than $30 on the ride. After work, I need to order groceries from the Whole Foods at 789 Broadway. The items I need are milk, bread, eggs, and apples. I don't want to spend more than $10 on delivery. Then, I need to get a ride from my office to my friend's house at 321 Elm Street, and I don't want to spend more than $20 on that ride. Finally, I need to get a ride from my friend's house back to my home, and I don't want to spend more than $25 on that ride. Can you help me with all of this?\""
+  },
+  {
+    "key": "3fa2e1eb6a843c469d99fbda82914293685fa1d7bf4ebf928f138598654858c2",
+    "source": "\"Imagine you are a chemist working in a lab. You have two samples of the same gas. The first sample has a quantity of 5 moles and is at a temperature of 300 Kelvin. The second sample has a quantity of 3 moles and is at a temperature of 500 Kelvin. You decide to mix these two samples together. What would be the final temperature of the mixture? \n\nLater, you obtain another gas sample with a quantity of 4 moles. You know that the molar mass of this gas is 16 g/mol. Can you calculate the mass of this gas sample?\""
+  },
+  {
+    "key": "e23455e9fc88e8c6b0f5b3a27f57863878f3b8f9c722345f44af7731dbd15d89",
+    "source": "\"Imagine you are a scientist studying the energy production of a certain type of bacteria. You have a sample of this bacteria that has consumed 5 moles of glucose (C6H12O6) and you know that the energy produced from glucose is typically 2800 kJ/mol. You also know that the bacteria's conversion efficiency, or the percentage of energy from glucose that is converted into biomass, is 10%. \n\nFirst, calculate the total energy produced by the bacteria from consuming the glucose. \n\nSecond, calculate the amount of biomass produced by the bacteria given the energy produced and the conversion efficiency. \n\nNow, imagine you are using this bacteria in a bioreactor to power a small machine. The machine needs to move a distance of 2 meters and you want to calculate the work done by the machine. \n\nThird, calculate the work done by the machine given the total energy produced by the bacteria and the distance the machine needs to move.\""
+  },
+  {
+    "key": "93008862dd6c6fc82ade5bd8929e1f5530fe6c704fe3143b41f838d09b009acb",
+    "source": "\"Imagine you are planning a trip to Mars. You weigh 75 kilograms on Earth and you are curious about how much you would weigh on Mars. After your trip to Mars, you plan to visit Japan. You have 5000 US dollars and you want to know how much it would be in Japanese Yen. During your stay in Japan, you come across a beautiful antique vase that is 24 inches tall, but you are more familiar with measurements in centimeters. How tall is the vase in centimeters?\""
+  },
+  {
+    "key": "3761b975497b31bc0f45565ce3f7676107dc7c36c602a8d84f6c05662d4a0e3e",
+    "source": "\"Could you tell me the estimated date of the Jurassic geological era and calculate how many years ago it was? Also, could you provide the date of the signing of the Magna Carta and calculate how many years ago that event took place?\""
+  },
+  {
+    "key": "da510367e3a34adf21461f471de2d79620b416222cd4231e3a93201f400560d1",
+    "source": "\"Given the list of words ['apple', 'banana', 'cherry', 'date', 'elderberry'], can you first use the 'sort_list' function to sort this list in descending order? Then, using the 'filter_list' function, can you filter out the fruits that start with the letter 'b'? After that, consider the list of numbers [5, 10, 15, 20, 25]. Can you use the 'sum_elements' function to find the total sum of these numbers? Finally, use the 'sort_list' function again to sort the numbers [35, 10, 25, 5, 15] in ascending order?\""
+  },
+  {
+    "key": "b35e269084ac15343b124a8a6e580c6b04875f47d790353c033072d27dc23f48",
+    "source": "\"Could you help me with some calculations? First, I have two vectors, [1, 2, 3] and [4, 5, 6], and I need to calculate the cosine similarity between them. I want the result to be rounded off to 2 decimal places. Then, I have two arrays of numbers, [7, 8, 9] and [10, 11, 12], and I need to calculate the Pearson correlation coefficient between them. After that, I have another two arrays of numbers, [13, 14, 15] and [16, 17, 18], and I need to calculate the Spearman correlation coefficient between them. Lastly, I have two more vectors, [19, 20, 21] and [22, 23, 24], and I need to calculate the cosine similarity between them, but this time I want the result to be rounded off to 3 decimal places.\""
+  },
+  {
+    "key": "808b213fbc44936b1270c3603d9bca37167c3e53bd38a29d1e69e3ef9b1f51f4",
+    "source": "\"Can you help me find a pet-friendly library with a cafe inside in New York City, NY and then a store in the same city that has disabled access and operates 24 hours?\""
+  },
+  {
+    "key": "799c127e8d7931a19b32957259184b04c69ef917e99a3582baa9f6f08bf0cd15",
+    "source": "\"John has decided to invest his savings. He has $5000 that he wants to invest for a period of 5 years. He is considering two options. The first option is a simple interest scheme that offers an annual interest rate of 4%. The second option is a compound interest scheme that offers an annual interest rate of 3.5% and compounds interest annually. He also came across a third option where he can invest an initial amount of $3000 at an annual interest rate of 5% for 6 years with interest compounded twice a year. Can you help him calculate the returns for each of these options using the calc_Simple_Interest, calc_Compound_Interest, and future_value functions respectively?\""
+  },
+  {
+    "key": "f4bac159d551ec3fbd6e11a397f3fd27492aa3d84fa602d860199e40cdf3ccdf",
+    "source": "\"Could you help me with a two-step conversion? First, I have 5000 Japanese Yen that I would like to convert into US Dollars. After that, I have a measurement of 15 kilometers that I would like to convert into miles. Can you tell me how much I would have in US Dollars and how many miles I would have?\""
+  },
+  {
+    "key": "756cf7c9fa765e47deb85c4a6189c8b43939cf2bf12faa4c52dacb457dc676fa",
+    "source": "\"Could you please provide me with the historical dividend data for Microsoft for the past 5 years on a quarterly basis, then the same data but on an annual basis? After that, could you retrieve the stock market data for Microsoft for the past 60 days and then for the past 120 days?\""
+  }
+]

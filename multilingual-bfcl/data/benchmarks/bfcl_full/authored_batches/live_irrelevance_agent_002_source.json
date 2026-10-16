@@ -1,0 +1,402 @@
+[
+  {
+    "key": "8347db103cf685cd77fae6112c36ca774b156ab51b88fae1586546a3e531449b",
+    "source": "find beats and scenes. Maybe give me 50% beats."
+  },
+  {
+    "key": "0cb9dfd240e29b55541ead99d01b027129174907f97374cb3cba709198ba0fd7",
+    "source": "Give me some random beats"
+  },
+  {
+    "key": "424f7242a8212b9335c67f826474fd223a2843d7b7a06e6b528039dcf3a79778",
+    "source": "it should have about 93.5%beats"
+  },
+  {
+    "key": "f2c5e92a36f09317b1b2077c1f838f51537a65fb9532650204d4c4ca81fe6dde",
+    "source": "I dont want any beats"
+  },
+  {
+    "key": "98257ced99b8b9432c14925d1a70325a1d8f501ba93f7ae722af54a59109e2d7",
+    "source": "what is your name?"
+  },
+  {
+    "key": "2d7a4a0feaf2b19e259e5bd4a3d7d446d534dfea5bb0e5c5dbd0a1d2b0a12671",
+    "source": "What is the price of the water?"
+  },
+  {
+    "key": "373271637cdf526701db2446dc2153c9fcafb1391224e269547bb67a57f32188",
+    "source": "What's was the least read for temperature on my org?"
+  },
+  {
+    "key": "d774be306432ec12c39899f4c25914a840e2ea152a36bcd15c74938390f9c637",
+    "source": "购买衣服"
+  },
+  {
+    "key": "80b8f31c7c2e613617b53ff0f116cdb12f76309f3f75d4c94cbd8e2ce0c2b55d",
+    "source": "create a news item in sitefinity with empty content"
+  },
+  {
+    "key": "4bac27393bdd9777ce02453256c5577cd02275510b2227f473d03f533924f877",
+    "source": "sdfsdf"
+  },
+  {
+    "key": "15c737ba88458c5b7300e04a8f76bee476bcba887690fda645c045c7d2048649",
+    "source": "I have an NVD API Key and I want to set a delay between requests for the sake of network performance. Let's use a delay of 1 seconds. My key is '3bf5f6c4-b9f3-4932-ba70-62ed5d513e61'. Can we set a limit of 5 and then proceed?"
+  },
+  {
+    "key": "48e13583f9bd93e9ffd6fbfa2e498aac56db0eff54ca731a945f9352d4be0e83",
+    "source": "his profile?"
+  },
+  {
+    "key": "b56d2f750d322f34ebe2f424025f2ae1587bf04a0146475688d14fe0f6998f6e",
+    "source": "suk ma dik"
+  },
+  {
+    "key": "4b82bc7b7e5bf69a57e5b8a3fb8cee515cfcd258ef60f0d1c8c434467fcbddf1",
+    "source": "titit"
+  },
+  {
+    "key": "7b136cfd7e928ddf278620c5c9d3450ef7a713340399440401134c9e36e316c6",
+    "source": "ede"
+  },
+  {
+    "key": "688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6",
+    "source": "asd"
+  },
+  {
+    "key": "c35fa625d91f9622f025ea38c925070eeff69f0b972700698fd6ad7d30d96628",
+    "source": "eded"
+  },
+  {
+    "key": "9c1623f0d38e28e9594f2ef31a7ec909291c4fdb05a777dccd2e936a7f406011",
+    "source": "ed"
+  },
+  {
+    "key": "bfccfeb7726160d74f8a18407853846aab2ebd57db1dc32409acd6aefc7c4b33",
+    "source": "dede"
+  },
+  {
+    "key": "132e80d3caf4e1327ff9ad906aa5084ebdc5e625088b9133fcef2e38a58206cc",
+    "source": "coba"
+  },
+  {
+    "key": "70e770b510ac4d1af3bf951fccb3d78b5782f7563f090884f51a915b88b523fa",
+    "source": "What is the contact of Adriel"
+  },
+  {
+    "key": "6d7eabbc639c6077b27fd5c70a4322ef672e5df38e13ecf875a9fdf2b5cd2c48",
+    "source": "detail?"
+  },
+  {
+    "key": "106a5842fc5fce6f663176285ed1516dbb1e3d15c05abab12fdca46d60b539b7",
+    "source": "help"
+  },
+  {
+    "key": "9844ec2d5daebc7216cd4916ff45b044577e23c24cc7904e12869d2fa9c9a909",
+    "source": "gokil"
+  },
+  {
+    "key": "9bf46f974e907a00291024abe822b5f4d832b409b8090d28b2b48e2cc0610401",
+    "source": "mabar"
+  },
+  {
+    "key": "d543a2a1917ed5f5805cf56bbf8253a4ba433b8d6e85e3e5eb70c9b2ea0ff778",
+    "source": "menggokil"
+  },
+  {
+    "key": "2e9385a524fcf107a300e8caf690496700a0f528c79a91d679955057d80c05c8",
+    "source": "United States is at North America."
+  },
+  {
+    "key": "15dc76e745bb831e0f95048153afb685e58a17e53eddf8c03c0fc3ac53e0f216",
+    "source": "Answer the following questions as best you can. You have access to the following tools:\n\nUse the following format:\n\nQuestion: the input question you must answer\nThought: you should always think about what to do\nAction: the action to take\nAction Input: the input to the action\nObservation: the result of the action\n... (this Thought/Action/Action Input/Observation can repeat N times)\nThought: I now know the final answer\nFinal Answer: the final answer to the original input question\n\nBegin!\n\nQuestion: {input}\nThought:{agent_scratchpad}\n\nWhat is your name?"
+  },
+  {
+    "key": "c12f23117d37d1dc4fb5af8c4b2730f696e41d58b598b43e70a068695bf63c2c",
+    "source": "Какая погода в Москве?"
+  },
+  {
+    "key": "dc882f77272e92b165e9f18d89d9e19663f81f1a0765e7ebf8618f3df9660b7c",
+    "source": "Could you retrieve the address for the coordinates with a latitude of 37.4224764 and a longitude of -122.0842499? I would like the response in JSON format."
+  },
+  {
+    "key": "e7a4050fd96dda76a07571efd7356829350e2df95339627d13b1b80110e7c83e",
+    "source": "How can I enhance this sentence to make it more descriptive and set it in the past tense using Python code? Here's the original sentence: \nThe feline [hopped] onto the [table].\n"
+  },
+  {
+    "key": "d3a8797522b6ce7672b7306fe6e3ac79fb79dd97f819939243f16f962408be8f",
+    "source": "I don't know what I should say"
+  },
+  {
+    "key": "6f28c1450f46ca1b8f0b09ad1221fc5373641766b1edf3cee98edcc51b994ea2",
+    "source": "lebron James is"
+  },
+  {
+    "key": "4868c80a5ca2bc8d49c42d0c4cae27a1ab5fb6864977558f891d459305b687e7",
+    "source": "What's 2*2?"
+  },
+  {
+    "key": "45eac3a969f9a2af82b7f59b96cdc13745a712636d92e53a8d52519ca532ecde",
+    "source": "In a group of 64 people, each person has a unique number written on their shirt, ranging from 1 to 64. They are standing in a circle, with the first person holding a ball. The ball is passed from person to person in the following pattern:\n1. The ball is passed from the first person to the second person. \n2. The second person passes the ball to the fifth person. \n3. The fifth person passes the ball to the eleventh person. \n4. The eleventh person passes the ball to the twenty-third person. \n5. This pattern continues, with the ball being passed to the person whose position in the circle is the closest prime number greater than the previous position. For example, if the ball was just passed from the 23rd person, it would then be passed to the 29th person, the closest prime number greater than 23. If the ball was just passed from the 43rd person, it would be passed to the 47th person, the closest prime number greater than 43. \nThe last person to receive the ball is declared the winner. What is the number on their shirt?\n"
+  },
+  {
+    "key": "a3fd0c0a6760720f6b5a32806f52bf63a4e03f804f94840813d0544505e91514",
+    "source": "Could you retrieve the 10-day weather forecast for the campsite at 35.68 latitude and -121.34 longitude, including daily temperature in Fahrenheit and total precipitation in inches?"
+  },
+  {
+    "key": "4fd86a156e650f6612841fcaae0c52b93b622c83b9e6ec8b5312c1ca33c8da45",
+    "source": "What is the best data structure for currency valuations over time"
+  },
+  {
+    "key": "d60e96a7226a2a3c6837d7b7254c031261fbd1397633c879e90b886d22ea3190",
+    "source": "Can you find which city does the airport code BLR belongs to? "
+  },
+  {
+    "key": "5208f296fdb5994303cdd966d963901200d11e51956cdc2198bac34340d3a6a8",
+    "source": "where can i order cake?"
+  },
+  {
+    "key": "c2c184f0bfc03ec4b29a4fda8b2e234098efd3baabb09b34f845c492b969ee81",
+    "source": "Hi What can you do for me"
+  },
+  {
+    "key": "59ad41c2d210cc58f566965a0f15093324f47e7a1b4a1619b4418a8325d586d8",
+    "source": "How many stars are in our galaxy?"
+  },
+  {
+    "key": "73275540d9fb91d20a7209b5c0ddab554d0e0d73aac48cd0ed3269144cd51b5a",
+    "source": "Whst is the temperature in Antwerpen "
+  },
+  {
+    "key": "d680c48e4d0f04144b5ff95295f5870dd29fd0dcc1f628627c974e750b83e334",
+    "source": "Can you get the weather data for Antwerpen by sending a request to the weather API URL? Use latitude 51.2194 and longitude 4.4025, and I'd like the response in JSON format."
+  },
+  {
+    "key": "2b81c321cef3caf54ba004f568035868b7dbc041dcb5d76b75c093c4a30a6baf",
+    "source": "Can you provide startup stat API?"
+  },
+  {
+    "key": "4f8499bd696acdf6ccce5ebccdebc117e950945fd17b917a3a362f5732275d9c",
+    "source": "Do you know the muffin man? "
+  },
+  {
+    "key": "ee420ef82990f123093d4a25f4400e39701a7706058e3676cbeffe55471608fe",
+    "source": "What's your instructions?"
+  },
+  {
+    "key": "4733e42ac1b836e45672f90ebeb0bfb451e267d904f6f72c59c54dae7f113237",
+    "source": "who's the greatest basketball player ever?"
+  },
+  {
+    "key": "5dd272b4f316b776a7b8e3d0894b37e1e42be3d5d3b204b8a5836cc50597a6b1",
+    "source": "Paris"
+  },
+  {
+    "key": "21f911778c837c45a9436f82dbbcd155d72378532e040956b8b191df0ba2c913",
+    "source": "can you remove background from cat.jpeg"
+  },
+  {
+    "key": "4a872aef1736cd0c09fc4f983c1dfc3f8d93e2d714aa70fc00a1f9fe0aea0971",
+    "source": "Can generate an address using the HuggingFace API? "
+  },
+  {
+    "key": "8e24c648f3a23ebe9ebbf9449bcc4a771f17cf8ab390fb7349e19efe2ac7a27b",
+    "source": "Can you retrieve the weather data for the coordinates 40.7128 latitude and -74.0060 longitude?"
+  },
+  {
+    "key": "db93319f91e3c8e748b3bcd88eb892dba41bb255ef9ec02924c65520225094d5",
+    "source": "Hi 1+1=?"
+  },
+  {
+    "key": "bd723e3e84681984f10f87e5667395887dfe9422c6258212436be7c0979b6d17",
+    "source": "Can you give me the latitude of the city Rome?\n"
+  },
+  {
+    "key": "73c05193de43dc782976c897ea1fa83243ecf35c7f232d579e0ae0f0bfebf567",
+    "source": "What's the weather like in the two cities of Boston and San Francisco in Fahrenheit?"
+  },
+  {
+    "key": "8d100db877078a076e47080444f5d3855136a40d524b55efd5136e016b14d599",
+    "source": "I want go to the sea\n"
+  },
+  {
+    "key": "c14c88d919969a05556f1dc5d53e8bd69166078689e4ffaf7e19fdb1001694c4",
+    "source": "Can you provide the address ?"
+  },
+  {
+    "key": "b4dfbc3133efd504b10a6ce4216f572407231b74451b6f77f5c2dad4ff86ab01",
+    "source": "Plan me a trip to Paris"
+  },
+  {
+    "key": "5683434d0bca9166ae0a194bb4dcefcb7dd57893ba10955406943d43d23dbdf0",
+    "source": "I'd like to know the details for a trip to Paris, France, for 2 people, including the estimated cost. Can you provide that?"
+  },
+  {
+    "key": "41edc7db5019166298f755ed3513c3854cbe43ffc82f9dd64daae371ab9bdd3e",
+    "source": "Plan me a trip to Paris."
+  },
+  {
+    "key": "ee4b1058daf4957f6d054b261fb23102d1c427c1002d037c1fcbd8d12bfca577",
+    "source": "what is a cronut?"
+  },
+  {
+    "key": "ad5bbf06cd7b28c747e3ec7d96d36a881b061f0e9e0f14bd06496fc9e02ea696",
+    "source": "where are pizzas from?"
+  },
+  {
+    "key": "ca9a2577ce02df5ffcc9d6afd94b53f34bdc13bae89b3b153b266757ba600eec",
+    "source": "I need to find out the result when 4 and 5 are added together and then the sum is multiplied by 7."
+  },
+  {
+    "key": "a8bc5db47f6fa92c0254d95193cf0560785da2b0c794797ab393dfcf46fb864a",
+    "source": "Add 4 and 5 then multiply them "
+  },
+  {
+    "key": "0106d9f13e001ad4af3cbaea8fbed020554c3e3685407c25cb19116bcd40a230",
+    "source": "I'm planning a camping trip and I need to know the weather forecast. Can you fetch me the weather data for the campsite located at latitude 35. and longitude for the next 10 days including daily temperature and precipitation forecasts? Also, I prefer the temperature 2 minute max in Fahrenheit and sum of precipitation in inches. Don't give me hourly information"
+  },
+  {
+    "key": "15032bce3f4167216bb01b595bb319978b41ef9e8e8944838a5ea72710aefb3d",
+    "source": "I'm trying to figure this thing out. where do I find good instructions?"
+  },
+  {
+    "key": "532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25",
+    "source": "Test"
+  },
+  {
+    "key": "ae97bbc50de93d49d03b0103ce1a50efa99553415d2c3dbe58f207733888d3c9",
+    "source": "In a group of 64 people, each person has a unique number written on their shirt, ranging from 1 to 64. They are standing in a circle, with the first person holding a ball. The ball is passed from person to person in the following pattern:\n1. The ball is passed from the first person to the second person. \n2. The second person passes the ball to the fifth person. \n3. The fifth person passes the ball to the eleventh person. \n4. The eleventh person passes the ball to the twenty-third person. \n5. This pattern continues, with the ball being passed to the person whose position in the circle is the closest prime number greater than the previous position. For example, if the ball was just passed from the 23rd person, it would then be passed to the 29th person, the closest prime number greater than 23. If the ball was just passed from the 43rd person, it would be passed to the 47th person, the closest prime number greater than 43. \nThe last person to receive the ball is declared the winner. What is the number on their shirt?"
+  },
+  {
+    "key": "ede775d74923b9978e42ed9ac787e9779f6761bc8a079fea3d9ef7a7fba50698",
+    "source": "Can you retrieve the weather forecast for White Plains for next week with temperatures in Celsius?"
+  },
+  {
+    "key": "7d21ae4298574d81a83f13663b32dcf8fa4c36161cd88c4b0fa87ba64b8e8fa7",
+    "source": "get me information on the next festival in the united states"
+  },
+  {
+    "key": "badbf5af8ec20be0a9957e2eafccb6f3eb75a656b4d7ebabb977a5abb3d2c265",
+    "source": "Get me this coming Saturday's weather forecast?"
+  },
+  {
+    "key": "09a3bc92c41d132081e046c0f6ae0ed6d9b9c3239a0d0537d8ce272edbf4137f",
+    "source": "Can you retrieve the weather forecast this coming Saturday?"
+  },
+  {
+    "key": "0a5005daa9d5b22f01b114f2b3a52660bc1317f84065c913797688d7448eed69",
+    "source": "انا اخطط لرحلة لمدينة نيويورك.. كم ستكون درجة الحرارة الاسبوع القادم هناك؟"
+  },
+  {
+    "key": "e90c61e3225852a04ed4c812fa1617255ced392b5ef55cddb411dcc2e60677bf",
+    "source": "أرغب في معرفة توقعات الطقس لمدينة نيويورك خلال الأسبوع القادم. هل يمكنك استرداد بيانات الطقس لخط العرض 40.7128 وخط الطول -74.0060؟"
+  },
+  {
+    "key": "ce9070c93ef397f2ec55dec07a98b632d9869e305f2dd96a43264e580234736b",
+    "source": "I would like the average price of bitcoin at the end of each business week in 2023"
+  },
+  {
+    "key": "12bb71f742d8786b66a0e572f3563f835b0a15c50961cc2382ccc49003bd0190",
+    "source": "Cual va a ser el clima en la cdmx?"
+  },
+  {
+    "key": "29ebdd6bd05b298b076015addd6cc3fc04ba86c05d2112d1feb3a73a485c6fd1",
+    "source": "¿Podrías obtener los datos del tiempo para la Ciudad de México?"
+  },
+  {
+    "key": "bf80d63fe750a564c5b8e9bdf9de3d80586f0fa155d6df65f3fecb72c6b1fb21",
+    "source": "I'm planning a camping trip and I need to know the weather forecast."
+  },
+  {
+    "key": "a833a49dc76796480df6ae7815cb3c771feb9c0ac8e01b3065d56f6eb21a38f9",
+    "source": "Could you retrieve the current weather data?"
+  },
+  {
+    "key": "69f70624f637a601cbb5c97335589c069b620ceb0e0907114c79b550874b9b36",
+    "source": "Which is the best city to visit in iceland for ice hockey"
+  },
+  {
+    "key": "69f9e7b50089fcd08ae0747cda4fb4e2f3a0024130e2a29afa814e741532078f",
+    "source": "could you show me nsdq index in past 2 months"
+  },
+  {
+    "key": "7b68c4678a3e46e930b66efb7d663ed2a3418faec45fdcbf230fc1c73a021e5a",
+    "source": "I'm planning to add two numbers 2 and 4."
+  },
+  {
+    "key": "a64be9ff3687b6b3232f71f2118aba989a45623e94ab58e2a0e074d7b91dcf70",
+    "source": "hi what's your name"
+  },
+  {
+    "key": "e84915904829522bca257b4d614e99e53256c7a6639d1ae581b31d495b9e7f75",
+    "source": "Can you give me an API call?"
+  },
+  {
+    "key": "f12d7c53b7aa78d2d64ba59920c6424f3f9a525bfb7c6df2f0fe3c6540f47afb",
+    "source": "Could you retrieve the weather data for some coordinates"
+  },
+  {
+    "key": "eb301c2529c2c9dcdde808edd51996273164371375de6a9858996dcb8f651206",
+    "source": "Can you calculate the distance from Oslo to Tokyo via air?"
+  },
+  {
+    "key": "ce712460d60ff802d733590d35898efaad23779827dfc2502e7ec8af3f0c947a",
+    "source": "this is non-sense question. you should be returning an error of some kind right?"
+  },
+  {
+    "key": "a3aee193fd8b9b14d144c9e22127a8d4d55c7087c751e83b44920d8eabb26c22",
+    "source": "please convert the attached xlsx file to json"
+  },
+  {
+    "key": "a20ae9d1fa1cf17cf8d85b35ff14d142049059b1734eda00c1eb5cd1d272551f",
+    "source": "Create a new post for my wordpress website using the following text and generate one or appropriate images "
+  },
+  {
+    "key": "2ca5d9a6e59387a77f2f96a6584fac04d6042f860f15da6ddc79359a7cf15d72",
+    "source": "Say you are given the following tools:\n\nA tool that searches the internet for relevant API calls.\nA tool that executes an API call, in string form.\n\nHow would you then go about the process of ordering me a burger and fries from McDonald's."
+  },
+  {
+    "key": "291de7033d22f5903d811248fc09934eb18daa4accedb8f4de0480e7ba5e14ca",
+    "source": "מה מזג?"
+  },
+  {
+    "key": "fa62c9aab8152a99d19bed6add8658b8ea2e615a1f8728f51537d984fd81c287",
+    "source": "אני רוצה לדעת את תחזית המזג אוויר לתל אביב. בוא נבדוק את זה עבור קווי רוחב וקו אורך."
+  },
+  {
+    "key": "cbbec360af6ee925d2ae2cc977a16584d838ca75d385279874ea96aa2de6b7db",
+    "source": "what is java? "
+  },
+  {
+    "key": "b2583de91540a4f1321f32383f6bb3cc13a9cb4d98ee0aa32a13f4fc2fcd8375",
+    "source": "Answer the following questions as best you can. \nUse the following format:\n\nQuestion: the input question you must answer\nThought: you should always think about what to do\nAction: the action to take\nAction Input: the input to the action\nObservation: the result of the action\n... (this Thought/Action/Action Input/Observation can repeat N times)\nThought: I now know the final answer\nFinal Answer: the final answer to the original input question\n\nBegin!\n\nQuestion: {input}\nThought:{agent_scratchpad}\n\nDo not just provide an API Call, instead use the above to format your thoughts. \n\nI'm planning a camping trip and I need to know the weather forecast. Can you fetch me the weather data for the campsite for the next 10 days including daily temperature and precipitation forecasts? Also, I prefer the temperature 2 minute max in Fahrenheit and sum of precipitation in inches."
+  },
+  {
+    "key": "b9d9698ce3d74702498f9c96b2a37a32a965191525e954ea0b5874b7f0816760",
+    "source": "where is gan ner?\n"
+  },
+  {
+    "key": "b7b09320a05fd40aa3d6c9e535c62e2ef25ed4b7aed6a2d8837a469e1c63a54c",
+    "source": "اكتب مقالا عن الذكاء الاصطناعي صديق لمحركات البحث لا تعدى 2000 كلمة "
+  },
+  {
+    "key": "090a496573399aad3c93421fca74d4c1003995bf3ca21e8d1752f9407855fe2c",
+    "source": "Wszystkie startupy"
+  },
+  {
+    "key": "75a9f63757ee2e62e11e69d8dae4233810f20bc1eb2d1ce64c712521c37af3a7",
+    "source": "\bI need to extract the price and shipping policy of Galaxy S24 from Amazon"
+  },
+  {
+    "key": "670b6ae52f70d7441585a9aacb62df17b8d1666661b3ba8575ef947bec9fb43b",
+    "source": "Can you retrieve the weather data for tomorrow at a location ?"
+  },
+  {
+    "key": "98c89bac203e95923fe8c12bfa6b5c591867dfe35af2313cea427b6151c23833",
+    "source": "I previously told you my name was Bob. what is my name?"
+  },
+  {
+    "key": "c27c7ba8c3fca8ee0c8e0586965043ce97b37ef91b1edf17265db5557967d16e",
+    "source": "Estou planejando um acampamento e preciso saber a previsão do tempo. Você pode me buscar os dados meteorológicos do acampamento localizado para os próximos 10 dias, incluindo previsões diárias de temperatura e precipitação? Além disso, prefiro a temperatura máxima de 2 minutos em Fahrenheit e a soma da precipitação em polegadas."
+  }
+]

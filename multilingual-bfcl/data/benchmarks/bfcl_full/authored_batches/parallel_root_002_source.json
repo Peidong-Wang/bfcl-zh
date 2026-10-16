@@ -1,0 +1,202 @@
+[
+  {
+    "key": "0c522fa6d3100152ace5d5c25f723757050b24a877b3264dfbfb7ede6aab69e2",
+    "source": "How to save game progress at stage 7 in easy mode and stage 3 in hard mode?"
+  },
+  {
+    "key": "ffd3d254fb5fee23a625314a2d5d283f1585319eff557af1891ce748f94dab52",
+    "source": "Search for a Chicken Noodle Soup recipe and a Vegan Salad recipe."
+  },
+  {
+    "key": "d237054d5486b9e98d9e1af3e60241e1c46a5328d9b1291de550b25e6e191658",
+    "source": "Find an Italian restaurant near me in New York that provides vegetarian food options and a Japanese sushi restaurant in Los Angeles that offers delivery service."
+  },
+  {
+    "key": "533d03ed057a05c95ba08da0907e605c30ed8aa04f1daf002f9bd7e1088ca35c",
+    "source": "Tell me a cooking recipe for 'Lasagne Bolognese' for serving 4 people and another one for 'Caesar Salad' for serving 2 people"
+  },
+  {
+    "key": "10afc570ef87cfed120e35732ad7a10fe537f20b673734b71ee54f4dc627c37f",
+    "source": "I want to order a large pepperoni pizza and a chicken Caesar salad from Whole Foods at the downtown location and then another order of the same items from the uptown location."
+  },
+  {
+    "key": "e30f43b6fc068027f771c5754bc31e58f38273cea50df6d881076e01a49b02ce",
+    "source": "Find a supermarket in New York City that opens 24 hours and another one in San Diego that offers home delivery."
+  },
+  {
+    "key": "3ed360a238eb313ffacafb5825dcb5bf10bf34fa882c1029c7f0dc693526df5b",
+    "source": "Check the hotel room availability for 'Queens Hotel' in Berlin, Germany from March 10, 2022 to March 20, 2022 and for 'Royal Hotel' in Paris, France from April 5, 2022 to April 15, 2022."
+  },
+  {
+    "key": "5c81c92db9d7f92fc6e044f8dfcd648bab8a5038a425eb4ad1c9500df8b1927d",
+    "source": "Book a room for 2 adults and a child at the Sheraton Hotel in New York with check-in on May 1, 2022 and check-out on May 5, 2022. Also, Book a room for 1 adult and 2 children at the Marriott in Los Angeles with check-in on June 1, 2022 and check-out on June 10, 2022."
+  },
+  {
+    "key": "f9bb0ae7dfba1242c205ae3105a6256fdcee6aa3dfe170ee885ea108d4c9163c",
+    "source": "Get me the currency exchange rates of the following pairs: USD to AUD and USD to CAD?"
+  },
+  {
+    "key": "386f647e32454d69b104b9fa3569ab5fc7b598fcbce887dfa34fab5733092b24",
+    "source": "How much will it cost in dollars if I transfer 15000 Euro to dollars? and how much if I convert 200 pounds to dollars?"
+  },
+  {
+    "key": "e851864156b6e9a87ce83e1aee79b5f121a6b72759d4cde9c48681567c949392",
+    "source": "What is the results of the factorial of 5, the factorial of 7, and the factorial of 9?"
+  },
+  {
+    "key": "ef1ca48db4fe82397d11c66304c8fd3c6c1749ef761a7ffd808ed2e6fe23b5da",
+    "source": "\"Can you calculate the Euclidean norm, or the length of the vector from the origin to the point (3, 4) using the math.hypot function, and then calculate the Euclidean norm from the origin to the point (6, 8) using the same function? Also, can you calculate the Euclidean norm from the origin to the point (9, 12, 15) using the math.hypot function?\""
+  },
+  {
+    "key": "5e1ef14c833128100cfe19688e88a236debf31a2e3a7c3e967fbc00356dab057",
+    "source": "\"Can you help me find the roots of two quadratic equations? The first equation is 3x^2 + 4x + 2 = 0, where 'a' is the coefficient of x^2, 'b' is the coefficient of x, and 'c' is the constant term. The second equation is 5x^2 - 7x + 3 = 0, where 'a' is the coefficient of x^2, 'b' is the coefficient of x, and 'c' is the constant term.\""
+  },
+  {
+    "key": "63db017fe5732b60cd695c6c0e36a36ca53fbafd1cbdc995ab2f0e1460bcfe75",
+    "source": "\"Can you help me find the roots of two quadratic equations? The first equation has coefficients of x squared, x, and the constant term as 5, 6, and 1 respectively. The second equation has coefficients of x squared, x, and the constant term as 3, 2, and 1 respectively. Can you solve these equations using the 'solve_quadratic_equation' function?\""
+  },
+  {
+    "key": "92e06822cefa7b7ae4321a140ae05848581315c4c4a9a72ef334627b6b7cb72a",
+    "source": "\"Can you help me solve the following quadratic equations? The first one has coefficients a = 2, b = 5, and c = 3 and I want to find all roots, real or complex. The second equation has coefficients a = 1, b = -3, and c = 2 and I only want to find the real roots. The third equation has coefficients a = 4, b = -7, and c = 3 and I want to find all roots, real or complex. And the last equation has coefficients a = 1, b = 2, and c = 1 and I only want to find the real roots.\""
+  },
+  {
+    "key": "8db1b873f5d2dfff9bd4acb7cb54adc8d5b788b3149425924f5e5178f4004384",
+    "source": "What is the total circumference of four circles, where the first circle has a radius of 5cm, the second circle has a radius of 10cm, the third circle has a radius of 15cm, and the fourth circle has a radius of 20cm?"
+  },
+  {
+    "key": "1f3c0be8471fb77efd370ab817237df716c8b6a1bc68353fc79ae151769877cc",
+    "source": "What is the total area of three circles, where the first circle has a radius of 5 meters, the second circle has a radius of 10 meters, and the third circle has a radius of 15 meters, all measured in meters?"
+  },
+  {
+    "key": "3f838c36317c5b7816bf86bd5c9c8d7230788abc3cdfb47e9e3a3315c95f858d",
+    "source": "\"Can you calculate the area of two circles, one with a radius of 5 meters and the other with a radius of 10 meters, and then compare the two areas to determine which circle is larger and by how much?\""
+  },
+  {
+    "key": "5f548e70318f1869f239cc908897ff06f3ad03f16106e3131c83c16c593a353e",
+    "source": "\"John is working on a project where he needs to calculate the area of two right-angled triangles. The first triangle has a base of 12 meters and a height of 15 meters. The second triangle has a base of 18 meters and a height of 24 meters. He wants to know the total area of these two triangles in square meters. Can you help him calculate this?\""
+  },
+  {
+    "key": "eef8d157361580615333ac7b4da16c1e126d478650218c5e90d57b7ff3b38a6f",
+    "source": "\"John is a geometry teacher who is preparing a quiz for his students. He has drawn two triangles on the board. The first triangle has a base of 10 units and a height of 5 units. The second triangle has a base of 8 units and a height of 6 units. John wants to know the total area of the two triangles combined. Can you help him calculate this?\""
+  },
+  {
+    "key": "cfe76870bb3fdb37f9e4f13858b3a742db4075839e9ce260ac6c59ce2fade6d7",
+    "source": "What is the combined circumference of four circles, where the first circle has a radius of 5m, the second circle has a radius of 10m, the third circle has a radius of 15m, and the fourth circle has a radius of 20m, and I want the output in meters?"
+  },
+  {
+    "key": "f30ce43db480a25868c925cea21d194df037a4dbf017d35ccb23281dfc99e99a",
+    "source": "\"Could you calculate the derivative of the polynomial function '3x^3 - 2x^2 + 5x - 7' and then evaluate this derivative at x=4? After that, could you also calculate the derivative of the resulting function and evaluate it at x=2?\""
+  },
+  {
+    "key": "55314d3a5516fc3229f55c1f75b13f4413ff2f1a47fb4579cbb40b529bed856f",
+    "source": "\"Could you calculate the area under the curve for the function 'x^3' between x values of 2 and 5 using the 'trapezoid' method of numerical integration, and then do the same calculation but using the 'simpson' method? After that, could you repeat these calculations but for the function '2x^2+3x-1' between x values of -1 and 3?\""
+  },
+  {
+    "key": "a6e9bb1b4f02e907972dad99053c64022e8657e1337f4b24c1ffe951a220388b",
+    "source": "\"Can you compute the derivative of the function 3x^2 + 2x - 1 at the value 5, where the variable present in the function is 'x', and then compute the derivative of the function 4y^3 - 3y^2 + 2y - 1 at the value 3, where the variable present in the function is 'y'?\""
+  },
+  {
+    "key": "21c7de107f1e1d46bf3bd331ea4e83c8683e5b0d08e291bdbcc6a8779c5a8aac",
+    "source": "What are the prime factors of the number 4567 and 7890, and can you provide these in a formatted string as well as an array?"
+  },
+  {
+    "key": "3c87f73a53c746b63d585e876861e75aa31443fe738ef99c8e43727b753d860d",
+    "source": "What are the prime factors of the numbers 45, 100, and 150?"
+  },
+  {
+    "key": "6d07c88c00e75ea36dc20cec20f606b7229034c6fa5cd6ce86fca29adb6e8ef0",
+    "source": "What is the greatest common divisor (GCD) of the two pairs of numbers (45, 60) and (81, 27)?"
+  },
+  {
+    "key": "df6bcea6b10e578a221aa7e413b115723c70267ebcea954574976dba14680644",
+    "source": "\"Can you calculate the highest common factor of the pair of numbers (45, 60) and then use that result to find the highest common factor with another pair of numbers (90, 120)? Please also find the highest common factor of the pair (36, 48) and then find the highest common factor of that result with the pair (72, 96).\""
+  },
+  {
+    "key": "f0a06abb4413de49b27808d1b4a4c82fe781db5527f0a28333a61354a1cd0175",
+    "source": "\"Can you help me find the greatest common divisor of the following pairs of integers: (45, 60) and (81, 63)? Please use the number_theory.gcd function to compute this.\""
+  },
+  {
+    "key": "af7972d361c0fc4911f279fc764bdedc4ae3c34b721c8af51c2ef15ae870d9a0",
+    "source": "What is the prime factorization of the number 4567 and the number 7890, if we want the results to be returned in a 'dictionary' format?"
+  },
+  {
+    "key": "6115d41017506ef4149a53c0f37d7ff4f78d44f1b0d05ca05bf6e3f43c17c8a0",
+    "source": "\"John and Mary are playing a game where they each choose two numbers and then calculate the greatest common divisor (GCD) of their chosen numbers. John chose the numbers 36 and 48, while Mary chose the numbers 60 and 96. Can you help them find the GCD of their chosen numbers?\""
+  },
+  {
+    "key": "d3d87c69a723114fc8412eb0f29cc59b05851612b1021a12e9f0bb186983e8e7",
+    "source": "\"Imagine you are conducting a physics experiment where you are dropping objects from different heights and observing their final velocities. You drop a tennis ball from a height of 10 meters with an initial velocity of 0 m/s and then from a height of 20 meters with the same initial velocity. You also drop a baseball from a height of 15 meters with an initial velocity of 0 m/s and then from a height of 25 meters with the same initial velocity. Assuming the acceleration due to gravity is approximately 9.81 m/s^2, can you calculate the final velocities of the tennis ball and the baseball for each drop?\""
+  },
+  {
+    "key": "973bcb7d42432ced088c3b2cdbb19dff919050bb45fcb0225210188bf54c6ca5",
+    "source": "A group of cyclists are planning a two-day cycling trip. On the first day, they plan to cover a distance of 120 kilometers in 5 hours. On the second day, they plan to cover a distance of 150 kilometers in 6 hours. They want to know their average velocity for each day in km/h. Could you calculate their velocity for each day using the 'calculate_velocity' function?"
+  },
+  {
+    "key": "5c6d4ede052316f84b386a6a6dafe59030d1108b8dad22bf1d684e4d059583a5",
+    "source": "A car is participating in a drag race. In the first round, the car starts from rest and accelerates at a rate of 5 meters/second^2 for 10 seconds. In the second round, the car starts with an initial velocity of 10 meters/second and accelerates at a rate of 7 meters/second^2 for 8 seconds. In the third round, the car starts with an initial velocity of 20 meters/second and accelerates at a rate of 4 meters/second^2 for 12 seconds. What are the final velocities of the car in each round?"
+  },
+  {
+    "key": "6e40d11644acb0e68be0566c6eceaefd35cdc9c3fff73ce3a14a55fc7d2824d5",
+    "source": "\"A car starts with an initial velocity of 15 m/s accelerates at a rate of 3.5 m/s^2 for a time of 7 seconds. What is the displacement of this car? Now, consider a second car that starts with an initial velocity of 20 m/s and accelerates at a rate of 2 m/s^2 for a time of 10 seconds. What is the displacement of the second car? Finally, a third car with an initial velocity of 25 m/s travels for a time of 8 seconds without any acceleration. What is the displacement of the third car?\""
+  },
+  {
+    "key": "4f5d008fed91d2ebbcce4e3a9ea0b79b3cdd5b798dc52df157058e7934f693df",
+    "source": "A physics experiment is being conducted where two objects are dropped from a height, neglecting air resistance. The first object is dropped with an initial speed of 0 m/s and the second object is dropped with an initial speed of 5 m/s. If the first object is in free fall for 10 seconds and the second object is in free fall for 7 seconds, can you calculate the final speed of both objects considering the acceleration due to gravity as -9.81 m/s^2?"
+  },
+  {
+    "key": "f948b905b5380bcfece1552e3731101ae1bf7c70e54b5969beec92f44a38bdd3",
+    "source": "\"Imagine you are conducting an experiment with two different objects. The first object is accelerated at a rate of 5 m/s^2 and travels a distance of 100 meters. The second object is accelerated at a rate of 10 m/s^2 and travels a distance of 200 meters. Both objects start from rest. Can you calculate the final velocity of each object using the kinematics.final_velocity_from_distance function?\""
+  },
+  {
+    "key": "78ca41b25dcb94d0b06fb1dabcfaee853ada7b12841fee848b054a6d9e102f9f",
+    "source": "\"Imagine you are observing two racing cars on a straight track. The first car, Car A, starts from rest and accelerates at a rate of 6 m/s² for 10 seconds. The second car, Car B, starts with an initial velocity of 20 m/s and accelerates at a rate of 4 m/s² for 15 seconds. Using the function 'calculate_final_velocity', can you determine the final velocities of both Car A and Car B?\""
+  },
+  {
+    "key": "e63d2caae6d3821555f84dee7e3a3deaa48ea9d3c18d1e25f546270b5c0e232d",
+    "source": "\"An experiment was conducted where two objects were dropped from different heights without air resistance. The first object had an initial velocity of 0 m/s and was dropped from a height of 10 meters. The second object had an initial velocity of 5 m/s and was dropped from a height of 20 meters. Assuming the gravitational acceleration to be 9.8 m/s^2, can you calculate the final speed of both objects?\""
+  },
+  {
+    "key": "8d46843d69f759599dbd7c4c4f255b229cf70d6493fcf0ed70b18689418e6ca3",
+    "source": "Can you provide me with the fastest route from my home in San Francisco to my office in Palo Alto and then a scenic route from Palo Alto to the Golden Gate Bridge in San Francisco, and finally the fastest route back to my home from the Golden Gate Bridge?"
+  },
+  {
+    "key": "3b702a835f9c5df7e3b751a106333431932e2707babcfd19a0999624411fd73d",
+    "source": "Can you generate a travel itinerary for a 7-day trip to Tokyo with a daily budget of $200 focusing on urban exploration, then do the same for a 10-day trip to Paris with a daily budget of $150 focusing on history, followed by a 5-day trip to Sydney with a daily budget of $100 focusing on nature, and finally a 12-day trip to Rome with a daily budget of $180 focusing on culture?"
+  },
+  {
+    "key": "c298692abf25af5a72e46068b55fe8af5f6f37ef4aed21be113bdf9c2479d9e0",
+    "source": "Can you help me find vegan restaurants in Los Angeles, CA that are open until at least 22:00, and then do the same for San Francisco, CA and Seattle, WA?"
+  },
+  {
+    "key": "092ee619f577c5bfdbed59f3710687176e203b13eef1e72abc4b2b2af0b34fdc",
+    "source": "What is the shortest driving distance in miles from New York City to Los Angeles and then from Los Angeles to Miami, considering that you have to return to New York City from Miami?"
+  },
+  {
+    "key": "db797c025dc7b1e5afd782327a560816771d386a770a29265855660c97b1957c",
+    "source": "What would be the estimated travel time if I start my journey from New York, make stops at Philadelphia, Washington D.C., and Atlanta, and finally reach Miami? Also, what if I skip the stop at Atlanta and directly go to Miami from Washington D.C.? And lastly, what if I start from Philadelphia instead of New York, stop at Washington D.C., and then reach Miami?"
+  },
+  {
+    "key": "85cd9d9fa4b69ebca6a8058a54db0a0600da7a644b9a8a390fc751abddedacd9",
+    "source": "\"In a physics experiment, you are given two charges. The first charge is 5 coulombs and is placed at a distance of 2 meters from the point where the electric field is being measured. The second charge is 3 coulombs and is placed at a distance of 4 meters from the same point. The experiment is conducted in a vacuum. Can you calculate the electric field produced by each charge at the point of measurement by invoking the 'calculate_electric_field' function?\""
+  },
+  {
+    "key": "5beab8e6502433c89b89ab09cbdd5c22cbd75d6447f900a4b8214168866a8c56",
+    "source": "\"A team of scientists is conducting an experiment involving a circular loop carrying an electric current. They have two different setups for this experiment. In the first setup, the loop has a radius of 0.5 meters and is carrying a current of 10 Amperes. In the second setup, the loop has a radius of 1 meter and is carrying a current of 15 Amperes. They want to compare the magnetic fields produced at the center of the loop in both setups. They assume the magnetic permeability to be the same as in free space in both cases. Can you calculate the magnetic fields for both setups using the 'calculate_magnetic_field' function and tell them which setup produces a stronger magnetic field?\""
+  },
+  {
+    "key": "638834f1197e5450a4c367bee15b3ad862e35ceddd16b972aae2d94691cf6dec",
+    "source": "\"In a physics experiment, you are given two charges. The first charge has a magnitude of 5 coulombs and the second charge has a magnitude of 10 coulombs. These charges are placed at a distance of 2 meters from each other. You are asked to calculate the electromagnetic force between these charges. You perform the experiment twice. The first time, the charges are placed in a vacuum, which has a permittivity of 8.854 x 10^-12 F/m. The second time, the charges are placed in a medium with a relative permittivity of 5 x 10^-12 F/m. Can you calculate the electromagnetic force between the charges in both scenarios?\""
+  },
+  {
+    "key": "f150720c1a08b2a5631794f7b8566d144adff4d2aa4829c375fa12fd64b11f86",
+    "source": "\"Can you calculate the resonant frequency of an LC circuit with an inductance of 0.005 henries and a capacitance of 0.0000001 farads, and then round off the result to 3 decimal places? After that, can you calculate it again with an inductance of 0.007 henries and a capacitance of 0.0000002 farads, rounding off the result to 4 decimal places?\""
+  },
+  {
+    "key": "3d317410079c51e9334bff79a27b3f3b69380ba859180de1b0bedf82631b8e36",
+    "source": "\"Can you calculate the electric field strength at a distance of 0.5 meters from a point charge of 2 Coulombs located in a vacuum? Then, can you also calculate the electric field strength at a distance of 1 meter and 2 meters from the same point charge? Lastly, can you calculate the electric field strength at a distance of 1 meter from the same point charge but this time located in air?\""
+  },
+  {
+    "key": "31f51e3fe513ff332ddbeceb80a1e893b13940bb000100a5192cda4ae7f06cf2",
+    "source": "\"Can you help me calculate the energy required for a phase change? I have a science experiment where I am first melting 500 grams of ice at 0 degrees Celsius, then I am freezing it back. After that, I am vaporizing the same mass of water at 100 degrees Celsius and then condensing it back to liquid state. The substance I am using for this experiment is water. Can you tell me how much energy is required or released during each of these phase changes?\""
+  }
+]

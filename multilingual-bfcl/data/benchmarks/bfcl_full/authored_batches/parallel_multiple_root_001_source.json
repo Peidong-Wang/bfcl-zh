@@ -1,0 +1,202 @@
+[
+  {
+    "key": "ed3f2ea5eb72a08f844cf0cd8f7e5c3b42ad79d9a34702a930c22c10f585458d",
+    "source": "Find the sum of all the multiples of 3 and 5 between 1 and 1000. Also find the product of the first five prime numbers."
+  },
+  {
+    "key": "fe50af78b511ed7fa9111cdae2524574f70f947e46cb2050adb2211826e506be",
+    "source": "Find the area of a rectangle with length 7 and breadth 3. Also, calculate the area of a circle with radius 5."
+  },
+  {
+    "key": "bc28c7adce6d5f16b2483ac1974fdb6725ca5616a7ef0f14828a4dfb15c75c20",
+    "source": "Find the area and perimeter of a circle with a radius of 5 and also find the circumference of a circle with diameter of 10."
+  },
+  {
+    "key": "28067c71b4b596ba1743a04a3738370fcb609b86bd198d143b4c78814dee9ce6",
+    "source": "What are the length and the width of a rectangle which has a perimeter of 14 and area of 15."
+  },
+  {
+    "key": "82b2acf91ab649ab5e797c4e23a11a52b639e95b13c2edc5a19878cd5b34b23c",
+    "source": "Calculate the area under the curve from x=1 to x=5 for the function f(x)=x^2. And find the derivative at x=3."
+  },
+  {
+    "key": "393abeba599b3281ff548386732eb2689503239a25b8b86f32441bfbe42c689e",
+    "source": "Calculate the Greatest Common Divisor (GCD) of 96 and 128, and the least common multiple (LCM) of 15 and 25."
+  },
+  {
+    "key": "fc17653dfe18398c1145af320d63a4aa15f41db80a986b98b2cee967904b7cf5",
+    "source": "Find all prime numbers between 50 and 150. Then get the fibonacci series upto 150."
+  },
+  {
+    "key": "28de971408f0a5dad43c6c612f05622fee0abd2e001f5b51dfc0caeae407db0c",
+    "source": "Calculate the time required for a car moving at 50 m/s to travel a distance of 600 m. Also calculate the time required for a bullet moving at 400 m/s to cover a distance of 1000 m."
+  },
+  {
+    "key": "73feca4f041a456dcc7871fb8727e7408787b2ab64a1e93ccd86de20b48b0fd3",
+    "source": "Calculate the final velocity of a moving object given initial velocity of 20 m/s, acceleration of 5 m/s^2 and time of 6 seconds. Also, compute the total distance covered by the object."
+  },
+  {
+    "key": "76f8970b5c11c8fac9bb4d931b9281b78f4168911a59b299f34911e6c6367ad2",
+    "source": "Book a flight from Seattle to Boston with American Airlines and book a hotel in Boston for 4 nights. "
+  },
+  {
+    "key": "5552686bb9dc53af72708043ff3a2a2a7b52e5ce1634150c4914d92f36314ed5",
+    "source": "Buy me a ticket to the Mamma Mia musical for next Friday, June 30th 2023, also get me a train ticket from New York to Chicago for the same day."
+  },
+  {
+    "key": "51b373702679d702aab5b256cb6953870eb40815786b33ee74ab08be2ab41020",
+    "source": "What is the Electric field at 3m from a point charge with a value of 4C? Also, calculate the magnetic field for an electric current of 0.5A flowing through a solenoid having 25 turns per meter and a length of 2m."
+  },
+  {
+    "key": "b3e7dfd0932b194455b579aa3ea2e9a9d22a8b53e22bf8c9e0e38fb074c100dd",
+    "source": "Calculate the magnetic field produced by a wire carrying a current of 4 amps with a distance of 2 m from the wire. And find the voltage difference of a region in the direction of the electric field that is 3 m apart, assuming the electric field is 5 N/C."
+  },
+  {
+    "key": "3cd8813496d7108949fb88e4c92851d8a8278fb10fe34cdf4a5300b45b9bfd57",
+    "source": "'Calculate the energy required to heat 100 grams of water from 25 degrees Celsius to 100 degrees Celsius in joules, and also calculate the energy required to heat the same mass of Aluminium under same conditions in joules"
+  },
+  {
+    "key": "4c3ed3e9fb58f788128bb8dfc81d504f6720ac690bee3d8c7f777e11d93136bd",
+    "source": "Give me the population size of tigers in Bangladesh and India for the last 5 years. Also provide the projected population size of tigers in Nepal and Malaysia for the next 10 years."
+  },
+  {
+    "key": "23d0c560844521b7254e3e30064c753633b5e1469944902bf45163778a3a4fe1",
+    "source": "Find a Chinese restaurant near me in New York and suggest a high-rated of 4 Italian restaurant in Los Angeles. Then find a cheapest flight for round-trip from New York to Los Angeles"
+  },
+  {
+    "key": "aab856cdc4cf93946df86c982e9e55deb77b8ee2953fb729e53d0071ca43ce61",
+    "source": "Calculate the factorial of 8 and generate the prime numbers from 1 to 50."
+  },
+  {
+    "key": "02d3b2ecd404072a1af58e75c6bdbae84da675b5a6a0039a38e69aec8d49f3d3",
+    "source": "How many steps do I need to walk in order to lose 500 calories and how much water do I need to intake today if I exercise for 2 hours?"
+  },
+  {
+    "key": "798bfc1f81a4496fcd1eb247d9289aea444c2617ccfa13bed3bef25dec091221",
+    "source": "I need to convert 10 dollars to Euros and make a 10 dollar deposit in my local bank account with account number - 987654."
+  },
+  {
+    "key": "08c877394a61ba422ecf0e4d347705c32d8a5df000512caaf113f6e26d721ce7",
+    "source": "Perform Gaussian integral of the function exp(-x^2) from -2 to 2. Also calculate the definite integral from 0 to 3.1416 of sin(x)."
+  },
+  {
+    "key": "78106fa45e43baf11896039aac29c0477835a6fde9bec0341ee2063b5cfae2fe",
+    "source": "Determine the median and variance for the following data points 3,4,5,2,8,5. Also determine the mode for these points."
+  },
+  {
+    "key": "036cc58d929d228f580be294c3b388cddd31be455c41284da0aee99dd7e280cc",
+    "source": "Use the data from dataset.csv file and fit a linear regression model to predict future sales by setting x=data['sales'] and y=data['future_sales']. Additionally, calculate and return the residuals."
+  },
+  {
+    "key": "76b24dfd3a68bb3529eb0ed4677ad25de481e1ed771e1a5973d488bb51e1244e",
+    "source": "Find me the sales growth rate for company XYZ for the last 3 years and also the interest coverage ratio for the same duration."
+  },
+  {
+    "key": "0f9dad2a82e143dcd8f90db56c495481d20cf1fbf89f2acf3773533372472f16",
+    "source": "Calculate the net profit margin of Company XYZ given that the net income is $20,000 and total revenue is $100,000. Also calculate the debt ratio of the same company if the total liabilities are $10,000 and total assets are $30,000."
+  },
+  {
+    "key": "8584a622611843103a762d48d28d1cee235acd17006d6142f2f86b879d8cfd7d",
+    "source": "Invest $2000 in Google and withdraw $1000 from Apple."
+  },
+  {
+    "key": "c800638597e9e96279bca26cc3a60dc080939d31f2914f58228d5820e2ca5fa0",
+    "source": "How much would it cost me to invest in 50 shares of Apple's stock right now? Also calculate the total dividend payout if each share returns $1.30 as dividend."
+  },
+  {
+    "key": "fc42edb2fae8efb3b5c88d8467cb7229b1e178efa44e4fe32889914ed6f3e7cc",
+    "source": "Get me the transaction history for my account '00125648' for the past 7 days and also calculate the total balance."
+  },
+  {
+    "key": "3b3524d839dd00ce17e9afe4e7aa7de565dcf4fd8295763c2e4c2c6eabfaffdf",
+    "source": "Transfer $5000 from my checking to saving account. And calculate my potential interests after 5 years if the annual interest rate is 3%."
+  },
+  {
+    "key": "95f3cd9b510cbb2f6ea4eebd43b5756ee97df159a29149ab086db4c3bd8bcb84",
+    "source": "Find the conviction status of a criminal with name John Doe in New York, also find the nature of the criminal offenses he committed."
+  },
+  {
+    "key": "ec52f3349f0fff92f83551aa81ce09695fd8ea4721ccb5362767597bae60b435",
+    "source": "Find cases that pertain to 'Theft' from court record in 'New York' and from 'San Francisco', filed in year 2021, and display briefs of top 5 relevant cases."
+  },
+  {
+    "key": "2c741f8c4b4fb9bc08239570e6fa471a2a64297190590937ad0dabc3c4becadf",
+    "source": "Find all law cases where Charles Dickens is a party and it happened in Boston. Also, get cases where University of California was a party and happened in Los Angeles."
+  },
+  {
+    "key": "79b317f737f182d2f27f03e9dfdb2b320f59ee9dca41359ee546718cd52eb50c",
+    "source": "Find how many cases and the judge handling a specific lawsuit for Pacific Gas and Electric and Tesla Inc."
+  },
+  {
+    "key": "e7c532cf23380c31180fd92e41e7931e998dcc94b2195360a99578a28ad4bba2",
+    "source": "Get temperature and humidity forecast for Boston, USA and precipitation forecast for Rome, Italy for next 10 days."
+  },
+  {
+    "key": "69c80c2f0ef24cd9e37aeb430248d7954421053b0c1aa0a51d92c47eeee771ab",
+    "source": "Locate all supermarkets in Los Angeles and find the most popular site seeing place in Miami."
+  },
+  {
+    "key": "c3f93d612ba9f953f745cb8828e1e98351c4dd32cb54341aff05d10cc61dd21c",
+    "source": "Translate the phrase 'Hello World' from English to Spanish and translate 'Goodbye' from French to English. In addition to that get current time in 'Los Angeles' and 'London'."
+  },
+  {
+    "key": "8515692e6746f0be3ab4f51b3d79bde38aa95837d336d32cd6006fb64d3ca6e4",
+    "source": "Identify objects in my backyard image my_backyard_image_url and analyze the sentiment of today's journal entry my_journal_entry_text."
+  },
+  {
+    "key": "a63e593d44cb4c7bf90a0eaf14a7caabf24a0fe99ad7e2da83262c5ca20eb5c1",
+    "source": "Find overview about the Battle of Waterloo and the signing of the Treaty of Tordesillas."
+  },
+  {
+    "key": "77b66f55c2a6d3c15de24ba48228a67ee8549f36c6653d4647b5dd40dd0fb51e",
+    "source": "Get me the timeline of World War 2 in Europe and then get me an array of important leaders involved during the war."
+  },
+  {
+    "key": "c46a8478c6dfab005543cae9ce1021b23ebea39c06a80d9e9ad3b82a3f6a9d3d",
+    "source": "What was the average life expectancy in the USA in the year 1900 and 1950? Additionally, what was the Gross Domestic Product (GDP) of the USA in these years?"
+  },
+  {
+    "key": "555887f1c29242f93299c336b0a36cc2533085a94684e7d9b311577bf34ab4c3",
+    "source": "What is the exact birthdate of Nikola Tesla and what his most famous discovery was?"
+  },
+  {
+    "key": "4136ffaa1cc83da6b2c59c41380e2f6ae2a43079ca95cbc9f1c7f783729db4f5",
+    "source": "What is the weight of Neutron and Proton in atomic mass unit (amu) ? Also what is the diameter of a Proton and Neutron in femtometers?"
+  },
+  {
+    "key": "fe19e013d32dd1c44bfc2108c35a279349d688b934e62f9ea61c56a586220a43",
+    "source": "Create a square painting with blue background and dimensions 16x16 inches, then display it for 30 seconds with 70% screen brightness"
+  },
+  {
+    "key": "04bd80f5f63376273495553a7e61348f7c36e40bc9cead50020bbf89ceaea51f",
+    "source": "Find me a bronze statue in the Modern Arts Museum in New York and a stone sculpture in the Louvre Museum in Paris. Also, find me a painting made by Picasso in the Metropolitan Museum of Art."
+  },
+  {
+    "key": "b4cb8ba856a7bdfc802101e936c0a4acf051d364a5ff91a044d039d10f96bc9e",
+    "source": "What is the average price of a 4 ft x 4 ft marble statue in the museum of Philadelphia and 6 ft x 3 ft bronze sculpture in New York museum? "
+  },
+  {
+    "key": "8929828cdb1b98a3acf8d51018087b446b099946dab713d0f3d4ea319fec3392",
+    "source": "Design a house with 3 bedrooms, 2 bathrooms and a garden. Also, design an office with 5 rooms and a large meeting room"
+  },
+  {
+    "key": "d9a2935c8c4767284256bd6446e374c2266b9ba36458a5bf634027589195157e",
+    "source": "Calculate the volume of a cuboid with a height of 10m, a width of 5m, and a depth of 8m. And find out the volume of a sphere with a radius of 4m."
+  },
+  {
+    "key": "f9b9242d92930983798545fb1d8b8a9804d47bd17c98d35da31268d2a7f716ae",
+    "source": "Find the operational hours for Louvre Museum and the waiting time, then tell me how long it will take to travel from my current location to the museum."
+  },
+  {
+    "key": "488f716944e2e06c1b7f19185b39e78b2614672af609cbf29ce4d8211b586c2f",
+    "source": "Find me the lowest price for a Yamaha Acoustic Guitar in Austin and compare it to the average price of Yamaha Acoustic Guitar in New York. Also tell me how many stores carry Yamaha Acoustic Guitar in each city."
+  },
+  {
+    "key": "b812c2e1fb3c386276e0952f434c67255187d5c78d91d82df11ab948ef4924cb",
+    "source": "What is the equivalent note of C in Indian musical scale? And convert the frequency 440 Hz to wavelength?"
+  },
+  {
+    "key": "39a21df42ba63157ea84a58e900e4ce2ce95961262fc3546503e63cf575bc068",
+    "source": "Create a hip hop beat at 95 beats per minute with a major scale and make a bass melody with C4, E4, F4, G4."
+  }
+]

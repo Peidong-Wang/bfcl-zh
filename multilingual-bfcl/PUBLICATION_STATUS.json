@@ -1,0 +1,12 @@
+{
+  "dataset_release_ready": true,
+  "github_published": false,
+  "github_blocker": "GitHub account connection is not available; curated local Git repository is ready",
+  "site_project_id": "appgprj_6ad1db374f788191b4dc7e959dd40d00",
+  "site_deployment_status": "succeeded",
+  "site_url": "https://bfcl-zh.peidong-wang.chatgpt.site",
+  "site_audience": "public; explicitly approved by the user",
+  "hosted_browser_check": "Cloudflare blocked the automation browser; native deployment and public access confirmed",
+  "translation_api_used": false,
+  "model_evaluation_run": false
+}

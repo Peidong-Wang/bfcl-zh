@@ -1,0 +1,40 @@
+另外，创建名为 'summary.txt' 的文件并写入 'Hello'。然后快速比较该文件与 'notes.md'，找出信息上的差异。
+最后，统计 'summary.txt' 中的字符数。
+使用终端界面显示 '/temp' 目录中的所有文件，包括隐藏文件。
+根据终端显示的信息，在 Twitter 发布帖子，只提及文件名，用逗号和空格分隔，并添加话题标签 '#fileshowcase' 来传播消息。
+进入 'Documents' 目录，创建名为 'summary.txt' 的新文件，好吗？如果文件已存在，返回错误。
+在 'Documents' 中，把深刻的话题 'quantum computing' 记入 'summary.txt'。文件内容应仅包含 'quantum computing'。
+我想了解这个文件有多充实。请帮我统计 'summary.txt' 的单词数。
+documents 目录中有个文件让我好奇。它是该目录按字母排序的第一个文件。请显示其最后一行。
+我最近保存的一些工作与系统中的另一个文档相似。请检查此目录中的两个文件，并说明差异。
+首先 cd 进入 'ResearchDocs' 目录，然后查找所有名为 'report.csv' 的文件。
+在 'ResearchDocs' 目录中找到 'report.csv' 后，查找其中提到 'Quarterly Financial Overview' 的行。
+提取并显示 'ResearchDocs' 目录中 'report.csv' 的最后五行，这些是需要强调的最新更新。
+以 USR001 登录。最后，完成文件审阅后，请将同事 John Levy 添加为新联系人，并向他发送消息 'Latest Quarter Performance has been well.'。
+我正开始一个新的数据分析项目，令人兴奋得如同创作下一部杰作。先创建名为 'DataSet1.csv' 的文件，保存最初的原始数据。
+向 'DataSet1.csv' 写入初步数据，开始分析探索，就像丰富人物背景一样。数据如下：'Student | Math | Computer Science Alice | 5 | 9 Bob | 10 | 7'。请原样复制，并将每一行数据分别放在一行。
+设想你正在阅读 'DataSet1.csv' 的最后一条记录，请展示它，让我了解数据当前的状况。
+汇总上一个文件的行数、单词数和字符数。这很重要，就像衡量剧本长度一样，有助于理解数据叙事的规模。
+请计算刚才所得三个数值的平均值，仅供我个人使用。
+research 目录中有一个 'research_notes.txt' 文件。请优先备份，将它的副本移到 research 中名为 'archives' 的文件夹，将新文件命名为 '2024_research_backup.txt'。
+现在，将刚创建的 '2024_research_backup.txt' 内容按行以字母顺序排序。
+排序完成后，确定排序后的 '2024_research_backup.txt' 文件有多少行。
+请提供当前工作目录中可见和隐藏文件的清单。
+请 cd 进入 project 文件夹，在其中找到 Kelly 的测试报告，并把内容读给我。
+请把报告发给 Kelly，我需要添加她的联系人（Kelly），消息格式为 'Kelly Total Score: total_score'。另外，请列出我至今发送的所有通信记录。
+复制 'Quarter1_Reports' 目录中的所有文本文件，将它们放入名为 'Archived_Quarter1' 的新目录。
+显示 'MonthlySummary.docx' 文件的内容，并按行以字母顺序排序，使信息整齐有序。
+比较 'History101.txt' 与 'History202.txt' 中教学材料的差异，然后将差异发布到我的 Twitter 账号供关注者查看，并提及 Jerry。
+查找当前目录内所有名为 'test_document.txt' 的文件。
+将 'test_document.txt' 的副本放入 archives 文件夹，并重命名为 'final_document.txt'。
+显示 archives 中 'final_document.txt' 的内容。
+进入 CWD 中的 documents 文件夹。然后查看当前文件夹中的第一个文档，它最后一行是什么？
+将前两个文件的差异写入名为 file5.txt 的新文件。
+我刚在工作目录中创建了 'ProjectOverview.txt' 文件，写入了项目的初步概要。考虑到后续可能调整，我想修改文件内容，写入 'To be discussed'。
+为放心起见，请验证 'ProjectOverview.txt' 和 'Draft.txt' 完全相同。
+最后，我想在 Twitter 分享最近的文档进展。请发布一条简短项目更新推文，内容为 'Initial summary of the project. To be discussed.'，添加标签 'ProjectUpdate'，并提及 @manager 和 @team_lead，让大家了解情况。我的用户名为 tech_guru，密码为 securePass123。
+workspace 文件夹中有我之前写的 'project_analysis.txt' 文件，我刚意识到它急需大量更新。请展开内容让我看看。
+非常感谢！现在我要完善分析。请复制 'project_analysis.txt'，并将副本移到我命名为 'project_archive' 的文件夹。
+这些内容很重要！接下来需要比较审阅；请比较 'project_analysis.txt' 与 'old_project_analysis.txt'，突出显示差异。
+我想在这份回顾总结中向同事分享有启发性的见解。请发推文介绍比较分析，提及 @colleagues，并加上 #ProjectInsight 扩大传播。帖子内容如下：Just completed a comparative analysis between the latest and previous project data. Some insightful findings! 我的用户名是 tech_guru，密码是 securePass123。
+请为我们的新计划撰写全面指南，命名为 'Project_Guide_1.md'。在其中写入 'Comprehensive guide for the new initiative.'。

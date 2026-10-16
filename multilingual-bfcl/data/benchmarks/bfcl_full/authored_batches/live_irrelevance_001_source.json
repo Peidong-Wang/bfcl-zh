@@ -1,0 +1,602 @@
+[
+  {
+    "key": "4b0e279b03dc6579761a4e5bebda20f79fc9956ce194c2a29a449d845b3aed13",
+    "source": "Can you provide the address for latitude 37.4224764 and longitude -122.0842499 using the Geocoding API?"
+  },
+  {
+    "key": "bff2cf371c5680c5a8ec790cf012fdc115c9b06130f1bfe6d8ac5e2ad215edbd",
+    "source": "I want to see the last years data for stock prices on the top 10 stocks from the Toronto stock exchange."
+  },
+  {
+    "key": "68a557949fc58f392fe914cdb486f541cc30155b0daf9c79bbc05ae04481683f",
+    "source": "write a python script to change filenames in a folder with their date of creation."
+  },
+  {
+    "key": "398a7500baa1aa510826e72773f0f9b08982703e70c6ffc8e8579a3a3e4fa062",
+    "source": "write a python program to play game doom."
+  },
+  {
+    "key": "d28b3d777af71e886596ce0812897438588d6e35c69c782e47b6e5641f235d0f",
+    "source": "Create a function that gives me the games of 2019"
+  },
+  {
+    "key": "c67b51e3c6d81ef88661ee657fed4397d7ebd380f8361b8b8ddbd95360c8be62",
+    "source": "I want to go to a movie in NYC, the movie should be no longer than 2 hours and withing walking distance of Time Square"
+  },
+  {
+    "key": "ebecb1010a1ec2c68285393094c8fd63d4b2b0e79da3c8bdb709a1a4e12cec5c",
+    "source": "I need to take a screenshot of the current website shown in Google Chrome. How can i achieve this with Python ?"
+  },
+  {
+    "key": "b96aeb793e42c1334d8002a2dce25097100df99d797d2003806a1c6c468e32a4",
+    "source": "what is up"
+  },
+  {
+    "key": "338db8575652ff98dc4767fd233a5d4bbec1d3e94c1a28c70836beb0514cec3a",
+    "source": "I want an API that takes an IP address and returns company data with contact information if available."
+  },
+  {
+    "key": "d11101d2f3ab6c5d0cdb598cb7671976cc16b1ffcab03c68395ea0bc8b9e79e1",
+    "source": "I want to go to whistler for skiing. Can you give me the 5 day forecast for both the top and bottom of the mountain."
+  },
+  {
+    "key": "3cc325eb9f58ca74acab58549ccc107f37c4dd3a86843b9e2560be9959d4245f",
+    "source": "I want to order five 'burgers' and six 'chicken wings' from uber eat McDonald's."
+  },
+  {
+    "key": "6f89394c6d0749e900747b5109e97abb646fb549cf213c807ba8fe8aaa6ccaa6",
+    "source": "I'd appreciate if you could fetch the DNS resolution info for the domain mapped to IP 255.255.255.0 from VirusTotal. My key for this operation is 'sample_key4'."
+  },
+  {
+    "key": "a2d441a3b9e1ef86efce14fc4e6549a246eaa4a2b6c58f5cf64533f5cb2a0541",
+    "source": "What is diffrence between cpu and gpu?"
+  },
+  {
+    "key": "5f06266e8473cdfcbc69c45161d58d4d86ddeb3d9a91ac5e0e53b0ad8f82d4ea",
+    "source": "Please help me get the votes associated with the IP of http://digdeep.io."
+  },
+  {
+    "key": "e13b6dce1dcc12731236a6b639c48d71382718b871ee6321e6c4ae7411768278",
+    "source": "Using 'api_key_2', retrieve the IDs of graphs containing IP 145.34.45.56 on VirusTotal. Don't forget to set the cursor as 'cursor_b' and limit the results to 8."
+  },
+  {
+    "key": "b9f9b9122b7c0ac59a03fe00d91200b16114eb15d8bbed2d71ea36df85312831",
+    "source": "How do I pull the domain info of twitter.com from VirusTotal? Using this API key: twt_key_abc."
+  },
+  {
+    "key": "87588cae40aab0c672a29c8b4fc66203bb15c6cae80eee7dcea015025183024a",
+    "source": "I'm interested in comments related to google.com on VirusTotal. Also, I want a maximum of 5 comments. My API key is secret_key456."
+  },
+  {
+    "key": "af02da3aef8bb1ca90cdb9ec8ea0e72ce6de0cc0caf98312d4f250b23708514c",
+    "source": "How can I obtain the CNAME records for the domain 'sample.com' using the VirusTotal API? You should only return the related object's IDs. My key is 'secret123'."
+  },
+  {
+    "key": "7fc853ef32c621aa00fba3ff38ed0f4c98642efa37dd30ccae2fb7477a88f2de",
+    "source": "I'd like a list of threat actors related to the IP 192.168.1.1. Use the key 'epsilon_key' and get only the first 5."
+  },
+  {
+    "key": "daf4b6a9efa1056ae5e699b5a22522f233f086e423447c1e2dfb3fa9b3b00a30",
+    "source": "For the domain trello.com on VirusTotal, I'm keen to know the URLs associated with it. Retrieve a maximum of 20 URLs starting from cursor 'tr_cursor1'. I'll use the API key tr_key001."
+  },
+  {
+    "key": "80495816f7f221579a472ca05647122a046f90846f2531202061c7eb7e7a8c8c",
+    "source": "Who are you?"
+  },
+  {
+    "key": "e1f1a9be6c4bade078ddbafe10b6ea1249a759624defa0c4a2fe20a18819de12",
+    "source": "How about fetching me the sibling domains for domain pinterest.com on VirusTotal? Get me the next 10 using the cursor 'pin_cur3'. My key for this is pin_key002."
+  },
+  {
+    "key": "cc105c95322c1a62b96b816c401a7b98977d4841ea890b27a3455fee876f343b",
+    "source": "On VirusTotal, could you show me the subdomains of domain paypal.com? Set the limit to 25 and use the continuation cursor 'pp_next'. My API key is pp_key123."
+  },
+  {
+    "key": "06bc4bd46e817d31fc8c1d7efa9b0412386df43e3cc95475c57440f849c308aa",
+    "source": "I'm looking for SSL certificates associated with the IP 56.78.90.1 on VirusTotal. My API key for this task is 'sec_key4'."
+  },
+  {
+    "key": "cd912f0ea07d3d3d9e0c20b894f0981b052c0cf2cae2df6a1ea334acfaec8b64",
+    "source": "What's 1+1?"
+  },
+  {
+    "key": "48086670b1231c49c9dc655c828ec76bc343b752f24f4b02632455b278105160",
+    "source": "Can I get a VirusTotal report for 10.10.0.0 using my API key RST495?"
+  },
+  {
+    "key": "69e7441a1774daf028d23603f5a363461bd7a4561fe2db5f05895888315e6ddf",
+    "source": "do a web search"
+  },
+  {
+    "key": "225e866e38f90ecb3cbdbcb872b79c920b98dac0d7048d47cfc2d72028c0473a",
+    "source": "Can you show me DNS resolutions for yahoo.com from VirusTotal? I'll use the API key api_key123."
+  },
+  {
+    "key": "5dbbcfdbb6df2a51600be7bb47518733bf60b5bf01bae4f1d0534ebada562b39",
+    "source": "I need to retrieve comments for domain example.com using the API key 'api12345'."
+  },
+  {
+    "key": "6aba0466c0438825356b01e889b33e45029315c0a0f5f2b923330a740697e923",
+    "source": "For domain reddit.com, I'd like to get 7 comments. My API key is 'beta_key'. Also, continue fetching from cursor 'cursor789'."
+  },
+  {
+    "key": "434a218ac1963cbe7015bac11d7b8bd958a5a255681e12d9525ae7cce4a92fdb",
+    "source": "Could you help me add a comment to IP 192.168.1.1 on VirusTotal? My key is ABC321. Here is the comment json: {\"type\": \"comment\", \"attributes\": {\"text\": \"Confirmed #malware\"}}"
+  },
+  {
+    "key": "6274e25ab86e8a653b50ca91db3eec7d88bdb7d7f85dc03cf59e497cf7a2e040",
+    "source": "With my 'key_four', I want to submit a vote indicating IP 22.242.75.136 is malicious on VirusTotal. Here's the voting JSON: {\"type\": \"vote\", \"attributes\": {\"verdict\": \"malicious\"}}"
+  },
+  {
+    "key": "ee11c1ce2cc6b299815af3f79521d347e43325102a8301c672a12c8603a2591d",
+    "source": "Can you fetch the domain report of amazon.com on VirusTotal? I'll provide my API key: amazon_key123."
+  },
+  {
+    "key": "6952c720d5cd4d90ba87516de89c21c6a917a5b824af18e24e53e5bd874fa614",
+    "source": "你是谁?你能做什么"
+  },
+  {
+    "key": "c6edbb7f966232846b31a0d31f184b91f26a43538df039eacf46ab752a0a577f",
+    "source": "Can you fetch me the weather data for the coordinates 37.8651 N, 119.5383 W, including the hourly forecast for temperature, wind speed, and precipitation for the next 10 days?"
+  },
+  {
+    "key": "c7c01cdd4089480850d6387624d68773e16d3a5023e53416ff6bcb533bcd7ef8",
+    "source": "I'm looking to retrieve the IDs (and context attributes, if any) of files that communicate with domain 'example.net'. Limit the results to 20. My API key is 'apikey_456'."
+  },
+  {
+    "key": "204fc29fc4999e8fac89c1e30cd3fabfa12df357ff52ab63af37017024ad993d",
+    "source": "Can you provide me with the WHOIS historical data for domain adobe.com on VirusTotal? I'll use the API key adobe_key123."
+  },
+  {
+    "key": "3505a25a4c13accee9faf8c80bf9798f59a2c88301481f8805fe95ff9690621f",
+    "source": "When was George Washington born?"
+  },
+  {
+    "key": "0de263cf033ba3a8b05802f44d03852b569b027b45d3fa895db12b5d893175a9",
+    "source": "Show me the object descriptors of URLs associated with the domain 'linked.net'. Please use the API key 'linker_api'."
+  },
+  {
+    "key": "2e7a1ec4c255afc51f51873b0d4bf98d5d590c5ff83f2a670236a407c95c7776",
+    "source": "Fetch the comments for IP 203.0.113.0 from VirusTotal. Set the limit to 25 and the cursor to nop. Use my API key GHI654"
+  },
+  {
+    "key": "7daeace4a32a3393d08f2a0473a6fe8df2ba2d9164ad2ff179d7ddf6f306a99b",
+    "source": "I'll trip to NY on December for 5 days. Can you make my plan?"
+  },
+  {
+    "key": "c674ae0eb2276ece9eef5251836f7c57f0da4fe0b5812e4e04533798a2c637da",
+    "source": "Could you help fetch comments for website google.com? I want to use the key 'secret_key' and set the limit to 5."
+  },
+  {
+    "key": "15a8a30277fc6e980421a75a7e2b73e43d19cc93b7f94e055a3fc6ebf4674b51",
+    "source": "For 'sister.com', I'd like the sibling domains but only require their IDs and context. Use 'next50' as the continuation cursor and my API key 'sister_key'."
+  },
+  {
+    "key": "98cb1dca29466b85929b50962896297e6748d6d58a5df88f544a7bea7f2b7e19",
+    "source": "Do you have any red shoes in size 8?"
+  },
+  {
+    "key": "8bcf179a89f9816c813d259281b11f3e83c5fe04fe1a7e22d84af58c229370f9",
+    "source": "Can you show me how to get only the object IDs and their contexts for historical WHOIS details of 'domain6.xyz'? Let's cap the results at 8 and use 'key_def'."
+  },
+  {
+    "key": "c3fd45d8c81d95095fe585b1b256559f838badc44120dbd2d9bb73aa155de1a3",
+    "source": "I want to send email to Emile go out this Friday night if she okay. "
+  },
+  {
+    "key": "a2a16bdb059160cf50e5786e934f689bf65029c0e3ad46f67b99bfd9caf1e92d",
+    "source": "How do I retrieve files downloaded from the domain 'downloads.com' using my API key 'dload_key'? I Only need IDs (and context attributes, if any)."
+  },
+  {
+    "key": "b4a50b06f118e18a6f76bcc4e52b039c20e944041ca26d2ffae57b52c26c4353",
+    "source": "Please use VirusTotal to generate a report for the IP 198.51.100.0 with my API key, WXY864"
+  },
+  {
+    "key": "bc7ca098bd15c7ef445ab7406f6dd6bd46ed08fd9b1290c1992a2da76d150a8b",
+    "source": "Can you send to Mom an Email saying we should go out and play if Friday is okay."
+  },
+  {
+    "key": "f78c50abedc238ad0ca86e2c14a4d6c85e0a136400b85f0c08d58aa6fa253854",
+    "source": "北京的房价是多少"
+  },
+  {
+    "key": "14db0eb125fdf269cb5eba617bdd48c3fd4dfc14db4d6ce995e652669603dc5c",
+    "source": "Provide the WHOIS data descriptors for the IP 123.123.123.123 on VirusTotal. For this task, employ the 'elite_api' key and only retrieve a maximum of 7 results. Also, I'd appreciate if you can set the continuation cursor to 'next_seven'."
+  },
+  {
+    "key": "4e7bc66e2c1ff8d3558cdbf9fb7d35ad278266f053273071bf881446a034c710",
+    "source": "Can you help me Get object descriptors related to a domain example.org on VirusTotal? The relationship I want to check is subdomains. You should just return the related object's IDs (and context attributes, if any) instead of returning all attributes. My key is my_api. Set the limit to 10 and the continuation cursor to abc."
+  },
+  {
+    "key": "78f021fb95714aa562e18b6b94296464a649c70e0254b4fbb42520ce4fe23a81",
+    "source": "I'm interested in the CAA records related to the domain instagram.com on VirusTotal. My authorization key is ig_key001."
+  },
+  {
+    "key": "cd61bf0cc67fc2233111c91167e2abb3c652200bfe22059a166475d37366b7a8",
+    "source": "What time is it?"
+  },
+  {
+    "key": "e55b64bf71d254def63e54dd169056318e7e8dc851b5b2597241bf4d07f6994d",
+    "source": "On VirusTotal, what are the sibling domains related to amazon.com? Use the continuation cursor 'next123' and the API key magic_key001."
+  },
+  {
+    "key": "09087076f3f5ea69f27a0242e42edc9a3c9f8913bbb2f907c47d3b48489670db",
+    "source": "Fetch community posted comments in the IP's related objects for 109.87.65.43. I'll be using 'delta_key' for this."
+  },
+  {
+    "key": "a476ed004f7e9ff1762f04571954495733319d19567e58b46c2e4964163a5304",
+    "source": "What is MSFT in yahoo finance"
+  },
+  {
+    "key": "ecba4c4aa76156116c7d470a5d3aca76b61cb1c41315c15c9553a82b3c6f0d09",
+    "source": "Olá, tudo bem?"
+  },
+  {
+    "key": "6546869704600bd22466e5dc0cb9a1e9fd2b43459b0168f96775199c052d472a",
+    "source": "Fetch me the list of URLs having the domain facebook.com. I don't want more than 10 URLs. API key for this is fb_key002."
+  },
+  {
+    "key": "3c812269adccdc764ce892e2f1c3f994c3f41ef3f5ce796a2f7778eb10ffc84e",
+    "source": "I'd love to see any threat actors associated with the domain dropbox.com on VirusTotal. My access key for this request is db_key456."
+  },
+  {
+    "key": "e9a732f26ca6ce650ecb0e3f08208ef8debf7635a46b651b0dc9c5735d7ab527",
+    "source": "where is the capital of china"
+  },
+  {
+    "key": "03572c9f45dbfdc8e4ec18edfa92ebd567933bc093a297a028d736e2448a83df",
+    "source": "What are the DNS resolutions for 'site.info'? Get object descriptors instead of returning all attributes. Use the key 'apikey_info'."
+  },
+  {
+    "key": "79be4d9540869e9513b3547f34ef99ea3561eee96af183889e2ed3c10508d3fd",
+    "source": "For the domain 'test4.org', how can I retrieve only the IDs and context attributes of community comments? Use the continuation cursor 'cur456' and my API key 'key123'."
+  },
+  {
+    "key": "0c3be8ac029a2175272117c540ca6cd19878b717bceb757d18dc5e48e7630a45",
+    "source": "add a new postgres server"
+  },
+  {
+    "key": "768ecc4d118b2bd8b7823e83f017e87a1f4be56c78b1ca0cca1ddd7dde8290f7",
+    "source": "Would you be able to fetch the votes for 15.24.135.80?"
+  },
+  {
+    "key": "15c4e53405fb2795241259e67cf716a7cc425241d8079ff948fe53794d631a34",
+    "source": "Show me URLs related to IP 87.65.43.21 with the key 'gamma_key'. Also, set the continuation cursor to 'next_page'."
+  },
+  {
+    "key": "8ff6600a46d3727c7640985597b0c07e1a0ac1c5d97b15d7f40f31457646505f",
+    "source": "I'd like the IDs and context attributes of files communicating with IP 178.34.55.101 on VirusTotal. Please utilize the 'super_api' key and restrict results to 15, setting the cursor to 'next_set'."
+  },
+  {
+    "key": "d6d23f88ef9c42ecb0385292369f31bae16df60bfd6f76d486ef831fc604c3f8",
+    "source": "Could you tell me how to obtain just the IDs and context attributes, and not all the details, of the CAA records for 'sample2.com'? I'll be using my API key 'secret567'."
+  },
+  {
+    "key": "9b085153bf38bcb16e8e98cc259b19095d583ca513a4aa2dcfd70ad91089b5e6",
+    "source": "Using my 'delta_key', how can I get comments for the domain apple.com?"
+  },
+  {
+    "key": "08f4af8011de40dcccb412defad5136128f098fa4744ab036f0903e9a51b8671",
+    "source": "Using VirusTotal, can you find me files that contain the domain airbnb.com? I'd like to see up to 50 files from cursor point 'ab_next'. My authorization key is ab_key789."
+  },
+  {
+    "key": "d13b2da4ee2d87f964ace2ca49c3dd999ab3e6942047be99746eca2ad9488e67",
+    "source": "Can you help me get files that communicate with the IP address 12.234.56.126 on VirusTotal? My key is my_api. Note that the max number to retrieve is 10, and the continuation cursor is 'pointer'. Thanks."
+  },
+  {
+    "key": "7f765ae678ad26975fdeb9a81be6e2f85ec68fe3052043e0ac16710aed55b890",
+    "source": "Can you help me get comments on a domain youtube.com on VirusTotal? My key is my_api. Set the limit to 10 and the continuation cursor to abc."
+  },
+  {
+    "key": "e1c7dda3f91c357dcf14392f685d420d300c303481d72fcbf7f7c00db914be42",
+    "source": "Can I get the next 10 comments for twitter.com? Use the 'eta_key' and start from cursor 'rst890'."
+  },
+  {
+    "key": "9d3429509901a5c19ffae240a70000c302d45234ff98b4592e210a34377448d5",
+    "source": "Could you give me Python code that get 2 int type parameters and add them"
+  },
+  {
+    "key": "a612ce0c988049161a231d8e3f714643df1b28d4b50f761d9125e27b53116e9b",
+    "source": "I wish to see comments of domain amazon.com. Kindly use my key 'zeta_key' and continue from the 'lmn456' cursor."
+  },
+  {
+    "key": "72559ebf1cdd00aea3943c42122081088915effccd2890e65060ab3aa34c859f",
+    "source": "Using 'theta_key', fetch comments for domain instagram.com. Also, set a limit of 25."
+  },
+  {
+    "key": "91b3d03bef36f280116965816fb2449e496c8d28020f2229929dead1c50bbb5b",
+    "source": "Give me an analysis trail for my project SUPERFANCY with component UUID AB1010CD and vulnerability ef903ac-893-f00"
+  },
+  {
+    "key": "cc8aa5d2cb65db371961fcedbd2dc82fa731fa6b90a26469dd86a283de05726d",
+    "source": "I want to check the SSL certificates history associated with the domain reddit.com. I have the API key rd_key005."
+  },
+  {
+    "key": "254cb10ac83fb97ade6be0486d78bfbcc7e61085122ee6ce40916a79b78451c8",
+    "source": "Please help me access graphs that include IP 34.56.78.9 on VirusTotal using 'sec_key2'."
+  },
+  {
+    "key": "42fa3136e7d783c21ebdf73332b55bfef8683866ff8d2f4abebbb0a799579da3",
+    "source": "I want to see community posted comments about slack.com from VirusTotal. Get me the next 30 comments using cursor 'slack_c2'. My key is sl_key456."
+  },
+  {
+    "key": "21c7774d58de64ed674a5f655b82f044592bbcb89a6e7e9c44385e264febd22a",
+    "source": "请帮我生成一组多轮对话数据,里面包含了LLM function call"
+  },
+  {
+    "key": "e6b3060d543969fd0610cdd210534d69aadc7aae5f9022a4f5f9d074dcdb1464",
+    "source": "For the website netflix.com, can I fetch 15 comments with the 'epsilon_key'?"
+  },
+  {
+    "key": "c4f8bfba5c3dea8a3fe0932f02420a8a3dc56150e77ba0ba6aa943f79c429908",
+    "source": "I'm interested in the VirusTotal report of the domain microsoft.com. My access token is MS_key321."
+  },
+  {
+    "key": "41630accbfb4ddd708c1cbcceecf131730696b40e52d72f2b2ce4b1f44e9e782",
+    "source": "I want to book a flight?"
+  },
+  {
+    "key": "a10fb4a4708954293f7447594a8170322de24efac5ae0cc5da845caea71db3fe",
+    "source": "i want to get two numbers and plus them. Give me Python Code"
+  },
+  {
+    "key": "d97a6ca46448d4dff0b0ed24274f573dc5525c8e5c532707adeece22ed95b44f",
+    "source": "web search, what is the columbia university"
+  },
+  {
+    "key": "601c6b289b858bdc916bb1c4d988a5628bb67515c0d4d61a85c08695aa47146a",
+    "source": "Boston has high temperature of 54C and is very hot during th esummers."
+  },
+  {
+    "key": "ad7a6cd2da1416bfe2a321f0cf89d49c63a9b6ebb0d6ea14f45efd3ff5a2f418",
+    "source": "今天查看北京的新闻"
+  },
+  {
+    "key": "1993316bad72f81cdb6b932fe5f20cee26713ccafe036085b5edb230f0d259de",
+    "source": "I would like to check the IP address 192.168.0.1 on VirusTotal using my API key, KEY123"
+  },
+  {
+    "key": "0b31246f031303b4ce10003e49e5b51bcb286cfd60c853822d10a8faef1d02e1",
+    "source": "Help me retrieve a list of resolutions for IP 67.89.0.1 on VirusTotal. I'll use the API key 'sec_key5' and need the first 25 records."
+  },
+  {
+    "key": "29910d1aec73b462efb406d95d929115917d418d71e48c3d0d5f7442cf5919f4",
+    "source": "You are an AI programming assistant, utilizing the Gorilla LLM model, developed by Gorilla LLM, and you only answer questions related to computer science. For politically sensitive questions, security and privacy issues, and other non-computer science questions, you will refuse to answer.\n### Instruction: <<function>>[\"{'name': 'Torch', 'api_name': 'torch.linspace', 'description': 'Create a one-dimensional tensor with evenly spaced values', 'parameters': {'start': {'type': 'float', 'description': 'The starting value for the set of points'}, 'end': {'type': 'float', 'description': 'The ending value for the set of points'}, 'steps': {'type': 'int', 'description': 'The number of evenly spaced values to generate'}, 'out': {'type': 'Tensor', 'description': 'Optional output tensor'}, 'dtype': {'type': 'torch.dtype', 'description': 'Optional data type for the computation'}, 'layout': {'type': 'torch.layout', 'description': 'Optional layout of the returned tensor'}, 'device': {'type': 'torch.device', 'description': 'Optional device for the returned tensor'}, 'requires_grad': {'type': 'bool', 'description': 'Optional flag to enable gradient tracking'}}}\\n\", \"{'name': 'RapidAPI', 'api_name': 'requests.get', 'description': 'NOTE: You need an API-Key to use this API. See README for more details.\\\\r\\\\nThe Cancer Imaging Archive (TCIA) is a public repository of cancer images and related clinical data for the express purpose of enabling open science research. Currently over 26 million radiologic images of cancer are contained in this repository. The API allows you to query metadata and download images from the various public collections available on TCIA', 'parameters': [{'name': 'format', 'description': 'Specify output type. Allowed values CSV/HTML/XML/JSON', 'type': 'STRING'}]}\\n\", \"{'name': 'pyarrow', 'api_name': 'read_tensor', 'description': 'Read pyarrow.Tensor from pyarrow.NativeFile object from current position', 'parameters': {'required': [{'name': 'source', 'description': 'pyarrow.NativeFile object'}], 'optional': []}}\\n\", \"{'name': 'alpha', 'api_name': 'gcloud.alpha.builds.enterprise_config.bitbucketserver.delete', 'description': 'Delete a Bitbucket Server config from Google Cloud Build', 'parameters': [{'name': 'config', 'description': 'The id of the Bitbucket Server Config'}, {'name': 'region', 'description': 'The region of the Cloud Build Service to use. Must be set to a supported region name (e.g. us-central1). If unset, builds/region, which is the default region to use when working with Cloud Build resources, is used. If builds/region is unset, region is set to global.'}]}\\n\", \"{'name': 'aws', 'api_name': 'aws.es.describe_domain_auto_tunes', 'description': 'Provides scheduled Auto-Tune action details for the Elasticsearch domain, such as Auto-Tune action type, description, severity, and scheduled date.', 'parameters': [{'name': 'domain_name', 'description': 'Specifies the domain name for which you want Auto-Tune action details.'}, {'name': 'max_results', 'description': 'Set this value to limit the number of results returned. If not specified, defaults to 100.'}, {'name': 'next_token', 'description': 'NextToken is sent in case the earlier API call results contain the NextToken. It is used for pagination.'}]}\"]\n<<question>>I want to create a one-dimensional tensor with evenly spaced values from 0 to 1 using the torch.linspace API.\n### Response: "
+  },
+  {
+    "key": "747186d6c77db756c311821c044e488a1e2748285f78e2c6126b6faf89fbdcbc",
+    "source": "Could you help me get files downloaded from the domain netflix.com using VirusTotal? I have the key nf_key789 for this."
+  },
+  {
+    "key": "c60e9cb4a9f8a4c0c4caf462ab272ab9804c24e8010f7d88e3b1a8df29a2564e",
+    "source": "Using the key vt_key789, retrieve files communicating with the domain microsoft.com from VirusTotal."
+  },
+  {
+    "key": "9e6c71dee9353922e342dd2e5e1589f6953b49c5018ed7787958d8d8bb740cfb",
+    "source": "Show me the community comments about domain spotify.com on VirusTotal. For this task, use the key sp_key002 and fetch no more than 7 comments."
+  },
+  {
+    "key": "1726cb540d76af36a2455ad9f27b40315127c6ed3824815ac9b090f24a1735a2",
+    "source": "I want to see all files that were downloaded from IP 123.45.67.8. My API key is 'beta_key'. Limit it to 30 results."
+  },
+  {
+    "key": "afd9a638926dc2ef797f895517793d3ed4d8800208623e53539fed289ed4adf4",
+    "source": "Can we post this comment for 10.0.0.1 on VirusTotal? My API key is XYZ789. The comment json is: {\"type\": \"comment\", \"attributes\": {\"text\": \"Needs review #unsure\"}}"
+  },
+  {
+    "key": "59dd32a9f611b4912808eba490036d85154c21dfd7a9a6d94e2c69d93b82c6bb",
+    "source": "Retrieve WHOIS information for the IP address 98.76.54.32 using the API key 'alpha_key'."
+  },
+  {
+    "key": "5ee62210b1b35e68f19e9e8bea98c0d214d7d0301c989c35421bf9705aebdca8",
+    "source": "what is java"
+  },
+  {
+    "key": "133515bd0a35a5cfe92f4c24a454716bb45daa23c8aa47f650f43ebd8998a7d4",
+    "source": "How can I view comments of domain microsoft.com with my key 'gamma_key' and a limit of 20?"
+  },
+  {
+    "key": "97aee4a4fdfe1a4e2a55885391d04e2fe6cf2f90ba7b9f3d9e747f610b6bddd4",
+    "source": "I need details from VirusTotal for the domain reddit.com. My given API key is reddit_api_key."
+  },
+  {
+    "key": "a1cf15c0aefd08a285cf2af725bb288a1b610dd065e5426685309982186c2b78",
+    "source": "Please get the next batch of comments from facebook.com. My key is 'alpha_key'. Continue from cursor 'xyz123'."
+  },
+  {
+    "key": "b96c9cf15a6e0ab1c9eecb7d46e8037a1d646c718f2321b780c630e7099f53cc",
+    "source": "search the are of china"
+  },
+  {
+    "key": "3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea",
+    "source": "e"
+  },
+  {
+    "key": "c91e3f6c3fd456f5cc7ace77a8b4e54d2e94cee2c91a504e70dfd143cf74a504",
+    "source": "Whopper"
+  },
+  {
+    "key": "c5f0ae20ff2b78872c2e37c6aedd866242ffed0237eb045f800800709f5d1677",
+    "source": "Find me a good restaurant."
+  },
+  {
+    "key": "218ae6b44966c8a9913e78ef950ea5d047ac7c3d73341f9867d760cc38c3fc1f",
+    "source": "drink"
+  },
+  {
+    "key": "929d01c6b581ac2d222ab3f1efed2253425376b6dbfd887193350294f84b337a",
+    "source": "drink shit"
+  },
+  {
+    "key": "6db7646eba5cde38427af85e19160561865cea09de0be87484ca1c25fd7203ad",
+    "source": "dont give me anything"
+  },
+  {
+    "key": "6055e9707a113ddd7be1d4c18996e8de23cc2e30cb47069b3294d6288229341f",
+    "source": "Thời tiết Hà Nội"
+  },
+  {
+    "key": "4ecd9f61f7fb8217e8aa1b2a943be4153c6e2669c54b789c74ffe6c39901df05",
+    "source": "How does it feel now in Tel Aviv, in farenheits?"
+  },
+  {
+    "key": "f45f3b28426825ad497647c8a265b950192055c1732f23233a66b18d6ba4d2b1",
+    "source": "sghrtejtrjrj"
+  },
+  {
+    "key": "7d674b2b9719d548aa6538fa7774087d62f9cea9871950739fbc2ec883cec96e",
+    "source": "How hot is it now in Riga?"
+  },
+  {
+    "key": "cd2fce47732b870c9bcc927b1d41e3797eb9feee192e36c36f386b1f8054b17e",
+    "source": "What wheather is now in Moscow, in celsius?"
+  },
+  {
+    "key": "b69157f63922ea460b0b87b18ea268e24018052698e5662f0ba1146d8c3c32cf",
+    "source": "What's the weather like in Boston?"
+  },
+  {
+    "key": "877b842688892724b1d7ff3773e08ee920e715ac856bf6ebf8b837cc23ff9faa",
+    "source": "I want to buy 10 wheat hot chicken legs, 50 cups of Coca -Cola, 30 fried chicken wings, 90 fries."
+  },
+  {
+    "key": "df287dfc1406ed2b692e1c2c783bb5cec97eac53151ee1d9810397aa0afa0d89",
+    "source": "How are you?"
+  },
+  {
+    "key": "7eb91398981816c0cd106c91f6337d588a95559610b3373ad4d99ca8e393b327",
+    "source": "Hi I am Karan. Please check my flight status for Indigo flight , ticket number: IND4567"
+  },
+  {
+    "key": "aa77e5d38fc1d939233cbfd1f725df49c6f53c0f8c66ceafa8761a2ce3bc74a5",
+    "source": "Could you tell me the current weather in Boston, MA and also in San Francisco? Please provide the temperatures in Fahrenheit."
+  },
+  {
+    "key": "2e3b2084d90f3764c1d5a46a9aa16247accc05dee31598e13b6a97f8ff13e326",
+    "source": "\nWhat's the weather like in the two cities of Boston and San Francisco? Your output are the function calling and should be json dict format\nBelow is the given function\nfunctions = [\n    {\n        \"name\": \"get_current_weather\",\n        \"description\": \"Get the current weather in a given location\",\n        \"parameters\": {\n            \"type\": \"object\",\n            \"properties\": {\n                \"location\": {\n                    \"type\": \"string\",\n                    \"description\": \"The city and state, e.g. San Francisco\",\n                },\n                \"unit\": {\"type\": \"string\", \"enum\": [\"celsius\", \"fahrenheit\"]},\n            },\n            \"required\": [\"location\"],\n        },\n    }\n]\n"
+  },
+  {
+    "key": "f0beae42361553216dde34937b83310ea2560db3d0b46a5b78c44ef40d783eb5",
+    "source": "I have a string 'hello=good=' and I need to split it at each '=' to get a list containing only 'hello' and 'good='. How can I achieve this?"
+  },
+  {
+    "key": "41b91f86c29c73b7329218db05f2dbb88288d20318ecc1490d3cc75cf7e94c1f",
+    "source": "\ntemp=\"hello=good=\"\nplease write code to use .split() to split it into [\"hello\", \"good=\"]\n"
+  },
+  {
+    "key": "0ea6fd6c1a11e37f25cd603632189abc2acd68877676624568fb41ab02746c74",
+    "source": "What is logistic regression? \n Sure, here is the answer to the question:\n\n**Logistic regression is not present in the text, therefore I cannot answer this question.**"
+  },
+  {
+    "key": "c107cf5852d0309383a42c5d168f7649e4e95c5ecf8e0bd3836dfc3393f4d772",
+    "source": "如何安装mbox?"
+  },
+  {
+    "key": "72f5d1893a26286b27451a54c662b2dbefd5718d6c86d2b67b5989d9ec38d18a",
+    "source": "回答不正确，直接发起oncall"
+  },
+  {
+    "key": "b23411f13aa2121bf86067511b94e428189598a539a97b1fedd7ba21bbc50d22",
+    "source": "who are you?"
+  },
+  {
+    "key": "c70961d3fb6a50e268155caa83cbd3d3695a475b5eb65bdb7ea273f1a04c36dd",
+    "source": "广州和北京的天气如何？"
+  },
+  {
+    "key": "c2a22129713d4b3f5215d4ad5f22da989a044306b81c5a0c54028d29ae7acdec",
+    "source": "我想创建一个workspace"
+  },
+  {
+    "key": "8445bbcdbed122fbfe757b35c3bf87fdff160134ee6de1495a42690f96fee929",
+    "source": "who is Mao Ze Dong?"
+  },
+  {
+    "key": "c6cd04f51120d6dd3a827d7ff2ba1aa710e7f9d2e3726a0a051e1867faf26440",
+    "source": "Do you know Microsoft?"
+  },
+  {
+    "key": "c0d43096314d134908c07348754b8203627b760dbde7e2247ee7f850d9a02ff4",
+    "source": "AI가 뭐야"
+  },
+  {
+    "key": "845c1d2c0f8f464d526f31b9b5b1d18a6007ca1aaa10feddad0dcc169f97ee71",
+    "source": "turn off airpurifier"
+  },
+  {
+    "key": "3df19cabc455f23cafa4338d7a277e47fc0490f3134e1a31fd16535ed97300fb",
+    "source": "who is ji sung park?"
+  },
+  {
+    "key": "22a1902eff510da441269416d9255adcf0c118fdd407c8928de11cd27a2f3c6f",
+    "source": "에어컨 켜고 공기청정기 꺼"
+  },
+  {
+    "key": "921c846d9beee53342e74b14b16bd1749930e6982c3ed280aa4094fc0a6efb9a",
+    "source": "I'm planning a camping trip and I need to know the weather forecast. Can you fetch me the weather data for the campsite located at latitude 35.68 and longitude -121.34 for the next 10 days including daily temperature and precipitation forecasts? Also, I prefer the temperature 2 minute max in Fahrenheit and sum of precipitation in inches."
+  },
+  {
+    "key": "9e263fa10d9ed2a905d155dfeac81a0781f272154c5ab944dd4c4610fa62078b",
+    "source": "son's latest goal"
+  },
+  {
+    "key": "28ad88a181474ccb3d1be95d9e11dced80696f454fd78bf08ae8ea44f39f247c",
+    "source": "what is airtificial intelligence"
+  },
+  {
+    "key": "93428c518ea72b2a6b5bd70a027f471f7bfd55bc13e58434629d9adc75cd8d5e",
+    "source": "공기청정기 켜"
+  },
+  {
+    "key": "b4490d0ef5919da5585ea050df07630c685d3ab2153feb42d024f061145857f4",
+    "source": "tongdonly stop"
+  },
+  {
+    "key": "c72fec8a7e1fc923f1dce9d9e33e44557fc81c85a588c53cc5c1d6c600b1400f",
+    "source": "The user did not provide a query"
+  },
+  {
+    "key": "c4db17652357836ae39cd6f9014161322e1907dacd36c1163f6484820dcea08b",
+    "source": "I have a washer in laundry room name is tongdoly, a airconditioner in living room, a air purifier in main room, and a robot cleaner in living room. what is imjin war"
+  },
+  {
+    "key": "e368e8bce5c57580dc878776f5850c4bd245181666c99ec87ab1cd1d4ab56c1f",
+    "source": "임진왜란이 뭐야"
+  },
+  {
+    "key": "a83655ea68817ce315e465c41ae75ca5251b4ee9c467c25620551e5b6835968e",
+    "source": "모드"
+  },
+  {
+    "key": "c1259f0a1c1044ba0af9b120ed907aa47444aade1256d26b9a8bcba76475a74c",
+    "source": "turn on"
+  },
+  {
+    "key": "9fe430e5274621be518924ed90d2355f39eeb1d4d98fb00ea0022f3a26ba5595",
+    "source": "air"
+  },
+  {
+    "key": "f5a03ec6df26062285c76cb4ce604599d64f86519b8cd25caaf8962b15a1b455",
+    "source": "set cool mode"
+  },
+  {
+    "key": "b8d31e852725afb1e26d53bab6095b2bff1749c9275be13ed1c05a56ed31ec09",
+    "source": "on"
+  },
+  {
+    "key": "dd9c0641908b0336f49818fe3e1392d7458a5e644e88a73a330d40d791a7433b",
+    "source": "set 50 degree"
+  },
+  {
+    "key": "68514b65884697a4725d4b231dd376aa745abfd4feb3cf9aaa21e4194e2b8acc",
+    "source": "How are you today?"
+  },
+  {
+    "key": "a2b396a37e96cab5fe002640c385c49a3e3fe14974b747a056b2acc0141b76d9",
+    "source": "Kak tambah lg dong stock yg white nya 🥲🥲"
+  },
+  {
+    "key": "12148a82d604c020ba0e225b3b8f801fa4e9a69082a3ab031fb667eacd0f39e5",
+    "source": "Kak rok shimmer nya ada size XL ga?"
+  }
+]
