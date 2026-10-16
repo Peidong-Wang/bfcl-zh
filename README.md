@@ -4,12 +4,22 @@
 
 全量条件为“中文用户问题 + 原始工具与环境”。4826条去重用户消息已覆盖；代码、固定技术标识符、精确参数和原样例外有追踪记录。由 Codex 直接翻译并复核，没有使用翻译API、没有运行模型评测，也没有独立人类审校声明。
 
+## 下载发布版本
+
+发布候选 [v0.2.0rc1](https://github.com/Peidong-Wang/bfcl-zh/releases/tag/v0.2.0rc1) 已提供完整测试集、可重建源码与 wheel。
+
+- [完整测试集 ZIP](https://github.com/Peidong-Wang/bfcl-zh/releases/download/v0.2.0rc1/bfcl-v4-zh-CN-dataset.zip)
+- [可重建源码 ZIP](https://github.com/Peidong-Wang/bfcl-zh/releases/download/v0.2.0rc1/bfcl-v4-zh-CN-source.zip)
+- [Python wheel](https://github.com/Peidong-Wang/bfcl-zh/releases/download/v0.2.0rc1/multilingual_bfcl-0.2.0rc1-py3-none-any.whl)
+- [SHA-256 校验文件](https://github.com/Peidong-Wang/bfcl-zh/releases/download/v0.2.0rc1/SHA256SUMS.txt)
+
 ## 安装和读取
 
 需要 Python 3.10+；基础运行无第三方依赖：
 
 ```bash
-cd multilingual-bfcl
+git clone https://github.com/Peidong-Wang/bfcl-zh.git
+cd bfcl-zh/multilingual-bfcl
 python -m pip install --no-deps .
 python -m multilingual_bfcl full-data-path
 python -m multilingual_bfcl full-validate

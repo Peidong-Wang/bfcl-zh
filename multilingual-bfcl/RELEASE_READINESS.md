@@ -19,7 +19,7 @@ wheel 包含全量中文数据、配套资源、来源及许可证，并附原13
 
 ## 实际托管状态
 
-数据发布条件已满足；GitHub 公开仓库/Release 仍须获得可用账户连接，不能将本地制品等同于已发布。推广网页单独记录实际部署结果。发布地址仅在服务返回确认后填写，不生成假链接。
+数据发布条件已满足，已公开发布：[GitHub 仓库](https://github.com/Peidong-Wang/bfcl-zh)、[v0.2.0rc1 Release](https://github.com/Peidong-Wang/bfcl-zh/releases/tag/v0.2.0rc1)。四个附件的 GitHub SHA-256 均与本地一致。标签指向完整数据提交 700c3cf7f7cd62169f0bad83115eed26106ad2fb。推广网页为公开访问，链接更新状态见 PUBLICATION_STATUS.json。
 
 ## 使用限制
 

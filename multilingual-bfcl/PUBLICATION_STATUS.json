@@ -1,12 +1,20 @@
 {
   "dataset_release_ready": true,
-  "github_published": false,
-  "github_blocker": "GitHub account connection is not available; curated local Git repository is ready",
+  "github_published": true,
+  "github_repository": "https://github.com/Peidong-Wang/bfcl-zh",
+  "github_release": "https://github.com/Peidong-Wang/bfcl-zh/releases/tag/v0.2.0rc1",
+  "github_release_id": 414724887,
+  "github_release_tag": "v0.2.0rc1",
+  "github_release_prerelease": true,
+  "github_data_commit": "700c3cf7f7cd62169f0bad83115eed26106ad2fb",
+  "git_tree_sha256_note": "Git tree identity is SHA-1; dataset assets have SHA-256",
+  "git_tree_sha": "f751c6246bef631dbbcf5fa5e67a9db8a39ff87d",
   "site_project_id": "appgprj_6ad1db374f788191b4dc7e959dd40d00",
-  "site_deployment_status": "succeeded",
   "site_url": "https://bfcl-zh.peidong-wang.chatgpt.site",
   "site_audience": "public; explicitly approved by the user",
-  "hosted_browser_check": "Cloudflare blocked the automation browser; native deployment and public access confirmed",
+  "site_links_update": "deployed successfully",
   "translation_api_used": false,
-  "model_evaluation_run": false
+  "model_evaluation_run": false,
+  "site_deployment_id": "appgdep_6ad1e3cf8bd081919730de5e89cdf468",
+  "site_version": 2
 }

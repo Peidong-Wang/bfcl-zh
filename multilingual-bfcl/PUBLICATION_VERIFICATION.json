@@ -1,0 +1,37 @@
+{
+  "repository": "https://github.com/Peidong-Wang/bfcl-zh",
+  "release": "https://github.com/Peidong-Wang/bfcl-zh/releases/tag/v0.2.0rc1",
+  "release_id": 414724887,
+  "data_commit": "700c3cf7f7cd62169f0bad83115eed26106ad2fb",
+  "repository_tree_matches_local": true,
+  "source_files_uploaded": 354,
+  "site": "https://bfcl-zh.peidong-wang.chatgpt.site",
+  "site_links_deployed": true,
+  "release_asset_verification": "GitHub SHA-256 digest and size match every local attachment",
+  "artifacts": [
+    {
+      "name": "bfcl-v4-zh-CN-dataset.zip",
+      "size": 1445877,
+      "sha256": "da2d3f7418d43aaf83d596d8f6b528f31ecc18bf883221d88697a527e56128c4",
+      "url": "https://github.com/Peidong-Wang/bfcl-zh/releases/download/v0.2.0rc1/bfcl-v4-zh-CN-dataset.zip"
+    },
+    {
+      "name": "bfcl-v4-zh-CN-source.zip",
+      "size": 5344583,
+      "sha256": "237ff6c813ece9a61206cdc35aa852c7d322bf0a575fc4a924c5d50ceb2dd794",
+      "url": "https://github.com/Peidong-Wang/bfcl-zh/releases/download/v0.2.0rc1/bfcl-v4-zh-CN-source.zip"
+    },
+    {
+      "name": "multilingual_bfcl-0.2.0rc1-py3-none-any.whl",
+      "size": 1835830,
+      "sha256": "593949d9894f9afc0951ff797c42f258c61164eaa2c36afb961ff6fa9ca06315",
+      "url": "https://github.com/Peidong-Wang/bfcl-zh/releases/download/v0.2.0rc1/multilingual_bfcl-0.2.0rc1-py3-none-any.whl"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 296,
+      "sha256": "6097fc814bdf02f12a46a741e46994a40f68de73279e9f18667b3d1c73bae5db",
+      "url": "https://github.com/Peidong-Wang/bfcl-zh/releases/download/v0.2.0rc1/SHA256SUMS.txt"
+    }
+  ]
+}
